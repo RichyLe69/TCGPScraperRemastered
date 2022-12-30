@@ -1,0 +1,12 @@
+Missing [1] TCG Last Sold for: Breaker TP7 super
+Sum of Lowest Listed: $999.00
+Sum of Last Sold Prices: $0.00
+Sum of Market Prices: $230.00
+
+Breaker TP7 super [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    999     |       0       |       230        |
++------------+---------------+------------------+
+

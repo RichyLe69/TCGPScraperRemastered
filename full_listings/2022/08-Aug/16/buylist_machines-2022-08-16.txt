@@ -1,0 +1,26 @@
+Missing [2] Market Price for:  Morphing Jar ultra TP2
+Sum of Lowest Listed: $10,121.00
+Sum of Last Sold Prices: $160.00
+Sum of Market Prices: $148.00
+
+Snipe Hunter cp3 - TCG/seek [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    121     |      158      |       146        |
++------------+---------------+------------------+
+
+Morphing Jar ultra TP2 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    9999    |       0       |        0         |
++------------+---------------+------------------+
+
+Confiscation MRL - TCG [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       2       |        2         |
++------------+---------------+------------------+
+

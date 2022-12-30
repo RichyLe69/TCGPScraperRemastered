@@ -1,0 +1,172 @@
+# Notes PRIORITY
+# Goat-Edison Playable, Vintage, Photogenic, investment worthy
+
+#########################
+#YGO
+#[x] Take pics of foreign converts
+#[wip] start trading off foreign converts for wants/buylists
+#[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
+#[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
+#[] secrets for bpt page - 2 summoned skull bpt
+
+
+#########################
+
+## Split Collections
+
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
+
+
+## Current Buylists
+
+# these have been researched as of 8.14.22. No need to further research at the moment.
+
+# Priority = 1.5K ->
+# 600 - Demise OTK - entire deck 2007
+# 650 - Dad Return - deck & etc 2008
+# 260 - Machines - etc 2007
+# 666 - lightsworns 2008
+  # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
+  # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
+    # 11.6 cool singles
+    # 5.7k - foreign converts
+      # 2.3k - frognarch - 10 utr 3 scr
+      # 336 - 2014 extra deck
+      # 35  - lightsworn rulers - deck core
+
+#buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+#  path: 'decks/done_lists/buylist_demiseotk.yaml'
+#
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/done_lists/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/done_lists/buylist_machines.yaml'
+#
+#buylist_lightsworn: # Extra Swag 10/10
+#  path: 'decks/done_lists/buylist_lightsworn.yaml'
+
+###################################
+
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys/buylist_mermail.yaml'
+
+###################################
+
+#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#
+#buylist_foreign_converts:  #  foreign converts, trade bait.
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+# #buylist_edison:
+# #  path: 'decks/current_buys/buylist_edison.yaml'
+
+################################
+
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
+#
+#buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
+#  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'
+#
+#buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+#  path: 'decks/current_buys/tier2/buylist_frog_monarch.yaml'
+#
+#buylist_goat:
+#  path: 'decks/current_buys/tier2/buylist_goat.yaml'
+#
+#buylist_extras:  # Extra cards & Finish playsets
+#  path: 'decks/current_buys/buylist_extras.yaml'
+#
+#buylist_fairies_edison:
+#  path: 'decks/old_lists/buylist_edison_fairies.yaml'
+
+
+
+###################################
+
+# Done
+
+#buylist_chaosTurbo:  # DONE
+#  path: 'decks/done_lists/buylist_chaosTurbo.yaml'
+#
+#buylist_teledad:   # DONE
+#  path: 'decks/done_lists/buylist_teledad.yaml'
+#
+#buylist_plants:  # Done except foreign
+#  path: 'decks/done_lists/buylist_plants.yaml'
+
+
+
+# # # Don't really need, but possible buys.
+
+#buylist_invoked:
+#  path: 'decks/old_lists/buylist_invoked.yaml'
+
+# don't need. Cool but not the best invests
+
+#buylist_chaosDragon:
+#  path: 'decks/split_lists/buylist_chaosDragon.yaml'
+
+#buylist_blackwings:
+#  path: 'decks/split_lists/buylist_blackwings.yaml'
+#
+#buylist_xsaber:
+#  path: 'decks/old_lists/buylist_xsaber.yaml'
+
+
+## Once per Month Tracks
+
+#trash_binder:
+#  path: 'decks/split_lists/trash_binder.yaml'
+#
+#trash_batch_A:
+#  path: 'decks/split_lists/trash_batch_A.yaml'
+#
+#trash_batch_B:
+#  path: 'decks/split_lists/trash_batch_B.yaml'
+#
+#starlight:
+#  path: 'decks/old_lists/9-starlight.yaml'
+
+#test:
+#  path: 'decks/split_lists/test.yaml'
+# Modern Ultis
+
+
+#######################################
+
+# Current buys UNLIM - just for comparison sake.
+
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/current_buys_unl/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/current_buys_unl/buylist_machines.yaml'
+#
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys_unl/buylist_zombies.yaml'
+#
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys_unl/buylist_mermail.yaml'
+#
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys_unl/buylist_lightswornrulers.yaml'
+
+###########################################
+
+

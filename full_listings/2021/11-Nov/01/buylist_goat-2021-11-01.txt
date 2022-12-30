@@ -1,0 +1,86 @@
+Missing [0] TCG Lowest for:    Book of moon cp1
+Missing [1] TCG Last Sold for: Metamorphosis cp1
+Missing [2] Market Price for:  Metamorphosis cp1
+Missing [1] TCG Last Sold for: Dark Mimic Lv3 Ultimate
+Sum of Lowest Listed: $5,212.00
+Sum of Last Sold Prices: $960.00
+Sum of Market Prices: $1,108.00
+
+Missing [0] TCG Lowest for:    Book of moon cp1
+Missing [1] TCG Last Sold for: Metamorphosis cp1
+Missing [2] Market Price for:  Metamorphosis cp1
+Missing [1] TCG Last Sold for: Dark Mimic Lv3 Ultimate
+Sum of Lowest Listed: $5,212.00
+Sum of Last Sold Prices: $960.00
+Sum of Market Prices: $1,108.00
+
+Book of moon cp1 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      900      |       900        |
++------------+---------------+------------------+
+
+Metamorphosis cp1 [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1650    |       0       |        0         |
++------------+---------------+------------------+
+
+Dark Mimic Lv1 [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       0       |        0         |
++------------+---------------+------------------+
+
+Dark Mimic Lv3 Ultimate [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    100     |       0       |        70        |
++------------+---------------+------------------+
+
+Kycoo lod 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     30     |       30      |        34        |
++------------+---------------+------------------+
+
+Book of moon cp1 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      900      |       900        |
++------------+---------------+------------------+
+
+Metamorphosis cp1 [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1650    |       0       |        0         |
++------------+---------------+------------------+
+
+Dark Mimic Lv1 [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       0       |        0         |
++------------+---------------+------------------+
+
+Dark Mimic Lv3 Ultimate [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    100     |       0       |        70        |
++------------+---------------+------------------+
+
+Kycoo lod 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     30     |       30      |        34        |
++------------+---------------+------------------+
+

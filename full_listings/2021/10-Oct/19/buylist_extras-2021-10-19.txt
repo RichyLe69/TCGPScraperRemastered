@@ -1,0 +1,13 @@
+Missing [1] TCG Last Sold for: Lonefire cp7
+Missing [2] Market Price for:  Lonefire cp7
+Sum of Lowest Listed: $649.00
+Sum of Last Sold Prices: $0.00
+Sum of Market Prices: $0.00
+
+Lonefire cp7 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    649     |       0       |        0         |
++------------+---------------+------------------+
+

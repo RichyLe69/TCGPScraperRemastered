@@ -1,0 +1,41 @@
+Missing [0] TCG Lowest for:    Black Rose Dragon Ghost 1st
+Missing [2] Market Price for:  Black Rose Dragon Ghost 1st
+Sum of Lowest Listed: $896.00
+Sum of Last Sold Prices: $1,984.00
+Sum of Market Prices: $751.00
+
+Black Rose Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      1200     |        0         |
++------------+---------------+------------------+
+
+Ancient Fairy Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    650     |      599      |       599        |
++------------+---------------+------------------+
+
+Tempest Magician Scr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     75     |       45      |        48        |
++------------+---------------+------------------+
+
+Doomkaiser utr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     96     |       56      |        59        |
++------------+---------------+------------------+
+
+Ryko 1st [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     25     |       28      |        15        |
++------------+---------------+------------------+
+

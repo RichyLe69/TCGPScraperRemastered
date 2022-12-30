@@ -1,0 +1,48 @@
+Missing [2] Market Price for:  Dark Hole LOB 1st
+Missing [2] Market Price for:  Monster Reborn LOB 1st
+Sum of Lowest Listed: $2,566.00
+Sum of Last Sold Prices: $434.00
+Sum of Market Prices: $323.00
+
+Dark Hole LOB 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    199     |       6       |        0         |
++------------+---------------+------------------+
+
+Monster Reborn LOB 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1999    |       69      |        0         |
++------------+---------------+------------------+
+
+Mystical space typhoon MST MRL 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     78     |       79      |        90        |
++------------+---------------+------------------+
+
+Leviathan Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    140     |      134      |        87        |
++------------+---------------+------------------+
+
+Armory Arm [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     14     |       15      |        12        |
++------------+---------------+------------------+
+
+Steelswarm Roach 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     29     |       26      |        22        |
++------------+---------------+------------------+
+

@@ -1,0 +1,55 @@
+Missing [0] TCG Lowest for:    t roar - champ pack super - TCG / SEEK
+Missing [2] Market Price for:  t roar - champ pack super - TCG / SEEK
+Sum of Lowest Listed: $352.00
+Sum of Last Sold Prices: $668.00
+Sum of Market Prices: $349.00
+
+crush card virus GLD1 - TCG / SEEK [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    175     |      180      |       156        |
++------------+---------------+------------------+
+
+royal decree db2 super - TCG / SEEK [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     15     |       17      |        16        |
++------------+---------------+------------------+
+
+Monster Reincarnation Ultimate 1st - TCG / SEEK [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     54     |       54      |        58        |
++------------+---------------+------------------+
+
+Ryko 1st - TCG / SEEK [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     26     |       28      |        28        |
++------------+---------------+------------------+
+
+cold wave - common 1st - TCG [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        1         |
++------------+---------------+------------------+
+
+phantom of chaos - super - TCG [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       1       |        1         |
++------------+---------------+------------------+
+
+t roar - champ pack super - TCG / SEEK [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      149      |        0         |
++------------+---------------+------------------+
+

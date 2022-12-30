@@ -1,0 +1,49 @@
+Missing [2] Market Price for:  Dark Hole LOB 1st
+Missing [1] TCG Last Sold for: Monster Reborn LOB 1st
+Missing [2] Market Price for:  Monster Reborn LOB 1st
+Sum of Lowest Listed: $2,607.00
+Sum of Last Sold Prices: $478.00
+Sum of Market Prices: $334.00
+
+Dark Hole LOB 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    120     |       99      |        0         |
++------------+---------------+------------------+
+
+Monster Reborn LOB 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1999    |       0       |        0         |
++------------+---------------+------------------+
+
+Mystical space typhoon MST MRL 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    149     |       96      |        91        |
++------------+---------------+------------------+
+
+Leviathan Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    130     |      130      |        90        |
++------------+---------------+------------------+
+
+Armory Arm [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     16     |       11      |        14        |
++------------+---------------+------------------+
+
+Steelswarm Roach 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     22     |       23      |        24        |
++------------+---------------+------------------+
+

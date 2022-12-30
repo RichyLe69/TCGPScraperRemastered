@@ -1,0 +1,19 @@
+Missing [1] TCG Last Sold for: Breaker TP7 super
+Sum of Lowest Listed: $1,249.00
+Sum of Last Sold Prices: $59.00
+Sum of Market Prices: $353.00
+
+Breaker TP7 super [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    999     |       0       |       230        |
++------------+---------------+------------------+
+
+phoenix wing windblast Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    250     |       59      |       123        |
++------------+---------------+------------------+
+

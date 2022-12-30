@@ -1,0 +1,48 @@
+Missing [1] TCG Last Sold for: Stardust Dragon Ghost 1st
+Missing [2] Market Price for:  Black Rose Dragon Ghost 1st
+Sum of Lowest Listed: $19,708.00
+Sum of Last Sold Prices: $4,870.00
+Sum of Market Prices: $5,697.00
+
+Stardust Dragon Ghost 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    5999    |       0       |       2249       |
++------------+---------------+------------------+
+
+Black Rose Dragon Ghost 1st [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    2100    |      1200     |        0         |
++------------+---------------+------------------+
+
+Ancient Fairy Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    620     |      599      |       599        |
++------------+---------------+------------------+
+
+red dragon archfiend Ultimate 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    324     |      285      |       246        |
++------------+---------------+------------------+
+
+Tempest Magician Scr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     47     |       45      |        47        |
++------------+---------------+------------------+
+
+Doomkaiser utr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     95     |       56      |        61        |
++------------+---------------+------------------+
+

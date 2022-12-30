@@ -1,0 +1,451 @@
+Missing [1] TCG Last Sold for: Stardust Dragon Ghost 1st
+Missing [1] TCG Last Sold for: Catastor DTP
+Missing [2] Market Price for:  Catastor DTP
+Missing [0] TCG Lowest for:    Formula Synchron ULTRA Advent Calendar GERMAN
+Missing [1] TCG Last Sold for: Tempest Ultimate 1st GER
+Missing [0] TCG Lowest for:    Shining Flame Wingman Ultimate GER
+Missing [1] TCG Last Sold for: Shining Flame Wingman Ultimate GER
+Missing [0] TCG Lowest for:    Phoenix Enforcer Ultimate 1st ITA
+Missing [1] TCG Last Sold for: Shining Phoenix Enforcer Ultimate 1st ITA
+Missing [1] TCG Last Sold for: Wildedge Ultimate GER
+Missing [2] Market Price for:  Wildedge Ultimate GER
+Missing [1] TCG Last Sold for: Darkbridge UTR UNL
+Missing [0] TCG Lowest for:    Dark Neos Ultimate UNL ger
+Missing [2] Market Price for:  Dark Neos Ultimate UNL ger
+Missing [1] TCG Last Sold for: Grand Neos Ultimate 1st ger
+Missing [2] Market Price for:  Grand Neos Ultimate 1st ger
+Missing [2] Market Price for:  Light neos Ultimate 1st ita
+Missing [0] TCG Lowest for:    Cyber End Dragon Ultimate UNL ITA GER
+Missing [2] Market Price for:  Cyber End Dragon Ultimate UNL ITA GER
+Missing [1] TCG Last Sold for: Cyber Twin Dragon Ultimate 1st GER
+Missing [2] Market Price for:  Cyber Twin Dragon Ultimate 1st GER
+Missing [0] TCG Lowest for:    Cyber Dark Dragon Ultimate UNL GER
+Missing [1] TCG Last Sold for: Cyber Dark Dragon Ultimate UNL GER
+Missing [2] Market Price for:  Cyber Dark Dragon Ultimate UNL GER
+Missing [0] TCG Lowest for:    Chimeratech Ultimate GER
+Missing [1] TCG Last Sold for: Chimeratech Ultimate GER
+Missing [2] Market Price for:  Chimeratech Ultimate GER
+Sum of Lowest Listed: $12,069.20
+Sum of Last Sold Prices: $7,974.60
+Sum of Market Prices: $11,806.20
+
+Stardust Dragon Ghost Unl [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    419     |      385      |       466        |
++------------+---------------+------------------+
+
+Black Rose Dragon Ghost Unl [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    256     |      255      |       284        |
++------------+---------------+------------------+
+
+Stardust Dragon Ghost 1st [1] - Lightly Played 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1299    |       0       |       2503       |
++------------+---------------+------------------+
+
+Ancient Fairy Dragon Ghost Unl [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    102     |      104      |       115        |
++------------+---------------+------------------+
+
+Ancient Fairy Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    569     |      500      |       599        |
++------------+---------------+------------------+
+
+Shooting Star Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    293     |      350      |       321        |
++------------+---------------+------------------+
+
+Trishula, Dragon of the Ice Barrier DT [3] - Near Mint Limited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    313     |      345      |       334        |
++------------+---------------+------------------+
+
+Brionac DT [2] - Near Mint Limited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     94     |       99      |       104        |
++------------+---------------+------------------+
+
+Power Tool Dragon Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    249     |       90      |       118        |
++------------+---------------+------------------+
+
+Colossal Fighter Ultimate TU [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     84     |       85      |        78        |
++------------+---------------+------------------+
+
+Red Dragon Archfiend Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    324     |      325      |       273        |
++------------+---------------+------------------+
+
+Scrap Dragon Ultimate 1st 1 EN 1 GER [2.5] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     49     |       62      |        62        |
++------------+---------------+------------------+
+
+Thought Ruler Archfiend Ultimate 1st FR [1.2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     55     |       39      |        52        |
++------------+---------------+------------------+
+
+Goyo Guardian Ultimate 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    160     |      199      |       191        |
++------------+---------------+------------------+
+
+Catastor DTP [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1000    |       0       |        0         |
++------------+---------------+------------------+
+
+Catastor Ultimate [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     44     |       44      |        51        |
++------------+---------------+------------------+
+
+Armory Arm Ultra 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     14     |       14      |        15        |
++------------+---------------+------------------+
+
+Hyper Librarian [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     6      |       6       |        7         |
++------------+---------------+------------------+
+
+Formula Synchron ULTRA Advent Calendar GERMAN [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       18      |        19        |
++------------+---------------+------------------+
+
+Red Nova Dragon Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     58     |       63      |        68        |
++------------+---------------+------------------+
+
+Drill Warrior UTR 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     42     |       42      |        47        |
++------------+---------------+------------------+
+
+Nitro Warrior [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     11     |       10      |        13        |
++------------+---------------+------------------+
+
+Junk Archer [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     18     |       17      |        18        |
++------------+---------------+------------------+
+
+Turbo Warrior [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     8      |       8       |        7         |
++------------+---------------+------------------+
+
+Laggia UTR 1st [4] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     37     |       39      |        40        |
++------------+---------------+------------------+
+
+Dolkka Secret 1st [4] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     13     |       14      |        14        |
++------------+---------------+------------------+
+
+Leviair Ultimate 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    135     |      137      |       112        |
++------------+---------------+------------------+
+
+Utopia [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       1       |        1         |
++------------+---------------+------------------+
+
+Utopia Ray UTR [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     9      |       9       |        17        |
++------------+---------------+------------------+
+
+Acid Golem [1] - Near Mint Limited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       1       |        1         |
++------------+---------------+------------------+
+
+Wind Up Zenmaity UTR [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     14     |       15      |        16        |
++------------+---------------+------------------+
+
+Wind up Zenmaioh [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     4      |       4       |        8         |
++------------+---------------+------------------+
+
+Zenmaines Scr 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     11     |       11      |        18        |
++------------+---------------+------------------+
+
+Zenmaister UTR [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     4      |       4       |        5         |
++------------+---------------+------------------+
+
+Dark Paladin DMG [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     40     |       40      |        52        |
++------------+---------------+------------------+
+
+B Skull Dragon BPT 2002 [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     65     |       69      |        77        |
++------------+---------------+------------------+
+
+Thousand Eyes Restrict RP02 [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     40     |       30      |        55        |
++------------+---------------+------------------+
+
+Thousand Eyes Restrict MC1 [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     4      |       40      |        0         |
++------------+---------------+------------------+
+
+Flame Wingman Ultimate 1st UDE [1.1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    215     |      150      |       257        |
++------------+---------------+------------------+
+
+Thunder Giant Ultimate 1st ITA [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    350     |      400      |       369        |
++------------+---------------+------------------+
+
+Rampart Blaster Ultimate 1st GER [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    599     |      360      |       360        |
++------------+---------------+------------------+
+
+Tempest Ultimate 1st GER [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1600    |       0       |       700        |
++------------+---------------+------------------+
+
+Shining Flame Wingman Ultimate GER [0.3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |       999        |
++------------+---------------+------------------+
+
+Phoenix Enforcer Ultimate 1st ITA [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      400      |       400        |
++------------+---------------+------------------+
+
+Shining Phoenix Enforcer Ultimate 1st ITA [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    998     |       0       |       749        |
++------------+---------------+------------------+
+
+Wild Wingman Ultimate 1st GER [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     88     |       80      |        88        |
++------------+---------------+------------------+
+
+Wildedge Ultimate GER [0.3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    374     |       0       |        0         |
++------------+---------------+------------------+
+
+Darkbridge UTR UNL [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    120     |       0       |       149        |
++------------+---------------+------------------+
+
+Neos Knight UTR 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     23     |       24      |        24        |
++------------+---------------+------------------+
+
+Aqua Neos Ultimate 1st UDE [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     48     |       48      |        40        |
++------------+---------------+------------------+
+
+Flare Neos Ultimate 1st ger [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    499     |      479      |       489        |
++------------+---------------+------------------+
+
+Dark Neos Ultimate UNL ger [0.3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      275      |        0         |
++------------+---------------+------------------+
+
+Air Neos Ultimate 1st ger [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    800     |      799      |       749        |
++------------+---------------+------------------+
+
+Grand Neos Ultimate 1st ger [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1200    |       0       |        0         |
++------------+---------------+------------------+
+
+Light neos Ultimate 1st ita [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    120     |      165      |        0         |
++------------+---------------+------------------+
+
+Cyber End Dragon Ultimate UNL ITA GER [0.9] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       40      |        0         |
++------------+---------------+------------------+
+
+Cyber Twin Dragon Ultimate 1st GER [0.9] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    496     |       0       |        0         |
++------------+---------------+------------------+
+
+Cyber Dark Dragon Ultimate 1st GER [0.3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    900     |      500      |       874        |
++------------+---------------+------------------+
+
+Cyber Dark Dragon Ultimate UNL GER [0.6] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Chimeratech Ultimate GER [0.9] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+

@@ -1,0 +1,120 @@
+Missing [0] TCG Lowest for:    Dark Magician of Chaos DMOC 1st
+Missing [0] TCG Lowest for:    Jinzo PSV 1st
+Missing [1] TCG Last Sold for: Jinzo PSV 1st
+Missing [1] TCG Last Sold for: Prometheus Secret 1st
+Sum of Lowest Listed: $1,402.00
+Sum of Last Sold Prices: $1,184.00
+Sum of Market Prices: $1,635.00
+
+Dark Magician of Chaos DMOC 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      240      |       182        |
++------------+---------------+------------------+
+
+Jinzo PSV 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |       724        |
++------------+---------------+------------------+
+
+Dark Lord Zerato Secret 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     75     |       50      |        49        |
++------------+---------------+------------------+
+
+Destiny Hero Dasher UTR 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     49     |       49      |        50        |
++------------+---------------+------------------+
+
+Destiny Hero Plasma Secret [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     14     |       18      |        20        |
++------------+---------------+------------------+
+
+Destiny Hero Disk Commander Super [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     4      |       4       |        1         |
++------------+---------------+------------------+
+
+Destiny Hero Fear Monger Champion Pack Super [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     78     |       79      |        52        |
++------------+---------------+------------------+
+
+Prometheus Secret 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     44     |       0       |        24        |
++------------+---------------+------------------+
+
+Armageddon Knight PTDN Super [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     6      |       6       |        7         |
++------------+---------------+------------------+
+
+Strike Ninja Ultra 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     28     |       40      |        26        |
++------------+---------------+------------------+
+
+Elemental Hero Stratos UTR [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    148     |      148      |       154        |
++------------+---------------+------------------+
+
+Dimension Fusion IOC 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    499     |       92      |        68        |
++------------+---------------+------------------+
+
+Gold Sarc GLD 2009 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     7      |       13      |        9         |
++------------+---------------+------------------+
+
+Escape from Dark Dimension PTDN [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Return from Different Dimension DPKB Super [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     15     |       11      |        15        |
++------------+---------------+------------------+
+
+Mind Crush Champion Pack Super [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    168     |      169      |        90        |
++------------+---------------+------------------+
+

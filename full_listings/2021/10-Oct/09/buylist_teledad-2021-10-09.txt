@@ -1,0 +1,36 @@
+Missing [1] TCG Last Sold for: Monster Reborn LOB 1st
+Missing [2] Market Price for:  Monster Reborn LOB 1st
+Missing [1] TCG Last Sold for: Solemn Judgment 1st
+Missing [2] Market Price for:  Solemn Judgment 1st
+Sum of Lowest Listed: $2,839.00
+Sum of Last Sold Prices: $337.00
+Sum of Market Prices: $202.00
+
+E-Tele Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    254     |      255      |       150        |
++------------+---------------+------------------+
+
+Monster Reborn LOB 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1999    |       0       |        0         |
++------------+---------------+------------------+
+
+Solemn Judgment 1st [1] - Near Mint 1st Edition
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    503     |       0       |        0         |
++------------+---------------+------------------+
+
+Krebons TU super [1] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     83     |       82      |        52        |
++------------+---------------+------------------+
+

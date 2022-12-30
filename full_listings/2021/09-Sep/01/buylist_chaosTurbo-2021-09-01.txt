@@ -1,0 +1,42 @@
+Missing [1] TCG Last Sold for: Magician of Faith cp2
+Missing [1] TCG Last Sold for: Breaker TP7 super
+Missing [2] Market Price for:  Mirror Force MRD 1st
+Sum of Lowest Listed: $4,548.00
+Sum of Last Sold Prices: $1,345.00
+Sum of Market Prices: $2,286.00
+
+Magician of Faith cp2 [2] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    795     |       0       |       389        |
++------------+---------------+------------------+
+
+Gravekeeper Spy champion pack super [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    420     |      399      |       385        |
++------------+---------------+------------------+
+
+Breaker TP7 super [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    999     |       0       |       230        |
++------------+---------------+------------------+
+
+phoenix wing windblast Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    250     |       59      |       123        |
++------------+---------------+------------------+
+
+Mirror Force MRD 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    449     |       89      |        0         |
++------------+---------------+------------------+
+

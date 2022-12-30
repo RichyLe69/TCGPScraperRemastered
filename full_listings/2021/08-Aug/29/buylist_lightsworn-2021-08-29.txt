@@ -1,0 +1,69 @@
+Missing [0] TCG Lowest for:    Black Rose Dragon Ghost 1st
+Missing [2] Market Price for:  Black Rose Dragon Ghost 1st
+Sum of Lowest Listed: $1,834.00
+Sum of Last Sold Prices: $2,875.00
+Sum of Market Prices: $1,495.00
+
+Celestia Ultimate 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    114     |       50      |        61        |
++------------+---------------+------------------+
+
+Lyla Ultimate 1st [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    130     |      139      |        89        |
++------------+---------------+------------------+
+
+Plaguespreader Ultimate 1st EN [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    140     |      140      |       171        |
++------------+---------------+------------------+
+
+Allure utr 1st - Teledad overlap [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    400     |      294      |       248        |
++------------+---------------+------------------+
+
+Black Rose Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |      1200     |        0         |
++------------+---------------+------------------+
+
+Ancient Fairy Dragon Ghost 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    580     |      599      |       599        |
++------------+---------------+------------------+
+
+Tempest Magician Scr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     79     |       45      |        48        |
++------------+---------------+------------------+
+
+Doomkaiser utr 1st [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     56     |       49      |        59        |
++------------+---------------+------------------+
+
+Ryko 1st [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     25     |       27      |        14        |
++------------+---------------+------------------+
+

@@ -1,0 +1,115 @@
+Missing [0] TCG Lowest for:    Demise UTR Unl - TCG/Seek
+Missing [1] TCG Last Sold for: Demise UTR Unl - TCG/Seek
+Missing [2] Market Price for:  Demise UTR Unl - TCG/Seek
+Missing [1] TCG Last Sold for: Manju C 1st - TCG
+Sum of Lowest Listed: $661.00
+Sum of Last Sold Prices: $733.00
+Sum of Market Prices: $722.00
+
+495 max rarity + 64 low rarity
+
+Demise UTR 1st - TCG/Seek [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    103     |       99      |       100        |
++------------+---------------+------------------+
+
+Doom Dozer UTR 1st - TCG/Seek [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     62     |       64      |        79        |
++------------+---------------+------------------+
+
+Demise UTR Unl - TCG/Seek [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Doom Dozer UTR Unl - TCG/Seek [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     34     |       35      |        44        |
++------------+---------------+------------------+
+
+Insect Knight C 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       1       |        1         |
++------------+---------------+------------------+
+
+Neo Bug C 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Metal Armored Bug C 1st - TCG [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Manju C 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     2      |       0       |        4         |
++------------+---------------+------------------+
+
+Senju Rare 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       1       |        2         |
++------------+---------------+------------------+
+
+Sonic Bird C 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     0      |       0       |        0         |
++------------+---------------+------------------+
+
+Megamorph Ultra - TCG [3] - Lightly Played Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     2      |       2       |        2         |
++------------+---------------+------------------+
+
+Adv Ritual Art Rare 1st - TCG [3] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     2      |       4       |        0         |
++------------+---------------+------------------+
+
+Jar of Greed Super - TCG [3] - Near Mint Unlimited
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     8      |       13      |        8         |
++------------+---------------+------------------+
+
+Jar of Greed Super 1st - TCG [3] - Near Mint Unlimited 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     25     |       25      |        0         |
++------------+---------------+------------------+
+
+Gravity Bind R 1st - TCG [1] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     1      |       1       |        2         |
++------------+---------------+------------------+
+

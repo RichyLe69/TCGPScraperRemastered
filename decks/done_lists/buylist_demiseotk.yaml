@@ -1,0 +1,109 @@
+# TODO - transfer to collection yaml
+
+Demise UTR 1st - TCG/Seek:
+  url: 58695
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Doom Dozer UTR 1st - TCG/Seek:
+  url: 58688
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Ruin UTR 1st - TCG/Seek:
+  url: 58694
+  edition: 'Near Mint 1st'
+  qty: 1
+
+#Demise UTR Unl - TCG/Seek:
+#  url: 58695
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
+#
+#Doom Dozer UTR Unl - TCG/Seek:
+#  url: 58688
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
+
+Insect Knight C 1st - TCG:
+  url: 23480
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Neo Bug C 1st - TCG:
+  url: 23145
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Metal Armored Bug C 1st - TCG:
+  url: 23215
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Manju C 1st - TCG:
+  url: 23175
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Senju Rare 1st - TCG:
+  url: 22388
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Sonic Bird C 1st - TCG:
+  url: 22420
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Megamorph Ultra - TCG:
+  url: 22210
+  edition: 'Lightly Played Unlimited'
+  qty: 3
+
+Adv Ritual Art Rare 1st - TCG:
+  url: 38650
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Jar of Greed Super - TCG:
+  url: 22107
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+#Jar of Greed Super 1st - TCG:
+#  url: 22107
+#  edition: 'Near Mint 1st'
+#  qty: 3
+
+Gravity Bind R 1st - TCG:
+  url: 22044
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
+#Super Vehicroid Jumbo Drill (UTR) 1st:
+#  url: 58644
+#  edition: 'Lightly Played 1st'
+#  qty: 1
+#
+#
+#Gatling Dragon UTR 1st:
+#  url: 58773
+#  edition: 'Lightly Played 1st'
+#  qty: 1
+
+#'''
+#3 demise utr
+#3 otk utr
+#3 insect knight c
+#2 neo bug c
+#1 metal armor bug c
+#3 manju c
+#3 senju - mrl rare
+#3 sonic bird c
+#3 advance ritual art - tu04 rare
+#2 metamorphosis - super
+#3 megamorph- ultra
+#3 jar of greed - lon super
+#1 gravity bind - rare
+#'''

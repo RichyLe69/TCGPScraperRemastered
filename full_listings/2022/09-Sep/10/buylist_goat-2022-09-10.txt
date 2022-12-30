@@ -1,0 +1,26 @@
+Missing [2] Market Price for:  Book of moon cp1
+Sum of Lowest Listed: $4,570.00
+Sum of Last Sold Prices: $4,097.00
+Sum of Market Prices: $4,105.00
+
+Book of moon cp1 [1] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    927     |       2       |        0         |
++------------+---------------+------------------+
+
+Metamorphosis cp1 [3] - Near Mint
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|    1199    |      1349     |       1349       |
++------------+---------------+------------------+
+
+Kycoo lod 1st [2] - Near Mint 1st
++------------+---------------+------------------+
+| TCG Lowest | TCG Last Sold | TCG Market Price |
++------------+---------------+------------------+
+|     23     |       24      |        29        |
++------------+---------------+------------------+
+
