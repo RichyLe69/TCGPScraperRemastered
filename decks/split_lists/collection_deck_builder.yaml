@@ -65,6 +65,8 @@ Breaker TP7 super:
   edition: 'Near Mint'
   qty: 3
 
+#
+
 Black Luster Soldier EOTB Ultra 1st:
   url: 23112
   edition: 'Near Mint 1st'
@@ -88,12 +90,34 @@ Jinzo Secret PSV 1st:
 Dark Grepher Secret 1st:
   url: 26689
   edition: 'Near Mint 1st'
+  qty: 2
+
+Dark Lord Zerato Secret 1st:
+  url: 26682
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Destiny Hero Plasma Secret:
+  url: 26358
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Destiny Hero Dasher UTR 1st:
+  url: 119013
+  edition: 'Near Mint 1st'
   qty: 1
 
 Dark Magician of Chaos DMOC 1st:
   url: 23152
   edition: 'Near Mint 1st'
   qty: 1
+
+Snipe Hunter cp3:
+  url: 26039
+  edition: 'Near Mint'
+  qty: 1
+
+#
 
 Honest Ghost Unlimited:
   url: 27458
@@ -128,7 +152,9 @@ Ehren Secret 1st:
 Garoth TU:
   url: 33226
   edition: 'Near Mint Unlimited'
-  qty: 1
+  qty: 2
+
+#
 
 Necro Gardna Ultimate 1st:
   url: 58524
@@ -165,25 +191,27 @@ D Hero Malicious 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Krebos Super TU (2 EN 3 GER):
+Krebos Super TU:
   url: 33227
   edition: 'Near Mint Unlimited'
-  qty: 3.5
+  qty: 2
 
-Diamond Dude Ultimate 1st:
+Diamond Dude Ultimate 1st - 2 EN 1 DE:
   url: 58654
   edition: 'Lightly Played 1st'
   qty: 2.5
+
+#
 
 Tour Guide Ultimate Italian:
   url: 95358
   edition: 'Near Mint Unlimited'
   qty: 2.25
 
-Maxx C Ultimate 2spa 1eng:
+Maxx C Ultimate - 1 EN 1 SP:
   url: 79457
   edition: 'Near Mint Unlimited'
-  qty: 2.5
+  qty: 1.75
 
 Thunder King Rai-Oh Ultimate:
   url: 66773
@@ -205,6 +233,8 @@ Tsukuyomi Ultimate:
   edition: 'Near Mint'
   qty: 3
 
+#
+
 Rescue Rabbit Secret 1st:
   url: 57297
   edition: 'Near Mint 1st'
@@ -224,6 +254,8 @@ Maxx C Secret 1st:
   url: 39269
   edition: 'Near Mint 1st'
   qty: 3
+
+#
 
 Thunder King Rai-oh Secret:
   url: 28493
@@ -245,15 +277,27 @@ Archlord Kristya Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Glowup Bulb Ultimate 2 eng 1 IT:
+Glowup Bulb Ultimate 2 EN:
   url: 58425
   edition: 'Near Mint 1st'
-  qty: 2.5
+  qty: 2
 
 Lonefire Blossom Super CP:
   url: 33077
   edition: 'Near Mint Unlimited'
   qty: 2
+
+DD Crow Ultimate 1st:
+  url: 58555
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Battle Fader UTR 1st:
+  url: 58454
+  edition: 'Near Mint 1st'
+  qty: 2
+
+#
 
 Dekoichi UTR 1st NM:
   url: 58797
@@ -270,10 +314,12 @@ Cyber Phoenix Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-DD Crow Ultimate 1st:
-  url: 58555
+Ryko LODT 1st:
+  url: 26716
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 3
+
+# Sinister Serpent
 
 Tribe infecting MFC 1st:
   url: 22540
@@ -285,10 +331,41 @@ Thunder Dragon MRD 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Battle Fader UTR 1st:
-  url: 58454
+Aurkus LODT 1st:
+  url: 26775
+  edition: 'Near Mint 1st'
+  qty: 1
+
+#
+
+# Goat low Rarity - Exarion, DD, Asura Priest
+
+Dark Mimic Lv3 Ultimate:
+  url: 58817
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Dark Mimic Lv1:
+  url: 23354
   edition: 'Near Mint 1st'
   qty: 2
+
+#
+
+Demise UTR 1st:
+  url: 58695
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Doom Dozer UTR 1st:
+  url: 58688
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Ruin UTR 1st:
+  url: 58694
+  edition: 'Near Mint 1st'
+  qty: 1
 
 # Magics
 
@@ -327,7 +404,7 @@ Dark Hole LOB 1st:
   edition: 'Lightly Played 1st'
   qty: 1
 
-Heavy storm mrd 1st:
+Heavy Storm MRD 1st:
   url: 22068
   edition: 'Lightly Played 1st'
   qty: 1
@@ -342,7 +419,7 @@ Mystical Space Typhoon MST MRL 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Lightning Vortex Ultimate 1st french:
+Lightning Vortex Ultimate 1st FR:
   url: 58777
   edition: 'Near Mint 1st'
   qty: 0.5
@@ -362,7 +439,7 @@ Harpie's Feather Duster SDD:
   edition: 'Near Mint Limited'
   qty: 1
 
-Pot of Avarice Ultimate 1st 2 german 1 english:
+Pot of Avarice Ultimate 1st 2 DE 1 EN:
   url: 58619
   edition: 'Near Mint 1st Edition'
   qty: 2.2
@@ -375,24 +452,26 @@ Pot of Duality Scr 1st:
 Monster Reincarnation Ultimate 1st:
   url: 58805
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 2
 
 Foolish Burial Super CP:
   url: 66693
   edition: 'Near Mint Unlimited'
   qty: 2
 
+#
+
 Allure of Darkness Ultimate 1st 1 DE 2 IT:
   url: 27471
   edition: 'Near Mint 1st'
   qty: 2.1
 
-Allure Ulti 1st EN:
+Allure of Darkness Ultimate 1st EN:
   url: 27471
   edition: 'Near Mint 1st'
   qty: 3
 
-Emegency Teleport Ultimate 1st:
+Emegency Teleport Ultimate 1st 1 EN 2 DE:
   url: 58522
   edition: 'Near Mint 1st'
   qty: 2.5
@@ -422,7 +501,7 @@ Snatch Steal MRL 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Brain Control Ultimate 1st:
+Brain Control Ultimate 1st 1 EN 1 DE:
   url: 58749
   edition: 'Near Mint 1st'
   qty: 1.5
@@ -437,22 +516,37 @@ Machine Dupe Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
+Gold Sarc GLD2 2009:
+  url: 32113
+  edition: 'Near Mint'
+  qty: 2
+
 ROTA Reinforcement LOD 1st:
   url: 22343
   edition: 'Near Mint 1st'
   qty: 2
+
+Premature Burial Ultra 1st NM:
+  url: 22312
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dimension Fusion IOC 1st:
+  url: 23181
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Future Fusion UTR Unlimited:
   url: 58648
   edition: 'Near Mint'
   qty: 1
 
-# Traps
+Confiscation MRL 1st:
+  url: 21841
+  edition: 'Near Mint 1st'
+  qty: 1
 
-Solemn Judgment MRD Unlimited:
-  url: 22418
-  edition: 'Near Mint Unlimited'
-  qty: 4
+# Traps
 
 Solemn Judgment MRD 1st:
   url: 22418
@@ -479,7 +573,7 @@ Torrential Tribute LON 1st:
   edition: 'Near Mint 1st Edition'
   qty: 2
 
-Trap Dustshoot Super CP 2 english 1 german:
+Trap Dustshoot Super CP 2 EN 1 DE:
   url: 33037
   edition: 'Near Mint'
   qty: 2.5
@@ -504,9 +598,47 @@ Divine Wrath UTR 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+Royal Decree DB2 Super:
+  url: 24402
+  edition: 'Near Mint'
+  qty: 3
+
+Threatening Roar CP07:
+  url: 33075
+  edition: 'Near Mint'
+  qty: 2
+
+Mind Crush CP08 Super:
+  url: 33095
+  edition: 'Near Mint'
+  qty: 1
+
+Crush Card Virus GLD1:
+  url: 32215
+  edition: 'Near Mint'
+  qty: 1
+
 Crush Card Virus Ultimate 1st:
   url: 35086
   edition: 'Near Mint 1st'
   qty: 1
 
+Call of the Haunted 1st:
+  url: 21813
+  edition: 'Near Mint 1st'
+  qty: 1
 
+Return from Different Dimension DPKB Super:
+  url: 35085
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Royal Oppression Rare LOD 1st:
+  url: 22370
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Solemn Judgment MRD Unlimited:
+  url: 22418
+  edition: 'Near Mint Unlimited'
+  qty: 4

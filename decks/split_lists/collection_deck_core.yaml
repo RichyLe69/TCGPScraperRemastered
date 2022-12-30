@@ -2,12 +2,73 @@
 ############# Deck Builder Core Binder ############################ Deck Builder Core Binder ############################ Deck Builder Core Binder ###############
 ##################################################################################################################################################################
 
+Manju C 1st:
+  url: 23175
+  edition: 'Near Mint 1st'
+  qty: 3
 
+Senju Rare 1st:
+  url: 22388
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Sonic Bird C 1st:
+  url: 22420
+  edition: 'Near Mint 1st'
+  qty: 3
+
+#
+
+Insect Knight C 1st:
+  url: 23480
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Neo Bug C 1st:
+  url: 23145
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Metal Armored Bug C 1st:
+  url: 23215
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Armageddon Knight PTDN 1st Super:
+  url: 26622
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Cyber Valley PTDN Super 1st:
+  url: 26611
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Card Trooper Ultra:
+  url: 25600
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Destiny Hero Disk Commander Super:
+  url: 25724
+  edition: 'Near Mint'
+  qty: 1
+
+Black Salvo Super 1st:
+  url: 28983
+  edition: 'Near Mint 1st'
+  qty: 2
+
+#
 
 Reborn Tengu Ultra 3 IT 3 EN:
   url: 81003
   edition: 'Near Mint Limited'
   qty: 4.5
+
+# 6 Sabersaurus 6 Kabazauls
+
+# Fairies
 
 Zektkaliber UTR 1st:
   url: 58382
@@ -44,20 +105,40 @@ Dandylion Secret:
   edition: 'Near Mint 1st'
   qty: 3
 
+Phantom of Chaos Super:
+  url: 26687
+  edition: 'Near Mint'
+  qty: 1
 
+
+# Magics
+
+Adv Ritual Art Rare 1st:
+  url: 38650
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Megamorph Ultra:
+  url: 22210
+  edition: 'Lightly Played Unlimited'
+  qty: 3
+
+# Telekinetic Power Well
 
 Enemy Controller AST unl:
   url: 23276
   edition: 'Near Mint Unlimited'
   qty: 2
 
-
-
 One For One:
   url: 57136
   edition: 'Near Mint Limited'
   qty: 2
 
+Cold Wave - C 1st:
+  url: 21837
+  edition: 'Near Mint 1st'
+  qty: 2
 
 Heavy Storm MRD Super:
   url: 22068
@@ -79,12 +160,15 @@ Call of the Haunted Ultra:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-
-Return from DD 1st:
-  url: 35085
+Gravity Bind R 1st:
+  url: 22044
   edition: 'Near Mint 1st'
   qty: 1
 
+Jar of Greed Super:
+  url: 22107
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
 Starlight Road Scr:
   url: 34943

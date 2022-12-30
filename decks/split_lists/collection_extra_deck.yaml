@@ -3,6 +3,18 @@
 ##################################################################################################################################################################
 # Lines 1010 - 1350
 
+Stardust Dragon Ghost 1st:
+  url: 57793
+  edition: 'Lightly Played 1st'
+  qty: 1
+
+# BRD 1st
+
+Ancient Fairy Dragon Ghost 1st:
+  url: 33223
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Stardust Dragon Ghost Unl:
   url: 57793
   edition: 'Near Mint Unlimited'
@@ -13,25 +25,42 @@ Black Rose Dragon Ghost Unl:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Stardust Dragon Ghost 1st:
-  url: 57793
-  edition: 'Lightly Played 1st'
-  qty: 1
-
 Ancient Fairy Dragon Ghost Unl:
   url: 33223
   edition: 'Near Mint Unlimited'
-  qty: 1
-
-Ancient Fairy Dragon Ghost 1st:
-  url: 33223
-  edition: 'Near Mint 1st'
   qty: 1
 
 Shooting Star Dragon Ghost 1st:
   url: 38634
   edition: 'Near Mint 1st'
   qty: 1
+
+#
+
+Red Dragon Archfiend Ultimate 1st:
+  url: 58519
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Power Tool Dragon Ultimate 1st:
+  url: 58490
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Goyo Guardian Ultimate 1st:
+  url: 58520
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Thought Ruler Archfiend Ultimate 1st:
+  url: 58521
+  edition: 'Near Mint 1st'
+  qty: 4
+
+Colossal Fighter Ultimate TU:
+  url: 66710
+  edition: 'Near Mint'
+  qty: 3
 
 Trishula, Dragon of the Ice Barrier DT:
   url: 81294
@@ -43,42 +72,14 @@ Brionac DT:
   edition: 'Near Mint Limited'
   qty: 2
 
-Power Tool Dragon Ultimate 1st:
-  url: 58490
-  edition: 'Near Mint 1st'
-  qty: 1
+#
 
-Colossal Fighter Ultimate TU:
-  url: 66710
-  edition: 'Near Mint'
-  qty: 3
-
-Red Dragon Archfiend Ultimate 1st:
-  url: 58519
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Avenging Knight Parshath Secret 1st:
-  url: 27498
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Scrap Dragon Ultimate 1st 1 EN 1 GER:
+Scrap Dragon Ultimate 1st:
   url: 58440
   edition: 'Near Mint 1st'
-  qty: 2.5
+  qty: 3
 
-Thought Ruler Archfiend Ultimate 1st FR:
-  url: 58521
-  edition: 'Near Mint 1st'
-  qty: 1.2
-
-Goyo Guardian Ultimate 1st:
-  url: 58520
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Catastor DTP:
+Catastor DTP1:
   url: 80865
   edition: 'Near Mint'
   qty: 1
@@ -86,32 +87,49 @@ Catastor DTP:
 Catastor Ultimate:
   url: 66752
   edition: 'Near Mint'
-  qty: 3
+  qty: 2
 
 Armory Arm Ultra 1st:
   url: 32896
   edition: 'Near Mint 1st'
+  qty: 3
+
+Drill Warrior UTR 1st:
+  url: 58459
+  edition: 'Near Mint 1st'
   qty: 2
+
+# Magical Android
 
 Hyper Librarian:
   url: 46805
   edition: 'Near Mint'
   qty: 2
 
+# Arcanite Magician
+
 Formula Synchron ULTRA Advent Calendar GERMAN:
   url: 93875
   edition: 'Near Mint'
   qty: 2
 
-Red Nova Dragon Ultimate 1st:
-  url: 58429
+# Orient Dragon
+
+#
+
+# Armor Master DED Revived King Ha Des
+
+Avenging Knight Parshath Secret 1st:
+  url: 27498
   edition: 'Near Mint 1st'
   qty: 1
 
-Drill Warrior UTR 1st:
-  url: 58459
-  edition: 'Near Mint 1st'
-  qty: 2
+# Tempest Magician
+
+Turbo Warrior:
+  url: 58507
+  edition: 'Near Mint Unlimited'
+  qty: 1
 
 Nitro Warrior:
   url: 58517
@@ -123,10 +141,19 @@ Junk Archer:
   edition: 'Near Mint Unlimited'
   qty: 1
 
-Turbo Warrior:
-  url: 58507
-  edition: 'Near Mint Unlimited'
+Red Nova Dragon Ultimate 1st:
+  url: 58429
+  edition: 'Near Mint 1st'
   qty: 1
+
+Dark Strike Fighter Super 1st:
+  url: 29009
+  edition: 'Near Mint 1st'
+  qty: 1
+
+# Mist Wurm
+
+#
 
 # XYZ
 
@@ -140,15 +167,42 @@ Dolkka Secret 1st:
   edition: 'Near Mint 1st'
   qty: 4
 
+Leviathan Ghost 1st:
+  url: 48119
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Leviair Ultimate 1st:
   url: 58398
   edition: 'Near Mint 1st'
   qty: 2
 
-Leviathan Ghost 1st:
-  url: 48119
+Wind up Zenmaioh:
+  url: 57788
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Wind Up Zenmaity UTR 1st:
+  url: 58380
   edition: 'Near Mint 1st'
   qty: 1
+
+Wind Up Zenmaity UTR Unl:
+  url: 58380
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Zenmaister UTR:
+  url: 58397
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Zenmaines Scr 1st:
+  url: 57347
+  edition: 'Near Mint 1st'
+  qty: 2
+
+#
 
 Utopia:
   url: 47783
@@ -165,38 +219,9 @@ Acid Golem:
   edition: 'Near Mint Limited'
   qty: 1
 
-Wind Up Zenmaity UTR:
-  url: 58380
-  edition: 'Near Mint Unlimited' # 1 1st, 2 Unl
-  qty: 3
-
-Wind up Zenmaioh:
-  url: 57788
-  edition: 'Near Mint Unlimited'
-  qty: 1
-
-Zenmaines Scr 1st:
-  url: 57347
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Zenmaister UTR:
-  url: 58397
-  edition: 'Near Mint Unlimited'
-  qty: 1
+# Steelswarm Roach Gachi
 
 # Fusions
-
-
-Dark Paladin DMG:
-  url: 25366
-  edition: 'Near Mint'
-  qty: 2
-
-B Skull Dragon BPT 2002:
-  url: 22799
-  edition: 'Near Mint'
-  qty: 3
 
 #Thousand Eyes Restrict OCG UTR:
 #  url: 'https://shop.tcgplayer.com/yugioh/retro-pack-2/thousand-eyes-restrict'
@@ -208,10 +233,17 @@ Thousand Eyes Restrict RP02:
   edition: 'Near Mint Unlimited'
   qty: 1
 
+Dark Paladin DMG:
+  url: 25366
+  edition: 'Near Mint'
+  qty: 2
+
 Thousand Eyes Restrict MC1:
   url: 25377
   edition: 'Near Mint Unlimited'
   qty: 1
+
+# Goat Fusions LOB-AST
 
 Flame Wingman Ultimate 1st UDE:
   url: 58747
