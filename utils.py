@@ -1,6 +1,8 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
 import time
+from time import gmtime
+from time import strftime
 import prettytable
 import yaml
 from selenium.webdriver.common.by import By
@@ -11,7 +13,6 @@ import os
 import re
 import statistics
 
-# base_url = 'https://store.tcgplayer.com/admin/product/manage/'
 base_url = 'https://www.tcgplayer.com/product/'
 current_date = str(datetime.date(datetime.now()))
 current_year_full = datetime.now().strftime('%Y')  # 2018
@@ -53,11 +54,7 @@ def scrape_website(card_data_yaml, list_name, browser):
     start = time.time()
     file_path = ''
 
-    # first = True
     timer = 10
-    # lowest_listed_price_total = 0
-    # last_sold_price_total = 0
-    # market_price_total = 0
     total_card_quantity = 0
     max_price_total = 0
     min_price_total = 0
@@ -74,7 +71,8 @@ def scrape_website(card_data_yaml, list_name, browser):
         browser.get(url)
 
         try:
-            viewing_present = WebDriverWait(browser, timer).until(EC.presence_of_element_located((By.CLASS_NAME, 'product-details__listings')))
+            WebDriverWait(browser, timer).until(
+                EC.presence_of_element_located((By.CLASS_NAME, 'product-details__listings')))
             time.sleep(6)
             no_table = False
         except:
@@ -90,18 +88,12 @@ def scrape_website(card_data_yaml, list_name, browser):
             script.extract()
 
         current_price_point_text = extract_listing_prices(soup)
-        # text_only = extract_text_only(soup, condition_edition)  # data table with the prices we want to extract
-        # data_prices = extract_data_prices(current_price_point_text, card)  # List[] 0 = Lowest listing, 1 = Last Sold, 2 = Market Price
         data_prices_new = calculate_data_prices(current_price_point_text, card)
 
         max_price_total += data_prices_new[0] * card_quantity
         min_price_total += data_prices_new[1] * card_quantity
         mean_price_total += data_prices_new[2] * card_quantity
         median_price_total += data_prices_new[3] * card_quantity
-
-        # lowest_listed_price_total += (data_prices[0] * card_quantity)
-        # last_sold_price_total += (data_prices[1] * card_quantity)
-        # market_price_total += (data_prices[2] * card_quantity)
         total_card_quantity += card_quantity
 
         price_yaml_generator(card, data_prices_new[0], 'sorted_pricing/max_prices.yaml')
@@ -117,8 +109,12 @@ def scrape_website(card_data_yaml, list_name, browser):
     output_to_txt_console('Sum of Mean Listed: ${:,.2f}'.format(mean_price_total))
     output_to_txt_console('Sum of Median Listed: ${:,.2f}'.format(median_price_total))
     done = time.time()
-    print(done - start)
+    print_time_duration(done - start)
     return file_path, [max_price_total, min_price_total, mean_price_total, median_price_total], total_card_quantity
+
+
+def print_time_duration(time_duration):
+    print('Runtime: {}'.format(strftime("%H:%M:%S", gmtime(int(time_duration)))))
 
 
 def write_to_excel(column_names, price_dict, csv_name):
@@ -133,7 +129,6 @@ def write_to_excel(column_names, price_dict, csv_name):
 def price_yaml_generator(card_name, price, yaml_name):
     with open(yaml_name, 'r') as stream:
         current_yaml = yaml.safe_load(stream)
-        # current_yaml = yaml.load(stream)
         current_yaml.update({card_name: price})
 
     with open(yaml_name, 'w') as stream:
@@ -195,7 +190,8 @@ def calculate_data_prices(price_table, card):
     mean_val = int((sum(card_prices) / len(card_prices)))
     median_val = (statistics.median(card_prices))
     num_listings = len(price_table)
-    # print('{} - Max: {}, Min: {}, Mean: {}, Median: {}, # Listings: {}'.format(card, max_val, min_val, mean_val, median_val, num_listings))
+    # print('{} - Max: {}, Min: {}, Mean: {}, Median: {}, # Listings: {}'.format(
+    #     card, max_val, min_val, mean_val, median_val, num_listings))
     return max_val, min_val, mean_val, median_val, num_listings
 
 
@@ -218,7 +214,7 @@ def calculate_data_prices(price_table, card):
 #             num_dollar_sign += 1
 #         if num_dollar_sign > 5:
 #             return data_list
-#     return data_list
+#     return data_list  #  List[] 0 = Lowest listing, 1 = Last Sold, 2 = Market Price
 
 
 def get_card_lists(yaml_name):
@@ -234,45 +230,46 @@ def extract_listing_prices(raw_html):
     text_only = raw_html.get_text()
     text_only = text_only.split('Ship To UNITED STATES')[1].split('TCGplayer Core Value')[0]
 
-    list = []
+    list_extract = []
     x = text_only.split('Shipping')
     for item in x:
         item = item.replace('\n', '')
-        list.append(item)
+        list_extract.append(item)
 
-    for item in list:
+    for item in list_extract:
         if '$' not in item:
-            list.remove(item)
+            list_extract.remove(item)
 
     second_list = []
-    for x in range(0, len(list)):
+    for x in range(0, len(list_extract)):
         second_list.append([0, 0, 0])
 
     # Get Card Price
     x = 0
-    for item in list:
+    for item in list_extract:
         price = item.split('$')[1].split('.')[0].replace(',', '')
         try:
             second_list[x][0] = int(price)
         except ValueError:
             print('Value Error for this price. Skipping it')
-            second_list[x][0] = second_list[x-1][0]
+            second_list[x][0] = second_list[x - 1][0]
         x += 1
 
     # Get Seller # Sales
     x = 0
-    for item in list:
+    for item in list_extract:
         try:
             seller_stats = item.split('Sales)')[0].split('(')[1]
+            second_list[x][1] = seller_stats
         except IndexError:
             print('Index Error for Seller Stats. Skipping')
             second_list[x][1] = 0
-        second_list[x][1] = seller_stats
+
         x += 1
 
     # Get Seller % Stat
     x = 0
-    for item in list:
+    for item in list_extract:
         percent_index = item.find('%')
         percent_lower_bound = percent_index - 4
         seller_percent = item[percent_lower_bound:percent_index]
@@ -285,7 +282,7 @@ def extract_listing_prices(raw_html):
 
 # def extract_text_only(input_html, edition):
 #     # Extracts data table starting from edition
-#     # lowest listing (1st dollar), last sold listing (3rd dollar), market price( 5th dollar)
+#     # The Lowest listing (1st dollar), last sold listing (3rd dollar), market price( 5th dollar)
 #     start = edition  # First word before price table
 #     end = 'Browsing as Yuginag'  # Last word of page
 #     text_only = input_html.get_text()
@@ -365,15 +362,15 @@ def sum_total_quantity(current_quantity, quantity_of_list):
 
 
 def calculate_average_per_list(sums, quantity):
-    Max = sums[0] / quantity
-    Min = sums[1] / quantity
-    Mean = sums[2] / quantity
-    Median = sums[3] / quantity
+    max_val = sums[0] / quantity
+    min_val = sums[1] / quantity
+    mean_val = sums[2] / quantity
+    median_val = sums[3] / quantity
     print('Total Quantity: {}'.format(quantity))
-    print('Average of Max: {}'.format('{:.1f}'.format(Max)))
-    print('Average of Min: {}'.format('{:.1f}'.format(Min)))
-    print('Average of Mean: {}'.format('{:.1f}'.format(Mean)))
-    print('Average of Median: {}'.format('{:.1f}'.format(Median)))
+    print('Average of Max: {}'.format('{:.1f}'.format(max_val)))
+    print('Average of Min: {}'.format('{:.1f}'.format(min_val)))
+    print('Average of Mean: {}'.format('{:.1f}'.format(mean_val)))
+    print('Average of Median: {}'.format('{:.1f}'.format(median_val)))
 
 
 def print_sums(sums):
@@ -381,7 +378,8 @@ def print_sums(sums):
     print('Sum of Min: {}'.format(sums[1]))
     print('Sum of Mean: {}'.format(sums[2]))
     print('Sum of Median: {}'.format(sums[3]))
-    print('[{}, {}, {}, {}]'.format(human_format(sums[0]), human_format(sums[1]), human_format(sums[2]), human_format(sums[3])))
+    print('[{}, {}, {}, {}]'.format(human_format(sums[0]), human_format(sums[1]),
+                                    human_format(sums[2]), human_format(sums[3])))
 
 
 def human_format(num):
@@ -394,8 +392,7 @@ def human_format(num):
 
 
 def create_excel_column_names(card_list):
-    data_list = []
-    data_list.append('DATE')
+    data_list = ['DATE']
     for card in card_list:
         data_list.append(card)
     return data_list

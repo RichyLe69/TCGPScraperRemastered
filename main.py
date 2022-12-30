@@ -14,7 +14,6 @@ class Scraper:
         self.current_list_data = ''
         self.current_list_name = ''
         self.file_path = ''
-        # self.url = 'https://store.tcgplayer.com/admin/product/manage/33224'
         self.url = 'https://www.tcgplayer.com/product/33224'
         self.filters = '?Language=English&page=1&Condition=Near+Mint&ListingType=standard'
         self.sums = [0, 0, 0, 0]
@@ -46,10 +45,6 @@ class Scraper:
         self.file_path = scrape_website(self.current_list_data, self.current_list_name, scraper.get_browser())
 
     def sort_current_prices(self):
-        # sort_market_prices('sorted_pricing/market_prices.yaml', self.current_list_name)
-        # sort_market_prices('sorted_pricing/lowest_prices.yaml', self.current_list_name)
-        # sort_market_prices('sorted_pricing/last_sold.yaml', self.current_list_name)
-
         sort_market_prices('sorted_pricing/max_prices.yaml', self.current_list_name)
         sort_market_prices('sorted_pricing/min_prices.yaml', self.current_list_name)
         sort_market_prices('sorted_pricing/mean_prices.yaml', self.current_list_name)
