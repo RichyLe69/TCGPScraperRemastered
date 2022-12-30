@@ -17,14 +17,14 @@
 collection_deck_builder:
   path: 'decks/split_lists/collection_deck_builder.yaml'
 
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
 
 #collection_deck_core:
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 
 ## Current Buylists
@@ -44,18 +44,6 @@ collection_deck_builder:
       # 336 - 2014 extra deck
       # 35  - lightsworn rulers - deck core
 
-#buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
-#  path: 'decks/done_lists/buylist_demiseotk.yaml'
-#
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/done_lists/buylist_dadreturn.yaml'
-#
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/done_lists/buylist_machines.yaml'
-#
-#buylist_lightsworn: # Extra Swag 10/10
-#  path: 'decks/done_lists/buylist_lightsworn.yaml'
-
 ###################################
 
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
@@ -71,9 +59,9 @@ collection_deck_builder:
 #
 #buylist_foreign_converts:  #  foreign converts, trade bait.
 #  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-
-# #buylist_edison:
-# #  path: 'decks/current_buys/buylist_edison.yaml'
+#
+#buylist_edison:
+# path: 'decks/current_buys/buylist_edison.yaml'
 
 ################################
 
@@ -91,15 +79,12 @@ collection_deck_builder:
 #
 #buylist_extras:  # Extra cards & Finish playsets
 #  path: 'decks/current_buys/buylist_extras.yaml'
-#
-#buylist_fairies_edison:
-#  path: 'decks/old_lists/buylist_edison_fairies.yaml'
 
 
 
 ###################################
 
-# Done
+# Done Lists!
 
 #buylist_chaosTurbo:  # DONE
 #  path: 'decks/done_lists/buylist_chaosTurbo.yaml'
@@ -109,24 +94,37 @@ collection_deck_builder:
 #
 #buylist_plants:  # Done except foreign
 #  path: 'decks/done_lists/buylist_plants.yaml'
+#
+#buylist_demiseotk:  ## It's just a cool fucking deck. reminds me of sneak n show.
+#  path: 'decks/done_lists/buylist_demiseotk.yaml'
+#
+#buylist_dadreturn:  # Secondary TeleDad deck.
+#  path: 'decks/done_lists/buylist_dadreturn.yaml'
+#
+#buylist_machines:  # Secondary Goat / Return deck.
+#  path: 'decks/done_lists/buylist_machines.yaml'
+#
+#buylist_lightsworn: # Extra Swag 10/10
+#  path: 'decks/done_lists/buylist_lightsworn.yaml'
 
-
-
-# # # Don't really need, but possible buys.
-
+## # # Don't really need, but possible buys.
+#
 #buylist_invoked:
 #  path: 'decks/old_lists/buylist_invoked.yaml'
-
-# don't need. Cool but not the best invests
-
+#
+## # don't need. Cool but not the best invests
+#
 #buylist_chaosDragon:
 #  path: 'decks/split_lists/buylist_chaosDragon.yaml'
-
+#
 #buylist_blackwings:
 #  path: 'decks/split_lists/buylist_blackwings.yaml'
 #
 #buylist_xsaber:
 #  path: 'decks/old_lists/buylist_xsaber.yaml'
+#
+#buylist_fairies_edison:
+#  path: 'decks/old_lists/buylist_edison_fairies.yaml'
 
 
 ## Once per Month Tracks
@@ -146,27 +144,3 @@ collection_deck_builder:
 #test:
 #  path: 'decks/split_lists/test.yaml'
 # Modern Ultis
-
-
-#######################################
-
-# Current buys UNLIM - just for comparison sake.
-
-#buylist_dadreturn:  # Secondary TeleDad deck.
-#  path: 'decks/current_buys_unl/buylist_dadreturn.yaml'
-#
-#buylist_machines:  # Secondary Goat / Return deck.
-#  path: 'decks/current_buys_unl/buylist_machines.yaml'
-#
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys_unl/buylist_zombies.yaml'
-#
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys_unl/buylist_mermail.yaml'
-#
-#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
-#  path: 'decks/current_buys_unl/buylist_lightswornrulers.yaml'
-
-###########################################
-
-
