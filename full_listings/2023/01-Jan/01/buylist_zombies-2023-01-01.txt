@@ -1,0 +1,54 @@
+Sum of Max Listed: $1,863.00
+Sum of Min Listed: $1,284.00
+Sum of Mean Listed: $1,500.00
+Sum of Median Listed: $1,405.50
+
+Goblin Zombie Secret PTDN - TCG/seek [3] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 199 | 109 | 148  |  117   |
++-----+-----+------+--------+
+
+Mezuki Secret pp02 - TCG/seek [3] - Near Mint <18>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  38 |  19 |  28  |  29.0  |
++-----+-----+------+--------+
+
+Zombie Master UTR Taev 1st - TCG/seek [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 129 |  96 | 105  |   98   |
++-----+-----+------+--------+
+
+pyramid turtle - super champion pack - TCG/seek [3] - Near Mint <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 225 | 179 | 194  |  198   |
++-----+-----+------+--------+
+
+card of safe return ultra Unlimited - TCG [3] - Near Mint Unlimited <16>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  7  |  4  |  4   |  4.5   |
++-----+-----+------+--------+
+
+book of life pgd Super Unlimited - TCG [3] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  4  |  3  |  3   |  3.0   |
++-----+-----+------+--------+
+
+burial from a diff dimension - dp03 ultra - TCG [3] - Near Mint Unlimited <3>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  19 |  18 |  18  |   19   |
++-----+-----+------+--------+
+
