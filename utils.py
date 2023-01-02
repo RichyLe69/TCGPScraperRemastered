@@ -264,7 +264,6 @@ def extract_listing_prices(raw_html):
         except IndexError:
             print('Index Error for Seller Stats. Skipping')
             second_list[x][1] = 0
-
         x += 1
 
     # Get Seller % Stat
@@ -277,7 +276,23 @@ def extract_listing_prices(raw_html):
         second_list[x][2] = result
         x += 1
 
-    return second_list
+    # trim second_list for listings out of iqr range (1.5)
+    calc_median_list = []
+    for item in second_list:
+        calc_median_list.append(int(item[0]))
+    try:
+        median_val = (statistics.median(calc_median_list))
+    except statistics.StatisticsError:
+        print('Empty list')
+        return second_list
+
+    trimmed_list = []
+    for x, item in enumerate(second_list):
+        if median_val / 2 < second_list[x][0] < median_val * 1.75:
+            trimmed_list.append(second_list[x])
+        else:
+            print('Value outside IQR, skipping: {}'.format(second_list[x][0]))
+    return trimmed_list
 
 
 # def extract_text_only(input_html, edition):
