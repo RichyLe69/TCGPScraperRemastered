@@ -1071,3 +1071,41 @@ collection_old_school - 2023-01-01
 |         Summoned Skull BPT Reverse        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+collection_deck_core - 2023-01-01
++--------------------------------------+-------+
+|                 Card                 | Price |
++--------------------------------------+-------+
+|          Tytannial UTR Unl           |   13  |
+|         Zektkaliber UTR 1st          |   12  |
+|         Giga Mantis UTR 1st          |   10  |
+|             One For One              |   10  |
+|   Armageddon Knight PTDN 1st Super   |   9   |
+|     Cyber Valley PTDN Super 1st      |   8   |
+|       Enemy Controller AST unl       |   8   |
+|     Torrential Tribute Unlimited     |   8   |
+|          Card Trooper Ultra          |   7   |
+|           Dandylion Secret           |   7   |
+|      Call of the Haunted Ultra       |   6   |
+|        Raigeki LOB Super Unl         |   5   |
+|          Gravity Bind R 1st          |   4   |
+|        Heavy Storm MRD Super         |   4   |
+|          Jar of Greed Super          |   4   |
+|     Reborn Tengu Ultra 3 IT 3 EN     |   4   |
+|        Wind up Rabbit Scr Unl        |   4   |
+|             Manju C 1st              |   3   |
+|           Megamorph Ultra            |   3   |
+|            Senju Rare 1st            |   3   |
+|          Starlight Road Scr          |   3   |
+|        Black Salvo Super 1st         |   2   |
+|           Hornet Super 1st           |   2   |
+|          Cold Wave - C 1st           |   1   |
+|            Neo Bug C 1st             |   1   |
+|       Adv Ritual Art Rare 1st        |   0   |
+|  Destiny Hero Disk Commander Super   |   0   |
+|         Insect Knight C 1st          |   0   |
+| Light and darkness dragon ultra ldpp |   0   |
+|       Metal Armored Bug C 1st        |   0   |
+|        Phantom of Chaos Super        |   0   |
+|           Sonic Bird C 1st           |   0   |
+|                 test                 |   0   |
++--------------------------------------+-------+
