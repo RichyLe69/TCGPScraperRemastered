@@ -30,19 +30,22 @@ Card Name:
 # A Typical output for a single entry:
 
 ```
-Stardust Dragon Ghost 1st [1] - Near Mint 1st
-+------------+---------------+------------------+
-| TCG Lowest | TCG Last Sold | TCG Market Price |
-+------------+---------------+------------------+
-|    2499    |      1999     |       1612       |
-+------------+---------------+------------------+
+Stardust Dragon Ghost 1st [1] - Lightly Played 1st <9>
++------+------+------+--------+
+| Max  | Min  | Mean | Median |
++------+------+------+--------+
+| 2499 | 1699 | 1949 |  1850  |
++------+------+------+--------+
 ```
 
 Card name and quantity on top with condition and edition.
 Table Data shows:
 ```
-TCG Lowest: Lowest current live listing
-TCG Last Sold: Price of the most recent sold card of respective 
-TCG Market Price: Based on average calculation of previous few sold
+Max: Price of highest listing
+Min: Price of lowest listing
+Mean: Average of all listings
+Median: Median of all listings
+[#]: Number of copies I own
+<#>: Number of listings on TCGP
 ```
 Intended to keep track of my personal e-commerce inventory.
