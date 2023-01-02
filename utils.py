@@ -290,8 +290,8 @@ def extract_listing_prices(raw_html):
     for x, item in enumerate(second_list):
         if median_val / 2 < second_list[x][0] < median_val * 1.75:
             trimmed_list.append(second_list[x])
-        else:
-            print('Value outside IQR, skipping: {}'.format(second_list[x][0]))
+        # else:
+        #     print('Value outside IQR, skipping: {}'.format(second_list[x][0]))
     return trimmed_list
 
 

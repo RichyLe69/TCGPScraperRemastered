@@ -1,11 +1,12 @@
 Missing Data for:    Honest Ghost 1st
+Missing Data for:    Dark Mimic Lv1
 Missing Data for:    Scapegoat Ultra RP01 ita
 Missing Data for:    Gold Sarc GLD2 2009
 Missing Data for:    Crush Card Virus GLD1
-Sum of Max Listed: $77,274.40
-Sum of Min Listed: $40,987.85
-Sum of Mean Listed: $50,728.40
-Sum of Median Listed: $47,249.43
+Sum of Max Listed: $62,518.90
+Sum of Min Listed: $41,564.35
+Sum of Mean Listed: $48,592.90
+Sum of Median Listed: $46,461.68
 
 Judgment Dragon Ultimate [3] - Near Mint Unlimited <7>
 +-----+-----+------+--------+
@@ -21,11 +22,11 @@ Dark Armed Dragon Ultimate [3] - Near Mint Unlimited <13>
 | 436 | 398 | 405  |  399   |
 +-----+-----+------+--------+
 
-Tragoedia Ultimate [3] - Near Mint Unlimited <6>
+Tragoedia Ultimate [3] - Near Mint Unlimited <5>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 412 | 127 | 205  | 169.5  |
+| 224 | 127 | 163  |  169   |
 +-----+-----+------+--------+
 
 Cyber Dragon Ultimate 1st [3] - Moderately Played 1st <9>
@@ -42,11 +43,11 @@ Caius Shadow Monarch Ultimate TU [3] - Near Mint Unlimited <16>
 | 499 | 347 | 399  | 368.5  |
 +-----+-----+------+--------+
 
-Chaos Emperor Dragon Ultimate 1st [3] - Near Mint 1st <14>
+Chaos Emperor Dragon Ultimate 1st [3] - Near Mint 1st <13>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 418 | 150 | 292  | 294.0  |
+| 418 | 239 | 302  |  299   |
 +-----+-----+------+--------+
 
 Night Assailant Super CP 3 EN 1 IT [3.5] - Near Mint Unlimited <8>
@@ -91,18 +92,18 @@ Breaker TP7 super [3] - Near Mint <8>
 | 499 | 416 | 472  | 489.0  |
 +-----+-----+------+--------+
 
-Black Luster Soldier EOTB Ultra 1st [3] - Near Mint 1st <12>
-+------+-----+------+--------+
-| Max  | Min | Mean | Median |
-+------+-----+------+--------+
-| 2000 | 289 | 504  | 311.5  |
-+------+-----+------+--------+
-
-Chaos Sorcerer Ultra TU [3] - Near Mint <17>
+Black Luster Soldier EOTB Ultra 1st [3] - Near Mint 1st <10>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 700 | 175 | 261  |  198   |
+| 400 | 289 | 315  | 299.0  |
++-----+-----+------+--------+
+
+Chaos Sorcerer Ultra TU [3] - Near Mint <15>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 249 | 175 | 203  |  180   |
 +-----+-----+------+--------+
 
 Doomcalibur Knight TU [3] - Near Mint Unlimited <9>
@@ -123,7 +124,7 @@ Dark Grepher Secret 1st [2] - Near Mint 1st <10>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 171 | 156 | 163  | 160.0  |
+| 171 | 158 | 163  | 160.5  |
 +-----+-----+------+--------+
 
 Dark Lord Zerato Secret 1st [1] - Near Mint 1st <12>
@@ -133,11 +134,11 @@ Dark Lord Zerato Secret 1st [1] - Near Mint 1st <12>
 |  99 |  49 |  73  |  73.5  |
 +-----+-----+------+--------+
 
-Destiny Hero Plasma Secret [1] - Near Mint Limited <23>
+Destiny Hero Plasma Secret [1] - Near Mint Limited <15>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  99 |  9  |  23  |   18   |
+|  24 |  11 |  16  |   17   |
 +-----+-----+------+--------+
 
 Destiny Hero Dasher UTR 1st [1] - Near Mint 1st <9>
@@ -154,11 +155,11 @@ Dark Magician of Chaos DMOC 1st [1] - Near Mint 1st <10>
 | 298 | 169 | 200  | 174.5  |
 +-----+-----+------+--------+
 
-Snipe Hunter cp3 [1] - Near Mint <9>
+Snipe Hunter cp3 [1] - Near Mint <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 250 |  93 | 140  |  120   |
+| 199 |  93 | 127  | 115.5  |
 +-----+-----+------+--------+
 
 Honest Ghost Unlimited [3] - Near Mint Unlimited <12>
@@ -182,11 +183,11 @@ Lyla Ultimate 1st [3] - Near Mint 1st <15>
 | 149 |  95 | 118  |  114   |
 +-----+-----+------+--------+
 
-Celestia Ultimate 1st [3] - Near Mint 1st <16>
+Celestia Ultimate 1st [3] - Near Mint 1st <15>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 189 |  65 |  94  |  84.0  |
+| 144 |  65 |  88  |   80   |
 +-----+-----+------+--------+
 
 Wulf LODT 1st [3] - Near Mint 1st <13>
@@ -203,11 +204,11 @@ Ehren Secret 1st [1] - Near Mint 1st <10>
 |  89 |  69 |  78  |  77.5  |
 +-----+-----+------+--------+
 
-Garoth TU [2] - Near Mint Unlimited <3>
+Garoth TU [2] - Near Mint Unlimited <2>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  49 |  9  |  35  |   49   |
+|  49 |  49 |  49  |  49.0  |
 +-----+-----+------+--------+
 
 Necro Gardna Ultimate 1st [3] - Near Mint 1st <10>
@@ -224,11 +225,11 @@ Sangan Super RP01 [2] - Near Mint Unlimited <4>
 | 240 | 199 | 209  | 199.0  |
 +-----+-----+------+--------+
 
-Cyber Jar Ultimate 1st [1] - Near Mint 1st <14>
+Cyber Jar Ultimate 1st [1] - Near Mint 1st <13>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 250 |  79 | 111  |  99.0  |
+| 143 |  79 | 100  |   99   |
 +-----+-----+------+--------+
 
 Plaguespreader Zombie Ultimate 1st [1] - Near Mint 1st <3>
@@ -252,25 +253,25 @@ Doom Lord Rare DR04 [1] - Near Mint <3>
 | 199 | 169 | 180  |  174   |
 +-----+-----+------+--------+
 
-D Hero Malicious 1st [3] - Near Mint 1st <10>
+D Hero Malicious 1st [3] - Near Mint 1st <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  69 |  24 |  37  |  34.5  |
+|  52 |  24 |  34  |   29   |
 +-----+-----+------+--------+
 
-Krebos Super TU [2] - Near Mint Unlimited <8>
+Krebos Super TU [2] - Near Mint Unlimited <5>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 299 |  99 | 193  | 211.5  |
+| 299 | 199 | 249  |  229   |
 +-----+-----+------+--------+
 
 Diamond Dude Ultimate 1st - 2 EN 1 DE [2.5] - Lightly Played 1st <14>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  94 |  45 |  57  |  52.0  |
+|  77 |  44 |  53  |  49.5  |
 +-----+-----+------+--------+
 
 Tour Guide Ultimate Italian [2.25] - Near Mint Unlimited <22>
@@ -294,32 +295,32 @@ Thunder King Rai-Oh Ultimate [3] - Near Mint Unlimited <23>
 | 249 | 158 | 182  |  169   |
 +-----+-----+------+--------+
 
-Debris Dragon Ultimate [3] - Near Mint Unlimited <23>
+Debris Dragon Ultimate [3] - Near Mint Unlimited <22>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 139 |  54 |  71  |   65   |
+|  99 |  54 |  68  |  64.5  |
 +-----+-----+------+--------+
 
-Dandylion Ultimate [3] - Near Mint Unlimited <16>
+Dandylion Ultimate [3] - Near Mint Unlimited <15>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 219 |  91 | 122  | 118.0  |
+| 145 |  91 | 116  |  118   |
 +-----+-----+------+--------+
 
-Tsukuyomi Ultimate [3] - Near Mint <27>
+Tsukuyomi Ultimate [3] - Near Mint <26>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 189 |  94 | 105  |   99   |
+| 145 |  94 | 101  |  99.0  |
 +-----+-----+------+--------+
 
-Rescue Rabbit Secret 1st [6] - Near Mint 1st <22>
+Rescue Rabbit Secret 1st [6] - Near Mint 1st <20>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  79 |  22 |  29  |  24.0  |
+|  40 |  22 |  25  |  24.0  |
 +-----+-----+------+--------+
 
 Tour Guide Secret 1st [3] - Near Mint 1st <29>
@@ -336,18 +337,18 @@ Effect Veiler Ultimate 1st [6] - Near Mint 1st Edition <12>
 | 700 | 520 | 557  | 522.0  |
 +-----+-----+------+--------+
 
-Maxx C Secret 1st [3] - Near Mint 1st <18>
+Maxx C Secret 1st [3] - Near Mint 1st <16>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 299 | 123 | 165  | 139.5  |
+| 210 | 123 | 148  | 134.5  |
 +-----+-----+------+--------+
 
-Thunder King Rai-oh Secret [3] - Near Mint Limited <11>
+Thunder King Rai-oh Secret [3] - Near Mint Limited <7>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 199 |  43 |  75  |   50   |
+|  64 |  43 |  48  |   44   |
 +-----+-----+------+--------+
 
 Gorz RP02 [2] - Near Mint Limited <22>
@@ -357,25 +358,25 @@ Gorz RP02 [2] - Near Mint Limited <22>
 |  19 |  8  |  13  |  13.5  |
 +-----+-----+------+--------+
 
-Gorz DLG1 [2] - Near Mint Limited <11>
+Gorz DLG1 [2] - Near Mint Limited <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  20 |  3  |  5   |   4    |
+|  5  |  3  |  3   |   3    |
 +-----+-----+------+--------+
 
-Archlord Kristya Unlimited [2] - Near Mint Unlimited <13>
+Archlord Kristya Unlimited [2] - Near Mint Unlimited <12>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  99 |  79 |  85  |   84   |
+|  92 |  79 |  84  |  83.0  |
 +-----+-----+------+--------+
 
-Glowup Bulb Ultimate 2 EN [2] - Near Mint 1st <26>
+Glowup Bulb Ultimate 2 EN [2] - Near Mint 1st <24>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 323 |  68 |  91  |  75.0  |
+| 112 |  68 |  77  |  74.5  |
 +-----+-----+------+--------+
 
 Lonefire Blossom Super CP [2] - Near Mint Unlimited <8>
@@ -399,32 +400,32 @@ Battle Fader UTR 1st [2] - Near Mint 1st <12>
 |  71 |  42 |  57  |  55.0  |
 +-----+-----+------+--------+
 
-Dekoichi UTR 1st NM [1] - Near Mint 1st <8>
+Dekoichi UTR 1st NM [1] - Near Mint 1st <5>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 199 |  73 | 122  |  85.5  |
+|  87 |  73 |  79  |   79   |
 +-----+-----+------+--------+
 
-Dekoichi UTR 1st LP [2] - Lightly Played 1st <17>
+Dekoichi UTR 1st LP [2] - Lightly Played 1st <14>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  88 |  30 |  44  |   39   |
+|  54 |  30 |  37  |  38.0  |
 +-----+-----+------+--------+
 
-Cyber Phoenix Ultimate 1st [3] - Near Mint 1st <7>
+Cyber Phoenix Ultimate 1st [3] - Near Mint 1st <6>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  99 |  50 |  60  |   54   |
+|  62 |  50 |  54  |  52.5  |
 +-----+-----+------+--------+
 
-Ryko LODT 1st [3] - Near Mint 1st <12>
+Ryko LODT 1st [3] - Near Mint 1st <10>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  49 |  0  |  26  |  24.5  |
+|  41 |  22 |  26  |  24.5  |
 +-----+-----+------+--------+
 
 Tribe infecting MFC 1st [1] - Near Mint 1st <6>
@@ -448,32 +449,32 @@ Aurkus LODT 1st [1] - Near Mint 1st <6>
 |  5  |  3  |  4   |  4.0   |
 +-----+-----+------+--------+
 
-Dark Mimic Lv3 Ultimate [2] - Near Mint Unlimited <11>
+Dark Mimic Lv3 Ultimate [2] - Near Mint Unlimited <7>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  23 |  7  |  12  |   8    |
+|  9  |  7  |  7   |   7    |
 +-----+-----+------+--------+
 
-Dark Mimic Lv1 [2] - Near Mint 1st <13>
+Dark Mimic Lv1 [2] - Near Mint 1st <0>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  5  |  0  |  0   |   0    |
+|  0  |  0  |  0   |   0    |
 +-----+-----+------+--------+
 
-Demise UTR 1st [3] - Near Mint 1st <9>
+Demise UTR 1st [3] - Near Mint 1st <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 185 |  79 | 112  |   98   |
+| 149 |  79 | 103  |  96.5  |
 +-----+-----+------+--------+
 
-Doom Dozer UTR 1st [3] - Near Mint 1st <17>
+Doom Dozer UTR 1st [3] - Near Mint 1st <15>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 148 |  56 |  77  |   65   |
+| 100 |  56 |  70  |   59   |
 +-----+-----+------+--------+
 
 Ruin UTR 1st [1] - Near Mint 1st <8>
@@ -504,25 +505,25 @@ Pot of Greed Ultimate 1st - 2 EN 2 Foreign [3.3] - Near Mint 1st Edition <7>
 | 379 | 210 | 260  |  249   |
 +-----+-----+------+--------+
 
-Graceful Charity SDP 1st [1] - Near Mint 1st <16>
+Graceful Charity SDP 1st [1] - Near Mint 1st <12>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  25 |  5  |  9   |  6.0   |
+|  10 |  5  |  6   |  5.5   |
 +-----+-----+------+--------+
 
-Delinquent Duo MRL 1st [1] - Near Mint 1st <10>
+Delinquent Duo MRL 1st [1] - Near Mint 1st <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 299 |  80 | 158  | 142.5  |
+| 199 |  80 | 128  | 134.5  |
 +-----+-----+------+--------+
 
 Card Destruction SDY 1st [1.5] - Near Mint 1st <4>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  36 |  21 |  25  |  22.0  |
+|  36 |  21 |  25  |  23.0  |
 +-----+-----+------+--------+
 
 Dark Hole LOB 1st [1] - Lightly Played 1st <9>
@@ -539,18 +540,18 @@ Heavy Storm MRD 1st [1] - Lightly Played 1st <5>
 |  60 |  59 |  59  |   60   |
 +-----+-----+------+--------+
 
-Giant Trunade - MRL Super 1st [1] - Near Mint 1st <9>
+Giant Trunade - MRL Super 1st [1] - Near Mint 1st <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  79 |  38 |  44  |   40   |
+|  45 |  38 |  40  |  39.5  |
 +-----+-----+------+--------+
 
-Mystical Space Typhoon MST MRL 1st [3] - Near Mint 1st <7>
+Mystical Space Typhoon MST MRL 1st [3] - Near Mint 1st <6>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 225 | 114 | 133  |  114   |
+| 125 | 114 | 117  | 114.0  |
 +-----+-----+------+--------+
 
 Lightning Vortex Ultimate 1st FR [0.5] - Near Mint 1st <3>
@@ -560,11 +561,11 @@ Lightning Vortex Ultimate 1st FR [0.5] - Near Mint 1st <3>
 | 399 | 294 | 329  |  294   |
 +-----+-----+------+--------+
 
-Smashing Ground Super CP [2] - Near Mint Unlimited <8>
+Smashing Ground Super CP [2] - Near Mint Unlimited <6>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 498 | 144 | 259  | 208.5  |
+| 210 | 144 | 197  | 208.0  |
 +-----+-----+------+--------+
 
 Nobleman of Crossout 1st [2] - Near Mint 1st <8>
@@ -574,11 +575,11 @@ Nobleman of Crossout 1st [2] - Near Mint 1st <8>
 |  48 |  26 |  35  |  34.0  |
 +-----+-----+------+--------+
 
-Harpie's Feather Duster SDD [1] - Near Mint Limited <22>
+Harpie's Feather Duster SDD [1] - Near Mint Limited <17>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  99 |  10 |  29  |  20.5  |
+|  31 |  14 |  19  |   17   |
 +-----+-----+------+--------+
 
 Pot of Avarice Ultimate 1st 2 DE 1 EN [2.2] - Near Mint 1st Edition <3>
@@ -588,25 +589,25 @@ Pot of Avarice Ultimate 1st 2 DE 1 EN [2.2] - Near Mint 1st Edition <3>
 | 284 | 248 | 260  |  249   |
 +-----+-----+------+--------+
 
-Pot of Duality Scr 1st [2] - Near Mint 1st <10>
+Pot of Duality Scr 1st [2] - Near Mint 1st <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 149 |  88 |  99  |  96.5  |
+| 149 |  88 | 101  |   97   |
 +-----+-----+------+--------+
 
-Monster Reincarnation Ultimate 1st [2] - Near Mint 1st <11>
+Monster Reincarnation Ultimate 1st [2] - Near Mint 1st <10>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  98 |  51 |  60  |   54   |
+|  84 |  51 |  57  |  54.0  |
 +-----+-----+------+--------+
 
-Foolish Burial Super CP [2] - Near Mint Unlimited <9>
+Foolish Burial Super CP [2] - Near Mint Unlimited <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 699 | 274 | 374  |  374   |
+| 434 | 274 | 334  | 325.5  |
 +-----+-----+------+--------+
 
 Allure of Darkness Ultimate 1st 1 DE 2 IT [2.1] - Near Mint 1st <8>
@@ -623,11 +624,11 @@ Allure of Darkness Ultimate 1st EN [3] - Near Mint 1st <8>
 | 499 | 300 | 409  | 428.0  |
 +-----+-----+------+--------+
 
-Emegency Teleport Ultimate 1st 1 EN 2 DE [2.5] - Near Mint 1st <14>
+Emegency Teleport Ultimate 1st 1 EN 2 DE [2.5] - Near Mint 1st <13>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 325 | 169 | 190  | 176.0  |
+| 229 | 169 | 179  |  174   |
 +-----+-----+------+--------+
 
 Solar Recharge Ultimate 1st [3] - Near Mint 1st <7>
@@ -637,25 +638,25 @@ Solar Recharge Ultimate 1st [3] - Near Mint 1st <7>
 | 179 | 104 | 135  |  134   |
 +-----+-----+------+--------+
 
-Charge of the Light Brigade Secret 1st [3] - Near Mint 1st <10>
+Charge of the Light Brigade Secret 1st [3] - Near Mint 1st <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 499 | 208 | 305  | 252.5  |
+| 429 | 208 | 284  |  230   |
 +-----+-----+------+--------+
 
-Destiny Draw 1st [3] - Near Mint 1st <25>
+Destiny Draw 1st [3] - Near Mint 1st <16>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  80 |  9  |  18  |   12   |
+|  13 |  9  |  10  |  10.5  |
 +-----+-----+------+--------+
 
 Enemy Controller AST 1st [2] - Near Mint 1st <5>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  81 |  74 |  75  |   74   |
+|  81 |  58 |  72  |   74   |
 +-----+-----+------+--------+
 
 Snatch Steal MRL 1st [1] - Near Mint 1st <3>
@@ -672,18 +673,18 @@ Brain Control Ultimate 1st 1 EN 1 DE [1.5] - Near Mint 1st <5>
 | 230 | 209 | 217  |  213   |
 +-----+-----+------+--------+
 
-Mind Control WC Super [2] - Near Mint Limited <7>
+Mind Control WC Super [2] - Near Mint Limited <6>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 100 |  18 |  30  |   19   |
+|  19 |  18 |  18  |  18.5  |
 +-----+-----+------+--------+
 
-Machine Dupe Ultimate 1st [2] - Near Mint 1st <17>
+Machine Dupe Ultimate 1st [2] - Near Mint 1st <16>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 300 |  80 | 117  |   98   |
+| 150 |  80 | 105  |  97.5  |
 +-----+-----+------+--------+
 
 Gold Sarc GLD2 2009 [2] - Near Mint <0>
@@ -693,25 +694,25 @@ Gold Sarc GLD2 2009 [2] - Near Mint <0>
 |  0  |  0  |  0   |   0    |
 +-----+-----+------+--------+
 
-ROTA Reinforcement LOD 1st [2] - Near Mint 1st <21>
+ROTA Reinforcement LOD 1st [2] - Near Mint 1st <19>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  24 |  8  |  13  |   12   |
+|  20 |  8  |  12  |   11   |
 +-----+-----+------+--------+
 
-Premature Burial Ultra 1st NM [1] - Near Mint 1st <11>
+Premature Burial Ultra 1st NM [1] - Near Mint 1st <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 149 |  45 |  65  |   47   |
+|  59 |  45 |  48  |  47.0  |
 +-----+-----+------+--------+
 
-Dimension Fusion IOC 1st [1] - Near Mint 1st <14>
+Dimension Fusion IOC 1st [1] - Near Mint 1st <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 559 |  80 | 178  |  96.5  |
+| 114 |  70 |  88  |   85   |
 +-----+-----+------+--------+
 
 Future Fusion UTR Unlimited [1] - Near Mint <3>
@@ -721,19 +722,19 @@ Future Fusion UTR Unlimited [1] - Near Mint <3>
 | 100 |  89 |  96  |   99   |
 +-----+-----+------+--------+
 
-Confiscation MRL 1st [1] - Near Mint 1st <16>
+Confiscation MRL 1st [1] - Near Mint 1st <11>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  39 |  9  |  18  |  14.0  |
+|  24 |  9  |  13  |   12   |
 +-----+-----+------+--------+
 
-Solemn Judgment MRD 1st [3] - Near Mint 1st Edition <7>
-+------+-----+------+--------+
-| Max  | Min | Mean | Median |
-+------+-----+------+--------+
-| 1299 | 450 | 727  |  699   |
-+------+-----+------+--------+
+Solemn Judgment MRD 1st [3] - Near Mint 1st Edition <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 995 | 450 | 632  | 575.0  |
++-----+-----+------+--------+
 
 Solemn Warning Ultimate 1st [3.5] - Near Mint 1st <13>
 +-----+-----+------+--------+
@@ -760,7 +761,7 @@ Torrential Tribute LON 1st [2] - Near Mint 1st Edition <16>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 149 |  88 | 111  | 110.0  |
+| 149 |  87 | 111  | 110.0  |
 +-----+-----+------+--------+
 
 Trap Dustshoot Super CP 2 EN 1 DE [2.5] - Near Mint <4>
@@ -777,11 +778,11 @@ Ring of Destruction Secret 1st [1] - Near Mint 1st Edition <7>
 | 174 |  52 | 104  |  100   |
 +-----+-----+------+--------+
 
-Mirror Force MRD 1st [2] - Moderately Played 1st <10>
+Mirror Force MRD 1st [2] - Moderately Played 1st <9>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 329 |  90 | 143  | 115.0  |
+| 199 |  90 | 122  |  104   |
 +-----+-----+------+--------+
 
 Beckoning TU [2] - Near Mint Unlimited <8>
@@ -791,11 +792,11 @@ Beckoning TU [2] - Near Mint Unlimited <8>
 |  44 |  34 |  38  |  38.0  |
 +-----+-----+------+--------+
 
-Divine Wrath UTR 1st [1] - Near Mint 1st <16>
+Divine Wrath UTR 1st [1] - Near Mint 1st <13>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 129 |  31 |  57  |  40.0  |
+|  63 |  31 |  40  |   40   |
 +-----+-----+------+--------+
 
 Royal Decree DB2 Super [3] - Near Mint <9>
@@ -826,18 +827,18 @@ Crush Card Virus GLD1 [1] - Near Mint <0>
 |  0  |  0  |  0   |   0    |
 +-----+-----+------+--------+
 
-Crush Card Virus Ultimate 1st [1] - Near Mint 1st <10>
+Crush Card Virus Ultimate 1st [1] - Near Mint 1st <8>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 499 |  89 | 163  | 115.0  |
+| 149 |  89 | 111  | 100.0  |
 +-----+-----+------+--------+
 
 Call of the Haunted 1st [1] - Near Mint 1st <6>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-| 149 |  68 |  93  |  84.0  |
+| 109 |  68 |  80  |  69.0  |
 +-----+-----+------+--------+
 
 Return from Different Dimension DPKB Super [3] - Near Mint 1st <3>
@@ -854,10 +855,10 @@ Royal Oppression Rare LOD 1st [3] - Near Mint 1st <3>
 |  14 |  12 |  12  |   12   |
 +-----+-----+------+--------+
 
-Solemn Judgment MRD Unlimited [4] - Near Mint Unlimited <17>
+Solemn Judgment MRD Unlimited [4] - Near Mint Unlimited <16>
 +-----+-----+------+--------+
 | Max | Min | Mean | Median |
 +-----+-----+------+--------+
-|  77 |  17 |  26  |   21   |
+|  33 |  17 |  22  |  20.5  |
 +-----+-----+------+--------+
 
