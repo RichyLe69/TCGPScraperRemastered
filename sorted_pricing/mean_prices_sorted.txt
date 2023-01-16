@@ -1467,3 +1467,65 @@ collection_old_school - 2023-01-16
 |         Summoned Skull BPT Reverse        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_cool_singles - 2023-01-16
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2758 |
+|                 Dad secret 1st                 |  999  |
+|      Judgment Dragon Ultimate EURO Print       |  480  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  416  |
+|     Dark Armed Dragon Ultimate EURO Print      |  403  |
+|  Caius Shadow Monarch Ultimate TU EURO Print   |  401  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  327  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  297  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  260  |
+|                 JD Secret 1st                  |  255  |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_cool_singles_t2 - 2023-01-16
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|            dds bewd            |  2136 |
+|        red eyes lob 1st        |  903  |
+|          time wiz 1st          |  809  |
+|             dds dm             |  740  |
+|     Blue eyes toon scr 1st     |  524  |
+|          b skull 1st           |  466  |
+|       summoned skull 1st       |  405  |
+| dark rainbow dragon secret 1st |  196  |
+|           dds exodia           |  172  |
+|            yata 1st            |  172  |
+|         gemini scr 1st         |  110  |
+|     rainbow dragon scr 1st     |  109  |
+|    Injection Fairy Lily 1st    |  100  |
+|            ter 1st             |  100  |
+|        vampire lord 1st        |   90  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_foreign_converts - 2023-01-16
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|         Maxx C Ultimate EN         |  833  |
+| Plaguespreader Zombie Ultimate 1st |  789  |
+|     Trap Dustshoot Super CP EN     |  421  |
+|       Tour Guide Ultimate EN       |  291  |
+|   Pot of Greed Ultimate 1st - EN   |  256  |
+|   Pot of Avarice Ultimate 1st EN   |  254  |
+|   Emegency Teleport Ultimate 1st   |  177  |
+|         Krebos Super TU EN         |   99  |
+|         Doomkaiser utr 1st         |   96  |
+|     Diamond Dude Ultimate 1st      |   50  |
+|        Armory Arm Ultra 1st        |   8   |
+|      Scapegoat Ultra RP01 EN       |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_edison - 2023-01-16
++------------------------+-------+
+|          Card          | Price |
++------------------------+-------+
+| Morphing Jar tp4 super |  236  |
+|          test          |   0   |
++------------------------+-------+

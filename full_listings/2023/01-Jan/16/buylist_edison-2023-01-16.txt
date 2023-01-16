@@ -1,0 +1,12 @@
+Sum of Max Listed: $299.00
+Sum of Min Listed: $223.00
+Sum of Mean Listed: $236.00
+Sum of Median Listed: $225.00
+
+Morphing Jar tp4 super [1] - Near Mint <15>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 299 | 223 | 236  |  225   |
++-----+-----+------+--------+
+
