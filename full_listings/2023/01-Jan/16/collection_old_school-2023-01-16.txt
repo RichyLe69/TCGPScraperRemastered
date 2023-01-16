@@ -1,0 +1,564 @@
+Missing Data for:    Ring of Destruction Secret UNL
+Missing Data for:    Summoned Skull BPT Reverse
+Missing Data for:    EHERO Avian secret
+Missing Data for:    EHERO Burst secret
+Missing Data for:    EHERO Spark secret
+Missing Data for:    B Skull Dragon BPT 2002
+Sum of Max Listed: $16,287.90
+Sum of Min Listed: $11,064.30
+Sum of Mean Listed: $12,896.10
+Sum of Median Listed: $12,409.65
+
+Tri Horned Dragon Secret [2] - Near Mint Unlimited <26>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  29 |  13 |  17  |  17.5  |
++-----+-----+------+--------+
+
+Gate Guardian Secret UNL [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  57 |  25 |  36  |   34   |
++-----+-----+------+--------+
+
+Blue Eyes Toon Dragon MRL [1] - Near Mint Unlimited <4>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 149 |  92 | 109  |  97.5  |
++-----+-----+------+--------+
+
+Jinzo Secret PSV [2] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  74 |  34 |  47  |  45.5  |
++-----+-----+------+--------+
+
+Gaia Dragon Champ LOB [2] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  14 |  9  |  11  |   10   |
++-----+-----+------+--------+
+
+Thousand Dragon MRD secret [1] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  14 |  7  |  9   |  8.5   |
++-----+-----+------+--------+
+
+Serpent Night Dragon Secret [1] - Near Mint Unlimited <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  13 |  7  |  10  |   10   |
++-----+-----+------+--------+
+
+Imperial Order PSV Secret [1] - Near Mint Unlimited <29>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  5  |  2  |  2   |   2    |
++-----+-----+------+--------+
+
+Gemini Elf Secret [3] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  39 |  14 |  23  |  22.0  |
++-----+-----+------+--------+
+
+Yata-Garasu Secret [1] - Near Mint Unlimited <25>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  95 |  41 |  55  |   46   |
++-----+-----+------+--------+
+
+Lava Golem Secret UNL [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  65 |  40 |  50  |   46   |
++-----+-----+------+--------+
+
+Ring of Destruction Secret UNL [1] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Magic Cylinder Secret [2] - Near Mint Unlimited <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  15 |  6  |  10  |  11.0  |
++-----+-----+------+--------+
+
+Injection Fairy Lily Secret [2] - Near Mint Unlimited <8>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  34 |  17 |  23  |  20.0  |
++-----+-----+------+--------+
+
+Vampire Lord Secret [1] - Near Mint Unlimited <23>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  19 |  8  |  11  |   11   |
++-----+-----+------+--------+
+
+Chaos Emperor Dragon EOTE Secret unl [1] - Near Mint Unlimited <15>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  56 |  22 |  32  |   25   |
++-----+-----+------+--------+
+
+Blue-Eyes White Dragon LOB [1] - Near Mint Unlimited <9>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 130 |  65 |  82  |   74   |
++-----+-----+------+--------+
+
+Dark Magician LOB [1] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  60 |  23 |  33  |  30.5  |
++-----+-----+------+--------+
+
+Red Eyes LOB [1] - Near Mint Unlimited <9>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  60 |  24 |  37  |   42   |
++-----+-----+------+--------+
+
+Exodia Head [1] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  44 |  26 |  34  |  35.5  |
++-----+-----+------+--------+
+
+Exodia Left Arm [1] - Near Mint Unlimited <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  29 |  14 |  17  |   16   |
++-----+-----+------+--------+
+
+Exodia Right Arm [1] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  29 |  13 |  17  |  16.5  |
++-----+-----+------+--------+
+
+Exodia Left Leg [1] - Near Mint Unlimited <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  22 |  15 |  18  |  18.0  |
++-----+-----+------+--------+
+
+Exodia Right Leg [1] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  25 |  14 |  17  |  15.0  |
++-----+-----+------+--------+
+
+Gaia LOB Vanilla [1] - Near Mint Unlimited <22>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  22 |  10 |  14  |  13.5  |
++-----+-----+------+--------+
+
+Monster Reborn Unlimited LOB [2] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  39 |  13 |  25  |  22.0  |
++-----+-----+------+--------+
+
+Summoned Skull Ultra [1] - Near Mint Unlimited <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  77 |  29 |  49  |  51.5  |
++-----+-----+------+--------+
+
+B. Skull Dragon Ultra [1] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  49 |  26 |  35  |  32.5  |
++-----+-----+------+--------+
+
+Change of Heart [2] - Near Mint Unlimited <20>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  25 |  12 |  15  |  15.0  |
++-----+-----+------+--------+
+
+Time Wizard Ultra [1] - Near Mint Unlimited <5>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  35 |  20 |  25  |   22   |
++-----+-----+------+--------+
+
+Barrel Dragon MRD Ultra [1] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  14 |  5  |  9   |  9.0   |
++-----+-----+------+--------+
+
+Mirror Force MRD [2] - Near Mint Unlimited <8>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  30 |  15 |  20  |  18.0  |
++-----+-----+------+--------+
+
+Obelisk JUMP PrScr [1] - Near Mint Limited <13>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 148 |  78 | 101  |   94   |
++-----+-----+------+--------+
+
+Slifer The Sky Dragon YMA [1] - Near Mint Limited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 225 |  99 | 144  |  145   |
++-----+-----+------+--------+
+
+The Winged Dragon of Ra [1] - Near Mint Limited <15>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 124 |  48 |  72  |   68   |
++-----+-----+------+--------+
+
+Blue-Eyes White Dragon DDS [1] - Lightly Played Limited <3>
++------+------+------+--------+
+| Max  | Min  | Mean | Median |
++------+------+------+--------+
+| 2204 | 2000 | 2136 |  2204  |
++------+------+------+--------+
+
+Dark Magician DDS [1] - Moderately Played Limited <4>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 450 | 447 | 448  | 447.5  |
++-----+-----+------+--------+
+
+Summoned Skull BPT Reverse [1] - Near Mint <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Jack's Knight UTR [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  42 |  15 |  23  |   21   |
++-----+-----+------+--------+
+
+Queen's Knight UTR [1] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  50 |  28 |  32  |  29.0  |
++-----+-----+------+--------+
+
+King's Knight UTR [1] - Near Mint Unlimited <13>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  32 |  12 |  18  |   14   |
++-----+-----+------+--------+
+
+Red Eyes Black Metal Dragon [1] - Lightly Played Limited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 200 | 113 | 135  |  124   |
++-----+-----+------+--------+
+
+Harpies Pet Dragon [1] - Lightly Played Limited <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 120 |  69 |  84  |  76.0  |
++-----+-----+------+--------+
+
+Chaos Emperor Dragon Secret 1st [1] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 499 | 243 | 348  |  289   |
++-----+-----+------+--------+
+
+Black Luster Soldier EOTB Ultra Unlimited [2] - Near Mint Unlimited <15>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  50 |  25 |  32  |   29   |
++-----+-----+------+--------+
+
+Dark Magician of Chaos [1] - Near Mint Unlimited <8>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  40 |  16 |  23  |  21.0  |
++-----+-----+------+--------+
+
+Dark Paladin 1st Ultra [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 385 | 350 | 366  |  365   |
++-----+-----+------+--------+
+
+Buster Blade Ultra 1st [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 300 | 169 | 199  | 179.5  |
++-----+-----+------+--------+
+
+Thousand Eyes Restrict Secret MC1 [1] - Near Mint Limited <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  24 |  10 |  14  |  12.5  |
++-----+-----+------+--------+
+
+Blue Eyes Ultimate JMP Secret [1] - Near Mint Limited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  29 |  16 |  22  |  23.0  |
++-----+-----+------+--------+
+
+Forceful Sentry MRL Unlimited [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  4  |  3  |  3   |   3    |
++-----+-----+------+--------+
+
+Premature Burial Ultra UNL [1] - Near Mint Unlimited <9>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  19 |  10 |  12  |   12   |
++-----+-----+------+--------+
+
+Marauding Captain 1st [1] - Near Mint 1st <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  38 |  15 |  23  |  22.0  |
++-----+-----+------+--------+
+
+Don Zaloog 1st [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  49 |  23 |  34  |   31   |
++-----+-----+------+--------+
+
+Reflect Bounder 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  35 |  21 |  28  |   29   |
++-----+-----+------+--------+
+
+Buster Blade Ultra unl [1] - Near Mint Unlimited <13>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  15 |  8  |  11  |   12   |
++-----+-----+------+--------+
+
+EHERO Avian secret [1] - Near Mint <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+EHERO Burst secret [1] - Near Mint <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+EHERO Spark secret [1] - Near Mint <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+EHERO clayman secret [1] - Near Mint Limited <2>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 135 |  91 | 113  | 113.0  |
++-----+-----+------+--------+
+
+EHERO Neos secret [1] - Near Mint Limited <18>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  99 |  32 |  67  |  67.0  |
++-----+-----+------+--------+
+
+EHERO bubbleman ultimate 1st german [0.3] - Near Mint 1st <12>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 299 | 205 | 238  | 230.0  |
++-----+-----+------+--------+
+
+bladeedge ultimate 1st italian [0.3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 250 | 194 | 206  |  196   |
++-----+-----+------+--------+
+
+Winged kuribo ultimate 1st german [0.3] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 395 | 300 | 349  |  349   |
++-----+-----+------+--------+
+
+Winged kurbio lvl 10 ultimate 1st german [0.3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 550 | 494 | 504  |  498   |
++-----+-----+------+--------+
+
+neos air bird ultimate 1st [1] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 145 | 100 | 114  | 103.5  |
++-----+-----+------+--------+
+
+neos grand mole ultimate 1st german [0.3] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 129 |  84 | 114  |  119   |
++-----+-----+------+--------+
+
+neos dolphin ultimate 1st german [0.3] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 155 | 118 | 126  |  120   |
++-----+-----+------+--------+
+
+neos flare scarab ultimate 1st german [0.3] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  59 |  52 |  55  |  54.5  |
++-----+-----+------+--------+
+
+neos dark panther ultimate 1st german [0.3] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 146 | 104 | 125  | 124.0  |
++-----+-----+------+--------+
+
+Dark Magician BPT 2002 [3] - Near Mint Limited <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 250 | 101 | 165  | 148.5  |
++-----+-----+------+--------+
+
+Dark Magician Girl Secret UNL [5] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 395 | 279 | 309  | 287.5  |
++-----+-----+------+--------+
+
+Blue Eyes White Dragon BPT 2002 [3] - Near Mint Limited <4>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 300 | 101 | 175  | 151.0  |
++-----+-----+------+--------+
+
+Red Eyes Black Dragon BPT 2002 [3] - Near Mint Limited <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 150 | 100 | 118  | 118.5  |
++-----+-----+------+--------+
+
+B Skull Dragon BPT 2002 [3] - Near Mint <0>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Gate Guardian Secret 1st [2] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 599 | 350 | 415  | 372.0  |
++-----+-----+------+--------+
+
+Serpent Night Dragon Secret 1st [2] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 144 |  82 |  98  |   90   |
++-----+-----+------+--------+
+
+Dark Magician Girl Secret 1st [1] - Near Mint 1st Edition <9>
++------+------+------+--------+
+| Max  | Min  | Mean | Median |
++------+------+------+--------+
+| 2790 | 2495 | 2607 |  2597  |
++------+------+------+--------+
+
+Lava Golem Secret 1st [1] - Near Mint 1st Edition <6>
++-----+-----+------+--------+
+| Max | Min | Mean | Median |
++-----+-----+------+--------+
+| 125 |  65 |  89  |  87.0  |
++-----+-----+------+--------+
+

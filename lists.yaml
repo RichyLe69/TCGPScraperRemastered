@@ -41,6 +41,8 @@ collection_old_school:
 
 ###################################
 
+# Will definitely buy
+
 #buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
 #  path: 'decks/current_buys/buylist_cool_singles.yaml'
 #
@@ -55,6 +57,8 @@ collection_old_school:
 
 ###################################
 
+# Potential buys
+
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 #  path: 'decks/current_buys/buylist_zombies.yaml'
 #
@@ -62,6 +66,8 @@ collection_old_school:
 #  path: 'decks/current_buys/buylist_mermail.yaml'
 
 ################################
+
+# Most likely skip
 
 #buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
 #  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
