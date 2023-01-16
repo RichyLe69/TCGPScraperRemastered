@@ -3,12 +3,13 @@
 
 #########################
 #YGO
-#[x] Take pics of foreign converts
 #[wip] start trading off foreign converts for wants/buylists
-#[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
-#[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 #[] secrets for bpt page - 2 summoned skull bpt
+#[] extra deck binder buylist - ghost page, ulti signer dragons
+#[] extra deck builder hoard
+#[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
 
+#[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 
 #########################
 
@@ -26,23 +27,31 @@ collection_extra_deck:
 collection_old_school:
   path: 'decks/split_lists/collection_old_school.yaml'
 
-
 ## Current Buylists
 
-# these have been researched as of 8.14.22. No need to further research at the moment.
+# 15k - cool singles
+# 10k - cool singles t2
+#  5k - foreign converts
+#  1k - edison
+    # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
+    # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
+        # 2.3k - frognarch - 10 utr 3 scr
+        # 336 - 2014 extra deck
+        # 35  - lightsworn rulers - deck core
 
-# Priority = 1.5K ->
-# 600 - Demise OTK - entire deck 2007
-# 650 - Dad Return - deck & etc 2008
-# 260 - Machines - etc 2007
-# 666 - lightsworns 2008
-  # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
-  # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
-    # 11.6 cool singles
-    # 5.7k - foreign converts
-      # 2.3k - frognarch - 10 utr 3 scr
-      # 336 - 2014 extra deck
-      # 35  - lightsworn rulers - deck core
+###################################
+
+#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#
+#buylist_cool_singles:
+#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
+#
+#buylist_foreign_converts:  #  foreign converts, trade bait.
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+#
+#buylist_edison:
+# path: 'decks/current_buys/buylist_edison.yaml'
 
 ###################################
 
@@ -51,17 +60,6 @@ collection_old_school:
 #
 #buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
 #  path: 'decks/current_buys/buylist_mermail.yaml'
-
-###################################
-
-#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_foreign_converts:  #  foreign converts, trade bait.
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-#
-#buylist_edison:
-# path: 'decks/current_buys/buylist_edison.yaml'
 
 ################################
 
@@ -79,8 +77,6 @@ collection_old_school:
 #
 #buylist_extras:  # Extra cards & Finish playsets
 #  path: 'decks/current_buys/buylist_extras.yaml'
-
-
 
 ###################################
 
