@@ -54,7 +54,7 @@ class Scraper:
         append_console_to_txt(self.file_path[0])
 
     def get_total_prices(self):
-        self.sums = sum_total_prices(self.sums, self.file_path[1])  # List of [Sum Lowest, Sum Last, Sum Market]
+        self.sums = sum_total_prices(self.sums, self.file_path[1])
 
     def get_sums(self):
         return self.sums

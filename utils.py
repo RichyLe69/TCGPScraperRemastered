@@ -90,27 +90,27 @@ def scrape_website(card_data_yaml, list_name, browser):
         current_price_point_text = extract_listing_prices(soup)
         data_prices_new = calculate_data_prices(current_price_point_text, card)
 
-        max_price_total += data_prices_new[0] * card_quantity
-        min_price_total += data_prices_new[1] * card_quantity
+        min_price_total += data_prices_new[0] * card_quantity
+        max_price_total += data_prices_new[1] * card_quantity
         mean_price_total += data_prices_new[2] * card_quantity
         median_price_total += data_prices_new[3] * card_quantity
         total_card_quantity += card_quantity
 
-        price_yaml_generator(card, data_prices_new[0], 'sorted_pricing/max_prices.yaml')
-        price_yaml_generator(card, data_prices_new[1], 'sorted_pricing/min_prices.yaml')
+        price_yaml_generator(card, data_prices_new[0], 'sorted_pricing/min_prices.yaml')
+        price_yaml_generator(card, data_prices_new[1], 'sorted_pricing/max_prices.yaml')
         price_yaml_generator(card, data_prices_new[2], 'sorted_pricing/mean_prices.yaml')
         price_yaml_generator(card, data_prices_new[3], 'sorted_pricing/median_prices.yaml')
 
         my_table = create_pretty_table(data_prices_new)
         file_path = output_to_txt(card, my_table, card_quantity, condition_edition, list_name, data_prices_new[4])
 
-    output_to_txt_console('Sum of Max Listed: ${:,.2f}'.format(max_price_total))
     output_to_txt_console('Sum of Min Listed: ${:,.2f}'.format(min_price_total))
+    output_to_txt_console('Sum of Max Listed: ${:,.2f}'.format(max_price_total))
     output_to_txt_console('Sum of Mean Listed: ${:,.2f}'.format(mean_price_total))
     output_to_txt_console('Sum of Median Listed: ${:,.2f}'.format(median_price_total))
     done = time.time()
     print_time_duration(done - start)
-    return file_path, [max_price_total, min_price_total, mean_price_total, median_price_total], total_card_quantity
+    return file_path, [min_price_total, max_price_total, mean_price_total, median_price_total], total_card_quantity
 
 
 def print_time_duration(time_duration):
@@ -171,7 +171,7 @@ def output_to_txt(card_name, my_table, card_quantity, condition_edition, list_na
 
 
 def create_pretty_table(data_prices):
-    my_table = prettytable.PrettyTable(['Max', 'Min', 'Mean', 'Median'])
+    my_table = prettytable.PrettyTable(['Min', 'Max', 'Mean', 'Median'])
     my_table.add_row([data_prices[0], data_prices[1], data_prices[2], data_prices[3]])
     return my_table
 
@@ -185,14 +185,14 @@ def calculate_data_prices(price_table, card):
     for item in price_table:
         card_prices.append(int(item[0]))
 
-    max_val = (max(card_prices))
     min_val = (min(card_prices))
+    max_val = (max(card_prices))
     mean_val = int((sum(card_prices) / len(card_prices)))
     median_val = (statistics.median(card_prices))
     num_listings = len(price_table)
     # print('{} - Max: {}, Min: {}, Mean: {}, Median: {}, # Listings: {}'.format(
     #     card, max_val, min_val, mean_val, median_val, num_listings))
-    return max_val, min_val, mean_val, median_val, num_listings
+    return min_val, max_val, mean_val, median_val, num_listings
 
 
 # def extract_data_prices(price_table, card):
@@ -365,8 +365,8 @@ def append_console_to_txt(path):
 
 
 def sum_total_prices(current_sums, list_of_sums):
-    current_sums[0] = current_sums[0] + list_of_sums[0]  # Max
-    current_sums[1] = current_sums[1] + list_of_sums[1]  # Min
+    current_sums[0] = current_sums[0] + list_of_sums[0]  # Min
+    current_sums[1] = current_sums[1] + list_of_sums[1]  # Max
     current_sums[2] = current_sums[2] + list_of_sums[2]  # Mean
     current_sums[3] = current_sums[3] + list_of_sums[3]  # Median
     return current_sums
@@ -377,20 +377,20 @@ def sum_total_quantity(current_quantity, quantity_of_list):
 
 
 def calculate_average_per_list(sums, quantity):
-    max_val = sums[0] / quantity
-    min_val = sums[1] / quantity
+    min_val = sums[0] / quantity
+    max_val = sums[1] / quantity
     mean_val = sums[2] / quantity
     median_val = sums[3] / quantity
     print('Total Quantity: {}'.format(quantity))
-    print('Average of Max: {}'.format('{:.1f}'.format(max_val)))
     print('Average of Min: {}'.format('{:.1f}'.format(min_val)))
+    print('Average of Max: {}'.format('{:.1f}'.format(max_val)))
     print('Average of Mean: {}'.format('{:.1f}'.format(mean_val)))
     print('Average of Median: {}'.format('{:.1f}'.format(median_val)))
 
 
 def print_sums(sums):
-    print('Sum of Max: {}'.format(sums[0]))
-    print('Sum of Min: {}'.format(sums[1]))
+    print('Sum of Min: {}'.format(sums[0]))
+    print('Sum of Max: {}'.format(sums[1]))
     print('Sum of Mean: {}'.format(sums[2]))
     print('Sum of Median: {}'.format(sums[3]))
     print('[{}, {}, {}, {}]'.format(human_format(sums[0]), human_format(sums[1]),
