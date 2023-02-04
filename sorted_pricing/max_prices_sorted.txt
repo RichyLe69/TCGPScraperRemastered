@@ -1857,3 +1857,35 @@ buylist_edison - 2023-02-01
 | Morphing Jar tp4 super |  299  |
 |          test          |   0   |
 +------------------------+-------+
+buylist_cool_singles - 2023-02-04
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|                 Dad secret 1st                 |  999  |
+|      Judgment Dragon Ultimate EURO Print       |  600  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  550  |
+|  Caius Shadow Monarch Ultimate TU EURO Print   |  499  |
+|     Dark Armed Dragon Ultimate EURO Print      |  436  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  399  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  356  |
+|                 JD Secret 1st                  |  299  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  297  |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_cool_singles - 2023-02-04
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2998 |
+|                 Dad secret 1st                 |  999  |
+|      Judgment Dragon Ultimate EURO Print       |  600  |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  550  |
+|  Caius Shadow Monarch Ultimate TU EURO Print   |  499  |
+|     Dark Armed Dragon Ultimate EURO Print      |  436  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  399  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  356  |
+|                 JD Secret 1st                  |  299  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  297  |
+|                      test                      |   0   |
++------------------------------------------------+-------+

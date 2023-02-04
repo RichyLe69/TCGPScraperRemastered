@@ -1,14 +1,14 @@
 # Notes PRIORITY
-# Goat-Edison Playable, Vintage, Photogenic, investment worthy
+# Goat-Edison Playable, Vintage, Photogenic, investment worthy, Personal
 
 #########################
 #YGO
 #[wip] start trading off foreign converts for wants/buylists
+#[] Vintage Accessories
 #[] secrets for bpt page - 2 summoned skull bpt
 #[] extra deck binder buylist - ghost page, ulti signer dragons
 #[] extra deck builder hoard
 #[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
-
 #[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 
 #########################
@@ -29,15 +29,17 @@ collection_old_school:
 
 ## Current Buylists
 
+# 5k - Vintage Accessories - 4.5k 1999 Worlds, 150-250 Ninja Girl / OG DMG Deck Box, 150 2nd Calc Case TI 89, Dice?
 # 15k - cool singles
 # 10k - cool singles t2
 #  5k - foreign converts
 #  1k - edison
-    # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
-    # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
-        # 2.3k - frognarch - 10 utr 3 scr
-        # 336 - 2014 extra deck
-        # 35  - lightsworn rulers - deck core
+    # 336 - 2014 extra deck
+    # 35  - lightsworn rulers - deck core
+        # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
+        # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
+            # 2.3k - frognarch - 10 utr 3 scr
+
 
 ###################################
 
@@ -59,6 +61,9 @@ collection_old_school:
 
 # Potential buys
 
+#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
+#
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 #  path: 'decks/current_buys/buylist_zombies.yaml'
 #
@@ -69,9 +74,6 @@ collection_old_school:
 
 # Most likely skip
 
-#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
-#  path: 'decks/current_buys/tier2/buylist_lightswornrulers.yaml'
-#
 #buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs
 #  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'
 #
