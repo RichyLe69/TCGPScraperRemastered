@@ -1,0 +1,40 @@
+Sum of Min Listed: $4,823.00
+Sum of Max Listed: $6,498.00
+Sum of Mean Listed: $5,479.00
+Sum of Median Listed: $5,415.00
+
+Stardust Dragon Ghost unl extra - TCG / SEEK [3] - Near Mint Unlimited <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 352 | 550 | 425  |  375   |
++-----+-----+------+--------+
+
+Black Rose Dragon Ghost unl extra - TCG / SEEK [3] - Near Mint Unlimited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 215 | 399 | 272  | 255.0  |
++-----+-----+------+--------+
+
+Black Rose Dragon Ghost 1st - SEEK [1] - Near Mint 1st <5>
++------+------+------+--------+
+| Min  | Max  | Mean | Median |
++------+------+------+--------+
+| 2499 | 2998 | 2758 |  2899  |
++------+------+------+--------+
+
+Power Tool Dragon Ghost 1st - TCG / SEEK [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 326 | 356 | 333  | 329.0  |
++-----+-----+------+--------+
+
+red dragon archfiend Ultimate 1st - SEEK [1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 297 | 297 | 297  | 297.0  |
++-----+-----+------+--------+
+

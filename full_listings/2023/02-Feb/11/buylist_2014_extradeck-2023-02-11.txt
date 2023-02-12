@@ -1,0 +1,83 @@
+Missing Data for:    mechquipped angineer - TCG
+Sum of Min Listed: $266.00
+Sum of Max Listed: $450.00
+Sum of Mean Listed: $325.00
+Sum of Median Listed: $314.50
+
+mechquipped angineer - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+ghostrick alucard UTR - TCG/Seek [1] - Near Mint 1st <21>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  19 |  44 |  26  |   25   |
++-----+-----+------+--------+
+
+101 silent honor ark UTR - TCG/Seek [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  25 |  47 |  30  |  27.0  |
++-----+-----+------+--------+
+
+diamond dire wolf - TCG/Seek [1] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  12 |  13 |  12  |  12.0  |
++-----+-----+------+--------+
+
+Lavalval Chain Secret 1st - TCG [1] - Near Mint 1st <19>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  9  |  6   |   7    |
++-----+-----+------+--------+
+
+Daigusto Emeral Secret 1st - TCG [1] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  29 |  19  |  18.0  |
++-----+-----+------+--------+
+
+80 rhapsody in berserk - TCG [1] - Near Mint <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  6  |  4   |   4    |
++-----+-----+------+--------+
+
+starliege paladynamo - TCG [1] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+draccosack Scr 1st - TCG [2] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  19 |  15  |  16.0  |
++-----+-----+------+--------+
+
+Big Eye AP06 UTR - TCG/seek [1] - Near Mint <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 154 | 249 | 188  | 179.5  |
++-----+-----+------+--------+
+
+Minerva XYZ - TCG [1] - Near Mint 1st <42>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  14 |  9   |  9.0   |
++-----+-----+------+--------+
+

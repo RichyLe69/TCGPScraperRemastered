@@ -1,0 +1,80 @@
+Missing Data for:    Raiden Super - TCG
+Missing Data for:    Blaster Scr - TCG
+Missing Data for:    Tempest Scr - TCG
+Missing Data for:    Eclipse Wyvern Super - TCG
+Missing Data for:    Lightray Diabolos Rare - TCG
+Sum of Min Listed: $25.00
+Sum of Max Listed: $43.00
+Sum of Mean Listed: $27.00
+Sum of Median Listed: $31.50
+
+Raiden Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Blaster Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Tempest Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Eclipse Wyvern Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Lightray Diabolos Rare - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+kuribandit Scr 1st - TCG [3] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |  2.5   |
++-----+-----+------+--------+
+
+Upstart lcyw 1st - TCG [1] - Near Mint 1st <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  9  |  18 |  11  |   11   |
++-----+-----+------+--------+
+
+soul charge Ultra - TCG [3] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |   3    |
++-----+-----+------+--------+
+
+needlebug nest - TCG [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  2  |  1   |   1    |
++-----+-----+------+--------+
+
+michael arch lightsworn - TCG [1] - Near Mint 1st <23>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
