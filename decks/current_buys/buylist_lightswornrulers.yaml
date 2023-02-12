@@ -21,24 +21,24 @@ Eclipse Wyvern Super - TCG:
 Lightray Diabolos Rare - TCG:
   url: 59033
   edition: 'Near Mint 1st'
-  qty: 2    # hoban runs 1
+  qty: 1    # hoban runs 1
 
 kuribandit Scr 1st - TCG:
   url: 82554
   edition: 'Near Mint 1st'
   qty: 3
 
-minerva baby Super - TCG:
-  url: 90992
-  edition: 'Near Mint 1st'
-  qty: 1
+#minerva baby Super - TCG:
+#  url: 90992
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 ###
 
 Upstart lcyw 1st - TCG:
   url: 67065
   edition: 'Near Mint 1st'
-  qty: 3
+  qty: 1
 
 soul charge Ultra - TCG:
   url: 121504
