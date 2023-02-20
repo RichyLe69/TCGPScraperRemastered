@@ -1,0 +1,83 @@
+Missing Data for:    Scapegoat Ultra RP01 EN
+Sum of Min Listed: $4,273.00
+Sum of Max Listed: $6,689.00
+Sum of Mean Listed: $4,959.00
+Sum of Median Listed: $4,713.50
+
+Maxx C Ultimate EN [2] - Near Mint Unlimited <21>
++-----+------+------+--------+
+| Min | Max  | Mean | Median |
++-----+------+------+--------+
+| 664 | 1200 | 772  |  694   |
++-----+------+------+--------+
+
+Tour Guide Ultimate EN [3] - Near Mint Unlimited <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 223 | 425 | 299  | 298.0  |
++-----+-----+------+--------+
+
+Krebos Super TU EN [1] - Near Mint Unlimited <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  97 | 100 |  98  |   97   |
++-----+-----+------+--------+
+
+Plaguespreader Zombie Ultimate 1st [1] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 675 | 999 | 809  | 781.5  |
++-----+-----+------+--------+
+
+Pot of Greed Ultimate 1st - EN [1] - Near Mint 1st Edition <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 212 | 379 | 251  |  244   |
++-----+-----+------+--------+
+
+Scapegoat Ultra RP01 EN [3] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st EN [2] - Near Mint 1st Edition <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 248 | 284 | 260  |  249   |
++-----+-----+------+--------+
+
+Emegency Teleport Ultimate 1st [2] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 149 | 229 | 169  | 155.5  |
++-----+-----+------+--------+
+
+Trap Dustshoot Super CP EN [1] - Near Mint <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 399 | 401 | 400  | 400.0  |
++-----+-----+------+--------+
+
+Doomkaiser utr 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  93 |  99 |  95  |   94   |
++-----+-----+------+--------+
+
+Armory Arm Ultra 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  10 |  7   |   6    |
++-----+-----+------+--------+
+

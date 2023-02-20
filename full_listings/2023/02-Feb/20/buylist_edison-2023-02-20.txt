@@ -1,0 +1,91 @@
+Missing Data for:    Shire Lightsworn Fairy Super 1st
+Missing Data for:    Flamvell Uruquizas DT
+Sum of Min Listed: $2,901.00
+Sum of Max Listed: $4,063.00
+Sum of Mean Listed: $3,247.00
+Sum of Median Listed: $3,028.50
+
+Archlord Kristya 1st [3] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 749 | 989 | 807  |  750   |
++-----+-----+------+--------+
+
+Herald of Orange Light Ulti [3] - Near Mint <17>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  65 | 172 | 110  |   99   |
++-----+-----+------+--------+
+
+Soul of Purity and Light 1st C [3] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+Shire Lightsworn Fairy Super 1st [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Nimble Mega Hamster 1st Super [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  14 |  14  |  14.0  |
++-----+-----+------+--------+
+
+Consecrated Light C 1st [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  2  |  2   |  2.0   |
++-----+-----+------+--------+
+
+Morphing Jar tp4 super [1] - Near Mint <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 217 | 299 | 240  | 229.0  |
++-----+-----+------+--------+
+
+Gale CRMS R 1st [1] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  5  |  3   |   4    |
++-----+-----+------+--------+
+
+Black Wing Armor Master Ulti 1st [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 118 | 129 | 122  |  119   |
++-----+-----+------+--------+
+
+Iron Chain Dragon R 1st [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  11 |  8   |  8.5   |
++-----+-----+------+--------+
+
+Flamvell Uruquizas DT [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Ancient Sacred Wyvern Ulti 1st [1] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  64 |  85 |  72  |  70.0  |
++-----+-----+------+--------+
+

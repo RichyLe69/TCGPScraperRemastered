@@ -2526,3 +2526,108 @@ collection_old_school - 2023-02-19
 |         Summoned Skull BPT Reverse        |   0    |
 |                    test                   |   0    |
 +-------------------------------------------+--------+
+buylist_edison - 2023-02-20
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|       Archlord Kristya 1st       |  750  |
+|      Morphing Jar tp4 super      | 229.0 |
+| Black Wing Armor Master Ulti 1st |  119  |
+|   Herald of Orange Light Ulti    |   99  |
+|  Ancient Sacred Wyvern Ulti 1st  |  70.0 |
+|  Nimble Mega Hamster 1st Super   |  14.0 |
+|     Iron Chain Dragon R 1st      |  8.5  |
+|         Gale CRMS R 1st          |   4   |
+|     Consecrated Light C 1st      |  2.0  |
+|  Soul of Purity and Light 1st C  |   1   |
+|      Flamvell Uruquizas DT       |   0   |
+| Shire Lightsworn Fairy Super 1st |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_cool_singles - 2023-02-20
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2899 |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  375  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    | 329.0 |
+|    red dragon archfiend Ultimate 1st - SEEK    | 297.0 |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK | 255.0 |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2023-02-20
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+| Plaguespreader Zombie Ultimate 1st | 781.5 |
+|         Maxx C Ultimate EN         |  694  |
+|     Trap Dustshoot Super CP EN     | 400.0 |
+|       Tour Guide Ultimate EN       | 298.0 |
+|   Pot of Avarice Ultimate 1st EN   |  249  |
+|   Pot of Greed Ultimate 1st - EN   |  244  |
+|   Emegency Teleport Ultimate 1st   | 155.5 |
+|         Krebos Super TU EN         |   97  |
+|         Doomkaiser utr 1st         |   94  |
+|        Armory Arm Ultra 1st        |   6   |
+|      Scapegoat Ultra RP01 EN       |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_cool_singles_t2 - 2023-02-20
++---------------------------------------------+--------+
+|                     Card                    | Price  |
++---------------------------------------------+--------+
+|            Blue eyes toon scr 1st           | 2499.5 |
+|                   dds bewd                  |  2200  |
+|                Dad secret 1st               | 999.0  |
+|               red eyes lob 1st              |  937   |
+|                 time wiz 1st                |  799   |
+|                    dds dm                   |  724   |
+|              summoned skull 1st             | 659.5  |
+|     Judgment Dragon Ultimate EURO Print     | 468.5  |
+|                 b skull 1st                 |  414   |
+|    Dark Armed Dragon Ultimate EURO Print    | 389.5  |
+| Caius Shadow Monarch Ultimate TU EURO Print |  348   |
+|                JD Secret 1st                | 239.0  |
+|            rainbow dragon scr 1st           | 194.0  |
+|        dark rainbow dragon secret 1st       |  179   |
+|                  dds exodia                 |  170   |
+|                   yata 1st                  |  159   |
+|                gemini scr 1st               |  117   |
+|           Injection Fairy Lily 1st          |   96   |
+|                   ter 1st                   |   92   |
+|               vampire lord 1st              |   88   |
+|                     test                    |   0    |
++---------------------------------------------+--------+
+buylist_lightswornrulers - 2023-02-20
++-------------------------------+-------+
+|              Card             | Price |
++-------------------------------+-------+
+|     Upstart lcyw 1st - TCG    |  12.5 |
+|    kuribandit Scr 1st - TCG   |  2.5  |
+|      needlebug nest - TCG     |   2   |
+| michael arch lightsworn - TCG |  1.0  |
+|    soul charge Ultra - TCG    |  1.0  |
+|       Blaster Scr - TCG       |   0   |
+|   Eclipse Wyvern Super - TCG  |   0   |
+|  Lightray Diabolos Rare - TCG |   0   |
+|       Raiden Super - TCG      |   0   |
+|       Tempest Scr - TCG       |   0   |
+|              test             |   0   |
++-------------------------------+-------+
+buylist_2014_extradeck - 2023-02-20
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|     Big Eye AP06 UTR - TCG/seek     |  229  |
+| 101 silent honor ark UTR - TCG/Seek |   27  |
+|   ghostrick alucard UTR - TCG/Seek  |  22.0 |
+|   Daigusto Emeral Secret 1st - TCG  |  15.5 |
+|       draccosack Scr 1st - TCG      |  15.0 |
+|     diamond dire wolf - TCG/Seek    |  13.0 |
+|          Minerva XYZ - TCG          |   9   |
+|   Lavalval Chain Secret 1st - TCG   |   7   |
+|     80 rhapsody in berserk - TCG    |   4   |
+|      starliege paladynamo - TCG     |   1   |
+|      mechquipped angineer - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
