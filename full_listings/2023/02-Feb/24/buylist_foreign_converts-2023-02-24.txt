@@ -1,0 +1,91 @@
+Missing Data for:    Scapegoat Ultra RP01 EN
+Missing Data for:    Crush Card Virus GLD1
+Sum of Min Listed: $4,347.00
+Sum of Max Listed: $6,858.00
+Sum of Mean Listed: $5,060.00
+Sum of Median Listed: $4,731.50
+
+Maxx C Ultimate EN [2] - Near Mint Unlimited <20>
++-----+------+------+--------+
+| Min | Max  | Mean | Median |
++-----+------+------+--------+
+| 649 | 1200 | 783  | 694.0  |
++-----+------+------+--------+
+
+Tour Guide Ultimate EN [3] - Near Mint Unlimited <18>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 223 | 425 | 290  | 269.0  |
++-----+-----+------+--------+
+
+Krebos Super TU EN [1] - Near Mint Unlimited <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  95 | 100 |  97  |   97   |
++-----+-----+------+--------+
+
+Plaguespreader Zombie Ultimate 1st [1] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 675 | 999 | 809  | 781.5  |
++-----+-----+------+--------+
+
+Pot of Greed Ultimate 1st - EN [1] - Near Mint 1st Edition <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 212 | 379 | 251  |  244   |
++-----+-----+------+--------+
+
+Scapegoat Ultra RP01 EN [3] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st EN [2] - Near Mint 1st Edition <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 247 | 284 | 253  | 248.0  |
++-----+-----+------+--------+
+
+Emegency Teleport Ultimate 1st [2] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 149 | 229 | 166  |  150   |
++-----+-----+------+--------+
+
+Trap Dustshoot Super CP EN [1] - Near Mint <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 399 | 401 | 400  | 400.0  |
++-----+-----+------+--------+
+
+Solemn Warning Ultimate 1st [1] - Near Mint 1st <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 114 | 179 | 134  |  124   |
++-----+-----+------+--------+
+
+Crush Card Virus GLD1 [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Doomkaiser utr 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  93 |  99 |  95  |   94   |
++-----+-----+------+--------+
+

@@ -1,13 +1,11 @@
 # Notes PRIORITY
-# Goat-Edison Playable, Vintage, Photogenic, investment worthy, Personal
+# Edison Playable, Vintage, Photogenic, investment worthy, Personal, Goat staple
 
 #########################
 #YGO
 #[wip] start trading off foreign converts for wants/buylists
 #[] Vintage Accessories
 #[] secrets for bpt page - 2 summoned skull bpt
-#[] extra deck binder buylist - ghost page, ulti signer dragons
-#[] extra deck builder hoard
 #[] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
 #[] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 
@@ -29,16 +27,18 @@ collection_old_school:
 
 ## Current Buylists
 
-# 5k - Vintage Accessories - 4.5k 1999 Worlds, 1.5-2k Gray 94 Dash
-# 3.5k - edison - kristyasworn & leftovers
+# 2k - Vintage Accessories - 1.5-2k Gray 94 Dash
+# 2.8k - edison - kristyasworn & leftovers
 # 5.5k - cool singles - remaining ghosts n extra deck singles
 # 5k - foreign converts
-# 50  - lightsworn rulers - deck core
-# 350 - 2014 extra deck
-    # 15k - cool singles t2
+# 8.4k - cool singles t2 - additional edison, historical max rarity, old school rarity bumps
+# 250  - lightsworn rulers - Max Rarity Historical*
+    # Extended wait for market to level out.
+    # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
       # -------- Probably cut off
           # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
           # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
+          # 350 - 2014 Mermail Extra
               # 2.3k - frognarch - 10 utr 3 scr
 
 ###################################
@@ -57,22 +57,25 @@ collection_old_school:
 #buylist_cool_singles_t2:
 #  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
 #
-#buylist_lightswornrulers: ## lightsworn ruler notes: 2014 vs mermails format.
+#buylist_lightswornrulers: # lightsworn ruler notes: 2014 vs mermails format.
 #  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
-#
-#buylist_2014_extradeck: ## 2014 format extra deck. mostly XYZs Tailored for Hoban LS Rulers
-#  path: 'decks/current_buys/buylist_2014_extradeck.yaml'
 
+#buylist_high_end_vintage:
+#  path: 'decks/current_buys/buylist_high_end_vintage.yaml'
 
 ###################################
 
 # Potential buys
 
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/buylist_zombies.yaml'
+#  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Never really used zombies, don't think I care
 #
 #buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/buylist_mermail.yaml'
+#  path: 'decks/current_buys/tier2/buylist_mermail.yaml'  # Cool but past my time window, does not synergize
+#
+#buylist_2014_extradeck: ## 2014 format extra deck for mermails
+#  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'  # Pass
+#
 
 ################################
 
