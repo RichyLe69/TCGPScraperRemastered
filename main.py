@@ -8,7 +8,7 @@ class Scraper:
 
     def __init__(self):
         self.browser = webdriver.Chrome(
-            executable_path=r'C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase\chromedriver.exe')
+            executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
         self.card_lists = get_card_lists('lists.yaml')
         self.current_list = ''
         self.current_list_data = ''

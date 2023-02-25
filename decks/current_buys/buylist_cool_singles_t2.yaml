@@ -1,5 +1,8 @@
 ###### High Priority #######
-#[] 13 spaces for 9x2 vintage 1st eds
+
+# High End Edison Playables Max Rarity.
+
+# Final List, can't think of anything more - RL 2/24/23
 
 # Pg 1 Binder
 
@@ -18,7 +21,7 @@ Caius Shadow Monarch Ultimate TU EURO Print:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-# GX
+# Historical Max Rarity
 
 Dad secret 1st:
   url: 26620
@@ -30,120 +33,19 @@ JD Secret 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-# DM Vintage 1st Eds
+# Edison addons - Max Rarity
 
-Blue eyes toon scr 1st:
-  url: 21791
-  edition: 'Near Mint 1st'
-  qty: 1
+Bottomless CP04:
+  url: 26481
+  edition: 'Near Mint'
+  qty: 2
 
-yata 1st:
-  url: 22601
-  edition: 'Near Mint 1st'
-  qty: 1
+#Decree TP4:  # Noted
+#  url: 22772
+#  edition: 'Near Mint'
+#  qty: 3
 
-gemini scr 1st:
-  url: 22011
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Injection Fairy Lily 1st:
-  url: 22975
-  edition: 'Near Mint 1st'
-  qty: 1
-
-summoned skull 1st:
-  url: 22462
-  edition: 'Near Mint 1st'
-  qty: 1
-
-red eyes lob 1st:
-  url: 22341
-  edition: 'Lightly Played 1st'
-  qty: 1
-
-b skull 1st:
-  url: 21762
-  edition: 'Near Mint 1st'
-  qty: 1
-
-ter 1st:
-  url: 22515
-  edition: 'Near Mint 1st'
-  qty: 1
-
-time wiz 1st:
-  url: 22523
-  edition: 'Near Mint 1st'
-  qty: 1
-
-vampire lord 1st:
-  url: 22924
-  edition: 'Near Mint 1st'
-  qty: 1
-
-dds bewd:
-  url: 22940
-  edition: 'Lightly Played Limited'
-  qty: 1
-
-dds dm:
-  url: 22941
-  edition: 'Lightly Played Limited'
-  qty: 1
-
-dds exodia:
-  url: 22942
-  edition: 'Lightly Played Limited'
-  qty: 1
-
-# Lower Priority
-
-dark rainbow dragon secret 1st:
-  url: 26604
-  edition: 'Near Mint 1st'
-  qty: 1
-
-rainbow dragon scr 1st:
-  url: 26084
-  edition: 'Near Mint 1st'
-  qty: 1
-
-###### Low Priority ######
-
-#  extra ygo collects notes
-#
-#  kanyewest 315 vid
-#  b skull mrd 1st
-#  summoned skull mrd 1st
-#  change of heart mrd 1st
-#
-#  RP01 stupid expensive
-#  blue eyes ultra
-#  dm ultra
-#  red eyes ultra
-#  gate guardian ultra
-#  raigeki ultra
-#  scapegoat ultra
-#  BEUD secret
-#  copycat secret
-#  cyber harpie lady secret
-#  kaibaman secret
-#
-#  rp02
-#  blue eyes shining secret
-#  gorz secret
-#  harpie pet dragon secret
-#  ladd secret
-#  rod secret
-#  victory dragon secret
-#
-#  tri horn lob 1st
-#  tp2/4 jar
-#  dd assailant
-#  necro
-#  dmg 1st
-#  magic formula
-#  bottomless super
-#  fairy lily / lob-ast secret 1sts
-#  ced 1st
+#DD Crow Ulti 1st:
+#  url: 58555
+#  edition: 'Near Mint 1st'
+#  qty: 1

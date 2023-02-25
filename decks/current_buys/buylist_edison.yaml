@@ -1,16 +1,14 @@
-#need to buy:
-# d hero daimond -  maybe skip don't need 3
-
 # Kristyasworn Edison
+# List is final, Historical Max Rarity - RL 2/24/2023
 
 Archlord Kristya 1st:
   url: 33733
   edition: 'Near Mint 1st'
   qty: 3
 
-Herald of Orange Light Ulti:
-  url: 164861
-  edition: 'Near Mint'
+Herald of Orange Light Rare 1st:
+  url: 27580 # TDGS Rare 1st # 164861 # OTS Ulti #
+  edition: 'Near Mint 1st'
   qty: 3
 
 Soul of Purity and Light 1st C:
@@ -48,8 +46,6 @@ Gale CRMS R 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# Consecrated Light
-
 Black Wing Armor Master Ulti 1st:
   url: 58499
   edition: 'Near Mint 1st'
@@ -70,11 +66,11 @@ Ancient Sacred Wyvern Ulti 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# billy brake edison caliber cat - Skip tbh
-# 3 x saber air bellum dt/scr
-# 1 gk descendant - rare
-# 1 summ monk - c/gold
-# 1 cat - tu super
-# 1 my body
-# 1 d prison (3 total)
-# 1 x saber urbellum scr/dt
+Light End Dragon Scr 1st:
+  url: 31934
+  edition: 'Near Mint 1st'
+  qty: 1
+
+# Extra synchros
+# Karakuri Shogun mdl 00 "Burei" STBL Utr 2011
+# Karakuri Steel Shogun mdl 00X "Bureido" STOR utr 2011
