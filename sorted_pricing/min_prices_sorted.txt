@@ -3020,3 +3020,24 @@ collection_old_school - 2023-02-25
 |         Summoned Skull BPT Reverse        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_high_end_vintage - 2023-02-26
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|     Blue eyes toon scr 1st     |  2499 |
+|            dds bewd            |  2200 |
+|       summoned skull 1st       |  899  |
+|        red eyes lob 1st        |  800  |
+|          time wiz 1st          |  799  |
+|          b skull 1st           |  398  |
+|             dds dm             |  395  |
+| dark rainbow dragon secret 1st |  174  |
+|     rainbow dragon scr 1st     |  170  |
+|           dds exodia           |  134  |
+|            yata 1st            |  105  |
+|         gemini scr 1st         |   93  |
+|            ter 1st             |   79  |
+|    Injection Fairy Lily 1st    |   75  |
+|        vampire lord 1st        |   70  |
+|              test              |   0   |
++--------------------------------+-------+
