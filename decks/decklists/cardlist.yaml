@@ -1,0 +1,27 @@
+# Rarity Codes
+# Ghost Rare - GR
+# Ultimate Rare - UtR
+# Secret Rare - ScR
+# Ultra Rare - UR
+# Super Rare - SR
+# Rare - R
+
+# Card ID Layout
+# Name-SetCode-Language-Rarity-Edition
+
+Judgment Dragon:
+  - JudgmentDragon-TU01-EN-UtR-UE
+  - JudgmentDragon-LODT-EN-ScR-1E
+Dark Armed Dragon:
+  - DarkArmedDragon-TU06-EN-UtR-UE
+Honest:
+  - Honest-LODT-EN-GR-1E
+Lumina Lightsworn Sorcerer:
+  - LuminaLightswornSummoner-CP08-EN-SR-UE
+  - LuminaLightswornSummoner-LODT-EN-R-1E
+Chaos Sorcerer:
+  - ChaosSorcerer-TU02-EN-UR-UE
+Stardust Dragon:
+  - StardustDragon-TDGS-EN-GR-1E
+Charge of the Light Brigade:
+  - ChargeoftheLightBrigade-TDGS-EN-ScR-1E

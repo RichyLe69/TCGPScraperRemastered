@@ -1,0 +1,2 @@
+cmd: for /r %i in (*.webp) do ffmpeg -i "%i" -qscale:v 1 %~ni.jpg
+

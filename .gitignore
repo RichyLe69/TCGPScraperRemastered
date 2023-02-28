@@ -114,3 +114,5 @@ dmypy.json
 .pyre/
 .idea/misc.xml
 SellerPortalDatabase.iml
+decks/decklists/img/ffmpeg.exe
+*.webp
