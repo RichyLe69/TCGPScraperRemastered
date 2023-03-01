@@ -85,23 +85,6 @@ if __name__ == '__main__':
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\main.py
 
-# TODO
-# [] plan next ygo coding project
-# 	[x] manual - save wiki pics of all max rarity cards
-# 	[x] yaml list of each deck, with option to select different rarities (max rarity default)
-#   	- # Rarity Overwrite logic: space Rarity ID. In logic, we check for space and rarity ID. Get it in cardlist.yaml
-#   [x] yaml deck list, yaml list of basic names with nodes of specific file name (wiki format)
-#   [ ] data poc script
-#   [ ] footer text, tag it to the bottom (info, year, creator, event, place, etc)
-# 	- takes respective pic, resizes it and pastes it into a 4x10 grid. do same with side & extra
-# 		- if no pic found, input pause so user can get, then resume.
-# 	- save the deck list pic with a name, save the deck name & prices into it's own .txt list
-# 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
-# 	- this should also fix yaml list names to have proper names.
-
-
-
-
 
 # individual consoles (to allow for multi processing)
 
