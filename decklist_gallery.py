@@ -1,8 +1,13 @@
 import os
 import cv2
 import numpy as np
+import re
 from utils import get_card_lists
 from CardList import CardList
+from prettytable import PrettyTable
+from datetime import datetime
+
+# Generating Decklist Gallery #
 
 
 def calculate_row_cols(deck_of_decoded_cards, image_name):
@@ -129,6 +134,151 @@ def combine_images(main_image, side_image, extra_image, deck_list_name, header):
     cv2.imwrite('remastered deck lists/' + deck_list_name + '.jpg', final_image_with_header)
 
 
+# Generating Price Table #
+
+
+def get_number_out_of_string(line):
+    exclude_string = "1st"
+    number = re.findall(r'\d+', re.sub(exclude_string, '', line))[0]
+    return int(number)
+
+
+def get_card_value_data_table(collection_name, list_name):
+    price_table_path_root = 'sorted_pricing/'
+    final_data_table = ''
+
+    with open(price_table_path_root + list_name, 'r') as file:
+        lines = file.readlines()
+        for coll in collection_name:
+            final_data_table += (get_data_table_of_last_instance(coll, lines))
+
+    return final_data_table
+
+
+def get_line_of_last_instance(collection_name, full_data):
+    line_number = 0
+    last_line_number = None
+    for line in full_data:
+        line_number += 1
+        if collection_name in line:
+            last_line_number = line_number
+    return last_line_number
+
+
+def get_last_line_of_last_instance(full_data, start_line):
+    search_string = "--------"
+    line_numbers = []
+
+    line_number = 0
+    for line in full_data:
+        if line_number >= start_line and search_string in line:
+            line_numbers.append(line_number)
+            if len(line_numbers) >= 3:
+                break
+        line_number += 1
+    end_of_table_line = line_number
+
+    return end_of_table_line
+
+
+def get_data_table_between_first_last_lines(full_data, first_line, last_line):
+    data = ""
+    for line_number, line in enumerate(full_data):
+        if first_line <= line_number <= last_line:
+            data += line
+    return data
+
+
+def get_data_table_of_last_instance(collection_name, full_data):
+    first_line = get_line_of_last_instance(collection_name, full_data)
+    last_line = get_last_line_of_last_instance(full_data, first_line)
+    data_table = get_data_table_between_first_last_lines(full_data, first_line, last_line)
+    return data_table
+
+
+def get_card_quantity(card_list_in_deck, node, cards):
+    if isinstance(card_list_in_deck[node][cards], str):  # Other Rarity
+        qty, different_rarity = card_list_in_deck[node][cards].split(' ')  # [Num, Rarity]
+    else:
+        qty = card_list_in_deck[node][cards]
+    return qty
+
+
+def search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data):
+    most_recent_price_data = most_recent_price_data.split('\n')
+    noded_prices = {}
+    prices = {}
+    for node in card_list_in_deck:  # Monster, Spells, Traps, Side, Extra
+        if node != 'Header':
+            for cards in card_list_in_deck[node]:  # Card from deck list
+                match = False
+                for line in most_recent_price_data:
+                    if cards in line:
+                        match = True
+                        qty = get_card_quantity(card_list_in_deck, node, cards)
+                        value = get_number_out_of_string(line)
+                        # print('{} {}: {}'.format(qty, cards, value))
+                        if cards not in prices:
+                            prices[cards] = [value, qty]
+                        else:
+                            prices[cards] = [max(value, prices[cards][0]), qty]
+
+                if not match:
+                    # pass
+                    print('No match found: {}'.format(cards))
+            noded_prices[node] = prices
+            prices = {}
+
+    return noded_prices
+
+
+def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable):
+    value_index = 0
+    qty_index = 1
+
+    my_table = PrettyTable(['Card', '$'])
+    my_table.align = 'l'
+    my_table.align['$'] = 'r'
+
+    sectional_prices = {}
+
+    for node in full_deck_prices:
+        sectional_value = 0
+        splitter = False
+        main_already = False
+        for card in full_deck_prices[node]:
+            qty = full_deck_prices[node][card][qty_index]
+            value = full_deck_prices[node][card][value_index]
+            if node == 'Monsters' and not main_already or node == 'Side' or node == 'Extra':
+                if not splitter:
+                    if node == 'Monsters' and not main_already:
+                        my_table.add_row(['Main Deck', ''])
+                        main_already = True
+                    else:
+                        my_table.add_row(['\n' + node + ' Deck', ''])
+                        splitter = True
+            my_table.add_row(['{} {}'.format(qty, card), value])
+            sectional_value += (value * qty)
+        sectional_prices[node] = sectional_value
+
+    main_deck_value = sectional_prices['Monsters'] + sectional_prices['Spells'] + sectional_prices['Traps']
+    side_deck_value = sectional_prices['Side']
+    extra_deck_value = sectional_prices['Extra']
+    total_deck_value = main_deck_value + side_deck_value + extra_deck_value
+    summed_totals = ('Main Deck: {}\n'
+                     'Side Deck: {}\n'
+                     'Extra Deck: {}\n'
+                     'Total Price: {}'.format(main_deck_value, side_deck_value, extra_deck_value, total_deck_value))
+
+    directory = 'remastered deck lists/decklist prices/'
+    file_name = deck_list_name + '.txt'
+    current_date = str(datetime.date(datetime.now()))
+    with open(directory + file_name, 'a') as my_file:
+        my_file.write(str(deck_list_name) + ' - ' + str(current_date) + ' - ' + pricing_variable + '\n')
+        my_file.write(str(summed_totals) + '\n')
+        my_file.write(str(my_table) + '\n')
+
+
 class DeckBuilder:
     def __init__(self):
         # self.browser = webdriver.Chrome(
@@ -141,7 +291,7 @@ class DeckBuilder:
         self.yaml_data = ''
         self.path = ''
         self.deck_of_decoded_cards = []
-        self.alphetical_order = False
+        self.alphabetical_order = False
 
     def get_list_of_decks(self):
         return self.list_of_decks
@@ -166,7 +316,7 @@ class DeckBuilder:
     def extend_to_deck_of_decoded_cards(self, decoded_card_input):
         if not decoded_card_input:
             return
-        if self.alphetical_order:
+        if self.alphabetical_order:
             decoded_card_input = sorted(decoded_card_input, reverse=False)
         self.deck_of_decoded_cards.extend(decoded_card_input)
 
@@ -187,15 +337,29 @@ if __name__ == '__main__':
     deckbuilder = DeckBuilder()
     list_of_decks = deckbuilder.get_list_of_decks()
     card_code_list = deckbuilder.get_card_code_list()
+
+    collection_name = ['collection_deck_builder', 'collection_deck_core',
+                       'collection_extra_deck', 'collection_old_school']
+    pricing_variable_full = ['min_prices_sorted.txt', 'max_prices_sorted.txt',
+                             'mean_prices_sorted.txt', 'median_prices_sorted.txt']
+
     for current_deck_list in list_of_decks:
         deckbuilder.get_yaml_list_data(current_deck_list, list_of_decks)
         deck_list_name = deckbuilder.get_list_name()
         card_list_in_deck = deckbuilder.get_yaml_data()
+
+        # # Generate Decklist Gallery
         header = deckbuilder.get_header()
         combine_images(generate_image(card_list_in_deck, 'Main'),
                        generate_image(card_list_in_deck, 'Side'),
                        generate_image(card_list_in_deck, 'Extra'),
                        deck_list_name, header)
+
+        # # Generate Decklist Prices
+        for pricing_variable in pricing_variable_full:
+            most_recent_price_data = get_card_value_data_table(collection_name, pricing_variable)
+            full_deck_prices = search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data)
+            generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable)
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 
@@ -204,9 +368,14 @@ if __name__ == '__main__':
 #     [] finish deck lists
 #     [] dl wiki images
 #     [] decode card list
+
+# After
+#   [x]	save the deck name & prices into it's own .txt list
+# 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
+# 	- this should also fix yaml list names to have proper names.
 #       [x] option to overwrite alphabetical ordering
 #       [x] categorize img folder - needs to be able to get image from any folder
-#       [] output yaml to human readible txt
+#       [x] output yaml to human readable txt - actually the yaml itself is human readable. not NEEDED
 
 # 	[x] manual - save wiki pics of all max rarity cards
 # 	[x] yaml list of each deck, with option to select different rarities (max rarity default)
@@ -216,9 +385,3 @@ if __name__ == '__main__':
 #   [x] footer text, tag it to the bottom (info, year, creator, event, place, etc)
 # 	[x] takes respective pic, resizes it and pastes it into a 4x10 grid. do same with side & extra
 # 	[x] save the deck list pic with a name,
-
-
-# After
-#   []	save the deck name & prices into it's own .txt list
-# 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
-# 	- this should also fix yaml list names to have proper names.

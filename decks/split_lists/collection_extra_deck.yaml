@@ -67,24 +67,22 @@ Trishula, Dragon of the Ice Barrier DT:
   edition: 'Near Mint Limited'
   qty: 3
 
-Brionac DT:
+Brionac Dragon of the Ice Barrier DT:
   url: 80926
   edition: 'Near Mint Limited'
   qty: 2
-
-#
 
 Scrap Dragon Ultimate 1st:
   url: 58440
   edition: 'Near Mint 1st'
   qty: 3
 
-Catastor DTP1:
+Ally of Justice Catastor DTP1:
   url: 80865
   edition: 'Near Mint'
   qty: 1
 
-Catastor Ultimate:
+Ally of Justice Catastor Ultimate:
   url: 66752
   edition: 'Near Mint'
   qty: 2
@@ -99,14 +97,25 @@ Drill Warrior UTR 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-# Magical Android
+Magical Android 1st:
+  url: 27541
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Hyper Librarian:
   url: 46805
   edition: 'Near Mint'
   qty: 2
 
-# Arcanite Magician
+Dark End Dragon:
+  url: 38505
+  edition: 'Near Mint'
+  qty: 1
+
+Arcanite Magician:
+  url: 29012
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Formula Synchron ULTRA Advent Calendar GERMAN:
   url: 93875
@@ -124,7 +133,10 @@ Avenging Knight Parshath Secret 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# Tempest Magician
+Tempest Magician Secret 1st:
+  url: 28481
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Turbo Warrior:
   url: 58507
@@ -151,7 +163,11 @@ Dark Strike Fighter Super 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# Mist Wurm
+#
+Mist Wurm:
+  url: 80927
+  edition: 'Near Mint'
+  qty: 1
 
 #
 
