@@ -1,15 +1,11 @@
 import os
 import cv2
 import numpy as np
-# import textwrap
-
 from utils import get_card_lists
 from CardList import CardList
-# from selenium import webdriver
-# import time
 
 
-def create_grid_image(deck_of_decoded_cards, image_name):
+def calculate_row_cols(deck_of_decoded_cards, image_name):
     if (len(deck_of_decoded_cards)) > 40:
         rows = min(int(len(deck_of_decoded_cards) / 10) + 1, 6)
         cols = 10
@@ -19,20 +15,34 @@ def create_grid_image(deck_of_decoded_cards, image_name):
     if image_name == 'Side' or image_name == 'Extra':
         rows = 2
         cols = 10
+    return rows, cols
+
+
+def get_full_deck_list_image_paths(deck_of_decoded_cards):
+    full_deck_list_image_paths = []
+    path_to_card_images = "decks/decklists/img"  # root directory of images
+    for current_card in deck_of_decoded_cards:  # For every card in my deck
+        current_card = current_card + '.jpg'
+        card_image_found = False
+        for dirpath, dirnames, list_of_images in os.walk(path_to_card_images):  # check in every folder card
+            for file in list_of_images:
+                if current_card == file:
+                    card_image_found = True
+                    image_paths = [os.path.join(dirpath, current_card)]
+                    full_deck_list_image_paths.append(image_paths)
+                    break
+        if not card_image_found:
+            print('Image Not Found: {}'.format(current_card))
+    return full_deck_list_image_paths
+
+
+def create_grid_image(deck_of_decoded_cards, image_name):
+    rows, cols = calculate_row_cols(deck_of_decoded_cards, image_name)
     image_width = 450
     image_height = 657
-
     final_image = np.zeros((rows * image_height, cols * image_width, 3), dtype=np.uint8)
 
-    full_deck_list_image_paths = []
-    for filename in deck_of_decoded_cards:
-        filename = filename + '.jpg'
-        path_to_card_images = "decks/decklists/img"
-        image_paths = [os.path.join(path_to_card_images, filename)]
-        if not os.path.isfile(image_paths[0]):  # Check if the file exists
-            print('Image Not Found: {}'.format(filename))
-        full_deck_list_image_paths.append(image_paths)
-
+    full_deck_list_image_paths = get_full_deck_list_image_paths(deck_of_decoded_cards)
     for i in range(rows * cols):
         try:
             img = cv2.imread(full_deck_list_image_paths[i][0])
@@ -65,15 +75,21 @@ def check_if_max_rarity(card_code_list, node, cards, decode):  # Check for Rarit
     return card_to_add, qty
 
 
+def get_nodes_to_do(img_name):
+    if img_name == 'Main':
+        nodes_to_do = ['Monsters', 'Spells', 'Traps']
+    if img_name == 'Side':
+        nodes_to_do = ['Side']
+    if img_name == 'Extra':
+        nodes_to_do = ['Extra']
+    return nodes_to_do
+
+
 def generate_image(card_list_in_deck, img_name):
     for node in card_list_in_deck:  # Monster, Spells, Traps, Side, Extra
-        if img_name == 'Main':
-            nodes_to_do = ['Monsters', 'Spells', 'Traps']
-        if img_name == 'Side':
-            nodes_to_do = ['Side']
-        if img_name == 'Extra':
-            nodes_to_do = ['Extra']
+        nodes_to_do = get_nodes_to_do(img_name)
 
+        list_of_cards_to_append = []
         if node != 'Header':
             if node in nodes_to_do:
                 for cards in card_list_in_deck[node]:  # Card from deck list
@@ -83,33 +99,34 @@ def generate_image(card_list_in_deck, img_name):
                             match = True
                             card_to_add, qty = check_if_max_rarity(card_code_list, node, cards, decode)
                             for x in range(0, int(qty)):
-                                deckbuilder.append_to_deck_of_decoded_cards(card_to_add)
+                                list_of_cards_to_append.append(card_to_add)
                     if not match:
                         print('Card not found: {}'.format(cards))
+            deckbuilder.extend_to_deck_of_decoded_cards(list_of_cards_to_append)
     final_image = create_grid_image(deckbuilder.get_deck_of_decoded_cards(), img_name)
     deckbuilder.reset_deck_of_decoded_cards()
     return final_image
 
 
-def combine_images(main_image, side_image, extra_image, deck_list_name, header):
-    img1 = main_image
-    img2 = side_image
-    img3 = extra_image
-    combined_pic = cv2.vconcat([img1, img2, img3])
-
+def place_header_on_decklist(full_image, header):
     font = cv2.FONT_HERSHEY_TRIPLEX
     font_scale = 4
     color = (255, 255, 255)  # White
     thickness = 5
-    text_size, _ = cv2.getTextSize(header, font, font_scale, thickness)
 
     x_start = 2400
     y_start = 4750
     y_increment = 200
     for i, line in enumerate(header.split('\n')):
         y = y_start + i * y_increment
-        cv2.putText(combined_pic, line, (x_start, y), font, font_scale, color, thickness)
-    cv2.imwrite('remastered deck lists/' + deck_list_name + '.jpg', combined_pic)
+        full_image = cv2.putText(full_image, line, (x_start, y), font, font_scale, color, thickness)
+    return full_image
+
+
+def combine_images(main_image, side_image, extra_image, deck_list_name, header):
+    combined_pic = cv2.vconcat([main_image, side_image, extra_image])
+    final_image_with_header = place_header_on_decklist(combined_pic, header)
+    cv2.imwrite('remastered deck lists/' + deck_list_name + '.jpg', final_image_with_header)
 
 
 class DeckBuilder:
@@ -124,6 +141,7 @@ class DeckBuilder:
         self.yaml_data = ''
         self.path = ''
         self.deck_of_decoded_cards = []
+        self.alphetical_order = False
 
     def get_list_of_decks(self):
         return self.list_of_decks
@@ -145,8 +163,12 @@ class DeckBuilder:
             print('Header not found.')
         return header
 
-    def append_to_deck_of_decoded_cards(self, decoded_card_input):
-        self.deck_of_decoded_cards.append(decoded_card_input)
+    def extend_to_deck_of_decoded_cards(self, decoded_card_input):
+        if not decoded_card_input:
+            return
+        if self.alphetical_order:
+            decoded_card_input = sorted(decoded_card_input, reverse=False)
+        self.deck_of_decoded_cards.extend(decoded_card_input)
 
     def get_deck_of_decoded_cards(self):
         return self.deck_of_decoded_cards
@@ -182,6 +204,8 @@ if __name__ == '__main__':
 #     [] finish deck lists
 #     [] dl wiki images
 #     [] decode card list
+#       [x] option to overwrite alphabetical ordering
+#       [x] categorize img folder - needs to be able to get image from any folder
 
 # 	[x] manual - save wiki pics of all max rarity cards
 # 	[x] yaml list of each deck, with option to select different rarities (max rarity default)

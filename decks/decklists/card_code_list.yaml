@@ -21,7 +21,96 @@ Lumina Lightsworn Summoner:
   - LuminaLightswornSummoner-LODT-EN-R-1E
 Chaos Sorcerer:
   - ChaosSorcerer-TU02-EN-UR-UE
-Stardust Dragon:
-  - StardustDragon-TDGS-EN-GR-1E
+Aurkus Lightsworn Druid:
+  - AurkusLightswornDruid-LODT-EN-SR-1E
+Celestia Lightsworn Angel:
+  - CelestiaLightswornAngel-LODT-EN-UtR-1E
+Garoth Lightsworn Warrior:
+  - GarothLightswornWarrior-TU01-EN-SR-UE
+Gorz The Emissary of Darkness:
+  - GorztheEmissaryofDarkness-RP02-EN-ScR-LE
+Jain Lightsworn Paladin:
+  - JainLightswornPaladin-LODT-EN-C-1E
+Lyla Lightsworn Sorceress:
+  - LylaLightswornSorceress-LODT-EN-UtR-1E
+Necro Gardna:
+  - NecroGardna-TAEV-EN-UtR-1E
+Plaguespreader Zombie:
+  - PlaguespreaderZombie-CSOC-EN-UtR-1E
+Tragoedia:
+  - Tragoedia-TU04-EN-UtR-UE
+Wulf Lightsworn Beast:
+  - WulfLightswornBeast-LODT-EN-SR-1E
+
+# Spells
+
 Charge of the Light Brigade:
   - ChargeoftheLightBrigade-TDGS-EN-ScR-1E
+Allure of Darkness:
+  - AllureofDarkness-PTDN-EN-UtR-1E
+Heavy Storm:
+  - HeavyStorm-MRD-NA-SR-1E
+Monster Reincarnation:
+  - MonsterReincarnation-RDS-EN-UtR-1E
+Solar Recharge:
+  - SolarRecharge-LODT-EN-UtR-1E
+
+# Traps
+
+Beckoning Light:
+  - BeckoningLight-TU02-EN-SR-UE
+
+# Extra Deck
+
+Ally of Justice Catastor:
+  - AllyofJusticeCatastor-DTP1-EN-DRPR-DT
+Ancient Fairy Dragon:
+  - AncientFairyDragon-ANPR-EN-GR-1E
+Arcanite Magician:
+  - ArcaniteMagician-CRMS-EN-SR-1E
+Avenging Knight Parshath:
+  - AvengingKnightParshath-TDGS-EN-ScR-1E
+Black Rose Dragon:
+  - BlackRoseDragon-CSOC-EN-GR-1E
+Brionac Dragon of the Ice Barrier:
+  - BrionacDragonoftheIceBarrier-DT01-EN-DUPR-DT
+Colossal Fighter:
+  - ColossalFighter-TU05-EN-UtR-UE
+Dark End Dragon:
+  - DarkEndDragon-JUMP-EN-UR-LE
+Doomkaiser Dragon:
+  - DoomkaiserDragon-CSOC-EN-UtR-1E
+Goyo Guardian:
+  - GoyoGuardian-TDGS-EN-UtR-1E
+Magical Android:
+  - MagicalAndroid-TDGS-EN-SR-1E
+Mist Wurm:
+  - MistWurm-DT01-EN-DUPR-DT
+Stardust Dragon:
+  - StardustDragon-TDGS-EN-GR-1E
+Tempest Magician:
+  - TempestMagician-CSOC-EN-ScR-1E
+
+
+
+# Side - Needs reorganizing
+
+Bottomless Trap Hole:
+  - BottomlessTrapHole-CP04-EN-SR-UE
+Ehren Lightsworn Monk:
+  - EhrenLightswornMonk-LODT-EN-ScR-1E
+Shiny Black "C":
+  - ShinyBlackC-ANPR-EN-SP-1E
+Kycoo the Ghost Destroyer:
+  - KycootheGhostDestroyer-LON-NA-SR-1E
+Royal Decree:
+  - RoyalDecree-TP4-NA-UR-UE
+  - RoyalDecree-DB2-EN-SR-UE
+Mystical Space Typhoon:
+  - MysticalSpaceTyphoon-MRL-NA-UR-1E
+Breaker the Magical Warrior:
+  - BreakertheMagicalWarrior-TP7-EN-SR-UE
+Lightning Vortex:
+  - LightningVortex-FET-EN-UtR-1E
+Torrential Tribute:
+  - TorrentialTribute-LON-NA-UR-1E
