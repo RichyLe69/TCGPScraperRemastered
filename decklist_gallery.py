@@ -206,6 +206,7 @@ if __name__ == '__main__':
 #     [] decode card list
 #       [x] option to overwrite alphabetical ordering
 #       [x] categorize img folder - needs to be able to get image from any folder
+#       [] output yaml to human readible txt
 
 # 	[x] manual - save wiki pics of all max rarity cards
 # 	[x] yaml list of each deck, with option to select different rarities (max rarity default)
