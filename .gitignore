@@ -121,3 +121,21 @@ decks/decklists/img/z webp trash/ffmpeg.exe
 decks/decklists/img/webp trash/ffmpeg.exe
 decks/decklists/img/webp trash/ffmpeg.exe
 temp trash/
+.idea/
+test.txt
+sorted_pricing/min_prices.yaml
+sorted_pricing/median_prices.yaml
+sorted_pricing/mean_prices.yaml
+sorted_pricing/max_prices.yaml
+sorted_pricing/garb/market_prices_sorted.txt
+sorted_pricing/garb/market_prices.yaml
+sorted_pricing/garb/lowest_prices_sorted.txt
+sorted_pricing/garb/lowest_prices.yaml
+sorted_pricing/garb/last_sold_sorted.txt
+sorted_pricing/garb/last_sold.yaml
+sorted_pricing/console.txt
+chromedriver.exe
+.idea/vcs.xml
+.idea/TCGPScraperRemastered.iml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
