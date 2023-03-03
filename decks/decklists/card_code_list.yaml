@@ -14,6 +14,7 @@ Judgment Dragon:
   - JudgmentDragon-LODT-EN-ScR-1E
 Dark Armed Dragon:
   - DarkArmedDragon-TU06-EN-UtR-UE
+  - DarkArmedDragon-PTDN-EN-ScR-1E
 Honest:
   - Honest-LODT-EN-GR-1E
 Lumina Lightsworn Summoner:
@@ -41,6 +42,26 @@ Tragoedia:
   - Tragoedia-TU04-EN-UtR-UE
 Wulf Lightsworn Beast:
   - WulfLightswornBeast-LODT-EN-SR-1E
+Caius the Shadow Monarch:
+  - CaiustheShadowMonarch-TU03-EN-UtR-UE
+D.D. Crow:
+  - DDCrow-STON-EN-UtR-1E
+Dark Grepher:
+  - DarkGrepher-PTDN-EN-ScR-1E
+Destiny Hero Diamond Dude:
+  - DestinyHERODiamondDude-EOJ-EN-UtR-1E
+Destiny Hero Malicious:
+  - DestinyHEROMalicious-DP05-EN-UR-1E
+Elemental Hero Stratos:
+  - ElementalHEROStratos-JUMP-EN-UR-LE
+Krebons:
+  - Krebons-TU01-EN-SR-UE
+Mystic Tomato:
+  - MysticTomato-MRL-NA-R-1E
+Sangan:
+  - Sangan-RP01-EU-SR-UE
+Snipe Hunter:
+  - SnipeHunter-CP03-EN-SR-UE
 
 # Spells
 
@@ -54,11 +75,38 @@ Monster Reincarnation:
   - MonsterReincarnation-RDS-EN-UtR-1E
 Solar Recharge:
   - SolarRecharge-LODT-EN-UtR-1E
+Brain Control:
+  - BrainControl-TLM-EN-UtR-1E
+Destiny Draw:
+  - DestinyDraw-DP05-EN-UR-1E
+Monster Reborn:
+  - MonsterReborn-LOB-NA-UR-1E
+Emergency Teleport:
+  - EmergencyTeleport-TDGS-EN-UtR-1E
+Reinforcement of the Army:
+  - ReinforcementoftheArmy-LOD-NA-SR-1E
 
 # Traps
 
 Beckoning Light:
   - BeckoningLight-TU02-EN-SR-UE
+Crush Card Virus:
+  - CrushCardVirus-GLD1-EN-GUR-LE
+Phoenix Wing Wind Blast:
+  - PhoenixWingWindBlast-FET-EN-UtR-1E
+Royal Oppression:
+  - RoyalOppression-LOD-NA-R-1E
+Solemn Judgment:
+  - SolemnJudgment-MRD-NA-UR-1E
+Trap Dustshoot:
+  - TrapDustshoot-CP05-EN-SR-UE
+Mirror Force:
+  - MirrorForce-MRD-NA-UR-1E
+Threatening Roar:
+  - ThreateningRoar-CP01-EN-C-UE
+
+
+
 
 # Extra Deck
 
@@ -90,7 +138,10 @@ Stardust Dragon:
   - StardustDragon-TDGS-EN-GR-1E
 Tempest Magician:
   - TempestMagician-CSOC-EN-ScR-1E
-
+Red Dragon Archfiend:
+  - RedDragonArchfiend-TDGS-EN-UtR-1E
+Thought Ruler Archfiend:
+  - ThoughtRulerArchfiend-TDGS-EN-UtR-1E
 
 
 # Side - Needs reorganizing
