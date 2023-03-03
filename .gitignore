@@ -114,15 +114,16 @@ dmypy.json
 .pyre/
 .idea/misc.xml
 SellerPortalDatabase.iml
-decks/decklists/img/ffmpeg.exe
+decks/decklists/raw_imgs/ffmpeg.exe
 *.webp
-decks/decklists/img/z webp trash/New Text Document.txt
-decks/decklists/img/z webp trash/ffmpeg.exe
-decks/decklists/img/webp trash/ffmpeg.exe
-decks/decklists/img/webp trash/ffmpeg.exe
+decks/decklists/raw_imgs/z webp trash/New Text Document.txt
+decks/decklists/raw_imgs/z webp trash/ffmpeg.exe
+decks/decklists/raw_imgs/webp trash/ffmpeg.exe
+decks/decklists/raw_imgs/webp trash/ffmpeg.exe
 temp trash/
 .idea/
 RemasteredDeckLists/*.jpg
+decks/decklists/raw_imgs
 test.txt
 sorted_pricing/min_prices.yaml
 sorted_pricing/median_prices.yaml

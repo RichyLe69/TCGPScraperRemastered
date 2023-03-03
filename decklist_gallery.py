@@ -30,7 +30,7 @@ def calculate_row_cols(deck_of_decoded_cards, image_name):
 
 def get_full_deck_list_image_paths(deck_of_decoded_cards):
     full_deck_list_image_paths = []
-    path_to_card_images = "decks/decklists/img"  # root directory of images
+    path_to_card_images = "decks/decklists/raw_imgs"  # root directory of images
     for current_card in deck_of_decoded_cards:  # For every card in my deck
         current_card = current_card + '.jpg'
         card_image_found = False
@@ -401,7 +401,7 @@ if __name__ == '__main__':
 # 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
 # 	- this should also fix yaml list names to have proper names.
 #       [x] option to overwrite alphabetical ordering
-#       [x] categorize img folder - needs to be able to get image from any folder
+#       [x] categorize raw_imgs folder - needs to be able to get image from any folder
 #       [x] output yaml to human readable txt - actually the yaml itself is human readable. not NEEDED
 
 # 	[x] manual - save wiki pics of all max rarity cards
