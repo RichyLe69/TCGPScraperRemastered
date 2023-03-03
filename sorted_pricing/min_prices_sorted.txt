@@ -2727,7 +2727,8 @@ collection_deck_builder - 2023-02-25
 |         Lonefire Blossom Super CP          |  544  |
 |           Magician of Faith cp2            |  524  |
 |         Effect Veiler Ultimate 1st         |  513  |
-|          Judgment Dragon Ultimate          |  440  |
+|          Judgment Dragon UtR               |  440  |
+|          Judgment Dragon ScR               |  269  |
 |             Breaker TP7 super              |  409  |
 |            Jinzo Secret PSV 1st            |  400  |
 |     Trap Dustshoot Super CP 2 EN 1 DE      |  399  |

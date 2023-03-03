@@ -133,7 +133,7 @@ def place_header_on_decklist(full_image, header):
 def combine_images(main_image, side_image, extra_image, deck_list_name, header):
     combined_pic = cv2.vconcat([main_image, side_image, extra_image])
     final_image_with_header = place_header_on_decklist(combined_pic, header)
-    cv2.imwrite('remastered deck lists/' + deck_list_name + '.jpg', final_image_with_header)
+    cv2.imwrite('RemasteredDeckLists/' + deck_list_name + '.jpg', final_image_with_header)
 
 
 # Generating Price Table #
@@ -282,7 +282,7 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
                      'Extra Deck: {}\n'
                      'Total Price: {}'.format(main_deck_value, side_deck_value, extra_deck_value, total_deck_value))
 
-    directory = 'remastered deck lists/decklist prices/'
+    directory = 'RemasteredDeckLists/decklist prices/'
     file_name = deck_list_name + '.txt'
     current_date = str(datetime.date(datetime.now()))
     with open(directory + file_name, 'a') as my_file:
