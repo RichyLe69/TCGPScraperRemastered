@@ -393,6 +393,9 @@ if __name__ == '__main__':
 #       [] have a way to input card name, it'll calc a graph across dates. start to end, calc diff for last 1 week, 1 month, 3 month, 6 month, 1 year, 2 year, 5 year?
 #       [] generate format specific lists, organize by highest to lowest, organize by highest % change to lowest, similar to mtg goldfish format price lists, # rising cards, # declining cards
 
+# https://i.imgur.com/yjx8b0C.jpg
+# https://imgur.com/a/kHeaYmH
+
 # After
 #   [x]	save the deck name & prices into it's own .txt list
 # 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
