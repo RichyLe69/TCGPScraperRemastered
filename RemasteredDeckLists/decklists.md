@@ -1,19 +1,15 @@
 ## Decklists
 
 ## Contents
- - [2009 Twilight](#Twilight-2009)
- - [Dash out of crouch](#dash-out-of-crouch)
+ - [2009 Twilight](#2009-Twilight)
+ - [2009 Oppression TeleDad](#2009-Oppression-TeleDad)
 
 
 
-#### Twilight 2009
+#### 2009 Twilight
 
-![2009 Twilight](2009-twilight.jpg) 
+![Imgur Image](https://i.imgur.com/yjx8b0C.jpg)
 
-Dash Dance Example
-
-#### Dash out of crouch
-
-Imgur Image test
+#### 2009 Oppression TeleDad
 
 ![Imgur Image](https://i.imgur.com/yjx8b0C.jpg)
