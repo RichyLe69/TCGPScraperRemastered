@@ -10,7 +10,7 @@ from datetime import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = False
+generate_decklist_gallery = True
 generate_decklist_prices = True
 
 
@@ -42,7 +42,8 @@ def get_full_deck_list_image_paths(deck_of_decoded_cards):
                     full_deck_list_image_paths.append(image_paths)
                     break
         if not card_image_found:
-            print('Image Not Found: {}'.format(current_card))
+            print('Image Not Found: {}'.format(current_card))  # Card must be in card_code_list.yaml
+
     return full_deck_list_image_paths
 
 
@@ -108,7 +109,7 @@ def generate_image(card_list_in_deck, img_name):
                             for x in range(0, int(qty)):
                                 list_of_cards_to_append.append(card_to_add)
                     if not match:
-                        print('Card not found: {}'.format(cards))
+                        print('Card Missing from card_code_list.yaml: {}'.format(cards))
             deckbuilder.extend_to_deck_of_decoded_cards(list_of_cards_to_append)
     final_image = create_grid_image(deckbuilder.get_deck_of_decoded_cards(), img_name)
     deckbuilder.reset_deck_of_decoded_cards()
@@ -202,7 +203,7 @@ def get_rarity_from_card_code(card):
     for decode in card_code_list:  # Decoded english name of decode cards
         if card == decode:
             return card_code_list[card][0].split('-')[3]
-    print('Unable to find rarity')
+    print('Card missing from card_code_list, unable to get Rarity: {}'.format(card))
     return 'ERR'
 
 
@@ -240,7 +241,7 @@ def search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data):
                             prices[cards] = [max(value, prices[cards][0]), qty, rarity]
                 if not match:
                     # pass
-                    print('No match found: {}'.format(cards))
+                    print('Card not in Sorted Price Table. Wrong name in collection.yaml?: {}'.format(cards))
             noded_prices[node] = prices
             prices = {}
     return noded_prices
@@ -382,10 +383,11 @@ if __name__ == '__main__':
 #     [] finish deck lists
 #     [] dl wiki images
 #     [] decode card list
-#       [] quick and easy imgur links for fast viewing on mobile.
-#       [] md file and try to embed it?
+#       [x] quick and easy imgur links for fast viewing on mobile.
+#       [x] md file and try to embed it?
 #       [x] rarity input into the decklist toggle-able
 
+# Todo
 # Price tracking project
 #       csv format sample
     #       [] Card, date, date, date
@@ -393,8 +395,6 @@ if __name__ == '__main__':
 #       [] have a way to input card name, it'll calc a graph across dates. start to end, calc diff for last 1 week, 1 month, 3 month, 6 month, 1 year, 2 year, 5 year?
 #       [] generate format specific lists, organize by highest to lowest, organize by highest % change to lowest, similar to mtg goldfish format price lists, # rising cards, # declining cards
 
-# https://i.imgur.com/yjx8b0C.jpg
-# https://imgur.com/a/kHeaYmH
 
 # After
 #   [x]	save the deck name & prices into it's own .txt list
