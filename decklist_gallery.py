@@ -2,10 +2,15 @@ import os
 import cv2
 import numpy as np
 import re
-from utils import get_card_lists
+from utils import get_card_lists, get_number_out_of_string
 from CardList import CardList
 from prettytable import PrettyTable
 from datetime import datetime
+import datetime
+import matplotlib.pyplot as plt
+from matplotlib.offsetbox import AnchoredOffsetbox, TextArea, VPacker
+from mplcursors import cursor
+import matplotlib.dates
 
 # Configs
 use_max_rarity_pricing = True
@@ -101,6 +106,8 @@ def generate_image(card_list_in_deck, img_name):
         if node != 'Header':
             if node in nodes_to_do:
                 for cards in card_list_in_deck[node]:  # Card from deck list
+                    if cards == 'None':
+                        return None
                     match = False
                     for decode in card_code_list:  # Decoded english name of decode cards
                         if cards == decode:
@@ -122,8 +129,9 @@ def place_header_on_decklist(full_image, header):
     color = (255, 255, 255)  # White
     thickness = 5
 
+    y_start = full_image.shape[0] - 506  # 506 from the bottom, to accomodate 41+ lists
     x_start = 2400
-    y_start = 4750
+
     y_increment = 200
     for i, line in enumerate(header.split('\n')):
         y = y_start + i * y_increment
@@ -132,7 +140,8 @@ def place_header_on_decklist(full_image, header):
 
 
 def combine_images(main_image, side_image, extra_image, deck_list_name, header):
-    combined_pic = cv2.vconcat([main_image, side_image, extra_image])
+    pics_to_combine = list(filter(lambda x: x is not None, [main_image, side_image, extra_image]))
+    combined_pic = cv2.vconcat(pics_to_combine)
     final_image_with_header = place_header_on_decklist(combined_pic, header)
     cv2.imwrite('RemasteredDeckLists/' + deck_list_name + '.jpg', final_image_with_header)
 
@@ -140,10 +149,11 @@ def combine_images(main_image, side_image, extra_image, deck_list_name, header):
 # Generating Price Table #
 
 
-def get_number_out_of_string(line):
-    exclude_string = "1st"
-    number = re.findall(r'\d+', re.sub(exclude_string, '', line))[0]
-    return int(number)
+# def get_number_out_of_string(line):
+#     line = line.split('|', 2)[2]
+#     exclude_string = "1st"
+#     number = int(re.findall(r'\d+', re.sub(exclude_string, '', line))[0])
+#     return number
 
 
 def get_card_value_data_table(collection_name, list_name):
@@ -242,6 +252,7 @@ def search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data):
                 if not match:
                     # pass
                     print('Card not in Sorted Price Table. Wrong name in collection.yaml?: {}'.format(cards))
+                    prices[cards] = ['-', qty, rarity]
             noded_prices[node] = prices
             prices = {}
     return noded_prices
@@ -260,7 +271,8 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
         main_already = False
         for card in full_deck_prices[node]:
             qty = full_deck_prices[node][card][qty_index]
-            value = full_deck_prices[node][card][value_index]
+            val_object = full_deck_prices[node][card][value_index]
+            value = val_object if isinstance(val_object, int) else 0
             rarity = full_deck_prices[node][card][rarity_index] if display_rarity_in_decklist else ''
             if node == 'Monsters' and not main_already or node == 'Side' or node == 'Extra':
                 if not splitter:
@@ -270,8 +282,9 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
                     else:
                         my_table.add_row(['\n' + node + ' Deck', ''])
                         splitter = True
-            my_table.add_row(['{} {} {}'.format(qty, card, rarity), value])
             sectional_value += (value * qty)
+            value = '-' if value == 0 else value
+            my_table.add_row(['{} {} {}'.format(qty, card, rarity), value])
         sectional_prices[node] = sectional_value
 
     main_deck_value = sectional_prices['Monsters'] + sectional_prices['Spells'] + sectional_prices['Traps']
@@ -285,7 +298,7 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
 
     directory = 'RemasteredDeckLists/decklist prices/'
     file_name = deck_list_name + '.txt'
-    current_date = str(datetime.date(datetime.now()))
+    current_date = str(datetime.datetime.date(datetime.datetime.now()))
     with open(directory + file_name, 'a') as my_file:
         my_file.write(str(deck_list_name) + ' - ' + str(current_date) + ' - ' + pricing_variable + '\n')
         my_file.write(str(summed_totals) + '\n')
@@ -353,9 +366,9 @@ if __name__ == '__main__':
 
     collection_name = ['collection_deck_builder', 'collection_deck_core',
                        'collection_extra_deck', 'collection_old_school']
-    # pricing_variable_full = ['min_prices_sorted.txt', 'max_prices_sorted.txt',
-    #                          'mean_prices_sorted.txt', 'median_prices_sorted.txt']  # Full
-    pricing_variable_full = ['min_prices_sorted.txt']  # Single
+    pricing_variable_full = ['min_prices_sorted.txt', 'max_prices_sorted.txt',
+                             'mean_prices_sorted.txt', 'median_prices_sorted.txt']  # Full
+    # pricing_variable_full = ['min_prices_sorted.txt']  # Single
 
     for current_deck_list in list_of_decks:
         deckbuilder.get_yaml_list_data(current_deck_list, list_of_decks)
@@ -377,38 +390,10 @@ if __name__ == '__main__':
                 full_deck_prices = search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data)
                 generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable)
 
+
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 
-# TODO
-#     [] finish deck lists
-#     [] dl wiki images
-#     [] decode card list
-#       [x] quick and easy imgur links for fast viewing on mobile.
-#       [x] md file and try to embed it?
-#       [x] rarity input into the decklist toggle-able
-
 # Todo
-# Price tracking project
-#       csv format sample
-    #       [] Card, date, date, date
-    #       [] Judgment Dragon, [min, max, mean, median], [], ..., [] ...
-#       [] have a way to input card name, it'll calc a graph across dates. start to end, calc diff for last 1 week, 1 month, 3 month, 6 month, 1 year, 2 year, 5 year?
-#       [] generate format specific lists, organize by highest to lowest, organize by highest % change to lowest, similar to mtg goldfish format price lists, # rising cards, # declining cards
-
-
-# After
-#   [x]	save the deck name & prices into it's own .txt list
-# 	- search through min/max/med/mean lists, go to the latest one. retrieve the price and get the full price of the deck
-# 	- this should also fix yaml list names to have proper names.
-#       [x] option to overwrite alphabetical ordering
-#       [x] categorize raw_imgs folder - needs to be able to get image from any folder
-#       [x] output yaml to human readable txt - actually the yaml itself is human readable. not NEEDED
-
-# 	[x] manual - save wiki pics of all max rarity cards
-# 	[x] yaml list of each deck, with option to select different rarities (max rarity default)
-#   [x] # Rarity Overwrite logic: space Rarity ID. In logic, we check for space and rarity ID. Get it in card_code_list.yaml
-#   [x] yaml deck list, yaml list of basic names with nodes of specific file name (wiki format)
-#   [x] data poc script
-#   [x] footer text, tag it to the bottom (info, year, creator, event, place, etc)
-# 	[x] takes respective pic, resizes it and pastes it into a 4x10 grid. do same with side & extra
-# 	[x] save the deck list pic with a name,
+#       [] generate format specific lists, organize by highest to lowest,
+#       organize by highest % change to lowest,
+#       similar to mtg goldfish format price lists, # rising cards, # declining cards

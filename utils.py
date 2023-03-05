@@ -411,3 +411,10 @@ def create_excel_column_names(card_list):
     for card in card_list:
         data_list.append(card)
     return data_list
+
+
+def get_number_out_of_string(line):
+    line = line.split('|', 2)[2]
+    exclude_string = "1st"
+    number = int(re.findall(r'\d+', re.sub(exclude_string, '', line))[0])
+    return number
