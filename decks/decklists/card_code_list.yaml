@@ -28,7 +28,7 @@ Celestia Lightsworn Angel:
   - CelestiaLightswornAngel-LODT-EN-UtR-1E
 Garoth Lightsworn Warrior:
   - GarothLightswornWarrior-TU01-EN-SR-UE
-Gorz The Emissary of Darkness:
+Gorz the Emissary of Darkness:
   - GorztheEmissaryofDarkness-RP02-EN-ScR-LE
 Jain Lightsworn Paladin:
   - JainLightswornPaladin-LODT-EN-C-1E
@@ -62,6 +62,12 @@ Sangan:
   - Sangan-RP01-EU-SR-UE
 Snipe Hunter:
   - SnipeHunter-CP03-EN-SR-UE
+
+
+
+
+
+
 
 # Spells
 
@@ -111,7 +117,7 @@ Threatening Roar:
 # Extra Deck
 
 Ally of Justice Catastor:
-  - AllyofJusticeCatastor-DTP1-EN-DRPR-DT
+  - AllyofJusticeCatastor-DTP1-EN-DT-DT
 Ancient Fairy Dragon:
   - AncientFairyDragon-ANPR-EN-GR-1E
 Arcanite Magician:
@@ -121,7 +127,7 @@ Avenging Knight Parshath:
 Black Rose Dragon:
   - BlackRoseDragon-CSOC-EN-GR-1E
 Brionac Dragon of the Ice Barrier:
-  - BrionacDragonoftheIceBarrier-DT01-EN-DUPR-DT
+  - BrionacDragonoftheIceBarrier-DT01-EN-DT-DT
 Colossal Fighter:
   - ColossalFighter-TU05-EN-UtR-UE
 Dark End Dragon:
@@ -133,7 +139,7 @@ Goyo Guardian:
 Magical Android:
   - MagicalAndroid-TDGS-EN-SR-1E
 Mist Wurm:
-  - MistWurm-DT01-EN-DUPR-DT
+  - MistWurm-DT01-EN-DT-DT
 Stardust Dragon:
   - StardustDragon-TDGS-EN-GR-1E
 Tempest Magician:
@@ -165,3 +171,376 @@ Lightning Vortex:
   - LightningVortex-FET-EN-UtR-1E
 Torrential Tribute:
   - TorrentialTribute-LON-NA-UR-1E
+
+
+# To Sort
+
+Black Luster Soldier Envoy of the Beginning:
+  - BlackLusterSoldierEnvoyoftheBeginning-IOC-NA-UR-1E
+Book of Moon:
+  - BookofMoon-CP01-EN-SR-UE
+Card Destruction:
+  - CardDestruction-SDY-NA-SR-1E
+Dark Balter the Terrible:
+  - DarkBaltertheTerrible-LOD-NA-SR-1E
+Dark Blade the Dragon Knight:
+  - DarkBladetheDragonKnight-RDS-EN-UtR-1E
+Darkfire Dragon:
+  - DarkfireDragon-LOB-NA-R-UE
+Dekoichi the Battle Enchanted Locomotive:
+  - DekoichitheBattlechantedLocomotive-RDS-EN-UtR-1E
+Delinquent Duo:
+  - DelinquentDuo-MRL-NA-UR-1E
+Dragoness the Wicked Knight:
+  - DragonesstheWickedKnight-LOB-NA-R-UE
+Fiend Skull Dragon:
+  - FiendSkullDragon-LOD-NA-SR-UE
+Gatling Dragon:
+  - GatlingDragon-FET-EN-UtR-1E
+Graceful Charity:
+  - GracefulCharity-SDP-NA-SR-1E
+Gravekeeper Spy:
+  - GravekeepersSpy-CP03-EN-SR-UE
+Magician of Faith:
+  - MagicianofFaith-CP02-EN-SR-UE
+Master of Oz:
+  - MasterofOz-SOD-EN-UtR-UE
+Night Assailant:
+  - NightAssailant-CP01-EN-SR-UE
+Nobleman of Crossout:
+  - NoblemanofCrossout-PSV-NA-SR-1E
+Ojama King:
+  - OjamaKing-SOD-EN-UtR-UE
+Pot of Greed:
+  - PotofGreed-DPKB-EN-UtR-1E
+Reaper on the Nightmare:
+  - ReaperontheNightmare-PGD-NA-SR-UE
+Ring of Destruction:
+  - RingofDestruction-PGD-NA-ScR-1E
+Ryu Senshi:
+  - RyuSenshi-LOD-NA-SR-UE
+Sinister Serpent:
+  - SinisterSerpent-SDD-NA-PScR-UE
+Snatch Steal:
+  - SnatchSteal-MRL-NA-UR-1E
+Thousand Eyes Restrict:
+  - ThousandEyesRestrict-TB-JP-UtR
+Thunder Dragon:
+  - ThunderDragon-MRD-NA-SP-1E
+Tribe Infecting Virus:
+  - TribeInfectingVirus-MFC-NA-SR-1E
+Tsukuyomi:
+  - Tsukuyomi-AP01-EN-UtR-UE
+
+
+Blackwing Gale the Whirlwind:
+  - BlackwingGaletheWhirlwind-CRMS-EN-R-1E
+Card Trooper:
+  - CardTrooper-DP03-EN-UR-1E
+Cyber Valley:
+  - CyberValley-PTDN-EN-SR-1E
+Darklord Zerato:
+  - DarklordZerato-PTDN-EN-ScR-1E
+Dark Magician of Chaos:
+  - DarkMagicianofChaos-IOC-NA-UR-1E
+Destiny Hero Dasher:
+  - DestinyHERODasher-POTD-EN-UtR-1E
+Destiny Hero Disk Commander:
+  - DestinyHERODiskCommander-WC07-EN-SR-UE
+Destiny Hero Plasma:
+  - DestinyHEROPlasma-CT04-EN-ScR-LE
+Dimension Fusion:
+  - DimensionFusion-IOC-NA-UR-1E
+Dust Tornado:
+  - DustTornado-PSV-NA-SR-1E
+Foolish Burial:
+  - FoolishBurial-TU02-EN-SR-UE
+Gold Sarcophagus:
+  - GoldSarcophagus-GLD2-EN-GUR-LE
+Jinzo:
+  - Jinzo-PSV-NA-ScR-1E
+Machine Duplication:
+  - MachineDuplication-RDS-EN-UtR-1E
+Mind Crush:
+  - MindCrush-CP08-EN-SR-UE
+Premature Burial:
+  - PrematureBurial-PSV-NA-UR-1E
+Return from the Different Dimension:
+  - ReturnfromtheDifferentDimension-DPKB-EN-SR-1E
+Ryko Lightsworn Hunter:
+  - RykoLightswornHunter-LODT-EN-SR-1E
+Scapegoat:
+  - Scapegoat-RP01-IT-UR-UE
+Spirit Reaper:
+  - SpiritReaper-CP03-EN-SR-UE
+Thunder King Rai Oh:
+  - ThunderKingRaiOh-TU08-EN-UtR-UE
+  - ThunderKingRaiOh-YG02-EN-ScR-LE
+
+Destiny Hero Doom Lord:
+  - DestinyHERODoomLord-DR04-NA-R-UE
+Archlord Kristya:
+  - ArchlordKristya-SOVR-EN-ScR-1E
+Armory Arm:
+  - ArmoryArm-DP08-EN-UR-1E
+Call of the Haunted:
+  - CalloftheHaunted-PSV-NA-UR-1E
+Chimeratech Fortress Dragon:
+  - ChimeratechFortressDragon-JUMP-EN-UR-LE
+Consecrated Light:
+  - ConsecratedLight-ABPF-EN-SP-1E
+Cyber Dragon:
+  - CyberDragon-CRV-EN-UtR-1E
+Giant Trunade:
+  - GiantTrunade-MRL-NA-SR-1E
+Herald of Orange Light:
+  - HeraldofOrangeLight-TDGS-EN-R-1E
+Morphing Jar:
+  - MorphingJar-TP4-NA-SR-UE
+Soul of Purity and Light:
+  - SoulofPurityandLight-LON-NA-C-1E
+Super Nimble Mega Hamster:
+  - SuperNimbleMegaHamster-ABPF-EN-SR-1E
+
+Dandylion:
+  - Dandylion-AP04-EN-UtR-UE
+Dark Hole:
+  - DarkHole-LOB-NA-SR-1E
+Debris Dragon:
+  - DebrisDragon-AP01-EN-UtR-UE
+Dimensional Prison:
+  - DimensionalPrison-WC08-EN-SR-UE
+Doomcaliber Knight:
+  - DoomcaliberKnight-TU01-EN-UR-UE
+Effect Veiler:
+  - EffectVeiler-DREV-EN-UtR-1E
+Enemy Controller:
+  - EnemyController-AST-NA-UR-1E
+Evolzar Dolkka:
+  - EvolzarDolkka-PHSW-EN-ScR-1E
+Evolzar Laggia:
+  - EvolzarLaggia-PHSW-EN-UtR-1E
+Formula Synchron:
+  - FormulaSynchron-AC11-DE-UR-LE
+Glow Up Bulb:
+  - GlowUpBulb-STBL-EN-UtR-1E
+Kabazuls:
+  - Kabazauls-PGD-NA-C-1E
+Leviair the Sea Dragon:
+  - LeviairtheSeaDragon-GENF-EN-UtR-1E
+Lonefire Blossom:
+  - LonefireBlossom-CP07-EN-SR-UE
+Maxx C:
+  - MaxxC-AP04-EN-UtR-UE
+  - MaxxC-STOR-EN-ScR-1E
+Mind Control:
+  - MindControl-WC5-EN-SR-UE
+Number 17 Leviathan Dragon:
+  - Number17LeviathanDragon-GENF-EN-GR-1E
+Number 39 Utopia:
+  - Number39Utopia-YS11-EN-UR-1E
+Number C39 Utopia Ray:
+  - NumberC39UtopiaRay-ORCS-EN-GR-1E
+One for One:
+  - OneforOne-DPCT-EN-SR-LE
+Orient Dragon:
+  - OrientDragon-GENF-EN-ScR-1E
+Pot of Avarice:
+  - PotofAvarice-EEN-EN-UtR-1E
+Reborn Tengu:
+  - RebornTengu-EXVC-EN-UR-LE
+Rescue Rabbit:
+  - RescueRabbit-PHSW-EN-ScR-1E
+Sabersaurus:
+  - Sabersaurus-POTD-EN-C-1E
+Scrap Dragon:
+  - ScrapDragon-DREV-EN-UtR-1E
+Smashing Ground:
+  - SmashingGround-CP02-EN-SR-UE
+Solemn Warning:
+  - SolemnWarning-DREV-EN-UtR-1E
+Spore:
+  - Spore-GENF-EN-SR-LE
+Steelswarm Roach:
+  - SteelswarmRoach-GENF-EN-ScR-1E
+T.G. Hyper Librarian:
+  - TGHyperLibrarian-JUMP-EN-UR-LE
+Tour Guide From the Underworld:
+  - TourGuideFromtheUnderworld-AP06-EN-UtR-UE
+  - TourGuideFromtheUnderworld-EXVC-EN-ScR-1E
+Trishula Dragon of the Ice Barrier:
+  - TrishulaDragonoftheIceBarrier-DT04-EN-DT-DT
+Wind Up Zenmaines:
+  - WindUpZenmaines-PHSW-EN-ScR-1E
+Advanced Ritual Art:
+  - AdvancedRitualArt-TU04-EN-R-UE
+Cyber End Dragon:
+  - CyberEndDragon-CRV-EN-UtR-1E
+Cyber Twin Dragon:
+  - CyberTwinDragon-CRV-EN-UtR-1E
+Demise King of Armageddon:
+  - DemiseKingofArmageddon-SOI-EN-UtR-1E
+Doom Dozer:
+  - DoomDozer-SOI-EN-UtR-1E
+Gravity Bind:
+  - GravityBind-PSV-NA-R-1E
+Insect Knight:
+  - InsectKnight-FET-EN-C-1E
+Jar of Greed:
+  - JarofGreed-LON-NA-SR-1E
+Magic Cylinder:
+  - MagicCylinder-LON-NA-ScR-1E
+Manju of the Ten Thousand Hands:
+  - ManjuoftheTenThousandHands-IOC-NA-SP-1E
+Megamorph:
+  - Megamorph-MRL-NA-UR-1E
+Metal Armored Bug:
+  - MetalArmoredBug-AST-NA-C-1E
+Metamorphosis:
+  - Metamorphosis-CP01-EN-SR-UE
+  - Metamorphosis-PGD-NA-C-1E
+Neo Bug:
+  - NeoBug-IOC-NA-C-1E
+Senju of the Thousand Hands:
+  - SenjuoftheThousandHands-MRL-NA-R-1E
+Sonic Bird:
+  - SonicBird-MRL-NA-C-1E
+Chimeratech Overdragon:
+  - ChimeratechOverdragon-POTD-EN-UtR-1E
+Confiscation:
+  - Confiscation-MRL-NA-SR-1E
+Cyber Phoenix:
+  - CyberPhoenix-EOJ-EN-UtR-1E
+Future Fusion:
+  - FutureFusion-POTD-EN-UtR-1E
+Limiter Removal:
+  - LimiterRemoval-PSV-NA-SR-1E
+Overload Fusion:
+  - OverloadFusion-POTD-EN-UtR-1E
+Sakuretsu Armor:
+  - SakuretsuArmor-CP01-EN-SR-UE
+
+Blaster Dragon Ruler of Infernos:
+  - BlasterDragonRulerofInfernos-CT10-EN-ScR-LE
+Eclipse Wyvern:
+  - EclipseWyvern-SDDC-EN-SR-1E
+Kuribandit:
+  - Kuribandit-DRLG-EN-ScR-1E
+Lightray Diabolos:
+  - LightrayDiabolos-GAOV-EN-R-1E
+Needlebug Nest:
+  - NeedlebugNest-TDGS-EN-C-1E
+Raiden Lightsworn Assassin:
+  - RaidenHandoftheLightsworn-SDLI-EN-SR-1E
+Soul Charge:
+  - SoulCharge-DRLG-EN-SR-1E
+Tempest Dragon Ruler of Storms:
+  - TempestDragonRulerofStorms-CT10-EN-ScR-LE
+Upstart Goblin:
+  - UpstartGoblin-TU08-EN-SR-UE
+  - UpstartGoblin-MRL-NA-C-1E
+
+Diamond Dire Wolf:
+  - DiamondDireWolf-CBLZ-EN-ScR-1E
+Ghostrick Alucard:
+  - GhostrickAlucard-SHSP-EN-UtR-1E
+Lavalval Chain:
+  - LavalvalChain-DT07-EN-DUPR-DT
+Mecha Phantom Beast Dracossack:
+  - MechaPhantomBeastDracossack-LTGY-EN-ScR-1E
+Mechquipped Angineer:
+  - MechquippedAngineer-NUMH-EN-SR-1E
+Michael the Arch Lightsworn:
+  - MichaeltheArchLightsworn-SDLI-EN-UR-1E
+Number 11 Big Eye:
+  - Number11BigEye-GAOV-EN-ScR-1E
+Number 80 Rhapsody in Berserk:
+  - Number80RhapsodyinBerserk-AP06-EN-SR-UE
+Number 101 Silent Honor Ark:
+  - Number101SilentHonorARK-LVAL-EN-UtR-1E
+Starliege Paladynamo:
+  - StarliegePaladynamo-ZTIN-EN-UR-1E
+
+#  -
+#
+#  -
+#
+#  -
+#
+#  -
+#
+#  -
+#
+#  -
+#
+#  -
+#
+#  -
+#
+#
+#  -
+#
+#
+#
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+None:
+  - -----

@@ -1,7 +1,40 @@
 ## Split Collections
 
-#2009-twilight:
-#  path: 'decks/decklists/2009-twilight.yaml'
+2006-chaosturbo:
+  path: 'decks/decklists/2006-chaosturbo.yaml'
+
+2007-demiseotk:
+  path: 'decks/decklists/2007-demiseotk.yaml'
+
+2007-machinesotk:
+  path: 'decks/decklists/2007-machinesotk.yaml'
+
+2008-lightsworn:
+  path: 'decks/decklists/2008-lightsworn.yaml'
+
+2008-returndad:
+  path: 'decks/decklists/2008-returndad.yaml'
+
+2008-teledad:
+  path: 'decks/decklists/2008-teledad.yaml'
+
+2009-twilight:
+  path: 'decks/decklists/2009-twilight.yaml'
 
 2009-teledad:
   path: 'decks/decklists/2009-teledad.yaml'
+
+2010-kristyasworn:
+  path: 'decks/decklists/2010-kristyasworn.yaml'
+
+2010-kristyaswornedison:
+  path: 'decks/decklists/2010-kristyaswornedison.yaml'
+
+2011-tenguplant:
+  path: 'decks/decklists/2011-tenguplant.yaml'
+
+2012-dinorabbit:
+  path: 'decks/decklists/2012-dinorabbit.yaml'
+
+2014-lightswornrulers:
+  path: 'decks/decklists/2014-lightswornrulers.yaml'

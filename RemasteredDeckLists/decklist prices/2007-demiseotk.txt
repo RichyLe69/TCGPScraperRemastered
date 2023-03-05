@@ -1,0 +1,336 @@
+2007-demiseotk - 2023-03-04 - min_prices_sorted.txt
+Main Deck: 879
+Side Deck: 0
+Extra Deck: 3684
+Total Price: 4563
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  54 |
+| 3 Doom Dozer UtR                     |  56 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   2 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  57 |
+| 1 Mystical Space Typhoon UR          |  89 |
+| 1 Giant Trunade SR                   |  29 |
+| 1 Snatch Steal UR                    |  66 |
+| 1 Premature Burial UR                |  43 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   5 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |   7 |
+| 1 Ring of Destruction ScR            |  55 |
+| 1 Mirror Force UR                    |  90 |
+| 1 Torrential Tribute UR              |  74 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 229 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - max_prices_sorted.txt
+Main Deck: 1662
+Side Deck: 0
+Extra Deck: 4329
+Total Price: 5991
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      | 139 |
+| 3 Doom Dozer UtR                     | 100 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   5 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   5 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  60 |
+| 1 Mystical Space Typhoon UR          | 145 |
+| 1 Giant Trunade SR                   |  42 |
+| 1 Snatch Steal UR                    |  69 |
+| 1 Premature Burial UR                |  59 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   9 |
+| 1 Gravity Bind R                     |   3 |
+| 1 Magic Cylinder ScR                 |  15 |
+| 1 Ring of Destruction ScR            | 140 |
+| 1 Mirror Force UR                    | 199 |
+| 1 Torrential Tribute UR              | 149 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 444 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - mean_prices_sorted.txt
+Main Deck: 1148
+Side Deck: 0
+Extra Deck: 3822
+Total Price: 4970
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  86 |
+| 3 Doom Dozer UtR                     |  69 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   3 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  58 |
+| 1 Mystical Space Typhoon UR          | 110 |
+| 1 Giant Trunade SR                   |  33 |
+| 1 Snatch Steal UR                    |  67 |
+| 1 Premature Burial UR                |  48 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   6 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |  10 |
+| 1 Ring of Destruction ScR            |  83 |
+| 1 Mirror Force UR                    | 133 |
+| 1 Torrential Tribute UR              |  96 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 275 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - median_prices_sorted.txt
+Main Deck: 1068
+Side Deck: 0
+Extra Deck: 3744
+Total Price: 4812
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  79 |
+| 3 Doom Dozer UtR                     |  59 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   3 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  59 |
+| 1 Mystical Space Typhoon UR          | 106 |
+| 1 Giant Trunade SR                   |  30 |
+| 1 Snatch Steal UR                    |  66 |
+| 1 Premature Burial UR                |  47 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   7 |
+| 1 Gravity Bind R                     |   3 |
+| 1 Magic Cylinder ScR                 |  10 |
+| 1 Ring of Destruction ScR            |  83 |
+| 1 Mirror Force UR                    | 115 |
+| 1 Torrential Tribute UR              |  89 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 249 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - min_prices_sorted.txt
+Main Deck: 879
+Side Deck: 0
+Extra Deck: 3684
+Total Price: 4563
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  54 |
+| 3 Doom Dozer UtR                     |  56 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   2 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  57 |
+| 1 Mystical Space Typhoon UR          |  89 |
+| 1 Giant Trunade SR                   |  29 |
+| 1 Snatch Steal UR                    |  66 |
+| 1 Premature Burial UR                |  43 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   5 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |   7 |
+| 1 Ring of Destruction ScR            |  55 |
+| 1 Mirror Force UR                    |  90 |
+| 1 Torrential Tribute UR              |  74 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 229 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - max_prices_sorted.txt
+Main Deck: 1662
+Side Deck: 0
+Extra Deck: 4329
+Total Price: 5991
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      | 139 |
+| 3 Doom Dozer UtR                     | 100 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   5 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   5 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  60 |
+| 1 Mystical Space Typhoon UR          | 145 |
+| 1 Giant Trunade SR                   |  42 |
+| 1 Snatch Steal UR                    |  69 |
+| 1 Premature Burial UR                |  59 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   9 |
+| 1 Gravity Bind R                     |   3 |
+| 1 Magic Cylinder ScR                 |  15 |
+| 1 Ring of Destruction ScR            | 140 |
+| 1 Mirror Force UR                    | 199 |
+| 1 Torrential Tribute UR              | 149 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 444 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - mean_prices_sorted.txt
+Main Deck: 1148
+Side Deck: 0
+Extra Deck: 3822
+Total Price: 4970
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  86 |
+| 3 Doom Dozer UtR                     |  69 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   3 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  58 |
+| 1 Mystical Space Typhoon UR          | 110 |
+| 1 Giant Trunade SR                   |  33 |
+| 1 Snatch Steal UR                    |  67 |
+| 1 Premature Burial UR                |  48 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   6 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |  10 |
+| 1 Ring of Destruction ScR            |  83 |
+| 1 Mirror Force UR                    | 133 |
+| 1 Torrential Tribute UR              |  96 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 275 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-03-04 - median_prices_sorted.txt
+Main Deck: 1068
+Side Deck: 0
+Extra Deck: 3744
+Total Price: 4812
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  79 |
+| 3 Doom Dozer UtR                     |  59 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   3 |
+| 2 Senju of the Thousand Hands R      |   2 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   - |
+| 3 Megamorph UR                       |   3 |
+| 2 Metamorphosis SR                   |   - |
+| 1 Heavy Storm SR                     |  59 |
+| 1 Mystical Space Typhoon UR          | 106 |
+| 1 Giant Trunade SR                   |  30 |
+| 1 Snatch Steal UR                    |  66 |
+| 1 Premature Burial UR                |  47 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |   7 |
+| 1 Gravity Bind R                     |   3 |
+| 1 Magic Cylinder ScR                 |  10 |
+| 1 Ring of Destruction ScR            |  83 |
+| 1 Mirror Force UR                    | 115 |
+| 1 Torrential Tribute UR              |  89 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 249 |
+| 3 Cyber End Dragon UtR               | 999 |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Karbonala Warrior ERR              |   - |
++--------------------------------------+-----+

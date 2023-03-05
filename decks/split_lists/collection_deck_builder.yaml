@@ -67,7 +67,7 @@ Breaker the Magical Warrior TP7 super:
 
 #
 
-Black Luster Soldier EOTB Ultra 1st:
+Black Luster Soldier Envoy of the Beginning Ultra 1st:
   url: 23112
   edition: 'Near Mint 1st'
   qty: 3
@@ -77,7 +77,7 @@ Chaos Sorcerer Ultra TU:
   edition: 'Near Mint'
   qty: 3
 
-Doomcalibur Knight TU:
+Doomcaliber Knight TU:
   url: 33225
   edition: 'Near Mint Unlimited'
   qty: 3
@@ -92,7 +92,7 @@ Dark Grepher Secret 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-Dark Lord Zerato Secret 1st:
+Darklord Zerato Secret 1st:
   url: 26682
   edition: 'Near Mint 1st'
   qty: 1
@@ -181,7 +181,7 @@ Plaguespreader Zombie Ultimate 1st ITA:
   edition: 'Near Mint 1st'
   qty: 0.5
 
-Doom Lord Rare DR04:
+Destiny Hero Doom Lord Rare DR04:
   url: 80788
   edition: 'Near Mint'
   qty: 1
@@ -203,7 +203,7 @@ Destiny Hero Diamond Dude Ultimate 1st - 2 EN 1 DE:
 
 #
 
-Tour Guide Ultimate Italian:
+Tour Guide From the Underworld Ultimate:
   url: 95358
   edition: 'Near Mint Unlimited'
   qty: 2.25
@@ -213,7 +213,7 @@ Maxx C Ultimate - 1 EN 1 SP:
   edition: 'Near Mint Unlimited'
   qty: 1.75
 
-Thunder King Rai-Oh Ultimate:
+Thunder King Rai Oh Ultimate:
   url: 66773
   edition: 'Near Mint Unlimited'
   qty: 3
@@ -277,7 +277,7 @@ Archlord Kristya Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Glowup Bulb Ultimate 2 EN:
+Glow Up Bulb Ultimate 2 EN:
   url: 58425
   edition: 'Near Mint 1st'
   qty: 2
@@ -299,12 +299,12 @@ Battle Fader UTR 1st:
 
 #
 
-Dekoichi UTR 1st NM:
+Dekoichi the Battle Enchanted Locomotive UTR 1st NM:
   url: 58797
   edition: 'Near Mint 1st'
   qty: 1
 
-Dekoichi UTR 1st LP:
+Dekoichi the Battle Enchanted Locomotive UTR 1st LP:
   url: 58797
   edition: 'Lightly Played 1st'
   qty: 2
@@ -314,14 +314,17 @@ Cyber Phoenix Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Ryko LODT 1st:
+Ryko Lightsworn Hunter 1st:
   url: 26716
   edition: 'Near Mint 1st'
   qty: 3
 
-# Sinister Serpent
+Sinister Serpent:
+  url: 22958
+  edition: 'Near Mint'
+  qty: 1
 
-Tribe infecting MFC 1st:
+Tribe Infecting Virus 1st:
   url: 22540
   edition: 'Near Mint 1st'
   qty: 1
@@ -352,7 +355,7 @@ Dark Mimic Lv1:
 
 #
 
-Demise UTR 1st:
+Demise King of Armageddon UTR 1st:
   url: 58695
   edition: 'Near Mint 1st'
   qty: 3
@@ -378,6 +381,11 @@ Scapegoat Ultra RP01 ita:
   url: 78160
   edition: 'Near Mint Unlimited'
   qty: 1.25
+
+#Metamorphosis CP01:
+#  url: 26058
+#  edition: 'Near Mint'
+#  qty: 3
 
 Pot of Greed Ultimate 1st - 2 EN 2 Foreign:
   url: 35076
@@ -511,12 +519,12 @@ Mind Control WC Super:
   edition: 'Near Mint Limited'
   qty: 2
 
-Machine Dupe Ultimate 1st:
+Machine Duplication Ultimate 1st:
   url: 58803
   edition: 'Near Mint 1st'
   qty: 2
 
-Gold Sarc GLD2 2009:
+Gold Sarcophagus GLD2 2009:
   url: 32113
   edition: 'Near Mint'
   qty: 2
@@ -628,7 +636,7 @@ Call of the Haunted 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Return from Different Dimension DPKB Super:
+Return from the Different Dimension DPKB Super:
   url: 35085
   edition: 'Near Mint 1st'
   qty: 3

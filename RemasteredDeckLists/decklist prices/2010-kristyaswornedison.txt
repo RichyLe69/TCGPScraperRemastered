@@ -1,0 +1,520 @@
+2010-kristyaswornedison - 2023-03-04 - min_prices_sorted.txt
+Main Deck: 4816
+Side Deck: 1277
+Extra Deck: 3500
+Total Price: 9593
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  187 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    7 |
+| 3 Celestia Lightsworn Angel UtR          |   61 |
+| 1 Ehren Lightsworn Monk ScR              |   59 |
+| 1 Garoth Lightsworn Warrior SR           |   39 |
+| 1 Gorz the Emissary of Darkness ScR      |    6 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  389 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  410 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |   97 |
+| 1 Wulf Lightsworn Beast SR               |    5 |
+| 2 Ryko Lightsworn Hunter SR              |   24 |
+| 1 Tragoedia UtR                          |  149 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  556 |
+| 1 Charge of the Light Brigade ScR        |  196 |
+| 3 Solar Recharge UtR                     |  123 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  208 |
+| 1 Heavy Storm SR                         |   57 |
+| 1 Foolish Burial SR                      |  247 |
+| 2 Beckoning Light SR                     |   39 |
+| 1 Call of the Haunted UR                 |   50 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  250 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  306 |
+| 1 Giant Trunade SR                       |   29 |
+| 1 Mystical Space Typhoon UR              |   89 |
+| 2 Royal Decree UR                        |   27 |
+| 1 Trap Dustshoot SR                      |  399 |
+| 1 Royal Oppression R                     |   15 |
+| 1 Return from the Different Dimension SR |   20 |
+| 1 Mind Crush SR                          |  115 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   69 |
+| 1 Ancient Fairy Dragon GR                |  647 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  249 |
+| 1 Brionac Dragon of the Ice Barrier DT   |   91 |
+| 1 Colossal Fighter UtR                   |   85 |
+| 1 Goyo Guardian UtR                      |  188 |
+| 1 Magical Android SR                     |   19 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1649 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - max_prices_sorted.txt
+Main Deck: 7071
+Side Deck: 1874
+Extra Deck: 4919
+Total Price: 13864
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  194 |
+| 1 Aurkus Lightsworn Druid SR             |    5 |
+| 1 Card Trooper UR                        |   14 |
+| 3 Celestia Lightsworn Angel UtR          |  120 |
+| 1 Ehren Lightsworn Monk ScR              |   89 |
+| 1 Garoth Lightsworn Warrior SR           |   49 |
+| 1 Gorz the Emissary of Darkness ScR      |   19 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  500 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  650 |
+| 1 Lumina Lightsworn Summoner SR          |  300 |
+| 1 Lyla Lightsworn Sorceress UtR          |  149 |
+| 1 Wulf Lightsworn Beast SR               |   12 |
+| 2 Ryko Lightsworn Hunter SR              |   41 |
+| 1 Tragoedia UtR                          |  224 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  999 |
+| 1 Charge of the Light Brigade ScR        |  399 |
+| 3 Solar Recharge UtR                     |  179 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  230 |
+| 1 Heavy Storm SR                         |   60 |
+| 1 Foolish Burial SR                      |  434 |
+| 2 Beckoning Light SR                     |   44 |
+| 1 Call of the Haunted UR                 |  139 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  504 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  499 |
+| 1 Giant Trunade SR                       |   42 |
+| 1 Mystical Space Typhoon UR              |  145 |
+| 2 Royal Decree UR                        |   37 |
+| 1 Trap Dustshoot SR                      |  441 |
+| 1 Royal Oppression R                     |   20 |
+| 1 Return from the Different Dimension SR |   29 |
+| 1 Mind Crush SR                          |  120 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |  111 |
+| 1 Ancient Fairy Dragon GR                |  799 |
+| 1 Armory Arm UR                          |    9 |
+| 1 Black Rose Dragon GR                   |  399 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  250 |
+| 1 Colossal Fighter UtR                   |  104 |
+| 1 Goyo Guardian UtR                      |  222 |
+| 1 Magical Android SR                     |   29 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 2499 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - mean_prices_sorted.txt
+Main Deck: 5520
+Side Deck: 1463
+Extra Deck: 3890
+Total Price: 10873
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  189 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    9 |
+| 3 Celestia Lightsworn Angel UtR          |   81 |
+| 1 Ehren Lightsworn Monk ScR              |   74 |
+| 1 Garoth Lightsworn Warrior SR           |   43 |
+| 1 Gorz the Emissary of Darkness ScR      |   12 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  408 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  488 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |  116 |
+| 1 Wulf Lightsworn Beast SR               |    7 |
+| 2 Ryko Lightsworn Hunter SR              |   30 |
+| 1 Tragoedia UtR                          |  166 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  725 |
+| 1 Charge of the Light Brigade ScR        |  255 |
+| 3 Solar Recharge UtR                     |  144 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  217 |
+| 1 Heavy Storm SR                         |   58 |
+| 1 Foolish Burial SR                      |  269 |
+| 2 Beckoning Light SR                     |   41 |
+| 1 Call of the Haunted UR                 |   90 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  335 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  360 |
+| 1 Giant Trunade SR                       |   33 |
+| 1 Mystical Space Typhoon UR              |  110 |
+| 2 Royal Decree UR                        |   29 |
+| 1 Trap Dustshoot SR                      |  413 |
+| 1 Royal Oppression R                     |   16 |
+| 1 Return from the Different Dimension SR |   21 |
+| 1 Mind Crush SR                          |  117 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   91 |
+| 1 Ancient Fairy Dragon GR                |  681 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  284 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  141 |
+| 1 Colossal Fighter UtR                   |   94 |
+| 1 Goyo Guardian UtR                      |  195 |
+| 1 Magical Android SR                     |   24 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1877 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - median_prices_sorted.txt
+Main Deck: 5282
+Side Deck: 1365
+Extra Deck: 3636
+Total Price: 10283
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  188 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    9 |
+| 3 Celestia Lightsworn Angel UtR          |   77 |
+| 1 Ehren Lightsworn Monk ScR              |   79 |
+| 1 Garoth Lightsworn Warrior SR           |   41 |
+| 1 Gorz the Emissary of Darkness ScR      |   11 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  390 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  468 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |  114 |
+| 1 Wulf Lightsworn Beast SR               |    7 |
+| 2 Ryko Lightsworn Hunter SR              |   27 |
+| 1 Tragoedia UtR                          |  157 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  677 |
+| 1 Charge of the Light Brigade ScR        |  215 |
+| 3 Solar Recharge UtR                     |  134 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  213 |
+| 1 Heavy Storm SR                         |   59 |
+| 1 Foolish Burial SR                      |  249 |
+| 2 Beckoning Light SR                     |   41 |
+| 1 Call of the Haunted UR                 |   99 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  299 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  322 |
+| 1 Giant Trunade SR                       |   30 |
+| 1 Mystical Space Typhoon UR              |  106 |
+| 2 Royal Decree UR                        |   28 |
+| 1 Trap Dustshoot SR                      |  400 |
+| 1 Royal Oppression R                     |   15 |
+| 1 Return from the Different Dimension SR |   20 |
+| 1 Mind Crush SR                          |  117 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   94 |
+| 1 Ancient Fairy Dragon GR                |  648 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  260 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  124 |
+| 1 Colossal Fighter UtR                   |   95 |
+| 1 Goyo Guardian UtR                      |  189 |
+| 1 Magical Android SR                     |   24 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1699 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - min_prices_sorted.txt
+Main Deck: 4816
+Side Deck: 1277
+Extra Deck: 3500
+Total Price: 9593
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  187 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    7 |
+| 3 Celestia Lightsworn Angel UtR          |   61 |
+| 1 Ehren Lightsworn Monk ScR              |   59 |
+| 1 Garoth Lightsworn Warrior SR           |   39 |
+| 1 Gorz the Emissary of Darkness ScR      |    6 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  389 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  410 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |   97 |
+| 1 Wulf Lightsworn Beast SR               |    5 |
+| 2 Ryko Lightsworn Hunter SR              |   24 |
+| 1 Tragoedia UtR                          |  149 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  556 |
+| 1 Charge of the Light Brigade ScR        |  196 |
+| 3 Solar Recharge UtR                     |  123 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  208 |
+| 1 Heavy Storm SR                         |   57 |
+| 1 Foolish Burial SR                      |  247 |
+| 2 Beckoning Light SR                     |   39 |
+| 1 Call of the Haunted UR                 |   50 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  250 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  306 |
+| 1 Giant Trunade SR                       |   29 |
+| 1 Mystical Space Typhoon UR              |   89 |
+| 2 Royal Decree UR                        |   27 |
+| 1 Trap Dustshoot SR                      |  399 |
+| 1 Royal Oppression R                     |   15 |
+| 1 Return from the Different Dimension SR |   20 |
+| 1 Mind Crush SR                          |  115 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   69 |
+| 1 Ancient Fairy Dragon GR                |  647 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  249 |
+| 1 Brionac Dragon of the Ice Barrier DT   |   91 |
+| 1 Colossal Fighter UtR                   |   85 |
+| 1 Goyo Guardian UtR                      |  188 |
+| 1 Magical Android SR                     |   19 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1649 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - max_prices_sorted.txt
+Main Deck: 7071
+Side Deck: 1874
+Extra Deck: 4919
+Total Price: 13864
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  194 |
+| 1 Aurkus Lightsworn Druid SR             |    5 |
+| 1 Card Trooper UR                        |   14 |
+| 3 Celestia Lightsworn Angel UtR          |  120 |
+| 1 Ehren Lightsworn Monk ScR              |   89 |
+| 1 Garoth Lightsworn Warrior SR           |   49 |
+| 1 Gorz the Emissary of Darkness ScR      |   19 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  500 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  650 |
+| 1 Lumina Lightsworn Summoner SR          |  300 |
+| 1 Lyla Lightsworn Sorceress UtR          |  149 |
+| 1 Wulf Lightsworn Beast SR               |   12 |
+| 2 Ryko Lightsworn Hunter SR              |   41 |
+| 1 Tragoedia UtR                          |  224 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  999 |
+| 1 Charge of the Light Brigade ScR        |  399 |
+| 3 Solar Recharge UtR                     |  179 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  230 |
+| 1 Heavy Storm SR                         |   60 |
+| 1 Foolish Burial SR                      |  434 |
+| 2 Beckoning Light SR                     |   44 |
+| 1 Call of the Haunted UR                 |  139 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  504 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  499 |
+| 1 Giant Trunade SR                       |   42 |
+| 1 Mystical Space Typhoon UR              |  145 |
+| 2 Royal Decree UR                        |   37 |
+| 1 Trap Dustshoot SR                      |  441 |
+| 1 Royal Oppression R                     |   20 |
+| 1 Return from the Different Dimension SR |   29 |
+| 1 Mind Crush SR                          |  120 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |  111 |
+| 1 Ancient Fairy Dragon GR                |  799 |
+| 1 Armory Arm UR                          |    9 |
+| 1 Black Rose Dragon GR                   |  399 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  250 |
+| 1 Colossal Fighter UtR                   |  104 |
+| 1 Goyo Guardian UtR                      |  222 |
+| 1 Magical Android SR                     |   29 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 2499 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - mean_prices_sorted.txt
+Main Deck: 5520
+Side Deck: 1463
+Extra Deck: 3890
+Total Price: 10873
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  189 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    9 |
+| 3 Celestia Lightsworn Angel UtR          |   81 |
+| 1 Ehren Lightsworn Monk ScR              |   74 |
+| 1 Garoth Lightsworn Warrior SR           |   43 |
+| 1 Gorz the Emissary of Darkness ScR      |   12 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  408 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  488 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |  116 |
+| 1 Wulf Lightsworn Beast SR               |    7 |
+| 2 Ryko Lightsworn Hunter SR              |   30 |
+| 1 Tragoedia UtR                          |  166 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  725 |
+| 1 Charge of the Light Brigade ScR        |  255 |
+| 3 Solar Recharge UtR                     |  144 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  217 |
+| 1 Heavy Storm SR                         |   58 |
+| 1 Foolish Burial SR                      |  269 |
+| 2 Beckoning Light SR                     |   41 |
+| 1 Call of the Haunted UR                 |   90 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  335 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  360 |
+| 1 Giant Trunade SR                       |   33 |
+| 1 Mystical Space Typhoon UR              |  110 |
+| 2 Royal Decree UR                        |   29 |
+| 1 Trap Dustshoot SR                      |  413 |
+| 1 Royal Oppression R                     |   16 |
+| 1 Return from the Different Dimension SR |   21 |
+| 1 Mind Crush SR                          |  117 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   91 |
+| 1 Ancient Fairy Dragon GR                |  681 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  284 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  141 |
+| 1 Colossal Fighter UtR                   |   94 |
+| 1 Goyo Guardian UtR                      |  195 |
+| 1 Magical Android SR                     |   24 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1877 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
+2010-kristyaswornedison - 2023-03-04 - median_prices_sorted.txt
+Main Deck: 5282
+Side Deck: 1365
+Extra Deck: 3636
+Total Price: 10283
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Archlord Kristya ScR                   |  188 |
+| 1 Aurkus Lightsworn Druid SR             |    4 |
+| 1 Card Trooper UR                        |    9 |
+| 3 Celestia Lightsworn Angel UtR          |   77 |
+| 1 Ehren Lightsworn Monk ScR              |   79 |
+| 1 Garoth Lightsworn Warrior SR           |   41 |
+| 1 Gorz the Emissary of Darkness ScR      |   11 |
+| 3 Herald of Orange Light R               |    - |
+| 2 Honest GR                              |  390 |
+| 1 Jain Lightsworn Paladin C              |    - |
+| 2 Judgment Dragon UtR                    |  468 |
+| 1 Lumina Lightsworn Summoner SR          |  299 |
+| 1 Lyla Lightsworn Sorceress UtR          |  114 |
+| 1 Wulf Lightsworn Beast SR               |    7 |
+| 2 Ryko Lightsworn Hunter SR              |   27 |
+| 1 Tragoedia UtR                          |  157 |
+| 2 Soul of Purity and Light C             |    - |
+| 1 Super Nimble Mega Hamster SR           |    - |
+| 1 Plaguespreader Zombie UtR              |  677 |
+| 1 Charge of the Light Brigade ScR        |  215 |
+| 3 Solar Recharge UtR                     |  134 |
+| 2 Gold Sarcophagus GUR                   |    - |
+| 1 Brain Control UtR                      |  213 |
+| 1 Heavy Storm SR                         |   59 |
+| 1 Foolish Burial SR                      |  249 |
+| 2 Beckoning Light SR                     |   41 |
+| 1 Call of the Haunted UR                 |   99 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Consecrated Light SP                   |    - |
+| 1 Cyber Dragon UtR                       |  299 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  322 |
+| 1 Giant Trunade SR                       |   30 |
+| 1 Mystical Space Typhoon UR              |  106 |
+| 2 Royal Decree UR                        |   28 |
+| 1 Trap Dustshoot SR                      |  400 |
+| 1 Royal Oppression R                     |   15 |
+| 1 Return from the Different Dimension SR |   20 |
+| 1 Mind Crush SR                          |  117 |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 Chimeratech Fortress Dragon UR         |    - |
+| 1 Ally of Justice Catastor DT            |   94 |
+| 1 Ancient Fairy Dragon GR                |  648 |
+| 1 Armory Arm UR                          |    6 |
+| 1 Black Rose Dragon GR                   |  260 |
+| 1 Brionac Dragon of the Ice Barrier DT   |  124 |
+| 1 Colossal Fighter UtR                   |   95 |
+| 1 Goyo Guardian UtR                      |  189 |
+| 1 Magical Android SR                     |   24 |
+| 1 Mist Wurm DT                           |    - |
+| 1 Stardust Dragon GR                     | 1699 |
+| 1 Red Dragon Archfiend UtR               |  297 |
+| 1 Thought Ruler Archfiend UtR            |  200 |
++------------------------------------------+------+
