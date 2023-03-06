@@ -1,16 +1,16 @@
 import os
 import cv2
 import numpy as np
-import re
+# import re
 from utils import get_card_lists, get_number_out_of_string
 from CardList import CardList
 from prettytable import PrettyTable
 from datetime import datetime
 import datetime
-import matplotlib.pyplot as plt
-from matplotlib.offsetbox import AnchoredOffsetbox, TextArea, VPacker
-from mplcursors import cursor
-import matplotlib.dates
+# import matplotlib.pyplot as plt
+# from matplotlib.offsetbox import AnchoredOffsetbox, TextArea, VPacker
+# from mplcursors import cursor
+# import matplotlib.dates
 
 # Configs
 use_max_rarity_pricing = True
@@ -394,6 +394,13 @@ if __name__ == '__main__':
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 
 # Todo
-#       [] generate format specific lists, organize by highest to lowest,
+#       [T1] generate format specific lists, organize by highest to lowest,
 #       organize by highest % change to lowest,
 #       similar to mtg goldfish format price lists, # rising cards, # declining cards
+#       [T1] fill in 15 side deck, extra deck, missing cards in decklist yaml / missing images /
+#           [T1] remake deck gallery pics, imgur -> decklist.md
+#       [T2] missing price scrapes from collection.yaml
+#           - only do for high value cards
+#           - im still buying cards / reorganizing binders.
+#       [] refined buy list based on rubric
+
