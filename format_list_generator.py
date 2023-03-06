@@ -1,11 +1,7 @@
-import datetime
-from datetime import datetime
 from prettytable import PrettyTable
 from decklist_gallery import DeckBuilder
-from utils import convert_raw_days_to_simplified_notation, \
-    calculate_difference_between_timedelta, \
-    get_date_price_value_list, \
-    find_lines_of_all_input, format_difference_string
+from utils import convert_raw_days_to_simplified_notation, calculate_difference_between_timedelta, \
+    get_date_price_value_list, find_lines_of_all_input, format_difference_string
 
 
 def get_rarity_from_card_code(card):  # Duplicate Func
@@ -127,3 +123,4 @@ if __name__ == '__main__':
 
 # Script will print out a table of all cards in deck lists, their pricing history.
 # python .\format_list_generator.py
+#       Provides on-demand data, based on already saved .txt database. Does not save any new data.

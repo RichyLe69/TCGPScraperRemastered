@@ -1,16 +1,11 @@
 import os
 import cv2
 import numpy as np
-# import re
 from utils import get_card_lists, get_number_out_of_string
 from CardList import CardList
 from prettytable import PrettyTable
 from datetime import datetime
 import datetime
-# import matplotlib.pyplot as plt
-# from matplotlib.offsetbox import AnchoredOffsetbox, TextArea, VPacker
-# from mplcursors import cursor
-# import matplotlib.dates
 
 # Configs
 use_max_rarity_pricing = True
@@ -147,13 +142,6 @@ def combine_images(main_image, side_image, extra_image, deck_list_name, header):
 
 
 # Generating Price Table #
-
-
-# def get_number_out_of_string(line):
-#     line = line.split('|', 2)[2]
-#     exclude_string = "1st"
-#     number = int(re.findall(r'\d+', re.sub(exclude_string, '', line))[0])
-#     return number
 
 
 def get_card_value_data_table(collection_name, list_name):
@@ -307,8 +295,6 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
 
 class DeckBuilder:
     def __init__(self):
-        # self.browser = webdriver.Chrome(
-        #     executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
         self.list_of_decks = get_card_lists('decks/decklists/list_of_decks.yaml')
         self.card_code_list = get_card_lists('decks/decklists/card_code_list.yaml')
 
@@ -392,15 +378,15 @@ if __name__ == '__main__':
 
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
+#       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
 
 # Todo
-#       [T1] generate format specific lists, organize by highest to lowest,
-#       organize by highest % change to lowest,
-#       similar to mtg goldfish format price lists, # rising cards, # declining cards
 #       [T1] fill in 15 side deck, extra deck, missing cards in decklist yaml / missing images /
-#           [T1] remake deck gallery pics, imgur -> decklist.md
+#           -> [T1] remake deck gallery pics, imgur -> decklist.md
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
 #           - im still buying cards / reorganizing binders.
-#       [] refined buy list based on rubric
+
+#       [T1] refined buy list (hoard collection list) based on rubric.
+#       script that can go through rubric to determine tier list?
 
