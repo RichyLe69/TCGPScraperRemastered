@@ -18,11 +18,11 @@
 2008-teledad:
   path: 'decks/decklists/2008-teledad.yaml'
 
-2009-twilight:
-  path: 'decks/decklists/2009-twilight.yaml'
-
 2009-teledad:
   path: 'decks/decklists/2009-teledad.yaml'
+
+2009-twilight:
+  path: 'decks/decklists/2009-twilight.yaml'
 
 2010-kristyasworn:
   path: 'decks/decklists/2010-kristyasworn.yaml'

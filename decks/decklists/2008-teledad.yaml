@@ -1,7 +1,4 @@
-Header: |+
-  TeleDad 1st
-  SJC Atlanta 2008 Nov
-  Jerry Wang
+Header: TeleDad 1st SJC Atlanta 2008 Nov Jerry Wang
 Monsters:
   Dark Armed Dragon: 2
   Dark Grepher: 1
@@ -32,6 +29,8 @@ Traps:
   Crush Card Virus: 1
   Trap Dustshoot: 1
 Side:
+  Cyber Dragon: 1
+  Giant Trunade: 1
   Snipe Hunter: 1
   Lightning Vortex: 1
   Mirror Force: 1

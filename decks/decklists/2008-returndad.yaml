@@ -1,7 +1,4 @@
-Header: |+
-  Return Dad 1st
-  SJC Columbus 2008 March
-  Jerry Wang
+Header: Return Dad 1st SJC Columbus 2008 March Jerry Wang
 Monsters:
   Card Trooper: 1
   Cyber Valley: 3
@@ -36,11 +33,16 @@ Traps:
   Torrential Tribute: 1
   Trap Dustshoot: 1
 Side:
-#  D.D. Crow: 1
-#  Dust Tornado: 1
-#  Foolish Burial: 1
-#  Mirror Force: 1
-#  Phoenix Wing Wind Blast: 1
-  None: 1
+  D.D. Crow: 1
+  Mystical Space Typhoon: 1
+  Foolish Burial: 1
+  Mirror Force: 1
+  Phoenix Wing Wind Blast: 2
+  Solemn Judgment: 2
+  Lightning Vortex: 1
+  Cyber Dragon: 2
+  Gravekeeper Spy: 2
+  Giant Trunade: 1
+  Snipe Hunter: 1
 Extra:
   None: 1
