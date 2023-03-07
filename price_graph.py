@@ -89,4 +89,5 @@ if __name__ == '__main__':
 # Script will generate a graph based on card name and pricing_variable_full
 #       Simply select which time period you want to scrape from.
 #       Provides on-demand data, based on already saved .txt database. Does not save any new data.
+
 #  python .\price_graph.py

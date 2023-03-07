@@ -2,6 +2,8 @@
 
 ## Contents
 
+[//]: # (https://imgur.com/a/YojeZJZ) 
+
 [//]: # ( - [2004 Yata Lock]&#40;#&#41;)
  - [2006 Chaos Turbo](#2006-Chaos-Turbo)
 
