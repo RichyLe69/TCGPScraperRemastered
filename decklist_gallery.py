@@ -11,7 +11,7 @@ import datetime
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
 generate_decklist_gallery = True
-generate_decklist_prices = False
+generate_decklist_prices = True
 
 
 # Generating Decklist Gallery #
@@ -127,15 +127,11 @@ def place_header_on_decklist(full_image, header):
     font_scale = 4
     color = (255, 255, 255)  # White
     thickness = 5
-
-    y_start = full_image.shape[0] - 506  # 506 from the bottom, to accomodate 41+ lists
-    x_start = 2400
-
-    y_increment = 200
-    for i, line in enumerate(header.split('\n')):
-        y = y_start + i * y_increment
-        full_image = cv2.putText(full_image, line, (x_start, y), font, font_scale, color, thickness)
-    return full_image
+    height, width = full_image.shape[:2]
+    canvas = np.zeros((height + 200, width, 3), dtype=np.uint8)
+    canvas[:height, :] = full_image
+    canvas = cv2.putText(canvas, header, (50, height+135), font, font_scale, color, thickness)
+    return canvas
 
 
 def combine_images(main_image, side_image, extra_image, deck_list_name, header):
@@ -384,7 +380,7 @@ if __name__ == '__main__':
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
 
 # Todo
-#       [T1] fill in 15 side deck, extra deck, missing cards in decklist yaml / missing images /
+#       [x] fill in 15 side deck, extra deck, missing cards in decklist yaml / missing images /
 #           -> [T1] remake deck gallery pics, imgur -> decklist.md
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
