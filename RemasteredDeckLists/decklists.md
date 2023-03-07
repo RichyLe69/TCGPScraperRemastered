@@ -1,7 +1,8 @@
 ## Decklists
 
 ## Contents
- - [2004 Yata Lock](#)
+
+[//]: # ( - [2004 Yata Lock]&#40;#&#41;)
  - [2006 Chaos Turbo](#2006-Chaos-Turbo)
 
 [//]: # ( - [2006 Chaos Control]&#40;#&#41;)
@@ -15,18 +16,20 @@
  - [2008 TeleDad](#2008-TeleDad)
 
 
- - [2009 SalvoDad](#)
+[//]: # ( - [2009 SalvoDad]&#40;#&#41;)
  - [2009 Oppression TeleDad](#2009-Oppression-TeleDad)
  - [2009 Twilight](#2009-Twilight)
 
 
  - [2010 KristyaSworn Edison](#2010-KristyaSworn-Edison)
  - [2010 Lightsworn](#2010-Lightsworn)
- - [2010 WeleDad](#)
+
+[//]: # ( - [2010 WeleDad]&#40;#&#41;)
 
 
  - [2011 Tengu Plant](#2011-Tengu-Plant)
- - [2011 Salvo Chaos Dad](#)
+
+[//]: # ( - [2011 Salvo Chaos Dad]&#40;#&#41;)
 
 [//]: # ( - [2011 Agents]&#40;#&#41;)
  - [2012 Dino Rabbit](#2012-Dino-Rabbit)
