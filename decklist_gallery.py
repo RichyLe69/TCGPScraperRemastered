@@ -11,7 +11,7 @@ import datetime
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
 generate_decklist_gallery = True
-generate_decklist_prices = True
+generate_decklist_prices = False
 
 
 # Generating Decklist Gallery #
@@ -24,7 +24,7 @@ def calculate_row_cols(deck_of_decoded_cards, image_name):
     else:
         rows, cols = 4, 10
     if image_name in ['Side', 'Extra']:
-        rows, cols = 2, 10
+        rows, cols = 1, 15
     return rows, cols
 
 
@@ -51,7 +51,8 @@ def create_grid_image(deck_of_decoded_cards, image_name):
     rows, cols = calculate_row_cols(deck_of_decoded_cards, image_name)
     image_width = 450
     image_height = 657
-    final_image = np.zeros((rows * image_height, cols * image_width, 3), dtype=np.uint8)
+    canvas_width = 310 if image_name in ('Side', 'Extra') else image_width
+    final_image = np.zeros((rows * image_height, cols * canvas_width, 3), dtype=np.uint8)
 
     full_deck_list_image_paths = get_full_deck_list_image_paths(deck_of_decoded_cards)
     for i in range(rows * cols):
@@ -66,10 +67,13 @@ def create_grid_image(deck_of_decoded_cards, image_name):
 
         y_start = row * image_height
         y_end = y_start + image_height
-        x_start = col * image_width
-        x_end = x_start + image_width
+        x_start = int((col * image_width) * (2 / 3)) if image_name in ('Side', 'Extra') else (col * image_width)
+
+        x_end = (x_start + image_width)
         final_image[y_start:y_end, x_start:x_end, :] = img
 
+    if image_name in ('Side', 'Extra'):
+        final_image = cv2.resize(final_image, (4500, 657))
     return final_image
 
 
@@ -376,7 +380,6 @@ if __name__ == '__main__':
                 full_deck_prices = search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data)
                 generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable)
 
-
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
 
@@ -386,7 +389,3 @@ if __name__ == '__main__':
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
 #           - im still buying cards / reorganizing binders.
-
-#       [T1] refined buy list (hoard collection list) based on rubric.
-#       script that can go through rubric to determine tier list?
-
