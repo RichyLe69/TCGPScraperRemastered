@@ -380,7 +380,7 @@ if __name__ == '__main__':
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
 
 # Todo
-#       [ ] Plan out budget vintage lol
+#       [x] Plan out budget vintage lol
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
 #           - im still buying cards / reorganizing binders.
