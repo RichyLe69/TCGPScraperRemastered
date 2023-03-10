@@ -10,10 +10,13 @@
 [//]: # ( - [2006 Chaos Control]&#40;#&#41;)
 
  - [2007 Demise OTK](#2007-Demise-OTK)
+ - [2007 Destiny Beatdown](#2007-Destiny-Beatdown)
  - [2007 Machines OTK](#2007-Machines-OTK)
 
 
  - [2008 ReturnDad](#2008-ReturnDad)
+ - [2008 Cyber Valley FTK](#2008-cyber-valley-ftk)
+ - [2008 Kaiba Control](#2008-Kaibacontrol)
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
 
@@ -57,9 +60,22 @@
 
 ![Imgur Image](https://i.imgur.com/JkG8tZT.jpg)
 
+#### 2007 Destiny Beatdown
+
+![Imgur Image](https://i.imgur.com/Fq7CeZh.jpg)
+
 #### 2007 Machines OTK
 
 ![Imgur Image](https://i.imgur.com/iP7uGhP.jpg)
+
+
+#### 2008 Cyber Valley FTK
+
+![Imgur Image](https://i.imgur.com/0bJC4c7.jpg)
+
+#### 2008 Kaibacontrol
+
+![Imgur Image](https://i.imgur.com/DSA1UvH.jpg)
 
 #### 2008 ReturnDad
 
