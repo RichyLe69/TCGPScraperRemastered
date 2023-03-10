@@ -11,7 +11,7 @@ import datetime
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
 generate_decklist_gallery = True
-generate_decklist_prices = True
+generate_decklist_prices = False
 
 
 # Generating Decklist Gallery #
@@ -384,4 +384,4 @@ if __name__ == '__main__':
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
 #           - im still buying cards / reorganizing binders.
-#       [T2] finish missing decklists - salvo, yata, weledad, etc, 2005?
+#       [T2] finish missing decklists - yata, etc,

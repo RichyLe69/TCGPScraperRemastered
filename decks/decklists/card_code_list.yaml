@@ -187,6 +187,8 @@ Dark Blade the Dragon Knight:
   - DarkBladetheDragonKnight-RDS-EN-UtR-1E
 Darkfire Dragon:
   - DarkfireDragon-LOB-NA-R-UE
+Dark Flare Knight:
+  - DarkFlareKnight-DCR-NA-SR-UE
 Dekoichi the Battle Enchanted Locomotive:
   - DekoichitheBattlechantedLocomotive-RDS-EN-UtR-1E
 Delinquent Duo:
@@ -467,7 +469,40 @@ Neo Spacian Grand Mole:
   - NeoSpacianGrandMole-STON-EN-UtR-1E
 Phantom of Chaos:
   - PhantomofChaos-GLAS-EN-SR-LE
-#
+
+
+Magical Mallet:
+  - MagicalMallet-DP2-EN-SR-1E
+Spell Economics:
+  - SpellEconomics-AST-NA-R-1E
+Spell Striker:
+  - SpellStriker-WC07-EN-SR-UE
+Toon Cannon Soldier:
+  - ToonCannonSoldier-TP6-EN-UR-UE
+  - ToonCannonSoldier-DB2-EN-C-UE
+Toon Table of Contents:
+  - ToonTableofContents-TP6-EN-SR-UE
+  - ToonTableofContents-DB2-EN-C-UE
+
+Broww Huntsman of Dark World:
+  - BrowwHuntsmanofDarkWorld-EEN-EN-UtR-1E
+Dark Nephthys:
+  - DarkNephthys-PTDN-EN-UtR-1E
+Dark World Dealings:
+  - DarkWorldDealings-STON-EN-UtR-1E
+Destiny Hero Dogma:
+  - DestinyHERODogma-POTD-EN-UtR-1E
+Destiny Hero Fear Monger:
+  - DestinyHEROFearMonger-CP06-EN-SR-UE
+Hand Destruction:
+  - HandDestruction-DP07-EN-R-1E
+Shadow Priestess of Ohm:
+  - ShadowpriestessofOhm-PTDN-EN-R-1E
+The Beginning of the End:
+  - TheBeginningoftheEnd-PTDN-EN-UtR-1E
+Trade In:
+  - TradeIn-TU01-EN-R-UE
+
 #  -
 #
 #  -
@@ -476,16 +511,12 @@ Phantom of Chaos:
 #
 #  -
 #
-#  -
-#
 #
 #  -
-#
-#
-#
-#
-#
-#
+
+
+
+
 
 
 
