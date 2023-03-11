@@ -1,4 +1,4 @@
-2009-teledad - 2023-03-06 - min_prices_sorted.txt
+2009-teledad - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 6587
 Side Deck: 2258
 Extra Deck: 7204
@@ -35,18 +35,18 @@ Total Price: 16049
 | 1 Trap Dustshoot SR                 |  399 |
 |                                     |      |
 | Side Deck                           |      |
-| 2 Bottomless Trap Hole SR           |    - |
 | 2 Cyber Dragon UtR                  |  250 |
+| 2 Gravekeeper Spy SR                |  369 |
 | 1 Caius the Shadow Monarch UtR      |  340 |
-| 1 Dimensional Prison SR             |    - |
+| 1 Gorz the Emissary of Darkness ScR |    6 |
 | 1 Snipe Hunter SR                   |   77 |
+| 1 Giant Trunade SR                  |   29 |
 | 1 Lightning Vortex UtR              |  289 |
+| 2 Bottomless Trap Hole SR           |    - |
 | 1 Mirror Force UR                   |   90 |
 | 1 Torrential Tribute UR             |   74 |
-| 2 Gravekeeper Spy SR                |  369 |
-| 1 Gorz the Emissary of Darkness ScR |    6 |
 | 1 Mind Crush SR                     |  115 |
-| 1 Giant Trunade SR                  |   29 |
+| 1 Dimensional Prison SR             |    - |
 |                                     |      |
 | Extra Deck                          |      |
 | 2 Black Rose Dragon GR              |  249 |
@@ -57,7 +57,7 @@ Total Price: 16049
 | 3 Stardust Dragon GR                | 1649 |
 | 3 Thought Ruler Archfiend UtR       |  200 |
 +-------------------------------------+------+
-2009-teledad - 2023-03-06 - max_prices_sorted.txt
+2009-teledad - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 10022
 Side Deck: 3225
 Extra Deck: 10170
@@ -94,18 +94,18 @@ Total Price: 23417
 | 1 Trap Dustshoot SR                 |  441 |
 |                                     |      |
 | Side Deck                           |      |
-| 2 Bottomless Trap Hole SR           |    - |
 | 2 Cyber Dragon UtR                  |  504 |
+| 2 Gravekeeper Spy SR                |  370 |
 | 1 Caius the Shadow Monarch UtR      |  499 |
-| 1 Dimensional Prison SR             |    - |
+| 1 Gorz the Emissary of Darkness ScR |   19 |
 | 1 Snipe Hunter SR                   |  149 |
+| 1 Giant Trunade SR                  |   42 |
 | 1 Lightning Vortex UtR              |  300 |
+| 2 Bottomless Trap Hole SR           |    - |
 | 1 Mirror Force UR                   |  199 |
 | 1 Torrential Tribute UR             |  149 |
-| 2 Gravekeeper Spy SR                |  370 |
-| 1 Gorz the Emissary of Darkness ScR |   19 |
 | 1 Mind Crush SR                     |  120 |
-| 1 Giant Trunade SR                  |   42 |
+| 1 Dimensional Prison SR             |    - |
 |                                     |      |
 | Extra Deck                          |      |
 | 2 Black Rose Dragon GR              |  399 |
@@ -116,7 +116,7 @@ Total Price: 23417
 | 3 Stardust Dragon GR                | 2499 |
 | 3 Thought Ruler Archfiend UtR       |  200 |
 +-------------------------------------+------+
-2009-teledad - 2023-03-06 - mean_prices_sorted.txt
+2009-teledad - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 7902
 Side Deck: 2584
 Extra Deck: 7995
@@ -153,18 +153,18 @@ Total Price: 18481
 | 1 Trap Dustshoot SR                 |  413 |
 |                                     |      |
 | Side Deck                           |      |
-| 2 Bottomless Trap Hole SR           |    - |
 | 2 Cyber Dragon UtR                  |  335 |
+| 2 Gravekeeper Spy SR                |  369 |
 | 1 Caius the Shadow Monarch UtR      |  384 |
-| 1 Dimensional Prison SR             |    - |
+| 1 Gorz the Emissary of Darkness ScR |   12 |
 | 1 Snipe Hunter SR                   |  107 |
+| 1 Giant Trunade SR                  |   33 |
 | 1 Lightning Vortex UtR              |  294 |
+| 2 Bottomless Trap Hole SR           |    - |
 | 1 Mirror Force UR                   |  133 |
 | 1 Torrential Tribute UR             |   96 |
-| 2 Gravekeeper Spy SR                |  369 |
-| 1 Gorz the Emissary of Darkness ScR |   12 |
 | 1 Mind Crush SR                     |  117 |
-| 1 Giant Trunade SR                  |   33 |
+| 1 Dimensional Prison SR             |    - |
 |                                     |      |
 | Extra Deck                          |      |
 | 2 Black Rose Dragon GR              |  284 |
@@ -175,7 +175,7 @@ Total Price: 18481
 | 3 Stardust Dragon GR                | 1877 |
 | 3 Thought Ruler Archfiend UtR       |  200 |
 +-------------------------------------+------+
-2009-teledad - 2023-03-06 - median_prices_sorted.txt
+2009-teledad - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 7794
 Side Deck: 2441
 Extra Deck: 7403
@@ -212,18 +212,18 @@ Total Price: 17638
 | 1 Trap Dustshoot SR                 |  400 |
 |                                     |      |
 | Side Deck                           |      |
-| 2 Bottomless Trap Hole SR           |    - |
 | 2 Cyber Dragon UtR                  |  299 |
+| 2 Gravekeeper Spy SR                |  369 |
 | 1 Caius the Shadow Monarch UtR      |  344 |
-| 1 Dimensional Prison SR             |    - |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
 | 1 Snipe Hunter SR                   |  105 |
+| 1 Giant Trunade SR                  |   30 |
 | 1 Lightning Vortex UtR              |  294 |
+| 2 Bottomless Trap Hole SR           |    - |
 | 1 Mirror Force UR                   |  115 |
 | 1 Torrential Tribute UR             |   89 |
-| 2 Gravekeeper Spy SR                |  369 |
-| 1 Gorz the Emissary of Darkness ScR |   11 |
 | 1 Mind Crush SR                     |  117 |
-| 1 Giant Trunade SR                  |   30 |
+| 1 Dimensional Prison SR             |    - |
 |                                     |      |
 | Extra Deck                          |      |
 | 2 Black Rose Dragon GR              |  260 |

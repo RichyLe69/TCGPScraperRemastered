@@ -62,7 +62,8 @@ Sangan:
   - Sangan-RP01-EU-SR-UE
 Snipe Hunter:
   - SnipeHunter-CP03-EN-SR-UE
-
+Black Salvo:
+  - BlackSalvo-CRMS-EN-SR-1E
 
 
 
@@ -128,10 +129,14 @@ Black Rose Dragon:
   - BlackRoseDragon-CSOC-EN-GR-1E
 Brionac Dragon of the Ice Barrier:
   - BrionacDragonoftheIceBarrier-DT01-EN-DT-DT
+Blackwing Armor Master:
+  - BlackwingArmorMaster-CRMS-EN-UtR-1E
 Colossal Fighter:
   - ColossalFighter-TU05-EN-UtR-UE
 Dark End Dragon:
   - DarkEndDragon-JUMP-EN-UR-LE
+Dark Strike Fighter:
+  - DarkStrikeFighter-CRMS-EN-SR-1E
 Doomkaiser Dragon:
   - DoomkaiserDragon-CSOC-EN-UtR-1E
 Goyo Guardian:
@@ -503,6 +508,9 @@ The Beginning of the End:
 Trade In:
   - TradeIn-TU01-EN-R-UE
 
+Dimensional Alchemist:
+  - DimensionalAlchemist-GLD3-EN-GUR-LE
+
 #  -
 #
 #  -
@@ -513,66 +521,6 @@ Trade In:
 #
 #
 #  -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 None:
   - -----

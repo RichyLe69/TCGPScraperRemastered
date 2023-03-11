@@ -1,4 +1,4 @@
-2010-kristyaswornedison - 2023-03-06 - min_prices_sorted.txt
+2010-kristyaswornedison - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 4816
 Side Deck: 1277
 Extra Deck: 3508
@@ -67,7 +67,7 @@ Total Price: 9601
 | 1 Red Dragon Archfiend UtR               |  297 |
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
-2010-kristyaswornedison - 2023-03-06 - max_prices_sorted.txt
+2010-kristyaswornedison - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 7071
 Side Deck: 1874
 Extra Deck: 4931
@@ -136,7 +136,7 @@ Total Price: 13876
 | 1 Red Dragon Archfiend UtR               |  297 |
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
-2010-kristyaswornedison - 2023-03-06 - mean_prices_sorted.txt
+2010-kristyaswornedison - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 5520
 Side Deck: 1463
 Extra Deck: 3900
@@ -205,7 +205,7 @@ Total Price: 10883
 | 1 Red Dragon Archfiend UtR               |  297 |
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
-2010-kristyaswornedison - 2023-03-06 - median_prices_sorted.txt
+2010-kristyaswornedison - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 5282
 Side Deck: 1365
 Extra Deck: 3646

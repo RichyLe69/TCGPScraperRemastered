@@ -1,4 +1,4 @@
-2012-dinorabbit - 2023-03-06 - min_prices_sorted.txt
+2012-dinorabbit - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 7814
 Side Deck: 1671
 Extra Deck: 2519
@@ -40,10 +40,10 @@ Total Price: 12004
 | 1 D.D. Crow UtR                                  |  264 |
 | 1 Neo Spacian Grand Mole UtR                     |    - |
 | 2 Doomcaliber Knight UR                          |   36 |
-| 2 Dimensional Prison SR                          |    - |
 | 2 Mystical Space Typhoon UR                      |   89 |
 | 1 Smashing Ground SR                             |  144 |
 | 2 Royal Decree UR                                |   27 |
+| 2 Dimensional Prison SR                          |    - |
 |                                                  |      |
 | Extra Deck                                       |      |
 | 1 Trishula Dragon of the Ice Barrier DT          |  236 |
@@ -59,7 +59,7 @@ Total Price: 12004
 | 2 Evolzar Dolkka ScR                             |   14 |
 | 1 Wind Up Zenmaines ScR                          |    6 |
 +--------------------------------------------------+------+
-2012-dinorabbit - 2023-03-06 - max_prices_sorted.txt
+2012-dinorabbit - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 12696
 Side Deck: 2850
 Extra Deck: 4013
@@ -101,10 +101,10 @@ Total Price: 19559
 | 1 D.D. Crow UtR                                  |  389 |
 | 1 Neo Spacian Grand Mole UtR                     |    - |
 | 2 Doomcaliber Knight UR                          |   68 |
-| 2 Dimensional Prison SR                          |    - |
 | 2 Mystical Space Typhoon UR                      |  145 |
 | 1 Smashing Ground SR                             |  210 |
 | 2 Royal Decree UR                                |   37 |
+| 2 Dimensional Prison SR                          |    - |
 |                                                  |      |
 | Extra Deck                                       |      |
 | 1 Trishula Dragon of the Ice Barrier DT          |  300 |
@@ -120,7 +120,7 @@ Total Price: 19559
 | 2 Evolzar Dolkka ScR                             |   29 |
 | 1 Wind Up Zenmaines ScR                          |   18 |
 +--------------------------------------------------+------+
-2012-dinorabbit - 2023-03-06 - mean_prices_sorted.txt
+2012-dinorabbit - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 9282
 Side Deck: 2090
 Extra Deck: 2936
@@ -162,10 +162,10 @@ Total Price: 14308
 | 1 D.D. Crow UtR                                  |  300 |
 | 1 Neo Spacian Grand Mole UtR                     |    - |
 | 2 Doomcaliber Knight UR                          |   51 |
-| 2 Dimensional Prison SR                          |    - |
 | 2 Mystical Space Typhoon UR                      |  110 |
 | 1 Smashing Ground SR                             |  200 |
 | 2 Royal Decree UR                                |   29 |
+| 2 Dimensional Prison SR                          |    - |
 |                                                  |      |
 | Extra Deck                                       |      |
 | 1 Trishula Dragon of the Ice Barrier DT          |  251 |
@@ -181,7 +181,7 @@ Total Price: 14308
 | 2 Evolzar Dolkka ScR                             |   18 |
 | 1 Wind Up Zenmaines ScR                          |   10 |
 +--------------------------------------------------+------+
-2012-dinorabbit - 2023-03-06 - median_prices_sorted.txt
+2012-dinorabbit - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 8924
 Side Deck: 1963
 Extra Deck: 2685
@@ -223,10 +223,10 @@ Total Price: 13572
 | 1 D.D. Crow UtR                                  |  299 |
 | 1 Neo Spacian Grand Mole UtR                     |    - |
 | 2 Doomcaliber Knight UR                          |   50 |
-| 2 Dimensional Prison SR                          |    - |
 | 2 Mystical Space Typhoon UR                      |  106 |
 | 1 Smashing Ground SR                             |  207 |
 | 2 Royal Decree UR                                |   28 |
+| 2 Dimensional Prison SR                          |    - |
 |                                                  |      |
 | Extra Deck                                       |      |
 | 1 Trishula Dragon of the Ice Barrier DT          |  239 |

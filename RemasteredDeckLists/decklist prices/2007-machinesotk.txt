@@ -1,4 +1,4 @@
-2007-machinesotk - 2023-03-06 - min_prices_sorted.txt
+2007-machinesotk - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 4491
 Side Deck: 2735
 Extra Deck: 3684
@@ -58,7 +58,7 @@ Total Price: 10910
 | 1 Dark Balter the Terrible SR                  |   - |
 | 1 Reaper on the Nightmare SR                   |   - |
 +------------------------------------------------+-----+
-2007-machinesotk - 2023-03-06 - max_prices_sorted.txt
+2007-machinesotk - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 6548
 Side Deck: 3406
 Extra Deck: 4329
@@ -118,7 +118,7 @@ Total Price: 14283
 | 1 Dark Balter the Terrible SR                  |   - |
 | 1 Reaper on the Nightmare SR                   |   - |
 +------------------------------------------------+-----+
-2007-machinesotk - 2023-03-06 - mean_prices_sorted.txt
+2007-machinesotk - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 5188
 Side Deck: 3020
 Extra Deck: 3822
@@ -178,7 +178,7 @@ Total Price: 12030
 | 1 Dark Balter the Terrible SR                  |   - |
 | 1 Reaper on the Nightmare SR                   |   - |
 +------------------------------------------------+-----+
-2007-machinesotk - 2023-03-06 - median_prices_sorted.txt
+2007-machinesotk - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 4968
 Side Deck: 3047
 Extra Deck: 3744

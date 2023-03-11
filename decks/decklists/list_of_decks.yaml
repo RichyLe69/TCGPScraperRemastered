@@ -1,18 +1,18 @@
 ## Split Collections
 
-#2006-chaosturbo:
-#  path: 'decks/decklists/2006-chaosturbo.yaml'
-#
-#2007-demiseotk:
-#  path: 'decks/decklists/2007-demiseotk.yaml'
-#
-#2007-machinesotk:
-#  path: 'decks/decklists/2007-machinesotk.yaml'
-#
-#2007-destinyhero:
-#  path: 'decks/decklists/2007-destiny.yaml'
+2006-chaosturbo:
+  path: 'decks/decklists/2006-chaosturbo.yaml'
 
-# PTDN
+2007-demiseotk:
+  path: 'decks/decklists/2007-demiseotk.yaml'
+
+2007-machinesotk:
+  path: 'decks/decklists/2007-machinesotk.yaml'
+
+2007-destinyhero:
+  path: 'decks/decklists/2007-destiny.yaml'
+
+# # PTDN
 
 2008-cybervalleyftk:
    path: 'decks/decklists/2008-cybervalleyftk.yaml'
@@ -23,45 +23,50 @@
 2008-returndad:
   path: 'decks/decklists/2008-returndad.yaml'
 
-# LODT
+# # LODT May - Sept
 
-          # 2008-pre TDGS dark revival
-          #
-          # 2008-pre TDGS Lightsworn - http://kperovic.com/metagame/yugiohc36a.html?tabid=56
+2008-darkarmedlodt:
+  path: 'decks/decklists/2008-darkarmed.yaml'
 
-# TDGS
+2008-lightswornlodt:
+  path: 'decks/decklists/2008-lightswornLODT.yaml'
 
-#2008-lightsworn:  # Post TDGS
-#  path: 'decks/decklists/2008-lightsworn.yaml'
-#
-#2008-teledad:  # Post TDGS
-#  path: 'decks/decklists/2008-teledad.yaml'
-#
-#2009-teledad:
-#  path: 'decks/decklists/2009-teledad.yaml'
+# # TDGS
 
-      # 2009 pure lightsworn - https://yugiohtopdecks.com/deck/2507
+2008-lightsworn:  # Post TDGS
+  path: 'decks/decklists/2008-lightsworn.yaml'
 
-      # 2009 chaos - https://yugiohtopdecks.com/deck/2495
+2008-teledad:  # Post TDGS
+  path: 'decks/decklists/2008-teledad.yaml'
 
-      # 2009 Salvo Dad / Chaos Dark - https://www.youtube.com/watch?v=jn1mRM84OoI
+2009-teledad:
+  path: 'decks/decklists/2009-teledad.yaml'
 
-#2009-twilight:
-#  path: 'decks/decklists/2009-twilight.yaml'
-#
-#2010-kristyasworn:  # Pre-Edison
-#  path: 'decks/decklists/2010-kristyasworn.yaml'
-#
-#2010-kristyaswornedison:
-#  path: 'decks/decklists/2010-kristyaswornedison.yaml'
+2009-lightsworn:
+  path: 'decks/decklists/2009-lightsworn.yaml'
 
-      # 2010 Edison WeleDad modern
+2009-chaos:
+  path: 'decks/decklists/2009-chaos.yaml'
 
-#2011-tenguplant:
-#  path: 'decks/decklists/2011-tenguplant.yaml'
-#
-#2012-dinorabbit:
-#  path: 'decks/decklists/2012-dinorabbit.yaml'
-#
-#2014-lightswornrulers:
-#  path: 'decks/decklists/2014-lightswornrulers.yaml'
+2009-salvodad:
+  path: 'decks/decklists/2009-salvodad.yaml'
+
+2009-twilight:
+  path: 'decks/decklists/2009-twilight.yaml'
+
+2010-kristyasworn:  # Pre-Edison
+  path: 'decks/decklists/2010-kristyasworn.yaml'
+
+2010-kristyaswornedison:
+  path: 'decks/decklists/2010-kristyaswornedison.yaml'
+
+      # # 2010 Edison WeleDad modern
+
+2011-tenguplant:
+  path: 'decks/decklists/2011-tenguplant.yaml'
+
+2012-dinorabbit:
+  path: 'decks/decklists/2012-dinorabbit.yaml'
+
+2014-lightswornrulers:
+  path: 'decks/decklists/2014-lightswornrulers.yaml'

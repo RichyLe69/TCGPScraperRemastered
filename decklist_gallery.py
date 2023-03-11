@@ -10,7 +10,7 @@ import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = True
+generate_decklist_gallery = False
 generate_decklist_prices = False
 
 
@@ -384,4 +384,3 @@ if __name__ == '__main__':
 #       [T2] missing price scrapes from collection.yaml
 #           - only do for high value cards
 #           - im still buying cards / reorganizing binders.
-#       [T2] finish missing decklists - yata, etc,

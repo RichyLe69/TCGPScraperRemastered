@@ -1,4 +1,4 @@
-2011-tenguplant - 2023-03-06 - min_prices_sorted.txt
+2011-tenguplant - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 8152
 Side Deck: 2368
 Extra Deck: 3115
@@ -68,7 +68,7 @@ Total Price: 13635
 | 1 Number 39 Utopia UR                            |    - |
 | 1 Steelswarm Roach ScR                           |    - |
 +--------------------------------------------------+------+
-2011-tenguplant - 2023-03-06 - max_prices_sorted.txt
+2011-tenguplant - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 13515
 Side Deck: 3702
 Extra Deck: 4693
@@ -138,7 +138,7 @@ Total Price: 21910
 | 1 Number 39 Utopia UR                            |    - |
 | 1 Steelswarm Roach ScR                           |    - |
 +--------------------------------------------------+------+
-2011-tenguplant - 2023-03-06 - mean_prices_sorted.txt
+2011-tenguplant - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 9832
 Side Deck: 2833
 Extra Deck: 3544
@@ -208,7 +208,7 @@ Total Price: 16209
 | 1 Number 39 Utopia UR                            |    - |
 | 1 Steelswarm Roach ScR                           |    - |
 +--------------------------------------------------+------+
-2011-tenguplant - 2023-03-06 - median_prices_sorted.txt
+2011-tenguplant - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 9390
 Side Deck: 2668
 Extra Deck: 3266

@@ -1,8 +1,8 @@
-2010-kristyasworn - 2023-03-06 - min_prices_sorted.txt
+2010-kristyasworn - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 5830
-Side Deck: 1617
+Side Deck: 1676
 Extra Deck: 3130
-Total Price: 10577
+Total Price: 10636
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -33,15 +33,15 @@ Total Price: 10577
 | 1 Torrential Tribute UR                |   74 |
 |                                        |      |
 | Side Deck                              |      |
-| 2 Bottomless Trap Hole SR              |    - |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
-| 1 Blackwing Gale the Whirlwind R       |    - |
-| 1 Shiny Black "C" SP                   |    - |
-| 2 Kycoo the Ghost Destroyer SR         |    - |
-| 2 Royal Decree UR                      |   27 |
-| 1 Mystical Space Typhoon UR            |   89 |
+| 1 Ehren Lightsworn Monk ScR            |   59 |
 | 2 Breaker the Magical Warrior SR       |  409 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |   89 |
 | 2 Lightning Vortex UtR                 |  289 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   27 |
 | 1 Torrential Tribute UR                |   74 |
 |                                        |      |
 | Extra Deck                             |      |
@@ -61,11 +61,11 @@ Total Price: 10577
 | 1 Stardust Dragon GR                   | 1649 |
 | 1 Tempest Magician ScR                 |   73 |
 +----------------------------------------+------+
-2010-kristyasworn - 2023-03-06 - max_prices_sorted.txt
+2010-kristyasworn - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 8618
-Side Deck: 1971
+Side Deck: 2060
 Extra Deck: 4561
-Total Price: 15150
+Total Price: 15239
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -96,15 +96,15 @@ Total Price: 15150
 | 1 Torrential Tribute UR                |  149 |
 |                                        |      |
 | Side Deck                              |      |
-| 2 Bottomless Trap Hole SR              |    - |
 | 1 Aurkus Lightsworn Druid SR           |    5 |
-| 1 Blackwing Gale the Whirlwind R       |    - |
-| 1 Shiny Black "C" SP                   |    - |
-| 2 Kycoo the Ghost Destroyer SR         |    - |
-| 2 Royal Decree UR                      |   37 |
-| 1 Mystical Space Typhoon UR            |  145 |
+| 1 Ehren Lightsworn Monk ScR            |   89 |
 | 2 Breaker the Magical Warrior SR       |  499 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |  145 |
 | 2 Lightning Vortex UtR                 |  300 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   37 |
 | 1 Torrential Tribute UR                |  149 |
 |                                        |      |
 | Extra Deck                             |      |
@@ -124,11 +124,11 @@ Total Price: 15150
 | 1 Stardust Dragon GR                   | 2499 |
 | 1 Tempest Magician ScR                 |   78 |
 +----------------------------------------+------+
-2010-kristyasworn - 2023-03-06 - mean_prices_sorted.txt
+2010-kristyasworn - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 6711
-Side Deck: 1734
+Side Deck: 1808
 Extra Deck: 3524
-Total Price: 11969
+Total Price: 12043
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -159,15 +159,15 @@ Total Price: 11969
 | 1 Torrential Tribute UR                |   96 |
 |                                        |      |
 | Side Deck                              |      |
-| 2 Bottomless Trap Hole SR              |    - |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
-| 1 Blackwing Gale the Whirlwind R       |    - |
-| 1 Shiny Black "C" SP                   |    - |
-| 2 Kycoo the Ghost Destroyer SR         |    - |
-| 2 Royal Decree UR                      |   29 |
-| 1 Mystical Space Typhoon UR            |  110 |
+| 1 Ehren Lightsworn Monk ScR            |   74 |
 | 2 Breaker the Magical Warrior SR       |  439 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |  110 |
 | 2 Lightning Vortex UtR                 |  294 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   29 |
 | 1 Torrential Tribute UR                |   96 |
 |                                        |      |
 | Extra Deck                             |      |
@@ -187,11 +187,11 @@ Total Price: 11969
 | 1 Stardust Dragon GR                   | 1877 |
 | 1 Tempest Magician ScR                 |   74 |
 +----------------------------------------+------+
-2010-kristyasworn - 2023-03-06 - median_prices_sorted.txt
+2010-kristyasworn - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 6351
-Side Deck: 1671
+Side Deck: 1750
 Extra Deck: 3269
-Total Price: 11291
+Total Price: 11370
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -222,15 +222,15 @@ Total Price: 11291
 | 1 Torrential Tribute UR                |   89 |
 |                                        |      |
 | Side Deck                              |      |
-| 2 Bottomless Trap Hole SR              |    - |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
-| 1 Blackwing Gale the Whirlwind R       |    - |
-| 1 Shiny Black "C" SP                   |    - |
-| 2 Kycoo the Ghost Destroyer SR         |    - |
-| 2 Royal Decree UR                      |   28 |
-| 1 Mystical Space Typhoon UR            |  106 |
+| 1 Ehren Lightsworn Monk ScR            |   79 |
 | 2 Breaker the Magical Warrior SR       |  414 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |  106 |
 | 2 Lightning Vortex UtR                 |  294 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   28 |
 | 1 Torrential Tribute UR                |   89 |
 |                                        |      |
 | Extra Deck                             |      |

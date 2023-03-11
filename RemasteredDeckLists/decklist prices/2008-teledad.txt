@@ -1,4 +1,4 @@
-2008-teledad - 2023-03-06 - min_prices_sorted.txt
+2008-teledad - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 6640
 Side Deck: 1872
 Extra Deck: 7204
@@ -36,18 +36,18 @@ Total Price: 15716
 |                                  |      |
 | Side Deck                        |      |
 | 1 Cyber Dragon UtR               |  250 |
-| 1 Giant Trunade SR               |   29 |
-| 1 Snipe Hunter SR                |   77 |
-| 1 Lightning Vortex UtR           |  289 |
-| 1 Mirror Force UR                |   90 |
-| 1 Threatening Roar C             |  131 |
-| 1 Torrential Tribute UR          |   74 |
-| 1 Thunder King Rai Oh UtR        |  153 |
-| 2 Bottomless Trap Hole SR        |    - |
 | 1 Breaker the Magical Warrior SR |  409 |
 | 1 Caius the Shadow Monarch UtR   |  340 |
-| 1 Dust Tornado SR                |    - |
+| 1 Snipe Hunter SR                |   77 |
+| 1 Thunder King Rai Oh UtR        |  153 |
+| 1 Giant Trunade SR               |   29 |
+| 1 Lightning Vortex UtR           |  289 |
+| 2 Bottomless Trap Hole SR        |    - |
 | 2 Royal Oppression R             |   15 |
+| 1 Mirror Force UR                |   90 |
+| 1 Torrential Tribute UR          |   74 |
+| 1 Threatening Roar C             |  131 |
+| 1 Dust Tornado SR                |    - |
 |                                  |      |
 | Extra Deck                       |      |
 | 2 Black Rose Dragon GR           |  249 |
@@ -58,7 +58,7 @@ Total Price: 15716
 | 3 Stardust Dragon GR             | 1649 |
 | 3 Thought Ruler Archfiend UtR    |  200 |
 +----------------------------------+------+
-2008-teledad - 2023-03-06 - max_prices_sorted.txt
+2008-teledad - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 10286
 Side Deck: 2774
 Extra Deck: 10170
@@ -96,18 +96,18 @@ Total Price: 23230
 |                                  |      |
 | Side Deck                        |      |
 | 1 Cyber Dragon UtR               |  504 |
-| 1 Giant Trunade SR               |   42 |
-| 1 Snipe Hunter SR                |  149 |
-| 1 Lightning Vortex UtR           |  300 |
-| 1 Mirror Force UR                |  199 |
-| 1 Threatening Roar C             |  149 |
-| 1 Torrential Tribute UR          |  149 |
-| 1 Thunder King Rai Oh UtR        |  244 |
-| 2 Bottomless Trap Hole SR        |    - |
 | 1 Breaker the Magical Warrior SR |  499 |
 | 1 Caius the Shadow Monarch UtR   |  499 |
-| 1 Dust Tornado SR                |    - |
+| 1 Snipe Hunter SR                |  149 |
+| 1 Thunder King Rai Oh UtR        |  244 |
+| 1 Giant Trunade SR               |   42 |
+| 1 Lightning Vortex UtR           |  300 |
+| 2 Bottomless Trap Hole SR        |    - |
 | 2 Royal Oppression R             |   20 |
+| 1 Mirror Force UR                |  199 |
+| 1 Torrential Tribute UR          |  149 |
+| 1 Threatening Roar C             |  149 |
+| 1 Dust Tornado SR                |    - |
 |                                  |      |
 | Extra Deck                       |      |
 | 2 Black Rose Dragon GR           |  399 |
@@ -118,7 +118,7 @@ Total Price: 23230
 | 3 Stardust Dragon GR             | 2499 |
 | 3 Thought Ruler Archfiend UtR    |  200 |
 +----------------------------------+------+
-2008-teledad - 2023-03-06 - mean_prices_sorted.txt
+2008-teledad - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 8025
 Side Deck: 2178
 Extra Deck: 7995
@@ -156,18 +156,18 @@ Total Price: 18198
 |                                  |      |
 | Side Deck                        |      |
 | 1 Cyber Dragon UtR               |  335 |
-| 1 Giant Trunade SR               |   33 |
-| 1 Snipe Hunter SR                |  107 |
-| 1 Lightning Vortex UtR           |  294 |
-| 1 Mirror Force UR                |  133 |
-| 1 Threatening Roar C             |  145 |
-| 1 Torrential Tribute UR          |   96 |
-| 1 Thunder King Rai Oh UtR        |  180 |
-| 2 Bottomless Trap Hole SR        |    - |
 | 1 Breaker the Magical Warrior SR |  439 |
 | 1 Caius the Shadow Monarch UtR   |  384 |
-| 1 Dust Tornado SR                |    - |
+| 1 Snipe Hunter SR                |  107 |
+| 1 Thunder King Rai Oh UtR        |  180 |
+| 1 Giant Trunade SR               |   33 |
+| 1 Lightning Vortex UtR           |  294 |
+| 2 Bottomless Trap Hole SR        |    - |
 | 2 Royal Oppression R             |   16 |
+| 1 Mirror Force UR                |  133 |
+| 1 Torrential Tribute UR          |   96 |
+| 1 Threatening Roar C             |  145 |
+| 1 Dust Tornado SR                |    - |
 |                                  |      |
 | Extra Deck                       |      |
 | 2 Black Rose Dragon GR           |  284 |
@@ -178,7 +178,7 @@ Total Price: 18198
 | 3 Stardust Dragon GR             | 1877 |
 | 3 Thought Ruler Archfiend UtR    |  200 |
 +----------------------------------+------+
-2008-teledad - 2023-03-06 - median_prices_sorted.txt
+2008-teledad - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 7923
 Side Deck: 2037
 Extra Deck: 7403
@@ -216,18 +216,18 @@ Total Price: 17363
 |                                  |      |
 | Side Deck                        |      |
 | 1 Cyber Dragon UtR               |  299 |
-| 1 Giant Trunade SR               |   30 |
-| 1 Snipe Hunter SR                |  105 |
-| 1 Lightning Vortex UtR           |  294 |
-| 1 Mirror Force UR                |  115 |
-| 1 Threatening Roar C             |  148 |
-| 1 Torrential Tribute UR          |   89 |
-| 1 Thunder King Rai Oh UtR        |  169 |
-| 2 Bottomless Trap Hole SR        |    - |
 | 1 Breaker the Magical Warrior SR |  414 |
 | 1 Caius the Shadow Monarch UtR   |  344 |
-| 1 Dust Tornado SR                |    - |
+| 1 Snipe Hunter SR                |  105 |
+| 1 Thunder King Rai Oh UtR        |  169 |
+| 1 Giant Trunade SR               |   30 |
+| 1 Lightning Vortex UtR           |  294 |
+| 2 Bottomless Trap Hole SR        |    - |
 | 2 Royal Oppression R             |   15 |
+| 1 Mirror Force UR                |  115 |
+| 1 Torrential Tribute UR          |   89 |
+| 1 Threatening Roar C             |  148 |
+| 1 Dust Tornado SR                |    - |
 |                                  |      |
 | Extra Deck                       |      |
 | 2 Black Rose Dragon GR           |  260 |

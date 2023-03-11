@@ -1,4 +1,4 @@
-2006-chaosturbo - 2023-03-06 - min_prices_sorted.txt
+2006-chaosturbo - 2023-03-11 - min_prices_sorted.txt
 Main Deck: 7791
 Side Deck: 0
 Extra Deck: 84
@@ -50,7 +50,7 @@ Total Price: 7875
 | 2 Ryu Senshi SR                                  |   - |
 | 3 Thousand Eyes Restrict UtR                     |  28 |
 +--------------------------------------------------+-----+
-2006-chaosturbo - 2023-03-06 - max_prices_sorted.txt
+2006-chaosturbo - 2023-03-11 - max_prices_sorted.txt
 Main Deck: 11367
 Side Deck: 0
 Extra Deck: 168
@@ -102,7 +102,7 @@ Total Price: 11535
 | 2 Ryu Senshi SR                                  |   - |
 | 3 Thousand Eyes Restrict UtR                     |  56 |
 +--------------------------------------------------+-----+
-2006-chaosturbo - 2023-03-06 - mean_prices_sorted.txt
+2006-chaosturbo - 2023-03-11 - mean_prices_sorted.txt
 Main Deck: 8898
 Side Deck: 0
 Extra Deck: 102
@@ -154,7 +154,7 @@ Total Price: 9000
 | 2 Ryu Senshi SR                                  |   - |
 | 3 Thousand Eyes Restrict UtR                     |  34 |
 +--------------------------------------------------+-----+
-2006-chaosturbo - 2023-03-06 - median_prices_sorted.txt
+2006-chaosturbo - 2023-03-11 - median_prices_sorted.txt
 Main Deck: 8617
 Side Deck: 0
 Extra Deck: 93

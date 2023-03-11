@@ -1,37 +1,38 @@
-Header: Lightsworn 2008 Post TDGS RL
+Header: Lightsworn 2008 Pre TDGS RL
 Monsters:
   Judgment Dragon: 2
   Lumina Lightsworn Summoner: 3
   Lyla Lightsworn Sorceress: 2
   Celestia Lightsworn Angel: 3
   Wulf Lightsworn Beast: 2
-  Garoth Lightsworn Warrior: 1
+  Garoth Lightsworn Warrior: 2
+  Jain Lightsworn Paladin: 1
   Ehren Lightsworn Monk: 1
   Aurkus Lightsworn Druid: 1
   Ryko Lightsworn Hunter: 1
   Honest: 3
-  Gorz the Emissary of Darkness: 1
   Necro Gardna: 3
-  Plaguespreader Zombie: 1
+  Sangan: 1
+  Phantom of Chaos: 1
 Spells:
-  Charge of the Light Brigade: 3
   Solar Recharge: 3
   Heavy Storm: 1
-  Monster Reborn: 1
   Monster Reincarnation: 1
+  Monster Reborn: 1
   Gold Sarcophagus: 1
-  Brain Control: 1
+  Foolish Burial: 2
 Traps:
   Beckoning Light: 2
   Crush Card Virus: 1
   Threatening Roar: 2
+
 Side:
   Breaker the Magical Warrior: 1
-  Blackwing Gale the Whirlwind: 1
-  Phantom of Chaos: 1
+  Monster Reincarnation: 1
   Mystical Space Typhoon: 1
+  Brain Control: 1
   Giant Trunade: 1
-  Cold Wave: 1
+  Cold Wave: 2
   Lightning Vortex: 1
   Dust Tornado: 1
   Torrential Tribute: 1
@@ -39,10 +40,4 @@ Side:
   Bottomless Trap Hole: 2
   Royal Decree: 2
 Extra:
-  Black Rose Dragon: 2
-  Colossal Fighter: 2
-  Goyo Guardian: 2
-  Magical Android: 1
-  Red Dragon Archfiend: 2
-  Stardust Dragon: 3
-  Thought Ruler Archfiend: 3
+  None: 1
