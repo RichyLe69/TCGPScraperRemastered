@@ -19,7 +19,7 @@
  - [2008 Kaiba Control](#2008-Kaibacontrol)
 
  - [2008 Lightsworn LODT](#2008-Lightsworn-LODT)
- - [2008 TeleDad LODT](#2008-TeleDad-LODT)
+ - [2008 TeleDad LODT](#2008-Dark-Armed-LODT)
 
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
