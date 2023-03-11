@@ -13,13 +13,18 @@
  - [2007 Destiny Beatdown](#2007-Destiny-Beatdown)
  - [2007 Machines OTK](#2007-Machines-OTK)
 
+#### PTDN
 
  - [2008 ReturnDad](#2008-ReturnDad)
  - [2008 Cyber Valley FTK](#2008-cyber-valley-ftk)
  - [2008 Kaiba Control](#2008-Kaibacontrol)
 
+#### LODT
+
  - [2008 Lightsworn LODT](#2008-Lightsworn-LODT)
- - [2008 TeleDad LODT](#2008-Dark-Armed-LODT)
+ - [2008 Dark Armed LODT](#2008-Dark-Armed-LODT)
+
+#### TDGS
 
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
@@ -33,9 +38,12 @@
 
  - [2009 Twilight](#2009-Twilight)
 
+ - [2010 Lightsworn](#2010-Lightsworn)
+
+#### Edison
 
  - [2010 KristyaSworn Edison](#2010-KristyaSworn-Edison)
- - [2010 Lightsworn](#2010-Lightsworn)
+
 
 [//]: # ( - [2010 WeleDad]&#40;#&#41;)
 
