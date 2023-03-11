@@ -17,12 +17,20 @@
  - [2008 ReturnDad](#2008-ReturnDad)
  - [2008 Cyber Valley FTK](#2008-cyber-valley-ftk)
  - [2008 Kaiba Control](#2008-Kaibacontrol)
+
+ - [2008 Lightsworn LODT](#2008-Lightsworn-LODT)
+ - [2008 TeleDad LODT](#2008-TeleDad-LODT)
+
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
 
 
-[//]: # ( - [2009 SalvoDad]&#40;#&#41;)
  - [2009 Oppression TeleDad](#2009-Oppression-TeleDad)
+
+ - [2009 Lightsworn](#2009-Lightsworn)
+ - [2009 Salvo Dad](#2009-Salvo-Dad)
+ - [2009 Chaos](#2009-Chaos)
+
  - [2009 Twilight](#2009-Twilight)
 
 
@@ -68,7 +76,6 @@
 
 ![Imgur Image](https://i.imgur.com/iP7uGhP.jpg)
 
-
 #### 2008 Cyber Valley FTK
 
 ![Imgur Image](https://i.imgur.com/0bJC4c7.jpg)
@@ -81,9 +88,18 @@
 
 ![Imgur Image](https://i.imgur.com/EyKO7K9.jpg)
 
+
+#### 2008 Lightsworn LODT
+
+![Imgur Image](https://i.imgur.com/TXyyf43.jpg)
+
+#### 2008 Dark Armed LODT
+
+![Imgur Image](https://i.imgur.com/aw4ZRl4.jpg)
+
 #### 2008 Lightsworn
 
-![Imgur Image](https://i.imgur.com/HKLDHMj.jpg)
+![Imgur Image](https://i.imgur.com/p05sSRS.jpg)
 
 #### 2008 TeleDad
 
@@ -92,6 +108,18 @@
 #### 2009 Oppression TeleDad
 
 ![Imgur Image](https://i.imgur.com/8Ka0EXh.jpg)
+
+#### 2009 Lightsworn
+
+![Imgur Image](https://i.imgur.com/F7n9GDH.jpg)
+
+#### 2009 Salvo Dad
+
+![Imgur Image](https://i.imgur.com/2z29XUl.jpg)
+
+#### 2009 Chaos
+
+![Imgur Image](https://i.imgur.com/UnHHLDs.jpg)
 
 #### 2009 Twilight
 

@@ -45,11 +45,11 @@
 2009-lightsworn:
   path: 'decks/decklists/2009-lightsworn.yaml'
 
-2009-chaos:
-  path: 'decks/decklists/2009-chaos.yaml'
-
 2009-salvodad:
   path: 'decks/decklists/2009-salvodad.yaml'
+
+2009-chaos:
+  path: 'decks/decklists/2009-chaos.yaml'
 
 2009-twilight:
   path: 'decks/decklists/2009-twilight.yaml'
