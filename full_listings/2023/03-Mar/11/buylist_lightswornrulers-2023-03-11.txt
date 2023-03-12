@@ -1,0 +1,145 @@
+Missing Data for:    Raiden Super - TCG
+Missing Data for:    Blaster Scr - TCG
+Missing Data for:    Tempest Scr - TCG
+Missing Data for:    Eclipse Wyvern Super - TCG
+Missing Data for:    Lightray Diabolos Rare - TCG
+Missing Data for:    mechquipped angineer - TCG
+Missing Data for:    Lavalval Chain DT - TCG
+Sum of Min Listed: $180.00
+Sum of Max Listed: $307.00
+Sum of Mean Listed: $210.00
+Sum of Median Listed: $203.00
+
+Raiden Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Blaster Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Tempest Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Eclipse Wyvern Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Lightray Diabolos Rare - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+kuribandit Scr 1st - TCG [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |   2    |
++-----+-----+------+--------+
+
+Upstart TU08 Super - TCG [1] - Near Mint <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  50 |  99 |  61  |  55.5  |
++-----+-----+------+--------+
+
+soul charge Super - TCG [3] - Near Mint 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+needlebug nest C 1st - TCG [3] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  2  |  2   |   2    |
++-----+-----+------+--------+
+
+michael arch lightsworn - TCG [1] - Near Mint 1st <22>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+mechquipped angineer - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+ghostrick alucard UTR - TCG/Seek [1] - Near Mint 1st <19>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  19 |  39 |  25  |   24   |
++-----+-----+------+--------+
+
+101 silent honor ark UTR - TCG/Seek [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  23 |  47 |  28  |  26.5  |
++-----+-----+------+--------+
+
+diamond dire wolf - TCG/Seek [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  12 |  14 |  12  |  12.0  |
++-----+-----+------+--------+
+
+Lavalval Chain DT - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+80 rhapsody in berserk - TCG [1] - Near Mint <20>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |  2.0   |
++-----+-----+------+--------+
+
+starliege paladynamo - TCG [1] - Near Mint 1st <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+draccosack Scr 1st - TCG [2] - Near Mint 1st <33>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  20 |  13  |   14   |
++-----+-----+------+--------+
+
+Big Eye Secret 1st - TCG/seek [1] - Near Mint <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  35 |  45 |  39  |  38.0  |
++-----+-----+------+--------+
+

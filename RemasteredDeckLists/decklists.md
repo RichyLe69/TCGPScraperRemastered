@@ -28,16 +28,14 @@
 
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
-
-
  - [2009 Oppression TeleDad](#2009-Oppression-TeleDad)
+
+#### Mar 2009 Banlist
 
  - [2009 Lightsworn](#2009-Lightsworn)
  - [2009 Salvo Dad](#2009-Salvo-Dad)
  - [2009 Chaos](#2009-Chaos)
-
  - [2009 Twilight](#2009-Twilight)
-
  - [2010 Lightsworn](#2010-Lightsworn)
 
 #### Edison

@@ -3353,3 +3353,196 @@ collection_old_school - 2023-03-04
 |         Summoned Skull BPT Reverse        |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+buylist_edison - 2023-03-11
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|       Archlord Kristya 1st       |  774  |
+| Black Wing Armor Master Ulti 1st |  118  |
+|  Ancient Sacred Wyvern Ulti 1st  |   63  |
+|     Light End Dragon Scr 1st     |   44  |
+|     Iron Chain Dragon R 1st      |   6   |
+|         Gale CRMS R 1st          |   3   |
+|     Consecrated Light C 1st      |   2   |
+| Herald of Orange Light Rare 1st  |   2   |
+|  Soul of Purity and Light 1st C  |   1   |
+|      Flamvell Uruquizas DT       |   0   |
+|  Nimble Mega Hamster 1st Super   |   0   |
+| Shire Lightsworn Fairy Super 1st |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_cool_singles - 2023-03-11
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2497 |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  351  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  323  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  297  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  249  |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2023-03-11
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|         Maxx C Ultimate EN         |  593  |
+| Plaguespreader Zombie Ultimate 1st |  556  |
+|     Trap Dustshoot Super CP EN     |  399  |
+|   Pot of Avarice Ultimate 1st EN   |  223  |
+|       Tour Guide Ultimate EN       |  223  |
+|   Emegency Teleport Ultimate 1st   |  149  |
+|    Solemn Warning Ultimate 1st     |  114  |
+|         Doomkaiser utr 1st         |   93  |
+|         Krebos Super TU EN         |   90  |
+|       Crush Card Virus GLD1        |   0   |
+|      Scapegoat Ultra RP01 EN       |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_cool_singles_t2 - 2023-03-11
++---------------------------------------------+-------+
+|                     Card                    | Price |
++---------------------------------------------+-------+
+|                Dad secret 1st               |  997  |
+|     Judgment Dragon Ultimate EURO Print     |  439  |
+|               Bottomless CP04               |  385  |
+|    Dark Armed Dragon Ultimate EURO Print    |  378  |
+| Caius Shadow Monarch Ultimate TU EURO Print |  342  |
+|                JD Secret 1st                |  224  |
+|           Dimensional Prison Super          |   0   |
+|                     test                    |   0   |
++---------------------------------------------+-------+
+buylist_lightswornrulers - 2023-03-11
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|       Upstart TU08 Super - TCG      |   50  |
+|    Big Eye Secret 1st - TCG/seek    |   35  |
+| 101 silent honor ark UTR - TCG/Seek |   23  |
+|   ghostrick alucard UTR - TCG/Seek  |   19  |
+|     diamond dire wolf - TCG/Seek    |   12  |
+|       draccosack Scr 1st - TCG      |   11  |
+|     80 rhapsody in berserk - TCG    |   2   |
+|       kuribandit Scr 1st - TCG      |   2   |
+|      needlebug nest C 1st - TCG     |   2   |
+|    michael arch lightsworn - TCG    |   1   |
+|       soul charge Super - TCG       |   1   |
+|      starliege paladynamo - TCG     |   1   |
+|          Blaster Scr - TCG          |   0   |
+|      Eclipse Wyvern Super - TCG     |   0   |
+|       Lavalval Chain DT - TCG       |   0   |
+|     Lightray Diabolos Rare - TCG    |   0   |
+|          Raiden Super - TCG         |   0   |
+|          Tempest Scr - TCG          |   0   |
+|      mechquipped angineer - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_edison - 2023-03-11
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|       Archlord Kristya 1st       |  774  |
+| Black Wing Armor Master Ulti 1st |  118  |
+|  Ancient Sacred Wyvern Ulti 1st  |   63  |
+|     Light End Dragon Scr 1st     |   44  |
+|     Iron Chain Dragon R 1st      |   6   |
+|         Gale CRMS R 1st          |   3   |
+|     Consecrated Light C 1st      |   2   |
+| Herald of Orange Light Rare 1st  |   2   |
+|  Soul of Purity and Light 1st C  |   1   |
+|      Flamvell Uruquizas DT       |   0   |
+|  Nimble Mega Hamster 1st Super   |   0   |
+| Shire Lightsworn Fairy Super 1st |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_cool_singles - 2023-03-11
++------------------------------------------------+-------+
+|                      Card                      | Price |
++------------------------------------------------+-------+
+|       Black Rose Dragon Ghost 1st - SEEK       |  2497 |
+|  Stardust Dragon Ghost unl extra - TCG / SEEK  |  351  |
+|    Power Tool Dragon Ghost 1st - TCG / SEEK    |  323  |
+|    red dragon archfiend Ultimate 1st - SEEK    |  297  |
+| Black Rose Dragon Ghost unl extra - TCG / SEEK |  249  |
+|                      test                      |   0   |
++------------------------------------------------+-------+
+buylist_foreign_converts - 2023-03-11
++------------------------------------+-------+
+|                Card                | Price |
++------------------------------------+-------+
+|         Maxx C Ultimate EN         |  593  |
+| Plaguespreader Zombie Ultimate 1st |  556  |
+|     Trap Dustshoot Super CP EN     |  399  |
+|   Pot of Avarice Ultimate 1st EN   |  223  |
+|       Tour Guide Ultimate EN       |  223  |
+|   Emegency Teleport Ultimate 1st   |  149  |
+|    Solemn Warning Ultimate 1st     |  114  |
+|         Doomkaiser utr 1st         |   93  |
+|         Krebos Super TU EN         |   90  |
+|       Crush Card Virus GLD1        |   0   |
+|      Scapegoat Ultra RP01 EN       |   0   |
+|                test                |   0   |
++------------------------------------+-------+
+buylist_cool_singles_t2 - 2023-03-11
++---------------------------------------------+-------+
+|                     Card                    | Price |
++---------------------------------------------+-------+
+|                Dad secret 1st               |  997  |
+|     Judgment Dragon Ultimate EURO Print     |  439  |
+|               Bottomless CP04               |  385  |
+|    Dark Armed Dragon Ultimate EURO Print    |  378  |
+| Caius Shadow Monarch Ultimate TU EURO Print |  342  |
+|                JD Secret 1st                |  224  |
+|           Dimensional Prison Super          |   0   |
+|                     test                    |   0   |
++---------------------------------------------+-------+
+buylist_lightswornrulers - 2023-03-11
++-------------------------------------+-------+
+|                 Card                | Price |
++-------------------------------------+-------+
+|       Upstart TU08 Super - TCG      |   50  |
+|    Big Eye Secret 1st - TCG/seek    |   35  |
+| 101 silent honor ark UTR - TCG/Seek |   23  |
+|   ghostrick alucard UTR - TCG/Seek  |   19  |
+|     diamond dire wolf - TCG/Seek    |   12  |
+|       draccosack Scr 1st - TCG      |   11  |
+|     80 rhapsody in berserk - TCG    |   2   |
+|       kuribandit Scr 1st - TCG      |   2   |
+|      needlebug nest C 1st - TCG     |   2   |
+|    michael arch lightsworn - TCG    |   1   |
+|       soul charge Super - TCG       |   1   |
+|      starliege paladynamo - TCG     |   1   |
+|          Blaster Scr - TCG          |   0   |
+|      Eclipse Wyvern Super - TCG     |   0   |
+|       Lavalval Chain DT - TCG       |   0   |
+|     Lightray Diabolos Rare - TCG    |   0   |
+|          Raiden Super - TCG         |   0   |
+|          Tempest Scr - TCG          |   0   |
+|      mechquipped angineer - TCG     |   0   |
+|                 test                |   0   |
++-------------------------------------+-------+
+buylist_2007_08_max_deck - 2023-03-11
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|          Metamorphosis           |  784  |
+|       Dark World Dealings        |  199  |
+|        Destiny Hero Dogma        |  105  |
+|   Broww Huntsman of Darkworld    |  103  |
+| Machine Duplication Ultimate 1st |   74  |
+|     Destiny Hero Fear Monger     |   69  |
+|    Diamond Dude Ultimate 1st     |   69  |
+|      Magic Cylinder Secret       |   46  |
+|     The Beginning of the End     |   45  |
+|            Megamorph             |   44  |
+|           Jar of Greed           |   21  |
+|    Destiny Hero Plasma Secret    |   13  |
+|          Dark Nephthys           |   9   |
+|         Hand Destruction         |   2   |
+|             Trade In             |   2   |
+|            Scapegoat             |   0   |
+|      Shadowpriestess of Ohm      |   0   |
+|     Toon Cannon Soldier TP6      |   0   |
+|    Toon Table of Contents TP6    |   0   |
+|               test               |   0   |
++----------------------------------+-------+

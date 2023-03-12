@@ -13,28 +13,28 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
-# 2k - Vintage Accessories - 1.5-2k+ Gray 94 Dash
-# 2.8k - edison - kristyasworn & leftovers
-# 5.5k - cool singles - remaining ghosts n extra deck synchro singles
-# 5k - foreign converts
-# 6.5k - cool singles t2 - additional edison, historical max rarity, old school rarity bumps
+# 2.5k - Vintage Accessories - 2-2.5k+ Gray 94 Dash
+# 2.5k - edison - kristyasworn & leftovers
+# 4k - cool singles - remaining ghosts n extra deck synchro singles
+# 4.5k - foreign converts
+# 5.2k - cool singles t2 - additional edison, historical max rarity, old school rarity bumps
 # 250  - lightsworn rulers - Max Rarity Historical*
     # 15-20k+ double_up_hoard - fuck it why not
-    # 3k - 2008 max rarities (otk decks)
+    # 4.7k - 2008 max rarities (otk decks)
 
     # Extended wait for market to level out.
         # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
@@ -51,27 +51,33 @@ collection_old_school:
 
 # Will definitely buy
 
-#buylist_edison:
-#  path: 'decks/current_buys/buylist_edison.yaml'
-#
-#buylist_cool_singles:  #  cool singles notes: just cool singles for photos/collections
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_foreign_converts:  #  foreign converts, trade bait.
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-#
-#buylist_cool_singles_t2:
-#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
-#
-#buylist_lightswornrulers: # lightsworn ruler notes: 2014 vs mermails format.
-#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+buylist_edison:
+  path: 'decks/current_buys/buylist_edison.yaml'
+
+buylist_cool_singles:
+  path: 'decks/current_buys/buylist_cool_singles.yaml'
+
+buylist_foreign_converts:
+  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+buylist_cool_singles_t2:
+  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
+
+buylist_lightswornrulers:
+  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+
+# #buylist_double_up_hoard:
+# #  path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+
+buylist_2007_08_max_deck:
+  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
+
+###################################
 
 #buylist_high_end_vintage:
 #  path: 'decks/current_buys/buylist_high_end_vintage.yaml'
 
-###################################
-
-# Potential buys
+# Potential buys, most likely pass though - RL 3/10/2023
 
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 #  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Never really used zombies, don't think I care
@@ -85,7 +91,7 @@ collection_old_school:
 
 ################################
 
-# Most likely skip
+# skip - RL 3/10/2023
 #
 #buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
 #  path: 'decks/current_buys/tier2/buylist_frog_monarch.yaml'

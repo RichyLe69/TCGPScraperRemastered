@@ -1,33 +1,109 @@
 # Remaining 'max' rarity cards for 2007-2008 decks
 # Priority: 08 Cybervalley FTK & 08 Ohm FTK > 07 Demise >>>>>>>> 07 D Hero, 07 Machines
 
-#2008 cyber FTK max
-# 1 toon cannon TP
-# 3 toon table TP
-# 1 diamond dude
-# 1 machine dupe
+# 2008 cyber valley, shadowpriestess, demise OTK - Finalized RL 3/11/2023
 
-#2008 ohm ftk
-#3 brow utr
-#1 dark nephthys utr
-#2 d hero dogma utr
-#1 fear monger super
-#3 dark world dealings utr
-#2 beginning utr
-  #1 plasma scr
-  #3 trade in R
-  #2 hand destruction R
-  #1 ohm r
+# 2008 Cyber Valley FTK - Final RL 3/11/23
+
+Toon Cannon Soldier TP6:
+  url: 25312
+  edition: 'Near Mint'
+  qty: 1
+
+Toon Table of Contents TP6:
+  url: 25313
+  edition: 'Near Mint'
+  qty: 3
+
+Diamond Dude Ultimate 1st:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Machine Duplication Ultimate 1st:
+  url: 58803
+  edition: 'Near Mint 1st'
+  qty: 1
+
+# 2008 KaibaControl - Shadow Priestess FTK - Final RL 3/11/23
+
+Broww Huntsman of Darkworld:
+  url: 58712
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Dark Nephthys:
+  url: 27473
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Destiny Hero Dogma:
+  url: 58635
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Destiny Hero Fear Monger:
+  url: 33054
+  edition: 'Near Mint'
+  qty: 1
+
+Dark World Dealings:
+  url: 58560
+  edition: 'Near Mint 1st'
+  qty: 3
+
+The Beginning of the End:
+  url: 27478
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Destiny Hero Plasma Secret:
+  url: 26358
+  edition: 'Near Mint Limited'
+  qty: 1
+
+Trade In:
+  url: 33234
+  edition: 'Near Mint'
+  qty: 3
+
+Hand Destruction:
+  url: 83412
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Shadowpriestess of Ohm:
+  url: 26625
+  edition: 'Near Mint 1st'
+  qty: 1
 
 # 2007 Max Rarity needs:
+# 2007 Demise OTK - Final RL 3/11/23
 
-#2007 Demise OTK
-#meta
-#megamorph
-#scapegoat
-#magical cylinder
-#jar of greed
+Metamorphosis:
+  url: 26058
+  edition: 'Near Mint'
+  qty: 3
 
+Scapegoat:
+  url: 78160
+  edition: 'Near Mint'
+  qty: 2
+
+Megamorph:
+  url: 22210
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Magic Cylinder Secret:
+  url: 22173
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Jar of Greed:
+  url: 22107
+  edition: 'Near Mint 1st'
+  qty: 3
 
 
 # 2007 d hero
@@ -39,17 +115,13 @@
 #  edition: 'Near Mint'
 #  qty: 1
 
-Morphing Jar tp4 super:
-  url: 22773
-  edition: 'Near Mint'
-  qty: 1
-
-
+#Morphing Jar tp4 super:
+#  url: 22773
+#  edition: 'Near Mint'
+#  qty: 1
 
 
 #2007 machines
 #snipe hunter?
 #future fusion?
 #overload fusion?
-
-
