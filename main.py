@@ -84,10 +84,3 @@ if __name__ == '__main__':
     scraper.get_average_of_list()
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\main.py
-
-
-# individual consoles (to allow for multi processing)
-
-# mysql table
-# data calculations, graph creations
-# get sums into graphable, plotable csv

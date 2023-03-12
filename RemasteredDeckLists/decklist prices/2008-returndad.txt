@@ -1,8 +1,8 @@
 2008-returndad - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 4707
+Main Deck: 4708
 Side Deck: 3569
 Extra Deck: 0
-Total Price: 8276
+Total Price: 8277
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -16,7 +16,7 @@ Total Price: 8276
 | 1 Destiny Hero Dasher UtR                | 128 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 2 Destiny Hero Malicious UR              |  27 |
-| 1 Destiny Hero Plasma ScR                |  12 |
+| 1 Destiny Hero Plasma ScR                |  13 |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Jinzo ScR                              | 400 |
 | 1 Sangan SR                              | 195 |
@@ -55,10 +55,10 @@ Total Price: 8276
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-returndad - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 6606
+Main Deck: 6610
 Side Deck: 5504
 Extra Deck: 0
-Total Price: 12110
+Total Price: 12114
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -72,7 +72,7 @@ Total Price: 12110
 | 1 Destiny Hero Dasher UtR                | 209 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 2 Destiny Hero Malicious UR              |  52 |
-| 1 Destiny Hero Plasma ScR                |  35 |
+| 1 Destiny Hero Plasma ScR                |  39 |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Jinzo ScR                              | 425 |
 | 1 Sangan SR                              | 240 |
@@ -111,10 +111,10 @@ Total Price: 12110
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-returndad - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 5443
+Main Deck: 5449
 Side Deck: 4210
 Extra Deck: 0
-Total Price: 9653
+Total Price: 9659
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -128,7 +128,7 @@ Total Price: 9653
 | 1 Destiny Hero Dasher UtR                | 143 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 2 Destiny Hero Malicious UR              |  35 |
-| 1 Destiny Hero Plasma ScR                |  18 |
+| 1 Destiny Hero Plasma ScR                |  23 |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Jinzo ScR                              | 412 |
 | 1 Sangan SR                              | 205 |
@@ -139,7 +139,7 @@ Total Price: 9653
 | 1 Dimension Fusion UR                    |  91 |
 | 1 Gold Sarcophagus GUR                   |   - |
 | 1 Heavy Storm SR                         |  58 |
-| 1 Machine Duplication UtR                |  99 |
+| 1 Machine Duplication UtR                | 100 |
 | 1 Monster Reborn UR                      |  16 |
 | 1 Premature Burial UR                    |  48 |
 | 1 Reinforcement of the Army SR           |  16 |
@@ -167,10 +167,10 @@ Total Price: 9653
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-returndad - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 5525
+Main Deck: 5527
 Side Deck: 3980
 Extra Deck: 0
-Total Price: 9505
+Total Price: 9507
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -184,7 +184,7 @@ Total Price: 9505
 | 1 Destiny Hero Dasher UtR                | 129 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 2 Destiny Hero Malicious UR              |  35 |
-| 1 Destiny Hero Plasma ScR                |  18 |
+| 1 Destiny Hero Plasma ScR                |  20 |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Jinzo ScR                              | 412 |
 | 1 Sangan SR                              | 199 |

@@ -1,8 +1,8 @@
 2009-salvodad - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 3544
+Main Deck: 3545
 Side Deck: 0
 Extra Deck: 4573
-Total Price: 8117
+Total Price: 8118
 +------------------------------------------------+------+
 | Card                                           |    $ |
 +------------------------------------------------+------+
@@ -11,7 +11,7 @@ Total Price: 8117
 | 2 Black Salvo SR                               |   15 |
 | 2 Dekoichi the Battle Enchanted Locomotive UtR |   67 |
 | 1 Elemental Hero Stratos UR                    |    - |
-| 1 Destiny Hero Plasma ScR                      |   12 |
+| 1 Destiny Hero Plasma ScR                      |   13 |
 | 2 Destiny Hero Malicious UR                    |   27 |
 | 1 Mystic Tomato R                              |    - |
 | 1 Sangan SR                                    |  195 |
@@ -54,10 +54,10 @@ Total Price: 8117
 | 2 Stardust Dragon GR                           | 1649 |
 +------------------------------------------------+------+
 2009-salvodad - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 5249
+Main Deck: 5253
 Side Deck: 0
 Extra Deck: 6694
-Total Price: 11943
+Total Price: 11947
 +------------------------------------------------+------+
 | Card                                           |    $ |
 +------------------------------------------------+------+
@@ -66,7 +66,7 @@ Total Price: 11943
 | 2 Black Salvo SR                               |   15 |
 | 2 Dekoichi the Battle Enchanted Locomotive UtR |   89 |
 | 1 Elemental Hero Stratos UR                    |    - |
-| 1 Destiny Hero Plasma ScR                      |   35 |
+| 1 Destiny Hero Plasma ScR                      |   39 |
 | 2 Destiny Hero Malicious UR                    |   52 |
 | 1 Mystic Tomato R                              |    - |
 | 1 Sangan SR                                    |  240 |
@@ -109,10 +109,10 @@ Total Price: 11943
 | 2 Stardust Dragon GR                           | 2499 |
 +------------------------------------------------+------+
 2009-salvodad - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 4232
+Main Deck: 4238
 Side Deck: 0
 Extra Deck: 5146
-Total Price: 9378
+Total Price: 9384
 +------------------------------------------------+------+
 | Card                                           |    $ |
 +------------------------------------------------+------+
@@ -121,7 +121,7 @@ Total Price: 9378
 | 2 Black Salvo SR                               |   15 |
 | 2 Dekoichi the Battle Enchanted Locomotive UtR |   72 |
 | 1 Elemental Hero Stratos UR                    |    - |
-| 1 Destiny Hero Plasma ScR                      |   18 |
+| 1 Destiny Hero Plasma ScR                      |   23 |
 | 2 Destiny Hero Malicious UR                    |   35 |
 | 1 Mystic Tomato R                              |    - |
 | 1 Sangan SR                                    |  205 |
@@ -139,7 +139,7 @@ Total Price: 9378
 | 1 Mystical Space Typhoon UR                    |  110 |
 | 1 Reinforcement of the Army SR                 |   16 |
 | 1 Scapegoat UR                                 |    - |
-| 1 Machine Duplication UtR                      |   99 |
+| 1 Machine Duplication UtR                      |  100 |
 | 2 Threatening Roar C                           |  145 |
 | 2 Bottomless Trap Hole SR                      |    - |
 | 1 Torrential Tribute UR                        |   96 |
@@ -164,10 +164,10 @@ Total Price: 9378
 | 2 Stardust Dragon GR                           | 1877 |
 +------------------------------------------------+------+
 2009-salvodad - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 4270
+Main Deck: 4272
 Side Deck: 0
 Extra Deck: 4741
-Total Price: 9011
+Total Price: 9013
 +------------------------------------------------+------+
 | Card                                           |    $ |
 +------------------------------------------------+------+
@@ -176,7 +176,7 @@ Total Price: 9011
 | 2 Black Salvo SR                               |   15 |
 | 2 Dekoichi the Battle Enchanted Locomotive UtR |   70 |
 | 1 Elemental Hero Stratos UR                    |    - |
-| 1 Destiny Hero Plasma ScR                      |   18 |
+| 1 Destiny Hero Plasma ScR                      |   20 |
 | 2 Destiny Hero Malicious UR                    |   35 |
 | 1 Mystic Tomato R                              |    - |
 | 1 Sangan SR                                    |  199 |

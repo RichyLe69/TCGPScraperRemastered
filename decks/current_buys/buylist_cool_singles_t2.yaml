@@ -16,10 +16,10 @@ Dark Armed Dragon Ultimate EURO Print:
   edition: 'Near Mint Unlimited'
   qty: 3
 
-Caius Shadow Monarch Ultimate TU EURO Print:
-  url: 66668
-  edition: 'Near Mint Unlimited'
-  qty: 3
+#Caius Shadow Monarch Ultimate TU EURO Print:
+#  url: 66668
+#  edition: 'Near Mint Unlimited'
+#  qty: 3
 
 # Historical Max Rarity
 
@@ -35,7 +35,7 @@ JD Secret 1st:
 
 # Edison addons - Max Rarity
 
-Bottomless CP04:
+Bottomless Trap Hole CP04:
   url: 26481
   edition: 'Near Mint'
   qty: 2

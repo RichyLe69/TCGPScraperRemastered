@@ -71,10 +71,10 @@ Total Price: 2857
 | 1 None                           |   - |
 +----------------------------------+-----+
 2008-cybervalleyftk - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 2111
+Main Deck: 2114
 Side Deck: 0
 Extra Deck: 0
-Total Price: 2111
+Total Price: 2114
 +----------------------------------+-----+
 | Card                             |   $ |
 +----------------------------------+-----+
@@ -88,7 +88,7 @@ Total Price: 2111
 | 1 Toon Cannon Soldier UR         |   - |
 | 3 Toon Table of Contents SR      |   - |
 | 3 Magical Mallet SR              |   - |
-| 3 Machine Duplication UtR        |  99 |
+| 3 Machine Duplication UtR        | 100 |
 | 3 Allure of Darkness UtR         | 395 |
 | 3 Destiny Draw UR                |  10 |
 | 3 Upstart Goblin C               |   - |

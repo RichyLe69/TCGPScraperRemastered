@@ -11,7 +11,7 @@ import datetime
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
 generate_decklist_gallery = False
-generate_decklist_prices = False
+generate_decklist_prices = True
 
 
 # Generating Decklist Gallery #
@@ -351,7 +351,10 @@ if __name__ == '__main__':
     card_code_list = deckbuilder.get_card_code_list()
 
     collection_name = ['collection_deck_builder', 'collection_deck_core',
-                       'collection_extra_deck', 'collection_old_school']
+                       'collection_extra_deck', 'collection_old_school',
+                       'buylist_2007_08_max_deck', 'buylist_cool_singles_t2',
+                       'buylist_edison', 'buylist_lightswornrulers',
+                       ]
     pricing_variable_full = ['min_prices_sorted.txt', 'max_prices_sorted.txt',
                              'mean_prices_sorted.txt', 'median_prices_sorted.txt']  # Full
     # pricing_variable_full = ['min_prices_sorted.txt']  # Single
@@ -378,9 +381,3 @@ if __name__ == '__main__':
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
-
-# Todo
-#       [x] Plan out budget vintage lol
-#       [T2] missing price scrapes from collection.yaml
-#           - only do for high value cards
-#           - im still buying cards / reorganizing binders.

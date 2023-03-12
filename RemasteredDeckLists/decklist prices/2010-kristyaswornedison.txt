@@ -1,29 +1,29 @@
 2010-kristyaswornedison - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 4816
-Side Deck: 1277
+Main Deck: 6643
+Side Deck: 1281
 Extra Deck: 3508
-Total Price: 9601
+Total Price: 11432
 +------------------------------------------+------+
 | Card                                     |    $ |
 +------------------------------------------+------+
 | Main Deck                                |      |
-| 3 Archlord Kristya ScR                   |  187 |
+| 3 Archlord Kristya ScR                   |  774 |
 | 1 Aurkus Lightsworn Druid SR             |    4 |
 | 1 Card Trooper UR                        |    7 |
 | 3 Celestia Lightsworn Angel UtR          |   61 |
 | 1 Ehren Lightsworn Monk ScR              |   59 |
 | 1 Garoth Lightsworn Warrior SR           |   39 |
 | 1 Gorz the Emissary of Darkness ScR      |    6 |
-| 3 Herald of Orange Light R               |    - |
+| 3 Herald of Orange Light R               |    2 |
 | 2 Honest GR                              |  389 |
 | 1 Jain Lightsworn Paladin C              |    - |
-| 2 Judgment Dragon UtR                    |  410 |
+| 2 Judgment Dragon UtR                    |  439 |
 | 1 Lumina Lightsworn Summoner SR          |  299 |
 | 1 Lyla Lightsworn Sorceress UtR          |   97 |
 | 1 Wulf Lightsworn Beast SR               |    5 |
 | 2 Ryko Lightsworn Hunter SR              |   24 |
 | 1 Tragoedia UtR                          |  149 |
-| 2 Soul of Purity and Light C             |    - |
+| 2 Soul of Purity and Light C             |    1 |
 | 1 Super Nimble Mega Hamster SR           |    - |
 | 1 Plaguespreader Zombie UtR              |  556 |
 | 1 Charge of the Light Brigade ScR        |  196 |
@@ -36,7 +36,7 @@ Total Price: 9601
 | 1 Call of the Haunted UR                 |   50 |
 |                                          |      |
 | Side Deck                                |      |
-| 2 Consecrated Light SP                   |    - |
+| 2 Consecrated Light SP                   |    2 |
 | 1 Cyber Dragon UtR                       |  250 |
 | 1 Morphing Jar SR                        |    - |
 | 1 Spirit Reaper SR                       |  306 |
@@ -68,22 +68,22 @@ Total Price: 9601
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
 2010-kristyaswornedison - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 7071
-Side Deck: 1874
+Main Deck: 9469
+Side Deck: 1878
 Extra Deck: 4931
-Total Price: 13876
+Total Price: 16278
 +------------------------------------------+------+
 | Card                                     |    $ |
 +------------------------------------------+------+
 | Main Deck                                |      |
-| 3 Archlord Kristya ScR                   |  194 |
+| 3 Archlord Kristya ScR                   |  989 |
 | 1 Aurkus Lightsworn Druid SR             |    5 |
 | 1 Card Trooper UR                        |   14 |
 | 3 Celestia Lightsworn Angel UtR          |  120 |
 | 1 Ehren Lightsworn Monk ScR              |   89 |
 | 1 Garoth Lightsworn Warrior SR           |   49 |
 | 1 Gorz the Emissary of Darkness ScR      |   19 |
-| 3 Herald of Orange Light R               |    - |
+| 3 Herald of Orange Light R               |    3 |
 | 2 Honest GR                              |  500 |
 | 1 Jain Lightsworn Paladin C              |    - |
 | 2 Judgment Dragon UtR                    |  650 |
@@ -92,7 +92,7 @@ Total Price: 13876
 | 1 Wulf Lightsworn Beast SR               |   12 |
 | 2 Ryko Lightsworn Hunter SR              |   41 |
 | 1 Tragoedia UtR                          |  224 |
-| 2 Soul of Purity and Light C             |    - |
+| 2 Soul of Purity and Light C             |    2 |
 | 1 Super Nimble Mega Hamster SR           |    - |
 | 1 Plaguespreader Zombie UtR              |  999 |
 | 1 Charge of the Light Brigade ScR        |  399 |
@@ -105,7 +105,7 @@ Total Price: 13876
 | 1 Call of the Haunted UR                 |  139 |
 |                                          |      |
 | Side Deck                                |      |
-| 2 Consecrated Light SP                   |    - |
+| 2 Consecrated Light SP                   |    2 |
 | 1 Cyber Dragon UtR                       |  504 |
 | 1 Morphing Jar SR                        |    - |
 | 1 Spirit Reaper SR                       |  499 |
@@ -137,22 +137,22 @@ Total Price: 13876
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
 2010-kristyaswornedison - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 5520
-Side Deck: 1463
+Main Deck: 7523
+Side Deck: 1467
 Extra Deck: 3900
-Total Price: 10883
+Total Price: 12890
 +------------------------------------------+------+
 | Card                                     |    $ |
 +------------------------------------------+------+
 | Main Deck                                |      |
-| 3 Archlord Kristya ScR                   |  189 |
+| 3 Archlord Kristya ScR                   |  854 |
 | 1 Aurkus Lightsworn Druid SR             |    4 |
 | 1 Card Trooper UR                        |    9 |
 | 3 Celestia Lightsworn Angel UtR          |   81 |
 | 1 Ehren Lightsworn Monk ScR              |   74 |
 | 1 Garoth Lightsworn Warrior SR           |   43 |
 | 1 Gorz the Emissary of Darkness ScR      |   12 |
-| 3 Herald of Orange Light R               |    - |
+| 3 Herald of Orange Light R               |    2 |
 | 2 Honest GR                              |  408 |
 | 1 Jain Lightsworn Paladin C              |    - |
 | 2 Judgment Dragon UtR                    |  488 |
@@ -161,7 +161,7 @@ Total Price: 10883
 | 1 Wulf Lightsworn Beast SR               |    7 |
 | 2 Ryko Lightsworn Hunter SR              |   30 |
 | 1 Tragoedia UtR                          |  166 |
-| 2 Soul of Purity and Light C             |    - |
+| 2 Soul of Purity and Light C             |    1 |
 | 1 Super Nimble Mega Hamster SR           |    - |
 | 1 Plaguespreader Zombie UtR              |  725 |
 | 1 Charge of the Light Brigade ScR        |  255 |
@@ -174,7 +174,7 @@ Total Price: 10883
 | 1 Call of the Haunted UR                 |   90 |
 |                                          |      |
 | Side Deck                                |      |
-| 2 Consecrated Light SP                   |    - |
+| 2 Consecrated Light SP                   |    2 |
 | 1 Cyber Dragon UtR                       |  335 |
 | 1 Morphing Jar SR                        |    - |
 | 1 Spirit Reaper SR                       |  360 |
@@ -206,22 +206,22 @@ Total Price: 10883
 | 1 Thought Ruler Archfiend UtR            |  200 |
 +------------------------------------------+------+
 2010-kristyaswornedison - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 5282
-Side Deck: 1365
+Main Deck: 7128
+Side Deck: 1369
 Extra Deck: 3646
-Total Price: 10293
+Total Price: 12143
 +------------------------------------------+------+
 | Card                                     |    $ |
 +------------------------------------------+------+
 | Main Deck                                |      |
-| 3 Archlord Kristya ScR                   |  188 |
+| 3 Archlord Kristya ScR                   |  799 |
 | 1 Aurkus Lightsworn Druid SR             |    4 |
 | 1 Card Trooper UR                        |    9 |
 | 3 Celestia Lightsworn Angel UtR          |   77 |
 | 1 Ehren Lightsworn Monk ScR              |   79 |
 | 1 Garoth Lightsworn Warrior SR           |   41 |
 | 1 Gorz the Emissary of Darkness ScR      |   11 |
-| 3 Herald of Orange Light R               |    - |
+| 3 Herald of Orange Light R               |    3 |
 | 2 Honest GR                              |  390 |
 | 1 Jain Lightsworn Paladin C              |    - |
 | 2 Judgment Dragon UtR                    |  468 |
@@ -230,7 +230,7 @@ Total Price: 10293
 | 1 Wulf Lightsworn Beast SR               |    7 |
 | 2 Ryko Lightsworn Hunter SR              |   27 |
 | 1 Tragoedia UtR                          |  157 |
-| 2 Soul of Purity and Light C             |    - |
+| 2 Soul of Purity and Light C             |    2 |
 | 1 Super Nimble Mega Hamster SR           |    - |
 | 1 Plaguespreader Zombie UtR              |  677 |
 | 1 Charge of the Light Brigade ScR        |  215 |
@@ -243,7 +243,7 @@ Total Price: 10293
 | 1 Call of the Haunted UR                 |   99 |
 |                                          |      |
 | Side Deck                                |      |
-| 2 Consecrated Light SP                   |    - |
+| 2 Consecrated Light SP                   |    2 |
 | 1 Cyber Dragon UtR                       |  299 |
 | 1 Morphing Jar SR                        |    - |
 | 1 Spirit Reaper SR                       |  322 |

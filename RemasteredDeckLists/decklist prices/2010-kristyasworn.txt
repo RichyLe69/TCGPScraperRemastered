@@ -1,13 +1,13 @@
 2010-kristyasworn - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 5830
+Main Deck: 6475
 Side Deck: 1676
 Extra Deck: 3130
-Total Price: 10636
+Total Price: 11281
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
 | Main Deck                              |      |
-| 2 Judgment Dragon UtR                  |  410 |
+| 2 Judgment Dragon UtR                  |  439 |
 | 3 Lumina Lightsworn Summoner SR        |  299 |
 | 2 Lyla Lightsworn Sorceress UtR        |   97 |
 | 3 Celestia Lightsworn Angel UtR        |   61 |
@@ -17,7 +17,7 @@ Total Price: 10636
 | 1 Ehren Lightsworn Monk ScR            |   59 |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
 | 1 Ryko Lightsworn Hunter SR            |   24 |
-| 1 Archlord Kristya ScR                 |  187 |
+| 1 Archlord Kristya ScR                 |  774 |
 | 3 Honest GR                            |  389 |
 | 3 Necro Gardna UtR                     |   39 |
 | 1 Plaguespreader Zombie UtR            |  556 |
@@ -62,10 +62,10 @@ Total Price: 10636
 | 1 Tempest Magician ScR                 |   73 |
 +----------------------------------------+------+
 2010-kristyasworn - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 8618
+Main Deck: 9413
 Side Deck: 2060
 Extra Deck: 4561
-Total Price: 15239
+Total Price: 16034
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -80,7 +80,7 @@ Total Price: 15239
 | 1 Ehren Lightsworn Monk ScR            |   89 |
 | 1 Aurkus Lightsworn Druid SR           |    5 |
 | 1 Ryko Lightsworn Hunter SR            |   41 |
-| 1 Archlord Kristya ScR                 |  194 |
+| 1 Archlord Kristya ScR                 |  989 |
 | 3 Honest GR                            |  500 |
 | 3 Necro Gardna UtR                     |   74 |
 | 1 Plaguespreader Zombie UtR            |  999 |
@@ -125,10 +125,10 @@ Total Price: 15239
 | 1 Tempest Magician ScR                 |   78 |
 +----------------------------------------+------+
 2010-kristyasworn - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 6711
+Main Deck: 7376
 Side Deck: 1808
 Extra Deck: 3524
-Total Price: 12043
+Total Price: 12708
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -143,7 +143,7 @@ Total Price: 12043
 | 1 Ehren Lightsworn Monk ScR            |   74 |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
 | 1 Ryko Lightsworn Hunter SR            |   30 |
-| 1 Archlord Kristya ScR                 |  189 |
+| 1 Archlord Kristya ScR                 |  854 |
 | 3 Honest GR                            |  408 |
 | 3 Necro Gardna UtR                     |   48 |
 | 1 Plaguespreader Zombie UtR            |  725 |
@@ -188,10 +188,10 @@ Total Price: 12043
 | 1 Tempest Magician ScR                 |   74 |
 +----------------------------------------+------+
 2010-kristyasworn - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 6351
+Main Deck: 6962
 Side Deck: 1750
 Extra Deck: 3269
-Total Price: 11370
+Total Price: 11981
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -206,7 +206,7 @@ Total Price: 11370
 | 1 Ehren Lightsworn Monk ScR            |   79 |
 | 1 Aurkus Lightsworn Druid SR           |    4 |
 | 1 Ryko Lightsworn Hunter SR            |   27 |
-| 1 Archlord Kristya ScR                 |  188 |
+| 1 Archlord Kristya ScR                 |  799 |
 | 3 Honest GR                            |  390 |
 | 3 Necro Gardna UtR                     |   42 |
 | 1 Plaguespreader Zombie UtR            |  677 |

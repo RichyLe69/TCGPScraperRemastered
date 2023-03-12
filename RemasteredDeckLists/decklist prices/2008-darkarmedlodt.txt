@@ -1,8 +1,8 @@
 2008-darkarmedlodt - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 5554
+Main Deck: 5624
 Side Deck: 2642
 Extra Deck: 0
-Total Price: 8196
+Total Price: 8266
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -11,9 +11,9 @@ Total Price: 8196
 | 1 Dark Grepher ScR                       | 159 |
 | 1 Dark Magician of Chaos UR              | 163 |
 | 1 Caius the Shadow Monarch UtR           | 340 |
-| 1 Destiny Hero Plasma ScR                |  12 |
+| 1 Destiny Hero Plasma ScR                |  13 |
 | 2 Destiny Hero Malicious UR              |  27 |
-| 1 Destiny Hero Fear Monger SR            |   - |
+| 1 Destiny Hero Fear Monger SR            |  69 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Card Trooper UR                        |   7 |
@@ -56,10 +56,10 @@ Total Price: 8196
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-darkarmedlodt - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 8506
+Main Deck: 8589
 Side Deck: 3660
 Extra Deck: 0
-Total Price: 12166
+Total Price: 12249
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -68,9 +68,9 @@ Total Price: 12166
 | 1 Dark Grepher ScR                       | 171 |
 | 1 Dark Magician of Chaos UR              | 298 |
 | 1 Caius the Shadow Monarch UtR           | 499 |
-| 1 Destiny Hero Plasma ScR                |  35 |
+| 1 Destiny Hero Plasma ScR                |  39 |
 | 2 Destiny Hero Malicious UR              |  52 |
-| 1 Destiny Hero Fear Monger SR            |   - |
+| 1 Destiny Hero Fear Monger SR            |  79 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Card Trooper UR                        |  14 |
@@ -113,10 +113,10 @@ Total Price: 12166
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-darkarmedlodt - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 6609
+Main Deck: 6689
 Side Deck: 2957
 Extra Deck: 0
-Total Price: 9566
+Total Price: 9646
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -125,9 +125,9 @@ Total Price: 9566
 | 1 Dark Grepher ScR                       | 164 |
 | 1 Dark Magician of Chaos UR              | 196 |
 | 1 Caius the Shadow Monarch UtR           | 384 |
-| 1 Destiny Hero Plasma ScR                |  18 |
+| 1 Destiny Hero Plasma ScR                |  23 |
 | 2 Destiny Hero Malicious UR              |  35 |
-| 1 Destiny Hero Fear Monger SR            |   - |
+| 1 Destiny Hero Fear Monger SR            |  75 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Card Trooper UR                        |   9 |
@@ -170,10 +170,10 @@ Total Price: 9566
 | 1 None                                   |   - |
 +------------------------------------------+-----+
 2008-darkarmedlodt - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 6405
+Main Deck: 6485
 Side Deck: 2861
 Extra Deck: 0
-Total Price: 9266
+Total Price: 9346
 +------------------------------------------+-----+
 | Card                                     |   $ |
 +------------------------------------------+-----+
@@ -182,9 +182,9 @@ Total Price: 9266
 | 1 Dark Grepher ScR                       | 160 |
 | 1 Dark Magician of Chaos UR              | 170 |
 | 1 Caius the Shadow Monarch UtR           | 344 |
-| 1 Destiny Hero Plasma ScR                |  18 |
+| 1 Destiny Hero Plasma ScR                |  20 |
 | 2 Destiny Hero Malicious UR              |  35 |
-| 1 Destiny Hero Fear Monger SR            |   - |
+| 1 Destiny Hero Fear Monger SR            |  78 |
 | 1 Destiny Hero Disk Commander SR         |   - |
 | 1 Elemental Hero Stratos UR              |   - |
 | 1 Card Trooper UR                        |   9 |

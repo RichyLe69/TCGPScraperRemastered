@@ -119,10 +119,10 @@ Total Price: 14283
 | 1 Reaper on the Nightmare SR                   |   - |
 +------------------------------------------------+-----+
 2007-machinesotk - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 5188
-Side Deck: 3020
+Main Deck: 5189
+Side Deck: 3021
 Extra Deck: 3822
-Total Price: 12030
+Total Price: 12032
 +------------------------------------------------+-----+
 | Card                                           |   $ |
 +------------------------------------------------+-----+
@@ -142,7 +142,7 @@ Total Price: 12030
 | 1 Giant Trunade SR                             |  33 |
 | 1 Heavy Storm SR                               |  58 |
 | 1 Limiter Removal SR                           |   - |
-| 1 Machine Duplication UtR                      |  99 |
+| 1 Machine Duplication UtR                      | 100 |
 | 1 Mystical Space Typhoon UR                    | 110 |
 | 1 Nobleman of Crossout SR                      |  31 |
 | 1 Overload Fusion UtR                          |   - |
@@ -161,7 +161,7 @@ Total Price: 12030
 | 2 Mystic Tomato R                              |   - |
 | 1 Spirit Reaper SR                             | 360 |
 | 1 Brain Control UtR                            | 217 |
-| 1 Machine Duplication UtR                      |  99 |
+| 1 Machine Duplication UtR                      | 100 |
 | 2 Sakuretsu Armor SR                           |   - |
 | 1 D.D. Crow UtR                                | 300 |
 | 3 Gravekeeper Spy SR                           | 369 |

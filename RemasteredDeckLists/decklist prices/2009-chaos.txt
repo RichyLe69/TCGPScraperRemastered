@@ -1,8 +1,8 @@
 2009-chaos - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 5273
+Main Deck: 5342
 Side Deck: 1371
 Extra Deck: 4941
-Total Price: 11585
+Total Price: 11654
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -13,7 +13,7 @@ Total Price: 11585
 | 1 Dark Armed Dragon UtR                |  379 |
 | 1 Dark Grepher ScR                     |  159 |
 | 2 Destiny Hero Malicious UR            |   27 |
-| 1 Destiny Hero Fear Monger SR          |    - |
+| 1 Destiny Hero Fear Monger SR          |   69 |
 | 1 D.D. Crow UtR                        |  264 |
 | 2 Dimensional Alchemist GUR            |    - |
 | 1 Elemental Hero Stratos UR            |    - |
@@ -63,10 +63,10 @@ Total Price: 11585
 | 1 Tempest Magician ScR                 |   73 |
 +----------------------------------------+------+
 2009-chaos - 2023-03-11 - max_prices_sorted.txt
-Main Deck: 7942
+Main Deck: 8021
 Side Deck: 1687
 Extra Deck: 7192
-Total Price: 16821
+Total Price: 16900
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -77,7 +77,7 @@ Total Price: 16821
 | 1 Dark Armed Dragon UtR                |  436 |
 | 1 Dark Grepher ScR                     |  171 |
 | 2 Destiny Hero Malicious UR            |   52 |
-| 1 Destiny Hero Fear Monger SR          |    - |
+| 1 Destiny Hero Fear Monger SR          |   79 |
 | 1 D.D. Crow UtR                        |  389 |
 | 2 Dimensional Alchemist GUR            |    - |
 | 1 Elemental Hero Stratos UR            |    - |
@@ -127,10 +127,10 @@ Total Price: 16821
 | 1 Tempest Magician ScR                 |   78 |
 +----------------------------------------+------+
 2009-chaos - 2023-03-11 - mean_prices_sorted.txt
-Main Deck: 6386
+Main Deck: 6461
 Side Deck: 1472
 Extra Deck: 5547
-Total Price: 13405
+Total Price: 13480
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -141,7 +141,7 @@ Total Price: 13405
 | 1 Dark Armed Dragon UtR                |  400 |
 | 1 Dark Grepher ScR                     |  164 |
 | 2 Destiny Hero Malicious UR            |   35 |
-| 1 Destiny Hero Fear Monger SR          |    - |
+| 1 Destiny Hero Fear Monger SR          |   75 |
 | 1 D.D. Crow UtR                        |  300 |
 | 2 Dimensional Alchemist GUR            |    - |
 | 1 Elemental Hero Stratos UR            |    - |
@@ -191,10 +191,10 @@ Total Price: 13405
 | 1 Tempest Magician ScR                 |   74 |
 +----------------------------------------+------+
 2009-chaos - 2023-03-11 - median_prices_sorted.txt
-Main Deck: 6386
+Main Deck: 6464
 Side Deck: 1421
 Extra Deck: 5112
-Total Price: 12919
+Total Price: 12997
 +----------------------------------------+------+
 | Card                                   |    $ |
 +----------------------------------------+------+
@@ -205,7 +205,7 @@ Total Price: 12919
 | 1 Dark Armed Dragon UtR                |  389 |
 | 1 Dark Grepher ScR                     |  160 |
 | 2 Destiny Hero Malicious UR            |   35 |
-| 1 Destiny Hero Fear Monger SR          |    - |
+| 1 Destiny Hero Fear Monger SR          |   78 |
 | 1 D.D. Crow UtR                        |  299 |
 | 2 Dimensional Alchemist GUR            |    - |
 | 1 Elemental Hero Stratos UR            |    - |

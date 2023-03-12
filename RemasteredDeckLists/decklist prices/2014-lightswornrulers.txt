@@ -1,13 +1,13 @@
 2014-lightswornrulers - 2023-03-11 - min_prices_sorted.txt
-Main Deck: 4718
+Main Deck: 4805
 Side Deck: 0
 Extra Deck: 354
-Total Price: 5072
+Total Price: 5159
 +----------------------------------------+-----+
 | Card                                   |   $ |
 +----------------------------------------+-----+
 | Main Deck                              |     |
-| 3 Judgment Dragon UtR                  | 410 |
+| 3 Judgment Dragon UtR                  | 439 |
 | 3 Lumina Lightsworn Summoner SR        | 299 |
 | 2 Raiden Lightsworn Assassin SR        |   - |
 | 2 Lyla Lightsworn Sorceress UtR        |  97 |
