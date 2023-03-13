@@ -1,31 +1,11 @@
 # Remaining 'max' rarity cards for 2007-2008 decks
-# Priority: 08 Cybervalley FTK & 08 Ohm FTK > 07 Demise >>>>>>>> 07 D Hero, 07 Machines
+# Priority: 08 Ohm FTK >>> 08 Cybervalley FTK > 07 Demise >>>>>>>> 07 D Hero, 07 Machines
 
-# 2008 cyber valley, shadowpriestess, demise OTK - Finalized RL 3/11/2023
-
-# 2008 Cyber Valley FTK - Final RL 3/11/23
-
-Toon Cannon Soldier TP6:
-  url: 25312
-  edition: 'Near Mint'
-  qty: 1
-
-Toon Table of Contents TP6:
-  url: 25313
-  edition: 'Near Mint'
-  qty: 3
-
-Diamond Dude Ultimate 1st:
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Machine Duplication Ultimate 1st:
-  url: 58803
-  edition: 'Near Mint 1st'
-  qty: 1
+#                $1400,          805, 1800 + (780) = 4000 + 780
+# 2008 shadowpriestess, cyber valley, demise OTK - Finalized RL 3/11/2023
 
 # 2008 KaibaControl - Shadow Priestess FTK - Final RL 3/11/23
+# Higher Priority than Cyber Valley FTK because more darks, more ultis. Cool stuff. (12 New Ultis)
 
 Broww Huntsman of Darkworld:
   url: 58712
@@ -74,6 +54,29 @@ Hand Destruction:
 
 Shadowpriestess of Ohm:
   url: 26625
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
+# 2008 Cyber Valley FTK - Final RL 3/11/23
+
+Toon Cannon Soldier TP6:
+  url: 25312
+  edition: 'Near Mint'
+  qty: 1
+
+Toon Table of Contents TP6:
+  url: 25313
+  edition: 'Near Mint'
+  qty: 3
+
+Diamond Dude Ultimate 1st:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Machine Duplication Ultimate 1st:
+  url: 58803
   edition: 'Near Mint 1st'
   qty: 1
 
