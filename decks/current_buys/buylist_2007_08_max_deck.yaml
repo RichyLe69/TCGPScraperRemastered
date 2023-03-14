@@ -70,11 +70,6 @@ Toon Table of Contents TP6:
   edition: 'Near Mint'
   qty: 3
 
-Diamond Dude Ultimate 1st:
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 1
-
 Machine Duplication Ultimate 1st:
   url: 58803
   edition: 'Near Mint 1st'
@@ -89,10 +84,10 @@ Metamorphosis:
   edition: 'Near Mint'
   qty: 2
 
-Scapegoat:
-  url: 78160
-  edition: 'Near Mint'
-  qty: 2
+#Scapegoat:
+#  url: 78160
+#  edition: 'Near Mint'
+#  qty: 2
 
 Megamorph:
   url: 22210

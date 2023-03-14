@@ -6,39 +6,173 @@
 # Actually needed for double decks
 # Double 2009 Light / Dark Decks - Final list RL 3/10/2023
 
+# Double Twilight 2009 & Oppr TeleDad - that aren't accounted for in other lists
+
 # High
 # T1
-  # 3 Lumina
-  # 3 Honest
-  # 3 Charge
-  # 3 Solar
-  # 3 Allure
+# 3 Lumina
+# 3 Honest
+# 3 Charge
+# 3 Solar
+# 3 Allure
+
 # T2
-  # 1 Lyla
-  # 1 Celestia
-  # 3 Trag
-  # 1 Chaos Sorc
-  # 3 Necro
-  # 1 Plague
+# 3 Lyla
+# 3 Celestia
+# 3 Trag
+# 1 Chaos Sorc
+# 3 Necro
+# 1 Plague
+
 
 # Medium
 # T1
-  # 1 Wulf
-  # 1 Aurkus
-  # 1 Brain
-  # 2 Beckoning
+# 3 Wulf
+# 1 Aurkus
+# 2 Beckoning
 
-  # 2 Diamond dude
-  # 1 Krebons
+# 1 Brain
+# 2 Diamond dude
+# 2 Krebons
 
 # T2
-  # Stratos
-  # DD crow
-  # 1 Oppression
-  # 3 D draw
-  # 3 Mali
-  # 1 PWWB
+# 1 DD crow
+# 1 Oppression
+# 3 D draw
+# 3 Mali
+# 1 Stratos
+# 1 PWWB
 
+###
+
+Lumina Lightsworn Summoner Super CP:
+  url: 33097
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Honest Ghost 1st:
+  url: 27458
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Charge of the Light Brigade Secret 1st:
+  url: 27587
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Solar Recharge Ultimate 1st:
+  url: 27466
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Allure of Darkness Ultimate 1st EN:
+  url: 27471
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Lyla Lightsworn Sorceress Ultimate 1st:
+  url: 27463
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Celestia Lightsworn Angel Ultimate 1st:
+  url: 27460
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Tragoedia Ultimate:
+  url: 38641
+  edition: 'Near Mint Unlimited'
+  qty: 3
+
+Chaos Sorcerer Ultra TU:
+  url: 66690
+  edition: 'Near Mint'
+  qty: 1
+
+Necro Gardna Ultimate 1st:
+  url: 58524
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Plaguespreader Zombie Ultimate 1st:
+  url: 58506
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Wulf Lightsworn Beast 1st:
+  url: 26717
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Ehren Lightsworn Monk Secret 1st:
+  url: 26776
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Aurkus Lightsworn Druid LODT 1st:
+  url: 26775
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Beckoning Light TU:
+  url: 66694
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+Brain Control Ultimate 1st:
+  url: 58749
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Diamond Dude Ultimate 1st:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Krebons Super TU EN:
+  url: 33227
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+D.D. Crow Ultimate 1st:
+  url: 58555
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Destiny Draw 1st:
+  url: 25641
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Destiny Hero Malicious 1st:
+  url: 25632
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Phoenix Wing Wind Blast Ultimate 1st NM:
+  url: 58783
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Emegency Teleport Ultimate 1st:
+  url: 58522
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Crush Card Virus GLD1: # Rarity convert
+  url: 32215
+  edition: 'Near Mint'
+  qty: 1
+
+Doomkaiser utr 1st:
+  url: 58509
+  edition: 'Near Mint 1st'
+  qty: 1
+
+
+# Double secondary Light / Dark Decks?
+# I'll decide when I get there.
 
 ############# Extra hoards tier list ###############
 
@@ -46,14 +180,17 @@
 # T1
   # JD
   # Dad
-  # Lumina
   # Honest
   # Kristya
+  # Stardust
+  # BRD
+
+# T1.5
+  # Lumina
+  # Caius
   # Charge
   # Solar
   # Allure
-  # Stardust
-  # BRD
   # RDA
 
 # T2
@@ -63,7 +200,6 @@
   # Sorc
   # Necro
   # Plague
-  # Caius
   # Goyo
   # Colossal
   # Thought Ruler

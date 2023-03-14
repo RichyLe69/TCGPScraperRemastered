@@ -66,8 +66,8 @@ buylist_cool_singles_t2:
 buylist_lightswornrulers:
   path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 
-# #buylist_double_up_hoard:
-# #  path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+buylist_double_up_hoard:
+ path: 'decks/current_buys/buylist_double_up_hoard.yaml'
 
 buylist_2007_08_max_deck:
   path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
