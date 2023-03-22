@@ -10,7 +10,7 @@ import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = False
+generate_decklist_gallery = True
 generate_decklist_prices = True
 
 
