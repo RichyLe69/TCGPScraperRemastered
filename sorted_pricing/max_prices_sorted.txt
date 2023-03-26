@@ -4119,3 +4119,131 @@ buylist_2007_08_max_deck - 2023-03-21
 |      Shadowpriestess of Ohm      |   1   |
 |               test               |   0   |
 +----------------------------------+-------+
+buylist_edison - 2023-03-25
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|       Archlord Kristya 1st       |  989  |
+| Black Wing Armor Master Ulti 1st |  129  |
+|     Iron Chain Dragon R 1st      |   11  |
+|         Gale CRMS R 1st          |   5   |
+| Herald of Orange Light Rare 1st  |   3   |
+|     Consecrated Light C 1st      |   2   |
+|  Soul of Purity and Light 1st C  |   2   |
+|      Flamvell Uruquizas DT       |   0   |
+|  Nimble Mega Hamster 1st Super   |   0   |
+| Shire Lightsworn Fairy Super 1st |   0   |
+|               test               |   0   |
++----------------------------------+-------+
+buylist_cool_singles - 2023-03-25
++------------------------------------------+-------+
+|                   Card                   | Price |
++------------------------------------------+-------+
+|    Black Rose Dragon Ghost 1st - SEEK    |  2998 |
+| Power Tool Dragon Ghost 1st - TCG / SEEK |  366  |
+| red dragon archfiend Ultimate 1st - SEEK |  297  |
+|                   test                   |   0   |
++------------------------------------------+-------+
+buylist_foreign_converts - 2023-03-25
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|       Maxx C Ultimate EN       |  1200 |
+|     Tour Guide Ultimate EN     |  399  |
+|   Trap Dustshoot Super CP EN   |  399  |
+| Pot of Avarice Ultimate 1st EN |  284  |
+|  Solemn Warning Ultimate 1st   |  179  |
+|    Scapegoat Ultra RP01 EN     |   0   |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_cool_singles_t2 - 2023-03-25
++---------------------------------------------+-------+
+|                     Card                    | Price |
++---------------------------------------------+-------+
+|                Dad secret 1st               |  999  |
+| Caius Shadow Monarch Ultimate TU EURO Print |  499  |
+|          Bottomless Trap Hole CP04          |  487  |
+|    Dark Armed Dragon Ultimate EURO Print    |  427  |
+|                JD Secret 1st                |  294  |
+|           Dimensional Prison Super          |   0   |
+|                     test                    |   0   |
++---------------------------------------------+-------+
+buylist_lightswornrulers - 2023-03-25
++----------------------------------------------+-------+
+|                     Card                     | Price |
++----------------------------------------------+-------+
+|       Upstart Goblin TU08 Super - TCG        |   99  |
+|  Number 101 Silent Honor Ark UTR - TCG/Seek  |   47  |
+|   Number 11 Big Eye Secret 1st - TCG/seek    |   45  |
+|       Ghostrick Alucard UTR - TCG/Seek       |   44  |
+| Mecha Phantom Beast Dracossack Scr 1st - TCG |   20  |
+|         Diamond Dire Wolf - TCG/Seek         |   14  |
+|     Number 80 Rhapsody in Berserk - TCG      |   3   |
+|          Needlebug Nest C 1st - TCG          |   2   |
+|          Eclipse Wyvern Super - TCG          |   1   |
+|           Kuribandit Scr 1st - TCG           |   1   |
+|           Soul Charge Super - TCG            |   1   |
+|          Starliege Paladynamo - TCG          |   1   |
+|  Blaster Dragon Ruler of Infernos Scr - TCG  |   0   |
+|           Lavalval Chain DT - TCG            |   0   |
+|         Lightray Diabolos Rare - TCG         |   0   |
+|          Mechquipped Angineer - TCG          |   0   |
+|      Michael The Arch Lightsworn - TCG       |   0   |
+|    Raiden Lightsworn Assassin Super - TCG    |   0   |
+|   Tempest Dragon Ruler of Storms Scr - TCG   |   0   |
+|                     test                     |   0   |
++----------------------------------------------+-------+
+buylist_double_up_hoard - 2023-03-25
++-----------------------------------------+-------+
+|                   Card                  | Price |
++-----------------------------------------+-------+
+|    Plaguespreader Zombie Ultimate 1st   |  999  |
+|             Honest Ghost 1st            |  500  |
+|    Allure of Darkness Ultimate 1st EN   |  499  |
+|          D.D. Crow Ultimate 1st         |  389  |
+|   Lumina Lightsworn Summoner Super CP   |  300  |
+| Phoenix Wing Wind Blast Ultimate 1st NM |  278  |
+|      Emegency Teleport Ultimate 1st     |  249  |
+|         Chaos Sorcerer Ultra TU         |  244  |
+|  Charge of the Light Brigade Secret 1st |  230  |
+|            Tragoedia Ultimate           |  224  |
+|        Brain Control Ultimate 1st       |  213  |
+|       Solar Recharge Ultimate 1st       |  179  |
+|  Lyla Lightsworn Sorceress Ultimate 1st |  149  |
+|        Diamond Dude Ultimate 1st        |  134  |
+|  Celestia Lightsworn Angel Ultimate 1st |  120  |
+|           Krebons Super TU EN           |  100  |
+|            Doomkaiser utr 1st           |   94  |
+|     Ehren Lightsworn Monk Secret 1st    |   89  |
+|        Destiny Hero Malicious 1st       |   69  |
+|        Necro Gardna Ultimate 1st        |   59  |
+|            Beckoning Light TU           |   43  |
+|             Destiny Draw 1st            |   19  |
+|        Wulf Lightsworn Beast 1st        |   14  |
+|     Aurkus Lightsworn Druid LODT 1st    |   4   |
+|          Crush Card Virus GLD1          |   0   |
+|                   test                  |   0   |
++-----------------------------------------+-------+
+buylist_2007_08_max_deck - 2023-03-25
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|          Metamorphosis           |  1566 |
+|     Toon Cannon Soldier TP6      |  479  |
+|       Dark World Dealings        |  299  |
+|    Toon Table of Contents TP6    |  298  |
+|   Broww Huntsman of Darkworld    |  200  |
+|        Destiny Hero Dogma        |  199  |
+| Machine Duplication Ultimate 1st |  150  |
+|      Magic Cylinder Secret       |   99  |
+|            Megamorph             |   99  |
+|     The Beginning of the End     |   90  |
+|     Destiny Hero Fear Monger     |   79  |
+|    Destiny Hero Plasma Secret    |   49  |
+|           Jar of Greed           |   29  |
+|          Dark Nephthys           |   19  |
+|             Trade In             |   4   |
+|         Hand Destruction         |   2   |
+|      Shadowpriestess of Ohm      |   0   |
+|               test               |   0   |
++----------------------------------+-------+

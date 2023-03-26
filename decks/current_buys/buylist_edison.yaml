@@ -1,10 +1,32 @@
 # Kristyasworn Edison
-# List is final, Historical Max Rarity - RL 2/24/2023
+# List is final, Historical Max Rarity - RL 3/24/2023
 
 Archlord Kristya 1st:
   url: 33733
   edition: 'Near Mint 1st'
   qty: 3
+
+Gale CRMS R 1st:
+  url: 28976
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Black Wing Armor Master Ulti 1st:
+  url: 58499
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Iron Chain Dragon R 1st:
+  url: 28433
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Flamvell Uruquizas DT:
+  url: 80928
+  edition: 'Near Mint'
+  qty: 1
+
+### Lower Priority
 
 Herald of Orange Light Rare 1st:
   url: 27580 # TDGS Rare 1st # 164861 # OTS Ulti #
@@ -31,35 +53,17 @@ Consecrated Light C 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Gale CRMS R 1st:
-  url: 28976
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Black Wing Armor Master Ulti 1st:
-  url: 58499
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Iron Chain Dragon R 1st:
-  url: 28433
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Flamvell Uruquizas DT:
-  url: 80928
-  edition: 'Near Mint'
-  qty: 1
-
-Ancient Sacred Wyvern Ulti 1st:
-  url: 58478
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Light End Dragon Scr 1st:
-  url: 31934
-  edition: 'Near Mint 1st'
-  qty: 1
+#Ancient Sacred Wyvern Ulti 1st:
+#  url: 58478
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Light End Dragon Scr 1st:
+#  url: 31934
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 
 # Extra synchros
