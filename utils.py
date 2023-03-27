@@ -276,7 +276,7 @@ def extract_listing_prices(raw_html):
         second_list[x][2] = result
         x += 1
 
-    # trim second_list for listings out of iqr range (1.5)
+    # trim second_list for listings out of iqr range (1.5) - remove extremities
     calc_median_list = []
     for item in second_list:
         calc_median_list.append(int(item[0]))
