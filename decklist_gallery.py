@@ -133,7 +133,7 @@ def generate_binder_image(card_list_in_deck):
                     return None
                 match = False
                 for decode in card_code_list:  # Decoded english name of decode cards
-                    if cards == decode:
+                    if cards == decode or cards[:-1] == decode:  # cards[:-1] for extra rarity cards
                         match = True
                         card_to_add, qty = check_if_max_rarity(card_code_list, node, cards, decode)
                         qty = card_list_in_deck[node][cards]  # overwrite yaml qty due to binder page layout
@@ -141,6 +141,11 @@ def generate_binder_image(card_list_in_deck):
                             list_of_cards_to_append.append(card_to_add)
                 if not match:
                     print('Card Missing from card_code_list.yaml: {}'.format(cards))
+                    qty = card_list_in_deck[node][cards]
+                    card_to_add = card_code_list['Blank'][0]
+                    for x in range(0, int(qty)):
+                        list_of_cards_to_append.append(card_to_add)
+
             deckbuilder.extend_to_deck_of_decoded_cards(list_of_cards_to_append)
             final_image = create_binder_grid_image(deckbuilder.get_deck_of_decoded_cards())
             deckbuilder.reset_deck_of_decoded_cards()
@@ -356,6 +361,10 @@ def generate_binder_dicts():
     for card in card_list_in_deck['Monsters']:
         card_name = card  # Card
         qty = (card_list_in_deck['Monsters'][card])  # Qty
+        if isinstance(qty, str):  # Other Rarity
+            qty, different_rarity = card_list_in_deck['Monsters'][card].split(' ')  # [Num, Rarity]
+            qty = int(qty)
+
         if page_qty < 9 and qty + page_qty <= 9:
             page_x.append({card_name: qty})
             page_qty += qty
@@ -381,6 +390,13 @@ def generate_binder_dicts():
             page_x = []
             page_qty = 0
 
+    # Final Left over page
+    if len(page_x) != 0:
+        binder_dict[page_number] = page_x
+        page_number += 1
+        # page_x = []
+        # page_qty = 0
+
     # Generate binder pics based on binder dicts
     index = 0
     while index < len(binder_dict):
@@ -389,7 +405,7 @@ def generate_binder_dicts():
             result_dict = {key: value for dict_item in list_of_dict for key, value in dict_item.items()}
             page = generate_binder_image({'Monsters': result_dict})
             cv2.imwrite('RemasteredDeckLists/binders/' + binder_list_name + '_{}'.format(index) + '.jpg', page)
-        else:
+        else:  # Double page
             list_of_dict = (binder_dict[index])
             result_dict = {key: value for dict_item in list_of_dict for key, value in dict_item.items()}
             page = generate_binder_image({'Monsters': result_dict})
@@ -493,6 +509,7 @@ if __name__ == '__main__':
                 full_deck_prices = search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data)
                 generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable)
 
+    # # Generate Binder Gallery
     if generate_binder_gallery:
         for current_binder_list in list_of_binders:
             deckbuilder.get_yaml_list_data(current_binder_list, list_of_binders)
