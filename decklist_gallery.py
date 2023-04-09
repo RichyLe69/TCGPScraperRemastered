@@ -10,8 +10,9 @@ import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = True
-generate_decklist_prices = True
+generate_decklist_gallery = False
+generate_decklist_prices = False
+generate_binder_gallery = True
 
 
 # Generating Decklist Gallery #
@@ -45,6 +46,32 @@ def get_full_deck_list_image_paths(deck_of_decoded_cards):
             print('Image Not Found: {}'.format(current_card))  # Card must be in card_code_list.yaml
 
     return full_deck_list_image_paths
+
+
+def create_binder_grid_image(deck_of_decoded_cards):
+    rows, cols = 3, 3
+    image_width = 450
+    image_height = 657
+    final_image = np.zeros((rows * image_height, cols * image_width, 3), dtype=np.uint8)
+    full_deck_list_image_paths = get_full_deck_list_image_paths(deck_of_decoded_cards)
+    for i in range(rows * cols):
+        try:
+            img = cv2.imread(full_deck_list_image_paths[i][0])
+        except IndexError:
+            break
+        img = cv2.resize(img, (image_width, image_height))
+
+        row = i // cols
+        col = i % cols
+
+        y_start = row * image_height
+        y_end = y_start + image_height
+        x_start = (col * image_width)
+
+        x_end = (x_start + image_width)
+        final_image[y_start:y_end, x_start:x_end, :] = img
+
+    return final_image
 
 
 def create_grid_image(deck_of_decoded_cards, image_name):
@@ -97,6 +124,29 @@ def get_nodes_to_do(img_name):
     return nodes_to_do[img_name]
 
 
+def generate_binder_image(card_list_in_deck):
+    for node in card_list_in_deck:
+        list_of_cards_to_append = []
+        if node != 'Header':
+            for cards in card_list_in_deck[node]:  # Card from deck list
+                if cards == 'None':
+                    return None
+                match = False
+                for decode in card_code_list:  # Decoded english name of decode cards
+                    if cards == decode:
+                        match = True
+                        card_to_add, qty = check_if_max_rarity(card_code_list, node, cards, decode)
+                        qty = card_list_in_deck[node][cards]  # overwrite yaml qty due to binder page layout
+                        for x in range(0, int(qty)):
+                            list_of_cards_to_append.append(card_to_add)
+                if not match:
+                    print('Card Missing from card_code_list.yaml: {}'.format(cards))
+            deckbuilder.extend_to_deck_of_decoded_cards(list_of_cards_to_append)
+            final_image = create_binder_grid_image(deckbuilder.get_deck_of_decoded_cards())
+            deckbuilder.reset_deck_of_decoded_cards()
+            return final_image
+
+
 def generate_image(card_list_in_deck, img_name):
     for node in card_list_in_deck:  # Monster, Spells, Traps, Side, Extra
         nodes_to_do = get_nodes_to_do(img_name)
@@ -140,6 +190,11 @@ def combine_images(main_image, side_image, extra_image, deck_list_name, header):
     final_image_with_header = place_header_on_decklist(combined_pic, header)
     cv2.imwrite('RemasteredDeckLists/' + deck_list_name + '.jpg', final_image_with_header)
 
+
+def combine_binder_images(page_1, page_2, index):
+    pics_to_combine = list(filter(lambda x: x is not None, [page_1, page_2]))
+    combined_pic = cv2.hconcat(pics_to_combine)
+    cv2.imwrite('RemasteredDeckLists/binders/' + binder_list_name + '_{}'.format(index) + '.jpg', combined_pic)
 
 # Generating Price Table #
 
@@ -293,10 +348,65 @@ def generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, prici
         my_file.write(str(my_table) + '\n')
 
 
+def generate_binder_dicts():
+    binder_dict = {}
+    page_x = []
+    page_number = 0
+    page_qty = 0
+    for card in card_list_in_deck['Monsters']:
+        card_name = card  # Card
+        qty = (card_list_in_deck['Monsters'][card])  # Qty
+        if page_qty < 9 and qty + page_qty <= 9:
+            page_x.append({card_name: qty})
+            page_qty += qty
+
+        elif page_qty < 9 and (qty + page_qty) > 9:
+            remainder = page_qty + qty - 9
+            fit = qty - remainder
+            page_x.append({card_name: fit})
+
+            # save current page
+            binder_dict[page_number] = page_x
+            page_number += 1
+            page_x = []
+            page_qty = 0
+
+            # put left over cards onto next page
+            page_x.append({card_name: remainder})
+            page_qty += remainder
+
+        if page_qty == 9:
+            binder_dict[page_number] = page_x
+            page_number += 1
+            page_x = []
+            page_qty = 0
+
+    # Generate binder pics based on binder dicts
+    index = 0
+    while index < len(binder_dict):
+        if index == 0 or index == len(binder_dict)-1:  # cover / last
+            list_of_dict = (binder_dict[index])
+            result_dict = {key: value for dict_item in list_of_dict for key, value in dict_item.items()}
+            page = generate_binder_image({'Monsters': result_dict})
+            cv2.imwrite('RemasteredDeckLists/binders/' + binder_list_name + '_{}'.format(index) + '.jpg', page)
+        else:
+            list_of_dict = (binder_dict[index])
+            result_dict = {key: value for dict_item in list_of_dict for key, value in dict_item.items()}
+            page = generate_binder_image({'Monsters': result_dict})
+
+            index += 1
+            list_of_dict = (binder_dict[index])
+            result_dict = {key: value for dict_item in list_of_dict for key, value in dict_item.items()}
+            page2 = generate_binder_image({'Monsters': result_dict})
+            combine_binder_images(page, page2, index)
+        index += 1
+
+
 class DeckBuilder:
     def __init__(self):
         self.list_of_decks = get_card_lists('decks/decklists/list_of_decks.yaml')
         self.card_code_list = get_card_lists('decks/decklists/card_code_list.yaml')
+        self.list_of_binders = get_card_lists('decks/decklists/list_of_binders.yaml')
 
         self.current_list = ''
         self.list_name = ''
@@ -310,6 +420,9 @@ class DeckBuilder:
 
     def get_card_code_list(self):
         return self.card_code_list
+
+    def get_list_of_binders(self):
+        return self.list_of_binders
 
     def get_list_name(self):
         return self.list_name
@@ -349,6 +462,7 @@ if __name__ == '__main__':
     deckbuilder = DeckBuilder()
     list_of_decks = deckbuilder.get_list_of_decks()
     card_code_list = deckbuilder.get_card_code_list()
+    list_of_binders = deckbuilder.get_list_of_binders()
 
     collection_name = ['collection_deck_builder', 'collection_deck_core',
                        'collection_extra_deck', 'collection_old_school',
@@ -379,5 +493,15 @@ if __name__ == '__main__':
                 full_deck_prices = search_thru_price_data_for_card(card_list_in_deck, most_recent_price_data)
                 generate_pretty_table_decklist_price(full_deck_prices, deck_list_name, pricing_variable)
 
+    if generate_binder_gallery:
+        for current_binder_list in list_of_binders:
+            deckbuilder.get_yaml_list_data(current_binder_list, list_of_binders)
+            binder_list_name = deckbuilder.get_list_name()
+            card_list_in_deck = deckbuilder.get_yaml_data()
+
+            generate_binder_dicts()
+
+
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
+

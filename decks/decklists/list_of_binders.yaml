@@ -1,0 +1,4 @@
+# Split Collections
+
+binder_deck_builder:
+  path: 'decks/decklists/binder_deck_builder.yaml'
