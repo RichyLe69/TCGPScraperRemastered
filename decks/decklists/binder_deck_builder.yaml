@@ -66,21 +66,26 @@ Monsters:
   Black Luster Soldier Envoy of the Beginning: 3
   Chaos Sorcerer: 4
   Doomcaliber Knight: 2
+  Destiny Hero Malicious: 6
+  Reborn Tengu: 3
 
   # Supers
   Breaker the Magical Warrior: 3
-  Gravekeeper Spy: 3
-  Magician of Faith: 3
   Night Assailant: 3
-  Lumina Lightsworn Summoner: 6
+  Magician of Faith: 3
+  Gravekeeper Spy: 3
   Spirit Reaper: 3
+  Lumina Lightsworn Summoner: 6
   Snipe Hunter: 1
   Lonefire Blossom: 2
   Sangan: 2
-  Garoth Lightsworn Warrior: 1
   Krebons: 4
+  Garoth Lightsworn Warrior: 2
+  Ryko Lightsworn Hunter: 3
+  Armageddon Knight: 2
   Destiny Hero Doom Lord: 1
-  Blank....: 16
+  Blank...: 1
+  Blank....: 18
 
 
 # Spells
@@ -92,7 +97,7 @@ Monsters:
   Brain Control: 2
   Machine Duplication: 2
   Future Fusion: 1
-  Blank.....: 1
+  Blank..: 1
   Emergency Teleport: 3
   Allure of Darkness: 6
   Solar Recharge: 6
@@ -122,34 +127,46 @@ Monsters:
   Smashing Ground: 2
   Foolish Burial: 2
   Mind Control: 2
+  Nobleman of Crossout: 2
+  Reinforcement of the Army: 2
   Confiscation: 1
-  Blank: 6
+  Blank: 2
 
 # Traps
   # Ulti
   Phoenix Wing Wind Blast: 4
   Solemn Warning: 4
+  Divine Wrath: 1
 
   # Secret
   Ring of Destruction: 1
+  Starlight Road: 2
 
   # Ultra
-  Solemn Judgment: 3
+  Seven Tools of the Bandit: 1
   Mirror Force: 2
+  Solemn Judgment: 3
+  Solemn Judgment.: 3
+
   Torrential Tribute: 2
-  Crush Card Virus: 2
   Call of the Haunted: 1
+  Crush Card Virus: 2
+
 
   # Super
-  Bottomless Trap Hole: 2
   Beckoning Light: 4
-  Threatening Roar: 2
   Trap Dustshoot: 3
+  Bottomless Trap Hole: 2
   Mind Crush: 1
-  Return from the Different Dimension: 3
-  Dimensional Prison: 2
+  Threatening Roar: 2
   Royal Oppression: 4
-  Blank.: 14
+  Dimensional Prison: 2
+  Blank.....: 1
+  Return from the Different Dimension: 3
+  Royal Decree: 3
+  Blank.: 3
+
+
 
 
 # Synchros
@@ -192,3 +209,45 @@ Monsters:
   Gaia Knight, The Force of Earth: 1
   Psychic Lifetrancer: 1
   Iron Chain Dragon: 1
+
+# Still Missing 61 cards = got 340/405 roughly
+#1 BRD 1st
+#1 Power Tool Drag 1st
+#1 Ghost Honest 1st
+#3 Caius
+#3 Trag
+#2 Dad
+#1 Lyla
+#3 Celestia
+#3 Necro
+#2 Diamond Dude
+#2 Maxx C Ulti ENG
+#3 Tour Guide Ulti
+#3 JD Scr
+#3 Dad Scr
+#3 Kristya 1st
+#1 Chaos Sorc
+#3 Mali
+#3 Lumina
+#2 Krebons
+#2 Avarice
+#2 ETele
+#2 Allure
+#3 Solar Recharge
+#3 Charge
+#1 PWWB
+#1 Solemn Warning
+#1 Beckoning
+#1 Dustshoot
+#1 RDA 1st
+#1 Armor Master 1st
+
+# cards that can fit
+                    #6 wulf super - pass
+                    #1 shire super - pass
+                    #1 aurkus super - pass
+                    #3 card trooper ultra - pass messes up super positionings
+              #3 cyber valley super - pass
+              #1 disk commander super - pass
+              #1 phantom of chaos super - pass
+                #6 ddraw ultra - pass
