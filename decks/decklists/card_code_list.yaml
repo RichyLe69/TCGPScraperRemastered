@@ -119,6 +119,7 @@ Threatening Roar:
 
 Ally of Justice Catastor:
   - AllyofJusticeCatastor-DTP1-EN-DT-DT
+  - AllyofJusticeCatastor-TU07-EN-UtR-UE
 Ancient Fairy Dragon:
   - AncientFairyDragon-ANPR-EN-GR-1E
 Arcanite Magician:
@@ -509,20 +510,47 @@ The Beginning of the End:
   - TheBeginningoftheEnd-PTDN-EN-UtR-1E
 Trade In:
   - TradeIn-TU01-EN-R-UE
-
 Dimensional Alchemist:
   - DimensionalAlchemist-GLD3-EN-GUR-LE
 
-#  -
-#
-#  -
-#
-#  -
-#
-#  -
-#
-#
-#  -
+Chaos Emperor Dragon:
+  - ChaosEmperorDragonEnvoyoftheEnd-DPKB-EN-UtR-1E
+Cyber Jar:
+  - CyberJar-DPKB-EN-UtR-1E
+Battle Fader:
+  - BattleFader-ABPF-EN-UtR-1E
+Ruin Queen of Oblivion:
+  - RuinQueenofOblivion-SOI-EN-UtR-1E
+Pot of Duality:
+  - PotofDuality-DREV-EN-ScR-1E
+Shooting Star Dragon:
+  - ShootingStarDragon-STBL-EN-GR-1E
+Power Tool Dragon:
+  - PowerToolDragon-RGBT-EN-GR-1E
+  - PowerToolDragon-RGBT-EN-UtR-1E
+Drill Warrior:
+  - DrillWarrior-ABPF-EN-UtR-1E
+Revived King Ha Des:
+  - RevivedKingHaDes-CSOC-EN-UtR-1E
+Red Nova Dragon:
+  - RedNovaDragon-STBL-EN-UtR-1E
+Gaia Knight, The Force of Earth:
+  - GaiaKnighttheForceofEarth-5DS1-EN-SR-1E
+Psychic Lifetrancer:
+  - PsychicLifetrancer-CSOC-EN-R-1E
+Nitro Warrior:
+  - NitroWarrior-TDGS-EN-UtR-1E
+Turbo Warrior:
+  - TurboWarrior-CSOC-EN-UtR-1E
+Iron Chain Dragon:
+  - IronChainDragon-CSOC-EN-R-1E
+Flamvell Uruquizas:
+  - FlamvellUruquizas-DT01-EN-DRPR-DT
+Ancient Sacred Wyvern:
+  - AncientSacredWyvern-ANPR-EN-UtR-1E
+Light End Dragon:
+  - LightEndDragon-RGBT-EN-ScR-1E
+
 Blank:
   - Blank
 

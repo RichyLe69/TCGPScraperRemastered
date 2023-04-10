@@ -1,28 +1,194 @@
 Header: deck_builder
-Monsters:
-  Stardust Dragon: 3
-  Black Rose Dragon: 3
-  Ancient Fairy Dragon: 3
-  Honest: 3
-  Judgment Dragon: 6
-  Dark Armed Dragon: 6
-  Caius the Shadow Monarch: 4
-  Tragoedia: 6
-  Cyber Dragon: 6
-#  Chaos Emperor Dragon: 3
 
+# Sorting Method:
+# Ghost > Ulti > Secret > DT > Ultra > Super > Other
+# Synchro Best > Monsters > Spells > Traps > ETC Synchro
+
+Monsters:
+  # Ghosts
+  Stardust Dragon: 1
+  Black Rose Dragon: 1
+  Ancient Fairy Dragon: 1
+  Stardust Dragon.: 3
+  Black Rose Dragon.: 3
+  Ancient Fairy Dragon.: 1
+  Power Tool Dragon: 1
+  Shooting Star Dragon: 1
+  Honest: 6
+
+  # Ultis
+  Judgment Dragon: 6
+  Caius the Shadow Monarch: 6
+  Tragoedia: 6
+  Dark Armed Dragon: 6
+  Chaos Emperor Dragon: 3
+  Lyla Lightsworn Sorceress: 6
+  Celestia Lightsworn Angel: 6
+  Necro Gardna: 6
+  Plaguespreader Zombie: 2
+  Cyber Jar: 1
+  Destiny Hero Dasher: 1
+  Destiny Hero Diamond Dude: 4
+  Battle Fader: 1 # Actually 2
+  Effect Veiler: 6
+  Glow Up Bulb: 2
+  D.D. Crow: 1
+  Thunder King Rai Oh: 3
+  Tsukuyomi: 3
+  Debris Dragon: 3
+  Maxx C: 3
+  Dandylion: 3
+  Tour Guide From the Underworld: 3
+  Cyber Dragon: 3
+  Dekoichi the Battle Enchanted Locomotive: 3
+  Cyber Phoenix: 3
+  Doom Dozer: 3
+  Demise King of Armageddon: 3
+  Ruin Queen of Oblivion: 1
+
+  # Secrets
+  Darklord Zerato: 1
+  Destiny Hero Plasma: 1
+  Judgment Dragon.: 3 ScR
+  Dark Armed Dragon.: 3 ScR
+  Jinzo: 1
+  Dark Grepher: 2
+  Archlord Kristya: 5
+  Ehren Lightsworn Monk: 1
+  Thunder King Rai Oh.: 3 ScR
+  Rescue Rabbit: 6
+  Tour Guide From the Underworld.: 3 ScR
+  Maxx C.: 3 ScR
+  Gorz the Emissary of Darkness: 2
+
+  # Ultras
+  Dark Magician of Chaos: 1
+  Black Luster Soldier Envoy of the Beginning: 3
+  Chaos Sorcerer: 4
+  Doomcaliber Knight: 2
+
+  # Supers
   Breaker the Magical Warrior: 3
   Gravekeeper Spy: 3
   Magician of Faith: 3
   Night Assailant: 3
-  Spirit Reaper: 3
   Lumina Lightsworn Summoner: 6
+  Spirit Reaper: 3
+  Snipe Hunter: 1
+  Lonefire Blossom: 2
+  Sangan: 2
+  Garoth Lightsworn Warrior: 1
+  Krebons: 4
+  Destiny Hero Doom Lord: 1
+  Blank....: 16
 
-  Charge of the Light Brigade: 6
-  Solar Recharge: 6
+
+# Spells
+  # Ulti
+  Pot of Greed: 3
+  Pot of Avarice: 3
+  Lightning Vortex: 1
+  Monster Reincarnation: 2
+  Brain Control: 2
+  Machine Duplication: 2
+  Future Fusion: 1
+  Blank.....: 1
+  Emergency Teleport: 3
   Allure of Darkness: 6
+  Solar Recharge: 6
 
+  # Secret
+  Charge of the Light Brigade: 6
+  Pot of Duality: 2
+
+  # Ultra
+  Monster Reborn: 1
+  Scapegoat: 2
+  Delinquent Duo: 1
+  Mystical Space Typhoon: 3
+  Snatch Steal: 1
+  Enemy Controller: 2
+  Premature Burial: 1
+  Dimension Fusion: 1
+  Gold Sarcophagus: 2
+
+  # Super
+  Book of Moon: 2
+  Card Destruction: 1
+  Graceful Charity: 1
+  Heavy Storm: 1
+  Giant Trunade: 1
+  Dark Hole: 1
+  Smashing Ground: 2
+  Foolish Burial: 2
+  Mind Control: 2
+  Confiscation: 1
+  Blank: 6
+
+# Traps
+  # Ulti
   Phoenix Wing Wind Blast: 4
   Solemn Warning: 4
-  Solemn Judgment: 3
 
+  # Secret
+  Ring of Destruction: 1
+
+  # Ultra
+  Solemn Judgment: 3
+  Mirror Force: 2
+  Torrential Tribute: 2
+  Crush Card Virus: 2
+  Call of the Haunted: 1
+
+  # Super
+  Bottomless Trap Hole: 2
+  Beckoning Light: 4
+  Threatening Roar: 2
+  Trap Dustshoot: 3
+  Mind Crush: 1
+  Return from the Different Dimension: 3
+  Dimensional Prison: 2
+  Royal Oppression: 4
+  Blank.: 14
+
+
+# Synchros
+
+  Red Dragon Archfiend: 2
+  Power Tool Dragon.: 1 UtR
+  Goyo Guardian: 3
+  Thought Ruler Archfiend: 3
+  Colossal Fighter: 3
+  Trishula Dragon of the Ice Barrier: 3
+  Brionac Dragon of the Ice Barrier: 3
+
+  Scrap Dragon: 3
+  Ally of Justice Catastor: 1
+  Ally of Justice Catastor.: 2 UtR
+  Armory Arm: 3
+  Drill Warrior: 2
+  Magical Android: 1
+  T.G. Hyper Librarian: 2
+  Arcanite Magician: 1
+  Formula Synchron: 2
+  Orient Dragon: 1
+
+  Blackwing Armor Master: 1
+  Revived King Ha Des: 1
+  Doomkaiser Dragon: 1
+  Red Nova Dragon: 1
+  Ancient Sacred Wyvern: 1
+  Nitro Warrior: 1
+  Turbo Warrior: 1
+  Mist Wurm: 1
+  Flamvell Uruquizas: 1
+
+  Avenging Knight Parshath: 1
+  Tempest Magician: 1
+  Light End Dragon: 1
+  Dark End Dragon: 1
+
+  Dark Strike Fighter: 1
+  Gaia Knight, The Force of Earth: 1
+  Psychic Lifetrancer: 1
+  Iron Chain Dragon: 1
