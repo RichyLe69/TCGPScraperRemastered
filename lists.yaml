@@ -9,34 +9,23 @@
 #[alt] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
 #[alt] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 
-# How to organize High end binder?
-#Caine Frankham style - might try this style.
-#  Ghosts -> ulti -> dt -> secret -> ultra -> super -> etc &&
-#  Synchro -> Fusion -> Ritual -> Effect -> Normal -> spell -> trap
-# visually satisfying, organized efficiently
-
 # By sets - cp, tu, lodt, ptdn, tdgs, csoc, ap, (era) - can fit with above
-#
-
-# By decks - lightsworns, darks, plants, dino, goat, - will have too many 6 of's (will only see 3 cards per spread)
-#get to see jd, honest, luminas, on same page, etc
-
 
 #########################
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
@@ -64,26 +53,26 @@ collection_old_school:
 
 # Will definitely buy
 
-#buylist_edison:
-#  path: 'decks/current_buys/buylist_edison.yaml'
-#
-#buylist_cool_singles:
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_foreign_converts:
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-#
-#buylist_cool_singles_t2:
-#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
-#
-#buylist_lightswornrulers:
-#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
-#
-#buylist_double_up_hoard:
-# path: 'decks/current_buys/buylist_double_up_hoard.yaml'
-#
-#buylist_2007_08_max_deck:
-#  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
+buylist_edison:
+  path: 'decks/current_buys/buylist_edison.yaml'
+
+buylist_cool_singles:
+  path: 'decks/current_buys/buylist_cool_singles.yaml'
+
+buylist_foreign_converts:
+  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+buylist_cool_singles_t2:
+  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
+
+buylist_lightswornrulers:
+  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+
+buylist_double_up_hoard:
+ path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+
+buylist_2007_08_max_deck:
+  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
 
 ###################################
 

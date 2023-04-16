@@ -1,0 +1,26 @@
+Sum of Min Listed: $3,117.00
+Sum of Max Listed: $3,659.00
+Sum of Mean Listed: $3,387.00
+Sum of Median Listed: $3,524.00
+
+Black Rose Dragon Ghost 1st - SEEK [1] - Near Mint 1st <5>
++------+------+------+--------+
+| Min  | Max  | Mean | Median |
++------+------+------+--------+
+| 2493 | 2998 | 2756 |  2899  |
++------+------+------+--------+
+
+Power Tool Dragon Ghost 1st - TCG / SEEK [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 329 | 366 | 336  |  330   |
++-----+-----+------+--------+
+
+red dragon archfiend Ultimate 1st - SEEK [1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 295 | 295 | 295  | 295.0  |
++-----+-----+------+--------+
+

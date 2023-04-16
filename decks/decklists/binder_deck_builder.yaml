@@ -1,5 +1,48 @@
 Header: deck_builder
 
+# Still Missing 61 cards = got 340/405 roughly
+#1 BRD 1st
+#1 Power Tool Drag 1st
+#1 Ghost Honest 1st
+#3 Caius
+#3 Trag
+#2 Dad
+#1 Lyla
+#3 Celestia
+#3 Necro
+#2 Diamond Dude
+#2 Maxx C Ulti ENG
+#3 Tour Guide Ulti
+#3 JD Scr
+#3 Dad Scr
+#3 Kristya 1st
+#1 Chaos Sorc
+#3 Mali
+#3 Lumina
+#2 Krebons
+#2 Avarice
+#2 ETele
+#2 Allure
+#3 Solar Recharge
+#3 Charge
+#1 PWWB
+#1 Solemn Warning
+#1 Beckoning
+#1 Dustshoot
+#1 RDA 1st
+#1 Armor Master 1st
+
+# cards that can fit
+                    #6 wulf super - pass
+                    #1 shire super - pass
+                    #1 aurkus super - pass
+                    #3 card trooper ultra - pass messes up super positionings
+              #3 cyber valley super - pass
+              #1 disk commander super - pass
+              #1 phantom of chaos super - pass
+                #6 ddraw ultra - pass
+
+
 # Sorting Method:
 # Ghost > Ulti > Secret > DT > Ultra > Super > Other
 # Synchro Best > Monsters > Spells > Traps > ETC Synchro
@@ -210,45 +253,3 @@ Monsters:
   Gaia Knight, The Force of Earth: 1
   Psychic Lifetrancer: 1
   Iron Chain Dragon: 1
-
-# Still Missing 61 cards = got 340/405 roughly
-#1 BRD 1st
-#1 Power Tool Drag 1st
-#1 Ghost Honest 1st
-#3 Caius
-#3 Trag
-#2 Dad
-#1 Lyla
-#3 Celestia
-#3 Necro
-#2 Diamond Dude
-#2 Maxx C Ulti ENG
-#3 Tour Guide Ulti
-#3 JD Scr
-#3 Dad Scr
-#3 Kristya 1st
-#1 Chaos Sorc
-#3 Mali
-#3 Lumina
-#2 Krebons
-#2 Avarice
-#2 ETele
-#2 Allure
-#3 Solar Recharge
-#3 Charge
-#1 PWWB
-#1 Solemn Warning
-#1 Beckoning
-#1 Dustshoot
-#1 RDA 1st
-#1 Armor Master 1st
-
-# cards that can fit
-                    #6 wulf super - pass
-                    #1 shire super - pass
-                    #1 aurkus super - pass
-                    #3 card trooper ultra - pass messes up super positionings
-              #3 cyber valley super - pass
-              #1 disk commander super - pass
-              #1 phantom of chaos super - pass
-                #6 ddraw ultra - pass
