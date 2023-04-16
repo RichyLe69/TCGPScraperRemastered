@@ -11,8 +11,8 @@ import datetime
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
 generate_decklist_gallery = False
-generate_decklist_prices = False
-generate_binder_gallery = True
+generate_decklist_prices = True
+generate_binder_gallery = False
 
 
 # Generating Decklist Gallery #

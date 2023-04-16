@@ -250,3 +250,255 @@ Total Price: 12314
 | 2 Ryu Senshi SR                    |    - |
 | 1 Dark Blade the Dragon Knight UtR |    - |
 +------------------------------------+------+
+2007-destinyhero - 2023-04-11 - min_prices_sorted.txt
+Main Deck: 4782
+Side Deck: 2516
+Extra Deck: 3684
+Total Price: 10982
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Card Trooper UR                  |   7 |
+| 3 Cyber Dragon UtR                 | 274 |
+| 1 Dark Magician of Chaos UR        | 160 |
+| 1 Jinzo ScR                        | 425 |
+| 1 Morphing Jar SR                  |   - |
+| 1 Sangan SR                        | 195 |
+| 1 Snipe Hunter SR                  |  77 |
+| 1 Destiny Hero Dasher UtR          | 127 |
+| 1 Destiny Hero Fear Monger SR      |  69 |
+| 1 Destiny Hero Disk Commander SR   |   - |
+| 3 Destiny Hero Malicious UR        |  40 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 2 Brain Control UtR                | 213 |
+| 3 Destiny Draw UR                  |   8 |
+| 1 Heavy Storm SR                   |  59 |
+| 1 Mystical Space Typhoon UR        |  89 |
+| 1 Limiter Removal SR               |   - |
+| 2 Metamorphosis SR                 | 704 |
+| 1 Machine Duplication UtR          |  65 |
+| 1 Nobleman of Crossout SR          |  19 |
+| 1 Pot of Avarice UtR               | 224 |
+| 1 Premature Burial UR              |  43 |
+| 1 Reinforcement of the Army SR     |  12 |
+| 1 Scapegoat UR                     |   - |
+| 1 Snatch Steal UR                  |  61 |
+| 1 Crush Card Virus GUR             |  88 |
+| 1 Call of the Haunted UR           |  57 |
+| 1 Mirror Force UR                  |  84 |
+| 1 Ring of Destruction ScR          |  52 |
+| 1 Torrential Tribute UR            |  55 |
+|                                    |     |
+| Side Deck                          |     |
+| 1 D.D. Crow UtR                    | 249 |
+| 1 Spirit Reaper SR                 | 306 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Confiscation SR                  |   8 |
+| 1 Lightning Vortex UtR             | 289 |
+| 1 Reinforcement of the Army SR     |  12 |
+| 1 Mind Crush SR                    | 109 |
+| 3 Royal Decree UR                  |  25 |
+| 2 Threatening Roar C               | 131 |
+| 3 Trap Dustshoot SR                | 394 |
+|                                    |     |
+| Extra Deck                         |     |
+| 3 Cyber Twin Dragon UtR            | 229 |
+| 3 Cyber End Dragon UtR             | 999 |
+| 2 Dark Balter the Terrible SR      |   - |
+| 1 Dark Flare Knight SR             |   - |
+| 1 Fiend Skull Dragon SR            |   - |
+| 1 Gatling Dragon UtR               |   - |
+| 1 Reaper on the Nightmare SR       |   - |
+| 2 Ryu Senshi SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR |   - |
++------------------------------------+-----+
+2007-destinyhero - 2023-04-11 - max_prices_sorted.txt
+Main Deck: 8517
+Side Deck: 2898
+Extra Deck: 4329
+Total Price: 15744
++------------------------------------+------+
+| Card                               |    $ |
++------------------------------------+------+
+| Main Deck                          |      |
+| 3 Card Trooper UR                  |   14 |
+| 3 Cyber Dragon UtR                 |  504 |
+| 1 Dark Magician of Chaos UR        |  189 |
+| 1 Jinzo ScR                        |  699 |
+| 1 Morphing Jar SR                  |    - |
+| 1 Sangan SR                        |  240 |
+| 1 Snipe Hunter SR                  |  149 |
+| 1 Destiny Hero Dasher UtR          |  209 |
+| 1 Destiny Hero Fear Monger SR      |   79 |
+| 1 Destiny Hero Disk Commander SR   |    - |
+| 3 Destiny Hero Malicious UR        |   69 |
+| 1 Elemental Hero Stratos UR        |    - |
+| 2 Brain Control UtR                |  213 |
+| 3 Destiny Draw UR                  |   13 |
+| 1 Heavy Storm SR                   |   60 |
+| 1 Mystical Space Typhoon UR        |  145 |
+| 1 Limiter Removal SR               |    - |
+| 2 Metamorphosis SR                 | 1566 |
+| 1 Machine Duplication UtR          |  150 |
+| 1 Nobleman of Crossout SR          |   42 |
+| 1 Pot of Avarice UtR               |  284 |
+| 1 Premature Burial UR              |   83 |
+| 1 Reinforcement of the Army SR     |   24 |
+| 1 Scapegoat UR                     |    - |
+| 1 Snatch Steal UR                  |   69 |
+| 1 Crush Card Virus GUR             |  149 |
+| 1 Call of the Haunted UR           |  139 |
+| 1 Mirror Force UR                  |  233 |
+| 1 Ring of Destruction ScR          |  100 |
+| 1 Torrential Tribute UR            |  116 |
+|                                    |      |
+| Side Deck                          |      |
+| 1 D.D. Crow UtR                    |  310 |
+| 1 Spirit Reaper SR                 |  499 |
+| 1 Giant Trunade SR                 |   43 |
+| 1 Confiscation SR                  |   14 |
+| 1 Lightning Vortex UtR             |  300 |
+| 1 Reinforcement of the Army SR     |   24 |
+| 1 Mind Crush SR                    |  120 |
+| 3 Royal Decree UR                  |   34 |
+| 2 Threatening Roar C               |  149 |
+| 3 Trap Dustshoot SR                |  396 |
+|                                    |      |
+| Extra Deck                         |      |
+| 3 Cyber Twin Dragon UtR            |  444 |
+| 3 Cyber End Dragon UtR             |  999 |
+| 2 Dark Balter the Terrible SR      |    - |
+| 1 Dark Flare Knight SR             |    - |
+| 1 Fiend Skull Dragon SR            |    - |
+| 1 Gatling Dragon UtR               |    - |
+| 1 Reaper on the Nightmare SR       |    - |
+| 2 Ryu Senshi SR                    |    - |
+| 1 Dark Blade the Dragon Knight UtR |    - |
++------------------------------------+------+
+2007-destinyhero - 2023-04-11 - mean_prices_sorted.txt
+Main Deck: 6237
+Side Deck: 2674
+Extra Deck: 3831
+Total Price: 12742
++------------------------------------+------+
+| Card                               |    $ |
++------------------------------------+------+
+| Main Deck                          |      |
+| 3 Card Trooper UR                  |    8 |
+| 3 Cyber Dragon UtR                 |  358 |
+| 1 Dark Magician of Chaos UR        |  169 |
+| 1 Jinzo ScR                        |  562 |
+| 1 Morphing Jar SR                  |    - |
+| 1 Sangan SR                        |  205 |
+| 1 Snipe Hunter SR                  |  103 |
+| 1 Destiny Hero Dasher UtR          |  137 |
+| 1 Destiny Hero Fear Monger SR      |   75 |
+| 1 Destiny Hero Disk Commander SR   |    - |
+| 3 Destiny Hero Malicious UR        |   47 |
+| 1 Elemental Hero Stratos UR        |    - |
+| 2 Brain Control UtR                |  213 |
+| 3 Destiny Draw UR                  |    9 |
+| 1 Heavy Storm SR                   |   59 |
+| 1 Mystical Space Typhoon UR        |  111 |
+| 1 Limiter Removal SR               |    - |
+| 2 Metamorphosis SR                 | 1058 |
+| 1 Machine Duplication UtR          |   99 |
+| 1 Nobleman of Crossout SR          |   27 |
+| 1 Pot of Avarice UtR               |  243 |
+| 1 Premature Burial UR              |   52 |
+| 1 Reinforcement of the Army SR     |   18 |
+| 1 Scapegoat UR                     |    - |
+| 1 Snatch Steal UR                  |   64 |
+| 1 Crush Card Virus GUR             |  113 |
+| 1 Call of the Haunted UR           |   95 |
+| 1 Mirror Force UR                  |  150 |
+| 1 Ring of Destruction ScR          |   68 |
+| 1 Torrential Tribute UR            |   79 |
+|                                    |      |
+| Side Deck                          |      |
+| 1 D.D. Crow UtR                    |  278 |
+| 1 Spirit Reaper SR                 |  371 |
+| 1 Giant Trunade SR                 |   34 |
+| 1 Confiscation SR                  |   10 |
+| 1 Lightning Vortex UtR             |  293 |
+| 1 Reinforcement of the Army SR     |   18 |
+| 1 Mind Crush SR                    |  114 |
+| 3 Royal Decree UR                  |   27 |
+| 2 Threatening Roar C               |  145 |
+| 3 Trap Dustshoot SR                |  395 |
+|                                    |      |
+| Extra Deck                         |      |
+| 3 Cyber Twin Dragon UtR            |  278 |
+| 3 Cyber End Dragon UtR             |  999 |
+| 2 Dark Balter the Terrible SR      |    - |
+| 1 Dark Flare Knight SR             |    - |
+| 1 Fiend Skull Dragon SR            |    - |
+| 1 Gatling Dragon UtR               |    - |
+| 1 Reaper on the Nightmare SR       |    - |
+| 2 Ryu Senshi SR                    |    - |
+| 1 Dark Blade the Dragon Knight UtR |    - |
++------------------------------------+------+
+2007-destinyhero - 2023-04-11 - median_prices_sorted.txt
+Main Deck: 5700
+Side Deck: 2643
+Extra Deck: 3774
+Total Price: 12117
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Card Trooper UR                  |   8 |
+| 3 Cyber Dragon UtR                 | 315 |
+| 1 Dark Magician of Chaos UR        | 163 |
+| 1 Jinzo ScR                        | 562 |
+| 1 Morphing Jar SR                  |   - |
+| 1 Sangan SR                        | 199 |
+| 1 Snipe Hunter SR                  |  99 |
+| 1 Destiny Hero Dasher UtR          | 128 |
+| 1 Destiny Hero Fear Monger SR      |  78 |
+| 1 Destiny Hero Disk Commander SR   |   - |
+| 3 Destiny Hero Malicious UR        |  43 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 2 Brain Control UtR                | 213 |
+| 3 Destiny Draw UR                  |   9 |
+| 1 Heavy Storm SR                   |  59 |
+| 1 Mystical Space Typhoon UR        | 113 |
+| 1 Limiter Removal SR               |   - |
+| 2 Metamorphosis SR                 | 880 |
+| 1 Machine Duplication UtR          |  92 |
+| 1 Nobleman of Crossout SR          |  26 |
+| 1 Pot of Avarice UtR               | 247 |
+| 1 Premature Burial UR              |  47 |
+| 1 Reinforcement of the Army SR     |  19 |
+| 1 Scapegoat UR                     |   - |
+| 1 Snatch Steal UR                  |  62 |
+| 1 Crush Card Virus GUR             | 106 |
+| 1 Call of the Haunted UR           |  99 |
+| 1 Mirror Force UR                  | 161 |
+| 1 Ring of Destruction ScR          |  55 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Side Deck                          |     |
+| 1 D.D. Crow UtR                    | 293 |
+| 1 Spirit Reaper SR                 | 322 |
+| 1 Giant Trunade SR                 |  32 |
+| 1 Confiscation SR                  |  10 |
+| 1 Lightning Vortex UtR             | 291 |
+| 1 Reinforcement of the Army SR     |  19 |
+| 1 Mind Crush SR                    | 117 |
+| 3 Royal Decree UR                  |  26 |
+| 2 Threatening Roar C               | 148 |
+| 3 Trap Dustshoot SR                | 395 |
+|                                    |     |
+| Extra Deck                         |     |
+| 3 Cyber Twin Dragon UtR            | 259 |
+| 3 Cyber End Dragon UtR             | 999 |
+| 2 Dark Balter the Terrible SR      |   - |
+| 1 Dark Flare Knight SR             |   - |
+| 1 Fiend Skull Dragon SR            |   - |
+| 1 Gatling Dragon UtR               |   - |
+| 1 Reaper on the Nightmare SR       |   - |
+| 2 Ryu Senshi SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR |   - |
++------------------------------------+-----+

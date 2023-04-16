@@ -142,3 +142,147 @@ Total Price: 2299
 | Extra Deck                       |     |
 | 1 None                           |   - |
 +----------------------------------+-----+
+2008-cybervalleyftk - 2023-04-11 - min_prices_sorted.txt
+Main Deck: 2291
+Side Deck: 0
+Extra Deck: 0
+Total Price: 2291
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 3 Cyber Valley SR                |   9 |
+| 3 Destiny Hero Diamond Dude UtR  |  36 |
+| 1 Destiny Hero Disk Commander SR |   - |
+| 3 Thunder Dragon SP              |  29 |
+| 2 Spell Striker SR               |   - |
+| 1 Dark Magician of Chaos UR      | 160 |
+| 1 Toon Cannon Soldier UR         | 199 |
+| 3 Toon Table of Contents SR      | 129 |
+| 3 Magical Mallet SR              |   - |
+| 3 Machine Duplication UtR        |  65 |
+| 3 Allure of Darkness UtR         | 268 |
+| 3 Destiny Draw UR                |   8 |
+| 3 Upstart Goblin C               |  50 |
+| 2 Reinforcement of the Army SR   |  12 |
+| 2 Spell Economics R              |   - |
+| 1 Dimension Fusion UR            |  75 |
+| 1 Monster Reborn UR              |   8 |
+| 1 Premature Burial UR            |  43 |
+| 1 Card Destruction SR            |   - |
+| 1 None                           |   - |
+|                                  |     |
+| Side Deck                        |     |
+| 1 None                           |   - |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-cybervalleyftk - 2023-04-11 - max_prices_sorted.txt
+Main Deck: 4347
+Side Deck: 0
+Extra Deck: 0
+Total Price: 4347
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 3 Cyber Valley SR                |  14 |
+| 3 Destiny Hero Diamond Dude UtR  |  59 |
+| 1 Destiny Hero Disk Commander SR |   - |
+| 3 Thunder Dragon SP              |  29 |
+| 2 Spell Striker SR               |   - |
+| 1 Dark Magician of Chaos UR      | 189 |
+| 1 Toon Cannon Soldier UR         | 499 |
+| 3 Toon Table of Contents SR      | 298 |
+| 3 Magical Mallet SR              |   - |
+| 3 Machine Duplication UtR        | 150 |
+| 3 Allure of Darkness UtR         | 488 |
+| 3 Destiny Draw UR                |  13 |
+| 3 Upstart Goblin C               |  79 |
+| 2 Reinforcement of the Army SR   |  24 |
+| 2 Spell Economics R              |   - |
+| 1 Dimension Fusion UR            | 114 |
+| 1 Monster Reborn UR              |  24 |
+| 1 Premature Burial UR            |  83 |
+| 1 Card Destruction SR            |   - |
+| 1 None                           |   - |
+|                                  |     |
+| Side Deck                        |     |
+| 1 None                           |   - |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-cybervalleyftk - 2023-04-11 - mean_prices_sorted.txt
+Main Deck: 3103
+Side Deck: 0
+Extra Deck: 0
+Total Price: 3103
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 3 Cyber Valley SR                |  11 |
+| 3 Destiny Hero Diamond Dude UtR  |  47 |
+| 1 Destiny Hero Disk Commander SR |   - |
+| 3 Thunder Dragon SP              |  29 |
+| 2 Spell Striker SR               |   - |
+| 1 Dark Magician of Chaos UR      | 169 |
+| 1 Toon Cannon Soldier UR         | 352 |
+| 3 Toon Table of Contents SR      | 203 |
+| 3 Magical Mallet SR              |   - |
+| 3 Machine Duplication UtR        |  99 |
+| 3 Allure of Darkness UtR         | 342 |
+| 3 Destiny Draw UR                |   9 |
+| 3 Upstart Goblin C               |  58 |
+| 2 Reinforcement of the Army SR   |  18 |
+| 2 Spell Economics R              |   - |
+| 1 Dimension Fusion UR            |  85 |
+| 1 Monster Reborn UR              |  15 |
+| 1 Premature Burial UR            |  52 |
+| 1 Card Destruction SR            |   - |
+| 1 None                           |   - |
+|                                  |     |
+| Side Deck                        |     |
+| 1 None                           |   - |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-cybervalleyftk - 2023-04-11 - median_prices_sorted.txt
+Main Deck: 2930
+Side Deck: 0
+Extra Deck: 0
+Total Price: 2930
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 3 Cyber Valley SR                |  11 |
+| 3 Destiny Hero Diamond Dude UtR  |  47 |
+| 1 Destiny Hero Disk Commander SR |   - |
+| 3 Thunder Dragon SP              |  29 |
+| 2 Spell Striker SR               |   - |
+| 1 Dark Magician of Chaos UR      | 163 |
+| 1 Toon Cannon Soldier UR         | 355 |
+| 3 Toon Table of Contents SR      | 234 |
+| 3 Magical Mallet SR              |   - |
+| 3 Machine Duplication UtR        |  92 |
+| 3 Allure of Darkness UtR         | 269 |
+| 3 Destiny Draw UR                |   9 |
+| 3 Upstart Goblin C               |  53 |
+| 2 Reinforcement of the Army SR   |  19 |
+| 2 Spell Economics R              |   - |
+| 1 Dimension Fusion UR            |  81 |
+| 1 Monster Reborn UR              |  14 |
+| 1 Premature Burial UR            |  47 |
+| 1 Card Destruction SR            |   - |
+| 1 None                           |   - |
+|                                  |     |
+| Side Deck                        |     |
+| 1 None                           |   - |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+

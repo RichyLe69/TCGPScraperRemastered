@@ -238,3 +238,243 @@ Total Price: 17363
 | 3 Stardust Dragon GR             | 1699 |
 | 3 Thought Ruler Archfiend UtR    |  200 |
 +----------------------------------+------+
+2008-teledad - 2023-04-11 - min_prices_sorted.txt
+Main Deck: 6627
+Side Deck: 2630
+Extra Deck: 6760
+Total Price: 16017
++----------------------------------+------+
+| Card                             |    $ |
++----------------------------------+------+
+| Main Deck                        |      |
+| 2 Dark Armed Dragon UtR          |  376 |
+| 1 Dark Grepher ScR               |  134 |
+| 1 Destiny Hero Diamond Dude UtR  |   36 |
+| 3 Destiny Hero Malicious UR      |   40 |
+| 1 Destiny Hero Doom Lord R       |  169 |
+| 1 Elemental Hero Stratos UR      |    - |
+| 3 Krebons SR                     |   90 |
+| 1 Spirit Reaper SR               |  306 |
+| 1 Plaguespreader Zombie UtR      |  499 |
+| 1 Sangan SR                      |  195 |
+| 1 D.D. Crow UtR                  |  249 |
+| 1 Snipe Hunter SR                |   77 |
+| 3 Allure of Darkness UtR         |  268 |
+| 3 Destiny Draw UR                |    8 |
+| 3 Emergency Teleport UtR         |  139 |
+| 1 Brain Control UtR              |  213 |
+| 1 Heavy Storm SR                 |   59 |
+| 1 Monster Reborn UR              |    8 |
+| 1 Mystical Space Typhoon UR      |   89 |
+| 1 Monster Reincarnation UtR      |   54 |
+| 2 Reinforcement of the Army SR   |   12 |
+| 3 Solemn Judgment UR             |  365 |
+| 2 Phoenix Wing Wind Blast UtR    |  248 |
+| 1 Torrential Tribute UR          |   55 |
+| 1 Crush Card Virus GUR           |   88 |
+| 1 Trap Dustshoot SR              |  394 |
+|                                  |      |
+| Side Deck                        |      |
+| 1 Cyber Dragon UtR               |  274 |
+| 1 Breaker the Magical Warrior SR |  409 |
+| 1 Caius the Shadow Monarch UtR   |  342 |
+| 1 Snipe Hunter SR                |   77 |
+| 1 Thunder King Rai Oh UtR        |  149 |
+| 1 Giant Trunade SR               |   24 |
+| 1 Lightning Vortex UtR           |  289 |
+| 2 Bottomless Trap Hole SR        |  385 |
+| 2 Royal Oppression R             |   13 |
+| 1 Mirror Force UR                |   84 |
+| 1 Torrential Tribute UR          |   55 |
+| 1 Threatening Roar C             |  131 |
+| 1 Dust Tornado SR                |    - |
+|                                  |      |
+| Extra Deck                       |      |
+| 2 Black Rose Dragon GR           |  249 |
+| 2 Colossal Fighter UtR           |   88 |
+| 2 Goyo Guardian UtR              |  188 |
+| 1 Magical Android SR             |   19 |
+| 2 Red Dragon Archfiend UtR       |  297 |
+| 3 Stardust Dragon GR             | 1499 |
+| 3 Thought Ruler Archfiend UtR    |  200 |
++----------------------------------+------+
+2008-teledad - 2023-04-11 - max_prices_sorted.txt
+Main Deck: 9389
+Side Deck: 3750
+Extra Deck: 10160
+Total Price: 23299
++----------------------------------+------+
+| Card                             |    $ |
++----------------------------------+------+
+| Main Deck                        |      |
+| 2 Dark Armed Dragon UtR          |  427 |
+| 1 Dark Grepher ScR               |  171 |
+| 1 Destiny Hero Diamond Dude UtR  |   59 |
+| 3 Destiny Hero Malicious UR      |   69 |
+| 1 Destiny Hero Doom Lord R       |  199 |
+| 1 Elemental Hero Stratos UR      |    - |
+| 3 Krebons SR                     |  100 |
+| 1 Spirit Reaper SR               |  499 |
+| 1 Plaguespreader Zombie UtR      |  999 |
+| 1 Sangan SR                      |  240 |
+| 1 D.D. Crow UtR                  |  310 |
+| 1 Snipe Hunter SR                |  149 |
+| 3 Allure of Darkness UtR         |  488 |
+| 3 Destiny Draw UR                |   13 |
+| 3 Emergency Teleport UtR         |  249 |
+| 1 Brain Control UtR              |  213 |
+| 1 Heavy Storm SR                 |   60 |
+| 1 Monster Reborn UR              |   24 |
+| 1 Mystical Space Typhoon UR      |  145 |
+| 1 Monster Reincarnation UtR      |   98 |
+| 2 Reinforcement of the Army SR   |   24 |
+| 3 Solemn Judgment UR             |  449 |
+| 2 Phoenix Wing Wind Blast UtR    |  278 |
+| 1 Torrential Tribute UR          |  116 |
+| 1 Crush Card Virus GUR           |  149 |
+| 1 Trap Dustshoot SR              |  396 |
+|                                  |      |
+| Side Deck                        |      |
+| 1 Cyber Dragon UtR               |  504 |
+| 1 Breaker the Magical Warrior SR |  499 |
+| 1 Caius the Shadow Monarch UtR   |  499 |
+| 1 Snipe Hunter SR                |  149 |
+| 1 Thunder King Rai Oh UtR        |  244 |
+| 1 Giant Trunade SR               |   43 |
+| 1 Lightning Vortex UtR           |  300 |
+| 2 Bottomless Trap Hole SR        |  487 |
+| 2 Royal Oppression R             |   20 |
+| 1 Mirror Force UR                |  233 |
+| 1 Torrential Tribute UR          |  116 |
+| 1 Threatening Roar C             |  149 |
+| 1 Dust Tornado SR                |    - |
+|                                  |      |
+| Extra Deck                       |      |
+| 2 Black Rose Dragon GR           |  399 |
+| 2 Colossal Fighter UtR           |   99 |
+| 2 Goyo Guardian UtR              |  222 |
+| 1 Magical Android SR             |   29 |
+| 2 Red Dragon Archfiend UtR       |  297 |
+| 3 Stardust Dragon GR             | 2499 |
+| 3 Thought Ruler Archfiend UtR    |  200 |
++----------------------------------+------+
+2008-teledad - 2023-04-11 - mean_prices_sorted.txt
+Main Deck: 7641
+Side Deck: 3030
+Extra Deck: 7969
+Total Price: 18640
++----------------------------------+------+
+| Card                             |    $ |
++----------------------------------+------+
+| Main Deck                        |      |
+| 2 Dark Armed Dragon UtR          |  400 |
+| 1 Dark Grepher ScR               |  153 |
+| 1 Destiny Hero Diamond Dude UtR  |   47 |
+| 3 Destiny Hero Malicious UR      |   47 |
+| 1 Destiny Hero Doom Lord R       |  180 |
+| 1 Elemental Hero Stratos UR      |    - |
+| 3 Krebons SR                     |   93 |
+| 1 Spirit Reaper SR               |  371 |
+| 1 Plaguespreader Zombie UtR      |  716 |
+| 1 Sangan SR                      |  205 |
+| 1 D.D. Crow UtR                  |  278 |
+| 1 Snipe Hunter SR                |  103 |
+| 3 Allure of Darkness UtR         |  342 |
+| 3 Destiny Draw UR                |    9 |
+| 3 Emergency Teleport UtR         |  170 |
+| 1 Brain Control UtR              |  213 |
+| 1 Heavy Storm SR                 |   59 |
+| 1 Monster Reborn UR              |   15 |
+| 1 Mystical Space Typhoon UR      |  111 |
+| 1 Monster Reincarnation UtR      |   78 |
+| 2 Reinforcement of the Army SR   |   18 |
+| 3 Solemn Judgment UR             |  396 |
+| 2 Phoenix Wing Wind Blast UtR    |  259 |
+| 1 Torrential Tribute UR          |   79 |
+| 1 Crush Card Virus GUR           |  113 |
+| 1 Trap Dustshoot SR              |  395 |
+|                                  |      |
+| Side Deck                        |      |
+| 1 Cyber Dragon UtR               |  358 |
+| 1 Breaker the Magical Warrior SR |  438 |
+| 1 Caius the Shadow Monarch UtR   |  408 |
+| 1 Snipe Hunter SR                |  103 |
+| 1 Thunder King Rai Oh UtR        |  178 |
+| 1 Giant Trunade SR               |   34 |
+| 1 Lightning Vortex UtR           |  293 |
+| 2 Bottomless Trap Hole SR        |  407 |
+| 2 Royal Oppression R             |   15 |
+| 1 Mirror Force UR                |  150 |
+| 1 Torrential Tribute UR          |   79 |
+| 1 Threatening Roar C             |  145 |
+| 1 Dust Tornado SR                |    - |
+|                                  |      |
+| Extra Deck                       |      |
+| 2 Black Rose Dragon GR           |  292 |
+| 2 Colossal Fighter UtR           |   92 |
+| 2 Goyo Guardian UtR              |  195 |
+| 1 Magical Android SR             |   22 |
+| 2 Red Dragon Archfiend UtR       |  297 |
+| 3 Stardust Dragon GR             | 1865 |
+| 3 Thought Ruler Archfiend UtR    |  200 |
++----------------------------------+------+
+2008-teledad - 2023-04-11 - median_prices_sorted.txt
+Main Deck: 7216
+Side Deck: 2877
+Extra Deck: 7423
+Total Price: 17516
++----------------------------------+------+
+| Card                             |    $ |
++----------------------------------+------+
+| Main Deck                        |      |
+| 2 Dark Armed Dragon UtR          |  399 |
+| 1 Dark Grepher ScR               |  159 |
+| 1 Destiny Hero Diamond Dude UtR  |   47 |
+| 3 Destiny Hero Malicious UR      |   43 |
+| 1 Destiny Hero Doom Lord R       |  174 |
+| 1 Elemental Hero Stratos UR      |    - |
+| 3 Krebons SR                     |   91 |
+| 1 Spirit Reaper SR               |  322 |
+| 1 Plaguespreader Zombie UtR      |  675 |
+| 1 Sangan SR                      |  199 |
+| 1 D.D. Crow UtR                  |  293 |
+| 1 Snipe Hunter SR                |   99 |
+| 3 Allure of Darkness UtR         |  269 |
+| 3 Destiny Draw UR                |    9 |
+| 3 Emergency Teleport UtR         |  154 |
+| 1 Brain Control UtR              |  213 |
+| 1 Heavy Storm SR                 |   59 |
+| 1 Monster Reborn UR              |   14 |
+| 1 Mystical Space Typhoon UR      |  113 |
+| 1 Monster Reincarnation UtR      |   84 |
+| 2 Reinforcement of the Army SR   |   19 |
+| 3 Solemn Judgment UR             |  386 |
+| 2 Phoenix Wing Wind Blast UtR    |  249 |
+| 1 Torrential Tribute UR          |   74 |
+| 1 Crush Card Virus GUR           |  106 |
+| 1 Trap Dustshoot SR              |  395 |
+|                                  |      |
+| Side Deck                        |      |
+| 1 Cyber Dragon UtR               |  315 |
+| 1 Breaker the Magical Warrior SR |  414 |
+| 1 Caius the Shadow Monarch UtR   |  368 |
+| 1 Snipe Hunter SR                |   99 |
+| 1 Thunder King Rai Oh UtR        |  169 |
+| 1 Giant Trunade SR               |   32 |
+| 1 Lightning Vortex UtR           |  291 |
+| 2 Bottomless Trap Hole SR        |  388 |
+| 2 Royal Oppression R             |   15 |
+| 1 Mirror Force UR                |  161 |
+| 1 Torrential Tribute UR          |   74 |
+| 1 Threatening Roar C             |  148 |
+| 1 Dust Tornado SR                |    - |
+|                                  |      |
+| Extra Deck                       |      |
+| 2 Black Rose Dragon GR           |  279 |
+| 2 Colossal Fighter UtR           |   88 |
+| 2 Goyo Guardian UtR              |  189 |
+| 1 Magical Android SR             |   20 |
+| 2 Red Dragon Archfiend UtR       |  297 |
+| 3 Stardust Dragon GR             | 1699 |
+| 3 Thought Ruler Archfiend UtR    |  200 |
++----------------------------------+------+
