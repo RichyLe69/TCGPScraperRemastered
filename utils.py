@@ -252,7 +252,11 @@ def extract_listing_prices(raw_html, card):
     # Get Card Price
     x = 0
     for item in list_extract:
-        price = item.split('$')[1].split('.')[0].replace(',', '')
+        try:
+            price = item.split('$')[1].split('.')[0].replace(',', '')
+        except IndexError:
+            print('Unexpected Index Error for {}. Skipping this one'.format(card))
+            continue
         try:
             second_list[x][0] = int(price)
         except ValueError:
