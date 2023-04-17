@@ -87,7 +87,7 @@ def scrape_website(card_data_yaml, list_name, browser):
         for script in soup(['script', 'style']):
             script.extract()
 
-        current_price_point_text = extract_listing_prices(soup)
+        current_price_point_text = extract_listing_prices(soup, card)
         data_prices_new = calculate_data_prices(current_price_point_text, card)
 
         min_price_total += data_prices_new[0] * card_quantity
@@ -226,7 +226,7 @@ def get_card_lists(yaml_name):
         return card_lists
 
 
-def extract_listing_prices(raw_html):
+def extract_listing_prices(raw_html, card):
     text_only = raw_html.get_text()
     text_only = text_only.split('Ship To UNITED STATES')[1].split('TCGplayer Core Value')[0]
 
@@ -244,6 +244,11 @@ def extract_listing_prices(raw_html):
     for x in range(0, len(list_extract)):
         second_list.append([0, 0, 0])
 
+    # Trim listings with "Free Shipping on Orders over $5"
+    for x in range(0, len(list_extract)):
+        if 'on Orders Over' in list_extract[x]:
+            list_extract[x] = list_extract[x][20:]  # trim out 'on Orders Over $511  '
+
     # Get Card Price
     x = 0
     for item in list_extract:
@@ -251,7 +256,7 @@ def extract_listing_prices(raw_html):
         try:
             second_list[x][0] = int(price)
         except ValueError:
-            print('Value Error for this price. Skipping it')
+            print('Value Error for {}. Skipping. Price: {}'.format(card, price))
             second_list[x][0] = second_list[x - 1][0]
         x += 1
 
