@@ -47,6 +47,9 @@ Header: deck_builder
 # Ghost > Ulti > Secret > DT > Ultra > Super > Other
 # Synchro Best > Monsters > Spells > Traps > ETC Synchro
 
+# By sets - cp, tu, lodt, ptdn, tdgs, csoc, ap, (era) - can fit with above
+
+
 Monsters:
   # Ghosts
   Stardust Dragon: 1
