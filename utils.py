@@ -228,7 +228,8 @@ def get_card_lists(yaml_name):
 
 def extract_listing_prices(raw_html, card):
     text_only = raw_html.get_text()
-    text_only = text_only.split('Ship To UNITED STATES')[1].split('TCGplayer Core Value')[0]
+    text_only = text_only.split('Clear All')[1].split('TCGplayer Core Value')[0]  # Last Configurable filter on Left hand side
+    # Previous = Ship To UNITED STATES
 
     list_extract = []
     x = text_only.split('Shipping')
