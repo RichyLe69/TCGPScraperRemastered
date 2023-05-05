@@ -1,0 +1,145 @@
+Missing Data for:    Raiden Lightsworn Assassin Super - TCG
+Missing Data for:    Blaster Dragon Ruler of Infernos Scr - TCG
+Missing Data for:    Tempest Dragon Ruler of Storms Scr - TCG
+Missing Data for:    Eclipse Wyvern Super - TCG
+Missing Data for:    Lightray Diabolos Rare - TCG
+Missing Data for:    Mechquipped Angineer - TCG
+Missing Data for:    Lavalval Chain DT - TCG
+Sum of Min Listed: $160.00
+Sum of Max Listed: $278.00
+Sum of Mean Listed: $189.00
+Sum of Median Listed: $184.00
+
+Raiden Lightsworn Assassin Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Blaster Dragon Ruler of Infernos Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Tempest Dragon Ruler of Storms Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Eclipse Wyvern Super - TCG [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Lightray Diabolos Rare - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Kuribandit Scr 1st - TCG [3] - Near Mint 1st <24>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Upstart Goblin TU08 Super - TCG [1] - Near Mint <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  50 |  79 |  56  |  53.0  |
++-----+-----+------+--------+
+
+Soul Charge Super - TCG [3] - Near Mint 1st <17>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+Needlebug Nest C 1st - TCG [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Michael The Arch Lightsworn - TCG [1] - Near Mint 1st <22>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Mechquipped Angineer - TCG [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Ghostrick Alucard UTR - TCG/Seek [1] - Near Mint 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  22 |  39 |  27  |  24.5  |
++-----+-----+------+--------+
+
+Number 101 Silent Honor Ark UTR - TCG/Seek [1] - Near Mint 1st <20>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  23 |  47 |  27  |  25.5  |
++-----+-----+------+--------+
+
+Diamond Dire Wolf - TCG/Seek [1] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  14 |  9   |   9    |
++-----+-----+------+--------+
+
+Lavalval Chain DT - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Number 80 Rhapsody in Berserk - TCG [1] - Near Mint <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  10 |  7   |  7.5   |
++-----+-----+------+--------+
+
+Starliege Paladynamo - TCG [1] - Near Mint 1st <19>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+Mecha Phantom Beast Dracossack Scr 1st - TCG [2] - Near Mint 1st <45>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  8  |  17 |  10  |   10   |
++-----+-----+------+--------+
+
+Number 11 Big Eye Secret 1st - TCG/seek [1] - Near Mint <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  27 |  44 |  32  |  33.5  |
++-----+-----+------+--------+
+
