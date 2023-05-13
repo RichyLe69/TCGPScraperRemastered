@@ -14,17 +14,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+collection_deck_core:
+  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
@@ -52,26 +52,26 @@
 
 # Will definitely buy
 
-buylist_edison:
-  path: 'decks/current_buys/buylist_edison.yaml'
-
-buylist_cool_singles:
-  path: 'decks/current_buys/buylist_cool_singles.yaml'
-
-buylist_foreign_converts:
-  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-
-buylist_cool_singles_t2:
-  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
-
-buylist_lightswornrulers:
-  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
-
-buylist_double_up_hoard:
- path: 'decks/current_buys/buylist_double_up_hoard.yaml'
-
-buylist_2007_08_max_deck:
-  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
+#buylist_edison:
+#  path: 'decks/current_buys/buylist_edison.yaml'
+#
+#buylist_cool_singles:
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+#
+#buylist_foreign_converts:
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+#
+#buylist_cool_singles_t2:
+#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
+#
+#buylist_lightswornrulers:
+#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
+#
+#buylist_double_up_hoard:
+# path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+#
+#buylist_2007_08_max_deck:
+#  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
 
 ###################################
 
