@@ -1,0 +1,27 @@
+Missing Data for:    red dragon archfiend Ultimate 1st - SEEK
+Sum of Min Listed: $2,723.00
+Sum of Max Listed: $3,364.00
+Sum of Mean Listed: $2,963.00
+Sum of Median Listed: $2,742.00
+
+Black Rose Dragon Ghost 1st - SEEK [1] - Near Mint 1st <5>
++------+------+------+--------+
+| Min  | Max  | Mean | Median |
++------+------+------+--------+
+| 2393 | 2998 | 2615 |  2394  |
++------+------+------+--------+
+
+Power Tool Dragon Ghost 1st - TCG / SEEK [1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 330 | 366 | 348  | 348.0  |
++-----+-----+------+--------+
+
+red dragon archfiend Ultimate 1st - SEEK [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
