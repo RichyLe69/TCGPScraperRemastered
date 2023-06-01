@@ -25,17 +25,25 @@ def get_text_color(string):
         return 'Red'
 
 
-def get_price_graph(card_name):
-    pricing_variable_full = [['min_prices_sorted.txt', 'Min'],
-                             ['max_prices_sorted.txt', 'Max'],
-                             ['mean_prices_sorted.txt', 'Mean'],
-                             ['median_prices_sorted.txt', 'Median']]  # 2023 and onwards
+def get_pricing_time_period(year):
+    pricing_variable_full = {
+        2020: [['/garb/2020 May - 2021 April archive/market_prices_sorted.txt', 'market prices']],
+        2021: [['/garb/lowest_prices_sorted.txt', 'lowest'],
+               ['/garb/last_sold_sorted.txt', 'last sold'],
+               ['/garb/market_prices_sorted.txt', 'market prices']]  # 2021 May - 2022 Nov
+    }
+    if year not in pricing_variable_full:
+        pricing_variable_full = {
+            year: [['min_prices_sorted.txt', 'Min'],
+                   ['max_prices_sorted.txt', 'Max'],
+                   ['mean_prices_sorted.txt', 'Mean'],
+                   ['median_prices_sorted.txt', 'Median']]  # 2023 and onwards
+        }
+    return pricing_variable_full[year]
 
-    # pricing_variable_full = [['/garb/lowest_prices_sorted.txt', 'lowest'],
-    #                          ['/garb/last_sold_sorted.txt', 'last sold'],
-    #                          ['/garb/market_prices_sorted.txt', 'market prices']]  # 2021 May - 2022 Nov
-    #
-    # pricing_variable_full = [['/garb/2020 May - 2021 April archive/market_prices_sorted.txt', 'market prices']]
+
+def get_price_graph(card_name):
+    pricing_variable_full = get_pricing_time_period(2023)
 
     fig = plt.figure(figsize=(10, 5))
 
@@ -84,7 +92,7 @@ def get_price_graph(card_name):
 if __name__ == '__main__':
     deckbuilder = DeckBuilder()
     card_code_list = deckbuilder.get_card_code_list()
-    get_price_graph('Judgment Dragon')
+    get_price_graph('Necro Gardna')
 
 # Script will generate a graph based on card name and pricing_variable_full
 #       Simply select which time period you want to scrape from.
