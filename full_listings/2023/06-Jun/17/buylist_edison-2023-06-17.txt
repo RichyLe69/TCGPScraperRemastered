@@ -1,0 +1,77 @@
+Missing Data for:    Flamvell Uruquizas DT
+Missing Data for:    Shire Lightsworn Fairy Super 1st
+Sum of Min Listed: $2,319.00
+Sum of Max Listed: $2,570.00
+Sum of Mean Listed: $2,388.00
+Sum of Median Listed: $2,344.50
+
+Archlord Kristya 1st [3] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 688 | 750 | 706  | 694.0  |
++-----+-----+------+--------+
+
+Gale CRMS R 1st [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  5  |  3   |  3.0   |
++-----+-----+------+--------+
+
+Black Wing Armor Master Ulti 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 116 | 159 | 125  |  117   |
++-----+-----+------+--------+
+
+Iron Chain Dragon R 1st [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  8  |  15 |  10  |   9    |
++-----+-----+------+--------+
+
+Flamvell Uruquizas DT [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Herald of Orange Light Rare 1st [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  5  |  4   |  4.0   |
++-----+-----+------+--------+
+
+Soul of Purity and Light 1st C [3] - Near Mint 1st <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  3  |  3   |   3    |
++-----+-----+------+--------+
+
+Shire Lightsworn Fairy Super 1st [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Nimble Mega Hamster 1st Super [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  35 |  36 |  35  |  35.5  |
++-----+-----+------+--------+
+
+Consecrated Light C 1st [3] - Near Mint 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |  2.0   |
++-----+-----+------+--------+
+
