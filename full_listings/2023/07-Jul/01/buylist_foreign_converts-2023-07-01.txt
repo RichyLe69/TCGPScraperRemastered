@@ -1,0 +1,48 @@
+Missing Data for:    Scapegoat Ultra RP01 EN
+Sum of Min Listed: $2,570.00
+Sum of Max Listed: $4,225.00
+Sum of Mean Listed: $3,003.00
+Sum of Median Listed: $2,778.00
+
+Maxx C Ultimate EN [2] - Near Mint Unlimited <15>
++-----+------+------+--------+
+| Min | Max  | Mean | Median |
++-----+------+------+--------+
+| 523 | 1000 | 644  |  575   |
++-----+------+------+--------+
+
+Tour Guide Ultimate EN [3] - Near Mint Unlimited <18>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 179 | 344 | 225  | 209.0  |
++-----+-----+------+--------+
+
+Scapegoat Ultra RP01 EN [2] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st EN [2] - Near Mint 1st Edition <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 248 | 311 | 263  |  249   |
++-----+-----+------+--------+
+
+Trap Dustshoot Super CP EN [1] - Near Mint <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 392 | 392 | 392  | 392.0  |
++-----+-----+------+--------+
+
+Solemn Warning Ultimate 1st [1] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  99 | 179 | 122  |  111   |
++-----+-----+------+--------+
+
