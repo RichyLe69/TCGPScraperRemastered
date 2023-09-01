@@ -1,0 +1,383 @@
+Missing Data for:    Red Dragon Archfiend Ultimate 1st
+Missing Data for:    Ally of Justice Catastor DTP1
+Missing Data for:    Formula Synchron ULTRA Advent Calendar GERMAN
+Missing Data for:    Number 39 Utopia
+Missing Data for:    Cyber Dark Dragon Ultimate UNL GER
+Missing Data for:    Chimeratech Overdragon Ultimate GER
+Missing Data for:    Chimeratech Fortress Dragon
+Sum of Min Listed: $9,507.60
+Sum of Max Listed: $14,177.15
+Sum of Mean Listed: $11,027.50
+Sum of Median Listed: $10,379.62
+
+Stardust Dragon Ghost 1st [1] - Lightly Played 1st <5>
++------+------+------+--------+
+| Min  | Max  | Mean | Median |
++------+------+------+--------+
+| 1450 | 2299 | 1739 |  1498  |
++------+------+------+--------+
+
+Ancient Fairy Dragon Ghost 1st [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 643 | 699 | 654  | 644.5  |
++-----+-----+------+--------+
+
+Stardust Dragon Ghost Unl [3] - Near Mint Unlimited <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 399 | 899 | 586  | 524.5  |
++-----+-----+------+--------+
+
+Black Rose Dragon Ghost Unl [3] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 239 | 399 | 283  | 279.0  |
++-----+-----+------+--------+
+
+Ancient Fairy Dragon Ghost Unl [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 110 | 199 | 147  |  142   |
++-----+-----+------+--------+
+
+Shooting Star Dragon Ghost 1st [1] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 189 | 350 | 215  |  200   |
++-----+-----+------+--------+
+
+Red Dragon Archfiend Ultimate 1st [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Power Tool Dragon Ultimate 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 149 | 179 | 159  |  149   |
++-----+-----+------+--------+
+
+Goyo Guardian Ultimate 1st [3] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 185 | 205 | 194  | 193.5  |
++-----+-----+------+--------+
+
+Thought Ruler Archfiend Ultimate 1st [4] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 199 | 200 | 199  |  199   |
++-----+-----+------+--------+
+
+Colossal Fighter Ultimate TU [3] - Near Mint <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 116 | 119 | 116  |  116   |
++-----+-----+------+--------+
+
+Trishula Dragon of the Ice Barrier DT [3] - Near Mint Limited <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 214 | 300 | 228  | 214.0  |
++-----+-----+------+--------+
+
+Brionac Dragon of the Ice Barrier DT [2] - Near Mint Limited <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 139 | 200 | 152  | 144.0  |
++-----+-----+------+--------+
+
+Scrap Dragon Ultimate 1st [3] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  45 |  75 |  54  |  48.5  |
++-----+-----+------+--------+
+
+Ally of Justice Catastor DTP1 [1] - Near Mint Limited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Ally of Justice Catastor Ultimate [2] - Near Mint <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  85 | 200 | 129  | 117.0  |
++-----+-----+------+--------+
+
+Armory Arm Ultra 1st [3] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  10 |  24 |  16  |  15.5  |
++-----+-----+------+--------+
+
+Drill Warrior UTR 1st [2] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  51 |  57 |  53  |  53.0  |
++-----+-----+------+--------+
+
+Magical Android 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  29 |  29 |  29  |   29   |
++-----+-----+------+--------+
+
+T.G. Hyper Librarian [2] - Near Mint Limited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  29 |  18  |  17.0  |
++-----+-----+------+--------+
+
+Dark End Dragon [1] - Near Mint Limited <22>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  15 |  9   |  9.0   |
++-----+-----+------+--------+
+
+Arcanite Magician [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  10 |  8   |   8    |
++-----+-----+------+--------+
+
+Formula Synchron ULTRA Advent Calendar GERMAN [2] - Near Mint Limited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Avenging Knight Parshath Secret 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  98 | 110 | 104  |  108   |
++-----+-----+------+--------+
+
+Tempest Magician Secret 1st [1] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  59 |  69 |  63  |  63.0  |
++-----+-----+------+--------+
+
+Turbo Warrior [1] - Near Mint Unlimited <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  15 |  9   |   10   |
++-----+-----+------+--------+
+
+Nitro Warrior [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  28 |  17  |   17   |
++-----+-----+------+--------+
+
+Junk Archer [1] - Near Mint Unlimited <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  12 |  25 |  19  |   20   |
++-----+-----+------+--------+
+
+Red Nova Dragon Ultimate 1st [1] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  42 |  84 |  57  |   49   |
++-----+-----+------+--------+
+
+Dark Strike Fighter Super 1st [1] - Near Mint 1st <17>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  7  |  4   |   4    |
++-----+-----+------+--------+
+
+Mist Wurm [1] - Near Mint Limited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  58 |  58 |  58  |   58   |
++-----+-----+------+--------+
+
+Evolzar Laggia UTR 1st [4] - Near Mint 1st <23>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  40 |  59 |  45  |   43   |
++-----+-----+------+--------+
+
+Evolzar Dolkka Secret 1st [4] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  16 |  25 |  19  |   19   |
++-----+-----+------+--------+
+
+Number 17 Leviathan Dragon Ghost 1st [1] - Near Mint 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  53 | 105 |  64  |  57.5  |
++-----+-----+------+--------+
+
+Leviair the Sea Dragon Ultimate 1st [2] - Near Mint 1st <30>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  34 |  72 |  47  |  45.0  |
++-----+-----+------+--------+
+
+Wind up Zenmaioh [1] - Near Mint Unlimited <21>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  5  |  3   |   3    |
++-----+-----+------+--------+
+
+Wind Up Zenmaity UTR 1st [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  28 |  38 |  31  |  31.0  |
++-----+-----+------+--------+
+
+Wind Up Zenmaity UTR Unl [2] - Near Mint Unlimited <19>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  8  |  18 |  12  |   12   |
++-----+-----+------+--------+
+
+Zenmaister UTR [1] - Near Mint Unlimited <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  10 |  7   |   7    |
++-----+-----+------+--------+
+
+Wind Up Zenmaines Scr 1st [2] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  22 |  16  |  17.0  |
++-----+-----+------+--------+
+
+Number 39 Utopia [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Number C39 Utopia Ray UTR [1] - Near Mint Unlimited <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  8  |  5   |  5.0   |
++-----+-----+------+--------+
+
+Acid Golem [1] - Near Mint Limited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Thousand Eyes Restrict RP02 [1] - Near Mint Unlimited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  17 |  35 |  24  |  23.0  |
++-----+-----+------+--------+
+
+Dark Paladin DMG [2] - Near Mint Limited <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  44 |  70 |  53  |   49   |
++-----+-----+------+--------+
+
+Thousand Eyes Restrict MC1 [1] - Near Mint Limited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  14 |  9   |  8.5   |
++-----+-----+------+--------+
+
+Flame Wingman Ultimate 1st UDE [1.1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 166 | 184 | 175  | 175.0  |
++-----+-----+------+--------+
+
+Cyber End Dragon Ultimate UNL ITA GER [0.75] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 499 | 499 | 499  |  499   |
++-----+-----+------+--------+
+
+Cyber Twin Dragon Ultimate 1st GER [0.75] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 222 | 299 | 240  | 224.5  |
++-----+-----+------+--------+
+
+Cyber Dark Dragon Ultimate 1st GER [0.75] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 499 | 599 | 537  |  500   |
++-----+-----+------+--------+
+
+Cyber Dark Dragon Ultimate UNL GER [0.75] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Chimeratech Overdragon Ultimate GER [3] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Chimeratech Fortress Dragon [3] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
