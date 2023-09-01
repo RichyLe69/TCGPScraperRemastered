@@ -123,40 +123,42 @@ Beckoning Light TU:
   edition: 'Near Mint Unlimited'
   qty: 2
 
-Brain Control Ultimate 1st:
-  url: 58749
-  edition: 'Near Mint 1st'
-  qty: 1
+#Brain Control Ultimate 1st:
+#  url: 58749
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
-Diamond Dude Ultimate 1st:
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 2
 
-Krebons Super TU EN:
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 2
 
-D.D. Crow Ultimate 1st:
-  url: 58555
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Destiny Draw 1st:
-  url: 25641
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Destiny Hero Malicious 1st:
-  url: 25632
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Phoenix Wing Wind Blast Ultimate 1st NM:
-  url: 58783
-  edition: 'Near Mint 1st'
-  qty: 1
+#Diamond Dude Ultimate 1st:
+#  url: 58654
+#  edition: 'Near Mint 1st'
+#  qty: 2
+#
+#Krebons Super TU EN:
+#  url: 33227
+#  edition: 'Near Mint Unlimited'
+#  qty: 2
+#
+#D.D. Crow Ultimate 1st:
+#  url: 58555
+#  edition: 'Near Mint 1st'
+#  qty: 1
+#
+#Destiny Draw 1st:
+#  url: 25641
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Destiny Hero Malicious 1st:
+#  url: 25632
+#  edition: 'Near Mint 1st'
+#  qty: 3
+#
+#Phoenix Wing Wind Blast Ultimate 1st NM:
+#  url: 58783
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Emegency Teleport Ultimate 1st:
   url: 58522

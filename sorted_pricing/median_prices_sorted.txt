@@ -9350,3 +9350,55 @@ collection_old_school - 2023-09-01
 |          B Skull Dragon BPT 2002           |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_cool_singles - 2023-09-01
++------------------------------------------+--------+
+|                   Card                   | Price  |
++------------------------------------------+--------+
+|    Black Rose Dragon Ghost 1st - SEEK    | 2000.0 |
+| Power Tool Dragon Ghost 1st - TCG / SEEK |  331   |
+| red dragon archfiend Ultimate 1st - SEEK |   0    |
+|                   test                   |   0    |
++------------------------------------------+--------+
+buylist_cool_singles_t2 - 2023-09-01
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|             Dad secret 1st            | 368.0 |
+| Dark Armed Dragon Ultimate EURO Print | 363.0 |
+|             JD Secret 1st             | 221.0 |
+|                  test                 |   0   |
++---------------------------------------+-------+
+buylist_double_up_hoard - 2023-09-01
++----------------------------------------+-------+
+|                  Card                  | Price |
++----------------------------------------+-------+
+|   Plaguespreader Zombie Ultimate 1st   | 413.5 |
+|  Lumina Lightsworn Summoner Super CP   |  338  |
+|            Honest Ghost 1st            |  311  |
+|   Allure of Darkness Ultimate 1st EN   |  288  |
+| Charge of the Light Brigade Secret 1st |  196  |
+|           Tragoedia Ultimate           | 149.5 |
+|        Chaos Sorcerer Ultra TU         |  149  |
+|     Emegency Teleport Ultimate 1st     | 126.0 |
+|    Ehren Lightsworn Monk Secret 1st    |  100  |
+| Lyla Lightsworn Sorceress Ultimate 1st |  100  |
+|      Solar Recharge Ultimate 1st       |   99  |
+|           Doomkaiser utr 1st           |  90.5 |
+| Celestia Lightsworn Angel Ultimate 1st |   65  |
+|           Beckoning Light TU           |   44  |
+|       Necro Gardna Ultimate 1st        |   37  |
+|       Wulf Lightsworn Beast 1st        |  11.5 |
+|    Aurkus Lightsworn Druid LODT 1st    |  3.0  |
+|         Crush Card Virus GLD1          |   0   |
+|                  test                  |   0   |
++----------------------------------------+-------+
+buylist_foreign_converts - 2023-09-01
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|       Maxx C Ultimate EN       | 529.5 |
+|   Trap Dustshoot Super CP EN   |  385  |
+| Pot of Avarice Ultimate 1st EN | 254.0 |
+|  Solemn Warning Ultimate 1st   | 106.5 |
+|              test              |   0   |
++--------------------------------+-------+
