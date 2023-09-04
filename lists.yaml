@@ -29,14 +29,16 @@ collection_old_school:
 ## Current Buylists
 
 # 2.8k - [x] Vintage Accessories - 2.5k+ Gray 94 Dash, 275-300 Ninja girl deck box
+
 # 2k - cool singles - remaining ghosts n extra deck synchro singles
 # 3.7k - cool singles t2 - additional edison, historical max rarity, old school rarity bumps
-# 5.5k+ double_up_hoard - fuck it why not
-# 0.2k  - lightsworn rulers - Max Rarity Historical*
-  # 2.2k - edison - kristyasworn & leftovers
-  # 2.7k - foreign converts
+# 5.5k+ double_up_hoard - double max LS - probably pass on TeleDad for now
+# 2.7k - foreign converts - Finish up Tengu plant english
+
+# 2.2k - edison - kristyasworn & leftovers - mainly just 3 kristyas, expensive
 
     # Extended wait for market to level out.
+    # 0.2k  - lightsworn rulers - Max Rarity Historical*
     # 3.5k - 2007-2008 max rarities
         # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
         # 21*2 Holos from PTDN & LODT (GR, UTR, SCR)
@@ -52,23 +54,29 @@ collection_old_school:
 
 # Will definitely buy
 
-#buylist_edison:
-#  path: 'decks/current_buys/buylist_edison.yaml'
-#
+
 #buylist_cool_singles:
 #  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_foreign_converts:
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
 #
 #buylist_cool_singles_t2:
 #  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
 #
-#buylist_lightswornrulers:
-#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
-#
 #buylist_double_up_hoard:
 # path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+#
+#buylist_foreign_converts:
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+# Maybe
+
+#buylist_edison:
+#  path: 'decks/current_buys/buylist_edison.yaml'
+#
+
+# Meh
+
+#buylist_lightswornrulers:
+#  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 #
 #buylist_2007_08_max_deck:
 #  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
