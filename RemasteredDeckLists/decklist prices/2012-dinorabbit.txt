@@ -730,3 +730,247 @@ Total Price: 14295
 | 2 Evolzar Dolkka ScR                             |   39 |
 | 1 Wind Up Zenmaines ScR                          |   16 |
 +--------------------------------------------------+------+
+2012-dinorabbit - 2023-09-17 - min_prices_sorted.txt
+Main Deck: 6960
+Side Deck: 1958
+Extra Deck: 2399
+Total Price: 11317
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  186 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Rescue Rabbit ScR                              |   19 |
+| 3 Sabersaurus C                                  |    - |
+| 3 Kabazuls C                                     |    - |
+| 3 Maxx C UtR                                     |  511 |
+| 3 Effect Veiler UtR                              |  284 |
+| 2 Thunder King Rai Oh UtR                        |  150 |
+| 1 Sangan SR                                      |  193 |
+| 1 Spirit Reaper SR                               |  498 |
+| 1 Gorz the Emissary of Darkness ScR              |    7 |
+| 1 Dark Hole SR                                   |   55 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   10 |
+| 1 Book of Moon SR                                |  989 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Mind Control SR                                |   12 |
+| 2 Mystical Space Typhoon UR                      |   84 |
+| 1 Smashing Ground SR                             |  188 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  367 |
+| 1 Torrential Tribute UR                          |   65 |
+| 1 Mirror Force UR                                |   92 |
+| 2 Bottomless Trap Hole SR                        |    - |
+| 1 Trap Dustshoot SR                              |  385 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 2 Cyber Dragon UtR                               |  258 |
+| 1 Spirit Reaper SR                               |  498 |
+| 1 Thunder King Rai Oh UtR                        |  150 |
+| 1 D.D. Crow UtR                                  |  205 |
+| 1 Neo Spacian Grand Mole UtR                     |  109 |
+| 2 Doomcaliber Knight UR                          |   39 |
+| 2 Mystical Space Typhoon UR                      |   84 |
+| 1 Smashing Ground SR                             |  188 |
+| 2 Royal Decree UR                                |   23 |
+| 2 Dimensional Prison SR                          |    - |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1498 |
+| 1 Black Rose Dragon GR                           |  239 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  145 |
+| 1 Ally of Justice Catastor DT                    |  100 |
+| 1 Leviair the Sea Dragon UtR                     |   34 |
+| 1 Number 17 Leviathan Dragon GR                  |   46 |
+| 2 Number 39 Utopia UR                            |    - |
+| 1 Number C39 Utopia Ray GR                       |    3 |
+| 2 Evolzar Laggia UtR                             |   39 |
+| 2 Evolzar Dolkka ScR                             |   16 |
+| 1 Wind Up Zenmaines ScR                          |   11 |
++--------------------------------------------------+------+
+2012-dinorabbit - 2023-09-17 - max_prices_sorted.txt
+Main Deck: 10217
+Side Deck: 2798
+Extra Deck: 4040
+Total Price: 17055
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 3 Tour Guide From the Underworld UtR             |  250 |
+| 3 Rescue Rabbit ScR                              |   40 |
+| 3 Sabersaurus C                                  |    - |
+| 3 Kabazuls C                                     |    - |
+| 3 Maxx C UtR                                     |  888 |
+| 3 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  244 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Gorz the Emissary of Darkness ScR              |   16 |
+| 1 Dark Hole SR                                   |   83 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  299 |
+| 1 Mind Control SR                                |   26 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  207 |
+| 2 Solemn Warning UtR                             |  179 |
+| 1 Solemn Judgment UR                             |  499 |
+| 1 Torrential Tribute UR                          |  112 |
+| 1 Mirror Force UR                                |  199 |
+| 2 Bottomless Trap Hole SR                        |    - |
+| 1 Trap Dustshoot SR                              |  392 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 2 Cyber Dragon UtR                               |  504 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Thunder King Rai Oh UtR                        |  244 |
+| 1 D.D. Crow UtR                                  |  255 |
+| 1 Neo Spacian Grand Mole UtR                     |  129 |
+| 2 Doomcaliber Knight UR                          |   44 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  207 |
+| 2 Royal Decree UR                                |   39 |
+| 2 Dimensional Prison SR                          |    - |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  300 |
+| 1 Stardust Dragon GR                             | 2475 |
+| 1 Black Rose Dragon GR                           |  399 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Ally of Justice Catastor DT                    |  299 |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   99 |
+| 2 Number 39 Utopia UR                            |    - |
+| 1 Number C39 Utopia Ray GR                       |    8 |
+| 2 Evolzar Laggia UtR                             |   59 |
+| 2 Evolzar Dolkka ScR                             |   24 |
+| 1 Wind Up Zenmaines ScR                          |   22 |
++--------------------------------------------------+------+
+2012-dinorabbit - 2023-09-17 - mean_prices_sorted.txt
+Main Deck: 7911
+Side Deck: 2167
+Extra Deck: 2979
+Total Price: 13057
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  240 |
+| 3 Tour Guide From the Underworld UtR             |  213 |
+| 3 Rescue Rabbit ScR                              |   26 |
+| 3 Sabersaurus C                                  |    - |
+| 3 Kabazuls C                                     |    - |
+| 3 Maxx C UtR                                     |  576 |
+| 3 Effect Veiler UtR                              |  382 |
+| 2 Thunder King Rai Oh UtR                        |  176 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  498 |
+| 1 Gorz the Emissary of Darkness ScR              |   11 |
+| 1 Dark Hole SR                                   |   62 |
+| 1 Heavy Storm SR                                 |   54 |
+| 1 Monster Reborn UR                              |   17 |
+| 1 Book of Moon SR                                |  992 |
+| 1 Pot of Avarice UtR                             |  264 |
+| 1 Mind Control SR                                |   15 |
+| 2 Mystical Space Typhoon UR                      |   96 |
+| 1 Smashing Ground SR                             |  193 |
+| 2 Solemn Warning UtR                             |  114 |
+| 1 Solemn Judgment UR                             |  400 |
+| 1 Torrential Tribute UR                          |   73 |
+| 1 Mirror Force UR                                |  131 |
+| 2 Bottomless Trap Hole SR                        |    - |
+| 1 Trap Dustshoot SR                              |  388 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 2 Cyber Dragon UtR                               |  315 |
+| 1 Spirit Reaper SR                               |  498 |
+| 1 Thunder King Rai Oh UtR                        |  176 |
+| 1 D.D. Crow UtR                                  |  221 |
+| 1 Neo Spacian Grand Mole UtR                     |  113 |
+| 2 Doomcaliber Knight UR                          |   40 |
+| 2 Mystical Space Typhoon UR                      |   96 |
+| 1 Smashing Ground SR                             |  193 |
+| 2 Royal Decree UR                                |   32 |
+| 2 Dimensional Prison SR                          |    - |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  227 |
+| 1 Stardust Dragon GR                             | 1878 |
+| 1 Black Rose Dragon GR                           |  283 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  159 |
+| 1 Ally of Justice Catastor DT                    |  185 |
+| 1 Leviair the Sea Dragon UtR                     |   45 |
+| 1 Number 17 Leviathan Dragon GR                  |   58 |
+| 2 Number 39 Utopia UR                            |    - |
+| 1 Number C39 Utopia Ray GR                       |    5 |
+| 2 Evolzar Laggia UtR                             |   43 |
+| 2 Evolzar Dolkka ScR                             |   18 |
+| 1 Wind Up Zenmaines ScR                          |   17 |
++--------------------------------------------------+------+
+2012-dinorabbit - 2023-09-17 - median_prices_sorted.txt
+Main Deck: 7646
+Side Deck: 2056
+Extra Deck: 2802
+Total Price: 12504
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  216 |
+| 3 Tour Guide From the Underworld UtR             |  209 |
+| 3 Rescue Rabbit ScR                              |   24 |
+| 3 Sabersaurus C                                  |    - |
+| 3 Kabazuls C                                     |    - |
+| 3 Maxx C UtR                                     |  530 |
+| 3 Effect Veiler UtR                              |  394 |
+| 2 Thunder King Rai Oh UtR                        |  168 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Gorz the Emissary of Darkness ScR              |   11 |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   55 |
+| 1 Monster Reborn UR                              |   18 |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  254 |
+| 1 Mind Control SR                                |   15 |
+| 2 Mystical Space Typhoon UR                      |   88 |
+| 1 Smashing Ground SR                             |  191 |
+| 2 Solemn Warning UtR                             |  105 |
+| 1 Solemn Judgment UR                             |  369 |
+| 1 Torrential Tribute UR                          |   69 |
+| 1 Mirror Force UR                                |  119 |
+| 2 Bottomless Trap Hole SR                        |    - |
+| 1 Trap Dustshoot SR                              |  388 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 2 Cyber Dragon UtR                               |  277 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Thunder King Rai Oh UtR                        |  168 |
+| 1 D.D. Crow UtR                                  |  213 |
+| 1 Neo Spacian Grand Mole UtR                     |  109 |
+| 2 Doomcaliber Knight UR                          |   39 |
+| 2 Mystical Space Typhoon UR                      |   88 |
+| 1 Smashing Ground SR                             |  191 |
+| 2 Royal Decree UR                                |   34 |
+| 2 Dimensional Prison SR                          |    - |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  214 |
+| 1 Stardust Dragon GR                             | 1749 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  147 |
+| 1 Ally of Justice Catastor DT                    |  172 |
+| 1 Leviair the Sea Dragon UtR                     |   44 |
+| 1 Number 17 Leviathan Dragon GR                  |   56 |
+| 2 Number 39 Utopia UR                            |    - |
+| 1 Number C39 Utopia Ray GR                       |    4 |
+| 2 Evolzar Laggia UtR                             |   42 |
+| 2 Evolzar Dolkka ScR                             |   17 |
+| 1 Wind Up Zenmaines ScR                          |   19 |
++--------------------------------------------------+------+

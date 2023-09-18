@@ -718,3 +718,243 @@ Total Price: 12701
 | 1 Dark Balter the Terrible SR                  |   - |
 | 1 Reaper on the Nightmare SR                   |   - |
 +------------------------------------------------+-----+
+2007-machinesotk - 2023-09-17 - min_prices_sorted.txt
+Main Deck: 4622
+Side Deck: 3204
+Extra Deck: 666
+Total Price: 8492
++------------------------------------------------+-----+
+| Card                                           |   $ |
++------------------------------------------------+-----+
+| Main Deck                                      |     |
+| 3 Card Trooper UR                              |   6 |
+| 3 Cyber Dragon UtR                             | 258 |
+| 3 Cyber Phoenix UtR                            |  32 |
+| 1 Dark Magician of Chaos UR                    | 139 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR |  48 |
+| 1 Jinzo ScR                                    | 648 |
+| 1 Morphing Jar SR                              |   - |
+| 1 Sangan SR                                    | 193 |
+| 2 Snipe Hunter SR                              |  55 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Confiscation SR                              |   8 |
+| 1 Future Fusion UtR                            |  68 |
+| 1 Giant Trunade SR                             |  18 |
+| 1 Heavy Storm SR                               |  49 |
+| 1 Limiter Removal SR                           |   - |
+| 1 Machine Duplication UtR                      |  40 |
+| 1 Mystical Space Typhoon UR                    |  84 |
+| 1 Nobleman of Crossout SR                      |  25 |
+| 1 Overload Fusion UtR                          |   - |
+| 1 Pot of Avarice UtR                           | 248 |
+| 1 Premature Burial UR                          |  36 |
+| 1 Scapegoat UR                                 |   - |
+| 1 Snatch Steal UR                              |  59 |
+| 1 Call of the Haunted UR                       |  65 |
+| 1 Mind Crush SR                                | 100 |
+| 1 Mirror Force UR                              |  92 |
+| 1 Ring of Destruction ScR                      |  39 |
+| 1 Torrential Tribute UR                        |  65 |
+| 3 Trap Dustshoot SR                            | 385 |
+|                                                |     |
+| Side Deck                                      |     |
+| 2 Mystic Tomato R                              |   - |
+| 1 Spirit Reaper SR                             | 498 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Machine Duplication UtR                      |  40 |
+| 2 Sakuretsu Armor SR                           |   - |
+| 1 D.D. Crow UtR                                | 205 |
+| 3 Gravekeeper Spy SR                           | 369 |
+| 1 Book of Moon SR                              | 989 |
+| 2 Bottomless Trap Hole SR                      |   - |
+| 1 Return from the Different Dimension SR       |  16 |
+|                                                |     |
+| Extra Deck                                     |     |
+| 3 Cyber Twin Dragon UtR                        | 222 |
+| 3 Cyber End Dragon UtR                         |   - |
+| 3 Chimeratech Fortress Dragon UR               |   - |
+| 3 Chimeratech Overdragon UtR                   |   - |
+| 1 Gatling Dragon UtR                           |   - |
+| 1 Dark Balter the Terrible SR                  |   - |
+| 1 Reaper on the Nightmare SR                   |   - |
++------------------------------------------------+-----+
+2007-machinesotk - 2023-09-17 - max_prices_sorted.txt
+Main Deck: 6355
+Side Deck: 3325
+Extra Deck: 897
+Total Price: 10577
++------------------------------------------------+-----+
+| Card                                           |   $ |
++------------------------------------------------+-----+
+| Main Deck                                      |     |
+| 3 Card Trooper UR                              |  12 |
+| 3 Cyber Dragon UtR                             | 504 |
+| 3 Cyber Phoenix UtR                            |  36 |
+| 1 Dark Magician of Chaos UR                    | 298 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR |  69 |
+| 1 Jinzo ScR                                    | 648 |
+| 1 Morphing Jar SR                              |   - |
+| 1 Sangan SR                                    | 240 |
+| 2 Snipe Hunter SR                              |  99 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Confiscation SR                              |  15 |
+| 1 Future Fusion UtR                            |  85 |
+| 1 Giant Trunade SR                             |  40 |
+| 1 Heavy Storm SR                               |  60 |
+| 1 Limiter Removal SR                           |   - |
+| 1 Machine Duplication UtR                      |  99 |
+| 1 Mystical Space Typhoon UR                    | 145 |
+| 1 Nobleman of Crossout SR                      |  47 |
+| 1 Overload Fusion UtR                          |   - |
+| 1 Pot of Avarice UtR                           | 299 |
+| 1 Premature Burial UR                          |  56 |
+| 1 Scapegoat UR                                 |   - |
+| 1 Snatch Steal UR                              |  98 |
+| 1 Call of the Haunted UR                       | 109 |
+| 1 Mind Crush SR                                | 119 |
+| 1 Mirror Force UR                              | 199 |
+| 1 Ring of Destruction ScR                      | 100 |
+| 1 Torrential Tribute UR                        | 112 |
+| 3 Trap Dustshoot SR                            | 392 |
+|                                                |     |
+| Side Deck                                      |     |
+| 2 Mystic Tomato R                              |   - |
+| 1 Spirit Reaper SR                             | 499 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Machine Duplication UtR                      |  99 |
+| 2 Sakuretsu Armor SR                           |   - |
+| 1 D.D. Crow UtR                                | 255 |
+| 3 Gravekeeper Spy SR                           | 369 |
+| 1 Book of Moon SR                              | 994 |
+| 2 Bottomless Trap Hole SR                      |   - |
+| 1 Return from the Different Dimension SR       |  22 |
+|                                                |     |
+| Extra Deck                                     |     |
+| 3 Cyber Twin Dragon UtR                        | 299 |
+| 3 Cyber End Dragon UtR                         |   - |
+| 3 Chimeratech Fortress Dragon UR               |   - |
+| 3 Chimeratech Overdragon UtR                   |   - |
+| 1 Gatling Dragon UtR                           |   - |
+| 1 Dark Balter the Terrible SR                  |   - |
+| 1 Reaper on the Nightmare SR                   |   - |
++------------------------------------------------+-----+
+2007-machinesotk - 2023-09-17 - mean_prices_sorted.txt
+Main Deck: 5086
+Side Deck: 3248
+Extra Deck: 726
+Total Price: 9060
++------------------------------------------------+-----+
+| Card                                           |   $ |
++------------------------------------------------+-----+
+| Main Deck                                      |     |
+| 3 Card Trooper UR                              |   8 |
+| 3 Cyber Dragon UtR                             | 315 |
+| 3 Cyber Phoenix UtR                            |  33 |
+| 1 Dark Magician of Chaos UR                    | 176 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR |  54 |
+| 1 Jinzo ScR                                    | 648 |
+| 1 Morphing Jar SR                              |   - |
+| 1 Sangan SR                                    | 210 |
+| 2 Snipe Hunter SR                              |  70 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Confiscation SR                              |  11 |
+| 1 Future Fusion UtR                            |  70 |
+| 1 Giant Trunade SR                             |  25 |
+| 1 Heavy Storm SR                               |  54 |
+| 1 Limiter Removal SR                           |   - |
+| 1 Machine Duplication UtR                      |  61 |
+| 1 Mystical Space Typhoon UR                    |  96 |
+| 1 Nobleman of Crossout SR                      |  29 |
+| 1 Overload Fusion UtR                          |   - |
+| 1 Pot of Avarice UtR                           | 264 |
+| 1 Premature Burial UR                          |  43 |
+| 1 Scapegoat UR                                 |   - |
+| 1 Snatch Steal UR                              |  65 |
+| 1 Call of the Haunted UR                       |  78 |
+| 1 Mind Crush SR                                | 103 |
+| 1 Mirror Force UR                              | 131 |
+| 1 Ring of Destruction ScR                      |  66 |
+| 1 Torrential Tribute UR                        |  73 |
+| 3 Trap Dustshoot SR                            | 388 |
+|                                                |     |
+| Side Deck                                      |     |
+| 2 Mystic Tomato R                              |   - |
+| 1 Spirit Reaper SR                             | 498 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Machine Duplication UtR                      |  61 |
+| 2 Sakuretsu Armor SR                           |   - |
+| 1 D.D. Crow UtR                                | 221 |
+| 3 Gravekeeper Spy SR                           | 369 |
+| 1 Book of Moon SR                              | 992 |
+| 2 Bottomless Trap Hole SR                      |   - |
+| 1 Return from the Different Dimension SR       |  20 |
+|                                                |     |
+| Extra Deck                                     |     |
+| 3 Cyber Twin Dragon UtR                        | 242 |
+| 3 Cyber End Dragon UtR                         |   - |
+| 3 Chimeratech Fortress Dragon UR               |   - |
+| 3 Chimeratech Overdragon UtR                   |   - |
+| 1 Gatling Dragon UtR                           |   - |
+| 1 Dark Balter the Terrible SR                  |   - |
+| 1 Reaper on the Nightmare SR                   |   - |
++------------------------------------------------+-----+
+2007-machinesotk - 2023-09-17 - median_prices_sorted.txt
+Main Deck: 4869
+Side Deck: 3240
+Extra Deck: 672
+Total Price: 8781
++------------------------------------------------+-----+
+| Card                                           |   $ |
++------------------------------------------------+-----+
+| Main Deck                                      |     |
+| 3 Card Trooper UR                              |   9 |
+| 3 Cyber Dragon UtR                             | 277 |
+| 3 Cyber Phoenix UtR                            |  32 |
+| 1 Dark Magician of Chaos UR                    | 172 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR |  50 |
+| 1 Jinzo ScR                                    | 648 |
+| 1 Morphing Jar SR                              |   - |
+| 1 Sangan SR                                    | 199 |
+| 2 Snipe Hunter SR                              |  64 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Confiscation SR                              |   9 |
+| 1 Future Fusion UtR                            |  68 |
+| 1 Giant Trunade SR                             |  24 |
+| 1 Heavy Storm SR                               |  55 |
+| 1 Limiter Removal SR                           |   - |
+| 1 Machine Duplication UtR                      |  57 |
+| 1 Mystical Space Typhoon UR                    |  88 |
+| 1 Nobleman of Crossout SR                      |  27 |
+| 1 Overload Fusion UtR                          |   - |
+| 1 Pot of Avarice UtR                           | 254 |
+| 1 Premature Burial UR                          |  42 |
+| 1 Scapegoat UR                                 |   - |
+| 1 Snatch Steal UR                              |  59 |
+| 1 Call of the Haunted UR                       |  69 |
+| 1 Mind Crush SR                                | 101 |
+| 1 Mirror Force UR                              | 119 |
+| 1 Ring of Destruction ScR                      |  64 |
+| 1 Torrential Tribute UR                        |  69 |
+| 3 Trap Dustshoot SR                            | 388 |
+|                                                |     |
+| Side Deck                                      |     |
+| 2 Mystic Tomato R                              |   - |
+| 1 Spirit Reaper SR                             | 499 |
+| 1 Brain Control UtR                            | 349 |
+| 1 Machine Duplication UtR                      |  57 |
+| 2 Sakuretsu Armor SR                           |   - |
+| 1 D.D. Crow UtR                                | 213 |
+| 3 Gravekeeper Spy SR                           | 369 |
+| 1 Book of Moon SR                              | 994 |
+| 2 Bottomless Trap Hole SR                      |   - |
+| 1 Return from the Different Dimension SR       |  21 |
+|                                                |     |
+| Extra Deck                                     |     |
+| 3 Cyber Twin Dragon UtR                        | 224 |
+| 3 Cyber End Dragon UtR                         |   - |
+| 3 Chimeratech Fortress Dragon UR               |   - |
+| 3 Chimeratech Overdragon UtR                   |   - |
+| 1 Gatling Dragon UtR                           |   - |
+| 1 Dark Balter the Terrible SR                  |   - |
+| 1 Reaper on the Nightmare SR                   |   - |
++------------------------------------------------+-----+

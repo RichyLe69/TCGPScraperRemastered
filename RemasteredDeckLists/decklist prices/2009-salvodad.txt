@@ -658,3 +658,223 @@ Total Price: 9445
 | 1 Red Dragon Archfiend UtR                     |  297 |
 | 2 Stardust Dragon GR                           | 1699 |
 +------------------------------------------------+------+
+2009-salvodad - 2023-09-17 - min_prices_sorted.txt
+Main Deck: 3284
+Side Deck: 0
+Extra Deck: 4057
+Total Price: 7341
++------------------------------------------------+------+
+| Card                                           |    $ |
++------------------------------------------------+------+
+| Main Deck                                      |      |
+| 3 Cyber Valley SR                              |   15 |
+| 2 Black Salvo SR                               |    3 |
+| 2 Dekoichi the Battle Enchanted Locomotive UtR |   48 |
+| 1 Elemental Hero Stratos UR                    |    - |
+| 1 Destiny Hero Plasma ScR                      |   12 |
+| 2 Destiny Hero Malicious UR                    |   42 |
+| 1 Mystic Tomato R                              |    - |
+| 1 Sangan SR                                    |  193 |
+| 1 Plaguespreader Zombie UtR                    |  405 |
+| 1 Dark Grepher ScR                             |  140 |
+| 1 Gorz the Emissary of Darkness ScR            |    7 |
+| 1 Dark Armed Dragon UtR                        |  333 |
+| 2 Mind Control SR                              |   12 |
+| 2 Gold Sarcophagus GUR                         |   12 |
+| 2 Destiny Draw UR                              |    6 |
+| 2 Allure of Darkness UtR                       |  233 |
+| 1 Monster Reborn UR                            |   10 |
+| 1 Brain Control UtR                            |  349 |
+| 1 Heavy Storm SR                               |   49 |
+| 1 Mystical Space Typhoon UR                    |   84 |
+| 1 Reinforcement of the Army SR                 |   10 |
+| 1 Scapegoat UR                                 |    - |
+| 1 Machine Duplication UtR                      |   40 |
+| 2 Threatening Roar C                           |  114 |
+| 2 Bottomless Trap Hole SR                      |    - |
+| 1 Torrential Tribute UR                        |   65 |
+| 1 Mirror Force UR                              |   92 |
+| 1 Return from the Different Dimension SR       |   16 |
+| 1 Crush Card Virus GUR                         |  109 |
+| 1 Trap Dustshoot SR                            |  385 |
+|                                                |      |
+| Side Deck                                      |      |
+| 1 None                                         |    - |
+|                                                |      |
+| Extra Deck                                     |      |
+| 1 Arcanite Magician SR                         |    7 |
+| 2 Black Rose Dragon GR                         |  239 |
+| 1 Blackwing Armor Master UtR                   |    - |
+| 3 Colossal Fighter UtR                         |  116 |
+| 1 Dark End Dragon UR                           |    8 |
+| 2 Dark Strike Fighter SR                       |    3 |
+| 1 Goyo Guardian UtR                            |  185 |
+| 1 Magical Android SR                           |   29 |
+| 1 Red Dragon Archfiend UtR                     |    - |
+| 2 Stardust Dragon GR                           | 1498 |
++------------------------------------------------+------+
+2009-salvodad - 2023-09-17 - max_prices_sorted.txt
+Main Deck: 4638
+Side Deck: 0
+Extra Deck: 6378
+Total Price: 11016
++------------------------------------------------+------+
+| Card                                           |    $ |
++------------------------------------------------+------+
+| Main Deck                                      |      |
+| 3 Cyber Valley SR                              |   21 |
+| 2 Black Salvo SR                               |    5 |
+| 2 Dekoichi the Battle Enchanted Locomotive UtR |   69 |
+| 1 Elemental Hero Stratos UR                    |    - |
+| 1 Destiny Hero Plasma ScR                      |   29 |
+| 2 Destiny Hero Malicious UR                    |   52 |
+| 1 Mystic Tomato R                              |    - |
+| 1 Sangan SR                                    |  240 |
+| 1 Plaguespreader Zombie UtR                    |  675 |
+| 1 Dark Grepher ScR                             |  171 |
+| 1 Gorz the Emissary of Darkness ScR            |   16 |
+| 1 Dark Armed Dragon UtR                        |  550 |
+| 2 Mind Control SR                              |   26 |
+| 2 Gold Sarcophagus GUR                         |   16 |
+| 2 Destiny Draw UR                              |   11 |
+| 2 Allure of Darkness UtR                       |  299 |
+| 1 Monster Reborn UR                            |   29 |
+| 1 Brain Control UtR                            |  349 |
+| 1 Heavy Storm SR                               |   60 |
+| 1 Mystical Space Typhoon UR                    |  145 |
+| 1 Reinforcement of the Army SR                 |   24 |
+| 1 Scapegoat UR                                 |    - |
+| 1 Machine Duplication UtR                      |   99 |
+| 2 Threatening Roar C                           |  129 |
+| 2 Bottomless Trap Hole SR                      |    - |
+| 1 Torrential Tribute UR                        |  112 |
+| 1 Mirror Force UR                              |  199 |
+| 1 Return from the Different Dimension SR       |   22 |
+| 1 Crush Card Virus GUR                         |  249 |
+| 1 Trap Dustshoot SR                            |  392 |
+|                                                |      |
+| Side Deck                                      |      |
+| 1 None                                         |    - |
+|                                                |      |
+| Extra Deck                                     |      |
+| 1 Arcanite Magician SR                         |   10 |
+| 2 Black Rose Dragon GR                         |  399 |
+| 1 Blackwing Armor Master UtR                   |    - |
+| 3 Colossal Fighter UtR                         |  119 |
+| 1 Dark End Dragon UR                           |   14 |
+| 2 Dark Strike Fighter SR                       |    7 |
+| 1 Goyo Guardian UtR                            |  205 |
+| 1 Magical Android SR                           |   30 |
+| 1 Red Dragon Archfiend UtR                     |    - |
+| 2 Stardust Dragon GR                           | 2475 |
++------------------------------------------------+------+
+2009-salvodad - 2023-09-17 - mean_prices_sorted.txt
+Main Deck: 3679
+Side Deck: 0
+Extra Deck: 4916
+Total Price: 8595
++------------------------------------------------+------+
+| Card                                           |    $ |
++------------------------------------------------+------+
+| Main Deck                                      |      |
+| 3 Cyber Valley SR                              |   17 |
+| 2 Black Salvo SR                               |    3 |
+| 2 Dekoichi the Battle Enchanted Locomotive UtR |   54 |
+| 1 Elemental Hero Stratos UR                    |    - |
+| 1 Destiny Hero Plasma ScR                      |   17 |
+| 2 Destiny Hero Malicious UR                    |   43 |
+| 1 Mystic Tomato R                              |    - |
+| 1 Sangan SR                                    |  210 |
+| 1 Plaguespreader Zombie UtR                    |  468 |
+| 1 Dark Grepher ScR                             |  147 |
+| 1 Gorz the Emissary of Darkness ScR            |   11 |
+| 1 Dark Armed Dragon UtR                        |  396 |
+| 2 Mind Control SR                              |   15 |
+| 2 Gold Sarcophagus GUR                         |   14 |
+| 2 Destiny Draw UR                              |    8 |
+| 2 Allure of Darkness UtR                       |  253 |
+| 1 Monster Reborn UR                            |   17 |
+| 1 Brain Control UtR                            |  349 |
+| 1 Heavy Storm SR                               |   54 |
+| 1 Mystical Space Typhoon UR                    |   96 |
+| 1 Reinforcement of the Army SR                 |   16 |
+| 1 Scapegoat UR                                 |    - |
+| 1 Machine Duplication UtR                      |   61 |
+| 2 Threatening Roar C                           |  120 |
+| 2 Bottomless Trap Hole SR                      |    - |
+| 1 Torrential Tribute UR                        |   73 |
+| 1 Mirror Force UR                              |  131 |
+| 1 Return from the Different Dimension SR       |   20 |
+| 1 Crush Card Virus GUR                         |  154 |
+| 1 Trap Dustshoot SR                            |  388 |
+|                                                |      |
+| Side Deck                                      |      |
+| 1 None                                         |    - |
+|                                                |      |
+| Extra Deck                                     |      |
+| 1 Arcanite Magician SR                         |    8 |
+| 2 Black Rose Dragon GR                         |  283 |
+| 1 Blackwing Armor Master UtR                   |    - |
+| 3 Colossal Fighter UtR                         |  116 |
+| 1 Dark End Dragon UR                           |    9 |
+| 2 Dark Strike Fighter SR                       |    4 |
+| 1 Goyo Guardian UtR                            |  192 |
+| 1 Magical Android SR                           |   29 |
+| 1 Red Dragon Archfiend UtR                     |    - |
+| 2 Stardust Dragon GR                           | 1878 |
++------------------------------------------------+------+
+2009-salvodad - 2023-09-17 - median_prices_sorted.txt
+Main Deck: 3486
+Side Deck: 0
+Extra Deck: 4651
+Total Price: 8137
++------------------------------------------------+------+
+| Card                                           |    $ |
++------------------------------------------------+------+
+| Main Deck                                      |      |
+| 3 Cyber Valley SR                              |   17 |
+| 2 Black Salvo SR                               |    3 |
+| 2 Dekoichi the Battle Enchanted Locomotive UtR |   50 |
+| 1 Elemental Hero Stratos UR                    |    - |
+| 1 Destiny Hero Plasma ScR                      |   16 |
+| 2 Destiny Hero Malicious UR                    |   42 |
+| 1 Mystic Tomato R                              |    - |
+| 1 Sangan SR                                    |  199 |
+| 1 Plaguespreader Zombie UtR                    |  413 |
+| 1 Dark Grepher ScR                             |  140 |
+| 1 Gorz the Emissary of Darkness ScR            |   11 |
+| 1 Dark Armed Dragon UtR                        |  363 |
+| 2 Mind Control SR                              |   15 |
+| 2 Gold Sarcophagus GUR                         |   14 |
+| 2 Destiny Draw UR                              |    9 |
+| 2 Allure of Darkness UtR                       |  234 |
+| 1 Monster Reborn UR                            |   18 |
+| 1 Brain Control UtR                            |  349 |
+| 1 Heavy Storm SR                               |   55 |
+| 1 Mystical Space Typhoon UR                    |   88 |
+| 1 Reinforcement of the Army SR                 |   15 |
+| 1 Scapegoat UR                                 |    - |
+| 1 Machine Duplication UtR                      |   57 |
+| 2 Threatening Roar C                           |  119 |
+| 2 Bottomless Trap Hole SR                      |    - |
+| 1 Torrential Tribute UR                        |   69 |
+| 1 Mirror Force UR                              |  119 |
+| 1 Return from the Different Dimension SR       |   21 |
+| 1 Crush Card Virus GUR                         |  142 |
+| 1 Trap Dustshoot SR                            |  388 |
+|                                                |      |
+| Side Deck                                      |      |
+| 1 None                                         |    - |
+|                                                |      |
+| Extra Deck                                     |      |
+| 1 Arcanite Magician SR                         |    8 |
+| 2 Black Rose Dragon GR                         |  279 |
+| 1 Blackwing Armor Master UtR                   |    - |
+| 3 Colossal Fighter UtR                         |  116 |
+| 1 Dark End Dragon UR                           |    9 |
+| 2 Dark Strike Fighter SR                       |    4 |
+| 1 Goyo Guardian UtR                            |  193 |
+| 1 Magical Android SR                           |   29 |
+| 1 Red Dragon Archfiend UtR                     |    - |
+| 2 Stardust Dragon GR                           | 1749 |
++------------------------------------------------+------+

@@ -84,3 +84,5 @@ if __name__ == '__main__':
     scraper.get_average_of_list()
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\main.py
+
+# PS: Recommended to run python, to update deck list total pricing data: .\decklist_gallery.py

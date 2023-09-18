@@ -598,3 +598,203 @@ Total Price: 7922
 | Extra Deck                       |     |
 | 1 None                           |   - |
 +----------------------------------+-----+
+2008-lightswornlodt - 2023-09-17 - min_prices_sorted.txt
+Main Deck: 4981
+Side Deck: 1707
+Extra Deck: 0
+Total Price: 6688
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 2 Judgment Dragon UtR            | 398 |
+| 3 Lumina Lightsworn Summoner SR  | 297 |
+| 2 Lyla Lightsworn Sorceress UtR  |  94 |
+| 3 Celestia Lightsworn Angel UtR  |  64 |
+| 2 Wulf Lightsworn Beast SR       |   6 |
+| 2 Garoth Lightsworn Warrior SR   |  36 |
+| 1 Jain Lightsworn Paladin C      |   - |
+| 1 Ehren Lightsworn Monk ScR      | 100 |
+| 1 Aurkus Lightsworn Druid SR     |   3 |
+| 1 Ryko Lightsworn Hunter SR      |  35 |
+| 3 Honest GR                      | 390 |
+| 3 Necro Gardna UtR               |  34 |
+| 1 Sangan SR                      | 193 |
+| 1 Phantom of Chaos SR            |   1 |
+| 3 Solar Recharge UtR             |  94 |
+| 1 Heavy Storm SR                 |  49 |
+| 1 Monster Reincarnation UtR      |  58 |
+| 1 Monster Reborn UR              |  10 |
+| 1 Gold Sarcophagus GUR           |  12 |
+| 2 Foolish Burial SR              | 201 |
+| 2 Beckoning Light SR             |  38 |
+| 1 Crush Card Virus GUR           | 109 |
+| 2 Threatening Roar C             | 114 |
+|                                  |     |
+| Side Deck                        |     |
+| 1 Breaker the Magical Warrior SR | 349 |
+| 1 Monster Reincarnation UtR      |  58 |
+| 1 Mystical Space Typhoon UR      |  84 |
+| 1 Brain Control UtR              | 349 |
+| 1 Giant Trunade SR               |  18 |
+| 2 Cold Wave C                    |   1 |
+| 1 Lightning Vortex UtR           | 284 |
+| 1 Dust Tornado SR                |   - |
+| 1 Torrential Tribute UR          |  65 |
+| 2 Phoenix Wing Wind Blast UtR    | 226 |
+| 2 Bottomless Trap Hole SR        |   - |
+| 2 Royal Decree UR                |  23 |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-lightswornlodt - 2023-09-17 - max_prices_sorted.txt
+Main Deck: 6664
+Side Deck: 2161
+Extra Deck: 0
+Total Price: 8825
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 2 Judgment Dragon UtR            | 650 |
+| 3 Lumina Lightsworn Summoner SR  | 339 |
+| 2 Lyla Lightsworn Sorceress UtR  | 149 |
+| 3 Celestia Lightsworn Angel UtR  | 120 |
+| 2 Wulf Lightsworn Beast SR       |   8 |
+| 2 Garoth Lightsworn Warrior SR   |  37 |
+| 1 Jain Lightsworn Paladin C      |   - |
+| 1 Ehren Lightsworn Monk ScR      | 100 |
+| 1 Aurkus Lightsworn Druid SR     |   6 |
+| 1 Ryko Lightsworn Hunter SR      |  35 |
+| 3 Honest GR                      | 419 |
+| 3 Necro Gardna UtR               |  59 |
+| 1 Sangan SR                      | 240 |
+| 1 Phantom of Chaos SR            |   1 |
+| 3 Solar Recharge UtR             | 125 |
+| 1 Heavy Storm SR                 |  60 |
+| 1 Monster Reincarnation UtR      |  98 |
+| 1 Monster Reborn UR              |  29 |
+| 1 Gold Sarcophagus GUR           |  16 |
+| 2 Foolish Burial SR              | 299 |
+| 2 Beckoning Light SR             |  50 |
+| 1 Crush Card Virus GUR           | 249 |
+| 2 Threatening Roar C             | 129 |
+|                                  |     |
+| Side Deck                        |     |
+| 1 Breaker the Magical Warrior SR | 489 |
+| 1 Monster Reincarnation UtR      |  98 |
+| 1 Mystical Space Typhoon UR      | 145 |
+| 1 Brain Control UtR              | 349 |
+| 1 Giant Trunade SR               |  40 |
+| 2 Cold Wave C                    |   1 |
+| 1 Lightning Vortex UtR           | 300 |
+| 1 Dust Tornado SR                |   - |
+| 1 Torrential Tribute UR          | 112 |
+| 2 Phoenix Wing Wind Blast UtR    | 274 |
+| 2 Bottomless Trap Hole SR        |   - |
+| 2 Royal Decree UR                |  39 |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-lightswornlodt - 2023-09-17 - mean_prices_sorted.txt
+Main Deck: 5549
+Side Deck: 1847
+Extra Deck: 0
+Total Price: 7396
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 2 Judgment Dragon UtR            | 437 |
+| 3 Lumina Lightsworn Summoner SR  | 324 |
+| 2 Lyla Lightsworn Sorceress UtR  | 107 |
+| 3 Celestia Lightsworn Angel UtR  |  85 |
+| 2 Wulf Lightsworn Beast SR       |   7 |
+| 2 Garoth Lightsworn Warrior SR   |  36 |
+| 1 Jain Lightsworn Paladin C      |   - |
+| 1 Ehren Lightsworn Monk ScR      | 100 |
+| 1 Aurkus Lightsworn Druid SR     |   4 |
+| 1 Ryko Lightsworn Hunter SR      |  35 |
+| 3 Honest GR                      | 400 |
+| 3 Necro Gardna UtR               |  40 |
+| 1 Sangan SR                      | 210 |
+| 1 Phantom of Chaos SR            |   1 |
+| 3 Solar Recharge UtR             | 102 |
+| 1 Heavy Storm SR                 |  54 |
+| 1 Monster Reincarnation UtR      |  71 |
+| 1 Monster Reborn UR              |  17 |
+| 1 Gold Sarcophagus GUR           |  14 |
+| 2 Foolish Burial SR              | 270 |
+| 2 Beckoning Light SR             |  41 |
+| 1 Crush Card Virus GUR           | 154 |
+| 2 Threatening Roar C             | 120 |
+|                                  |     |
+| Side Deck                        |     |
+| 1 Breaker the Magical Warrior SR | 399 |
+| 1 Monster Reincarnation UtR      |  71 |
+| 1 Mystical Space Typhoon UR      |  96 |
+| 1 Brain Control UtR              | 349 |
+| 1 Giant Trunade SR               |  25 |
+| 2 Cold Wave C                    |   1 |
+| 1 Lightning Vortex UtR           | 288 |
+| 1 Dust Tornado SR                |   - |
+| 1 Torrential Tribute UR          |  73 |
+| 2 Phoenix Wing Wind Blast UtR    | 240 |
+| 2 Bottomless Trap Hole SR        |   - |
+| 2 Royal Decree UR                |  32 |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
+2008-lightswornlodt - 2023-09-17 - median_prices_sorted.txt
+Main Deck: 5464
+Side Deck: 1802
+Extra Deck: 0
+Total Price: 7266
++----------------------------------+-----+
+| Card                             |   $ |
++----------------------------------+-----+
+| Main Deck                        |     |
+| 2 Judgment Dragon UtR            | 406 |
+| 3 Lumina Lightsworn Summoner SR  | 338 |
+| 2 Lyla Lightsworn Sorceress UtR  | 100 |
+| 3 Celestia Lightsworn Angel UtR  |  82 |
+| 2 Wulf Lightsworn Beast SR       |   7 |
+| 2 Garoth Lightsworn Warrior SR   |  37 |
+| 1 Jain Lightsworn Paladin C      |   - |
+| 1 Ehren Lightsworn Monk ScR      | 100 |
+| 1 Aurkus Lightsworn Druid SR     |   4 |
+| 1 Ryko Lightsworn Hunter SR      |  35 |
+| 3 Honest GR                      | 391 |
+| 3 Necro Gardna UtR               |  37 |
+| 1 Sangan SR                      | 199 |
+| 1 Phantom of Chaos SR            |   1 |
+| 3 Solar Recharge UtR             |  99 |
+| 1 Heavy Storm SR                 |  55 |
+| 1 Monster Reincarnation UtR      |  59 |
+| 1 Monster Reborn UR              |  18 |
+| 1 Gold Sarcophagus GUR           |  14 |
+| 2 Foolish Burial SR              | 290 |
+| 2 Beckoning Light SR             |  39 |
+| 1 Crush Card Virus GUR           | 142 |
+| 2 Threatening Roar C             | 119 |
+|                                  |     |
+| Side Deck                        |     |
+| 1 Breaker the Magical Warrior SR | 389 |
+| 1 Monster Reincarnation UtR      |  59 |
+| 1 Mystical Space Typhoon UR      |  88 |
+| 1 Brain Control UtR              | 349 |
+| 1 Giant Trunade SR               |  24 |
+| 2 Cold Wave C                    |   1 |
+| 1 Lightning Vortex UtR           | 286 |
+| 1 Dust Tornado SR                |   - |
+| 1 Torrential Tribute UR          |  69 |
+| 2 Phoenix Wing Wind Blast UtR    | 234 |
+| 2 Bottomless Trap Hole SR        |   - |
+| 2 Royal Decree UR                |  34 |
+|                                  |     |
+| Extra Deck                       |     |
+| 1 None                           |   - |
++----------------------------------+-----+
