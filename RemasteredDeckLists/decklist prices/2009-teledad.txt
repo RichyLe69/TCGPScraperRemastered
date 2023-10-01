@@ -942,3 +942,239 @@ Total Price: 15998
 | 3 Stardust Dragon GR                | 1749 |
 | 3 Thought Ruler Archfiend UtR       |  199 |
 +-------------------------------------+------+
+2009-teledad - 2023-10-01 - min_prices_sorted.txt
+Main Deck: 6238
+Side Deck: 2341
+Extra Deck: 5987
+Total Price: 14566
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Dark Armed Dragon UtR             |  333 |
+| 1 Caius the Shadow Monarch UtR      |  499 |
+| 1 Dark Grepher ScR                  |  171 |
+| 2 Destiny Hero Diamond Dude UtR     |   37 |
+| 3 Destiny Hero Malicious UR         |   38 |
+| 1 Elemental Hero Stratos UR         |    - |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 2 Krebons SR                        |   62 |
+| 1 Mystic Tomato R                   |    - |
+| 1 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 1 Sangan SR                         |  193 |
+| 1 D.D. Crow UtR                     |  200 |
+| 3 Allure of Darkness UtR            |  233 |
+| 3 Destiny Draw UR                   |    6 |
+| 1 Emergency Teleport UtR            |  119 |
+| 1 Brain Control UtR                 |  349 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 2 Reinforcement of the Army SR      |   10 |
+| 3 Solemn Judgment UR                |  367 |
+| 2 Royal Oppression R                |   14 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 1 Crush Card Virus GUR              |  108 |
+| 1 Trap Dustshoot SR                 |  392 |
+|                                     |      |
+| Side Deck                           |      |
+| 2 Cyber Dragon UtR                  |  258 |
+| 2 Gravekeeper Spy SR                |  359 |
+| 1 Caius the Shadow Monarch UtR      |  499 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 1 Snipe Hunter SR                   |   55 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Lightning Vortex UtR              |  284 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 1 Mirror Force UR                   |   88 |
+| 1 Torrential Tribute UR             |   52 |
+| 1 Mind Crush SR                     |   99 |
+| 1 Dimensional Prison SR             |    - |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2009-teledad - 2023-10-01 - max_prices_sorted.txt
+Main Deck: 8892
+Side Deck: 3211
+Extra Deck: 8967
+Total Price: 21070
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Dark Armed Dragon UtR             |  550 |
+| 1 Caius the Shadow Monarch UtR      | 1000 |
+| 1 Dark Grepher ScR                  |  171 |
+| 2 Destiny Hero Diamond Dude UtR     |   59 |
+| 3 Destiny Hero Malicious UR         |   49 |
+| 1 Elemental Hero Stratos UR         |    - |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 2 Krebons SR                        |   99 |
+| 1 Mystic Tomato R                   |    - |
+| 1 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 1 Sangan SR                         |  240 |
+| 1 D.D. Crow UtR                     |  255 |
+| 3 Allure of Darkness UtR            |  299 |
+| 3 Destiny Draw UR                   |   12 |
+| 1 Emergency Teleport UtR            |  249 |
+| 1 Brain Control UtR                 |  349 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 2 Reinforcement of the Army SR      |   24 |
+| 3 Solemn Judgment UR                |  499 |
+| 2 Royal Oppression R                |   17 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 1 Crush Card Virus GUR              |  161 |
+| 1 Trap Dustshoot SR                 |  392 |
+|                                     |      |
+| Side Deck                           |      |
+| 2 Cyber Dragon UtR                  |  315 |
+| 2 Gravekeeper Spy SR                |  369 |
+| 1 Caius the Shadow Monarch UtR      | 1000 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 1 Snipe Hunter SR                   |   99 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Lightning Vortex UtR              |  300 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 1 Mirror Force UR                   |  162 |
+| 1 Torrential Tribute UR             |  112 |
+| 1 Mind Crush SR                     |  119 |
+| 1 Dimensional Prison SR             |    - |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2009-teledad - 2023-10-01 - mean_prices_sorted.txt
+Main Deck: 7101
+Side Deck: 2699
+Extra Deck: 7170
+Total Price: 16970
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Dark Armed Dragon UtR             |  390 |
+| 1 Caius the Shadow Monarch UtR      |  750 |
+| 1 Dark Grepher ScR                  |  171 |
+| 2 Destiny Hero Diamond Dude UtR     |   43 |
+| 3 Destiny Hero Malicious UR         |   41 |
+| 1 Elemental Hero Stratos UR         |    - |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 2 Krebons SR                        |   72 |
+| 1 Mystic Tomato R                   |    - |
+| 1 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 1 Sangan SR                         |  210 |
+| 1 D.D. Crow UtR                     |  217 |
+| 3 Allure of Darkness UtR            |  253 |
+| 3 Destiny Draw UR                   |    8 |
+| 1 Emergency Teleport UtR            |  164 |
+| 1 Brain Control UtR                 |  349 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 2 Reinforcement of the Army SR      |   16 |
+| 3 Solemn Judgment UR                |  400 |
+| 2 Royal Oppression R                |   15 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 1 Crush Card Virus GUR              |  125 |
+| 1 Trap Dustshoot SR                 |  392 |
+|                                     |      |
+| Side Deck                           |      |
+| 2 Cyber Dragon UtR                  |  274 |
+| 2 Gravekeeper Spy SR                |  365 |
+| 1 Caius the Shadow Monarch UtR      |  750 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 1 Snipe Hunter SR                   |   70 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Lightning Vortex UtR              |  288 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 1 Mirror Force UR                   |  107 |
+| 1 Torrential Tribute UR             |   68 |
+| 1 Mind Crush SR                     |  104 |
+| 1 Dimensional Prison SR             |    - |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2009-teledad - 2023-10-01 - median_prices_sorted.txt
+Main Deck: 6749
+Side Deck: 2645
+Extra Deck: 6938
+Total Price: 16332
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Dark Armed Dragon UtR             |  363 |
+| 1 Caius the Shadow Monarch UtR      |  751 |
+| 1 Dark Grepher ScR                  |  171 |
+| 2 Destiny Hero Diamond Dude UtR     |   40 |
+| 3 Destiny Hero Malicious UR         |   42 |
+| 1 Elemental Hero Stratos UR         |    - |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 2 Krebons SR                        |   65 |
+| 1 Mystic Tomato R                   |    - |
+| 1 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 1 Sangan SR                         |  199 |
+| 1 D.D. Crow UtR                     |  213 |
+| 3 Allure of Darkness UtR            |  234 |
+| 3 Destiny Draw UR                   |    9 |
+| 1 Emergency Teleport UtR            |  156 |
+| 1 Brain Control UtR                 |  349 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 2 Reinforcement of the Army SR      |   14 |
+| 3 Solemn Judgment UR                |  368 |
+| 2 Royal Oppression R                |   15 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 1 Crush Card Virus GUR              |  117 |
+| 1 Trap Dustshoot SR                 |  392 |
+|                                     |      |
+| Side Deck                           |      |
+| 2 Cyber Dragon UtR                  |  259 |
+| 2 Gravekeeper Spy SR                |  369 |
+| 1 Caius the Shadow Monarch UtR      |  751 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 1 Snipe Hunter SR                   |   64 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Lightning Vortex UtR              |  286 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 1 Mirror Force UR                   |   88 |
+| 1 Torrential Tribute UR             |   67 |
+| 1 Mind Crush SR                     |  101 |
+| 1 Dimensional Prison SR             |    - |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
