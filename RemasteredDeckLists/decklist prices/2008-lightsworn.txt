@@ -1118,3 +1118,1123 @@ Total Price: 14335
 | 3 Stardust Dragon GR                | 1724 |
 | 3 Thought Ruler Archfiend UtR       |  199 |
 +-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - min_prices_sorted.txt
+Main Deck: 5703
+Side Deck: 1300
+Extra Deck: 5987
+Total Price: 12990
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  400 |
+| 3 Lumina Lightsworn Summoner SR     |  297 |
+| 2 Lyla Lightsworn Sorceress UtR     |   94 |
+| 3 Celestia Lightsworn Angel UtR     |   64 |
+| 2 Wulf Lightsworn Beast SR          |    6 |
+| 1 Garoth Lightsworn Warrior SR      |   34 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    3 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  390 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 3 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 3 Charge of the Light Brigade ScR   |  190 |
+| 3 Solar Recharge UtR                |   93 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Monster Reincarnation UtR         |   45 |
+| 1 Gold Sarcophagus GUR              |   12 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   37 |
+| 1 Crush Card Virus GUR              |  108 |
+| 2 Threatening Roar C                |  114 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  284 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   52 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   32 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - max_prices_sorted.txt
+Main Deck: 7607
+Side Deck: 1714
+Extra Deck: 8967
+Total Price: 18288
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  650 |
+| 3 Lumina Lightsworn Summoner SR     |  339 |
+| 2 Lyla Lightsworn Sorceress UtR     |  114 |
+| 3 Celestia Lightsworn Angel UtR     |  120 |
+| 2 Wulf Lightsworn Beast SR          |    8 |
+| 1 Garoth Lightsworn Warrior SR      |   37 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    6 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  419 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 3 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 3 Charge of the Light Brigade ScR   |  299 |
+| 3 Solar Recharge UtR                |  125 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Monster Reincarnation UtR         |   98 |
+| 1 Gold Sarcophagus GUR              |   16 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   50 |
+| 1 Crush Card Virus GUR              |  161 |
+| 2 Threatening Roar C                |  129 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  300 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |  112 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   39 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - mean_prices_sorted.txt
+Main Deck: 6267
+Side Deck: 1419
+Extra Deck: 7170
+Total Price: 14856
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  446 |
+| 3 Lumina Lightsworn Summoner SR     |  324 |
+| 2 Lyla Lightsworn Sorceress UtR     |  100 |
+| 3 Celestia Lightsworn Angel UtR     |   85 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    4 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  400 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 3 Charge of the Light Brigade ScR   |  223 |
+| 3 Solar Recharge UtR                |  101 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Monster Reincarnation UtR         |   64 |
+| 1 Gold Sarcophagus GUR              |   13 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   40 |
+| 1 Crush Card Virus GUR              |  125 |
+| 2 Threatening Roar C                |  119 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  288 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   68 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   35 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - median_prices_sorted.txt
+Main Deck: 6005
+Side Deck: 1392
+Extra Deck: 6938
+Total Price: 14335
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  415 |
+| 3 Lumina Lightsworn Summoner SR     |  338 |
+| 2 Lyla Lightsworn Sorceress UtR     |   97 |
+| 3 Celestia Lightsworn Angel UtR     |   82 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    5 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  391 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 3 Charge of the Light Brigade ScR   |  195 |
+| 3 Solar Recharge UtR                |   98 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Monster Reincarnation UtR         |   56 |
+| 1 Gold Sarcophagus GUR              |   14 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   39 |
+| 1 Crush Card Virus GUR              |  117 |
+| 2 Threatening Roar C                |  115 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  286 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   67 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   34 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - min_prices_sorted.txt
+Main Deck: 5703
+Side Deck: 1300
+Extra Deck: 5987
+Total Price: 12990
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  400 |
+| 3 Lumina Lightsworn Summoner SR     |  297 |
+| 2 Lyla Lightsworn Sorceress UtR     |   94 |
+| 3 Celestia Lightsworn Angel UtR     |   64 |
+| 2 Wulf Lightsworn Beast SR          |    6 |
+| 1 Garoth Lightsworn Warrior SR      |   34 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    3 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  390 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 3 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 3 Charge of the Light Brigade ScR   |  190 |
+| 3 Solar Recharge UtR                |   93 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Monster Reincarnation UtR         |   45 |
+| 1 Gold Sarcophagus GUR              |   12 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   37 |
+| 1 Crush Card Virus GUR              |  108 |
+| 2 Threatening Roar C                |  114 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  284 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   52 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   32 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - max_prices_sorted.txt
+Main Deck: 7607
+Side Deck: 1714
+Extra Deck: 8967
+Total Price: 18288
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  650 |
+| 3 Lumina Lightsworn Summoner SR     |  339 |
+| 2 Lyla Lightsworn Sorceress UtR     |  114 |
+| 3 Celestia Lightsworn Angel UtR     |  120 |
+| 2 Wulf Lightsworn Beast SR          |    8 |
+| 1 Garoth Lightsworn Warrior SR      |   37 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    6 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  419 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 3 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 3 Charge of the Light Brigade ScR   |  299 |
+| 3 Solar Recharge UtR                |  125 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Monster Reincarnation UtR         |   98 |
+| 1 Gold Sarcophagus GUR              |   16 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   50 |
+| 1 Crush Card Virus GUR              |  161 |
+| 2 Threatening Roar C                |  129 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  300 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |  112 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   39 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - mean_prices_sorted.txt
+Main Deck: 6267
+Side Deck: 1419
+Extra Deck: 7170
+Total Price: 14856
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  446 |
+| 3 Lumina Lightsworn Summoner SR     |  324 |
+| 2 Lyla Lightsworn Sorceress UtR     |  100 |
+| 3 Celestia Lightsworn Angel UtR     |   85 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    4 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  400 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 3 Charge of the Light Brigade ScR   |  223 |
+| 3 Solar Recharge UtR                |  101 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Monster Reincarnation UtR         |   64 |
+| 1 Gold Sarcophagus GUR              |   13 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   40 |
+| 1 Crush Card Virus GUR              |  125 |
+| 2 Threatening Roar C                |  119 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  288 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   68 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   35 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - median_prices_sorted.txt
+Main Deck: 6005
+Side Deck: 1392
+Extra Deck: 6938
+Total Price: 14335
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  415 |
+| 3 Lumina Lightsworn Summoner SR     |  338 |
+| 2 Lyla Lightsworn Sorceress UtR     |   97 |
+| 3 Celestia Lightsworn Angel UtR     |   82 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    5 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  391 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 3 Charge of the Light Brigade ScR   |  195 |
+| 3 Solar Recharge UtR                |   98 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Monster Reincarnation UtR         |   56 |
+| 1 Gold Sarcophagus GUR              |   14 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   39 |
+| 1 Crush Card Virus GUR              |  117 |
+| 2 Threatening Roar C                |  115 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  286 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   67 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   34 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - min_prices_sorted.txt
+Main Deck: 5703
+Side Deck: 1300
+Extra Deck: 5987
+Total Price: 12990
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  400 |
+| 3 Lumina Lightsworn Summoner SR     |  297 |
+| 2 Lyla Lightsworn Sorceress UtR     |   94 |
+| 3 Celestia Lightsworn Angel UtR     |   64 |
+| 2 Wulf Lightsworn Beast SR          |    6 |
+| 1 Garoth Lightsworn Warrior SR      |   34 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    3 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  390 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 3 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 3 Charge of the Light Brigade ScR   |  190 |
+| 3 Solar Recharge UtR                |   93 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Monster Reincarnation UtR         |   45 |
+| 1 Gold Sarcophagus GUR              |   12 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   37 |
+| 1 Crush Card Virus GUR              |  108 |
+| 2 Threatening Roar C                |  114 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  284 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   52 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   32 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - max_prices_sorted.txt
+Main Deck: 7607
+Side Deck: 1714
+Extra Deck: 8967
+Total Price: 18288
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  650 |
+| 3 Lumina Lightsworn Summoner SR     |  339 |
+| 2 Lyla Lightsworn Sorceress UtR     |  114 |
+| 3 Celestia Lightsworn Angel UtR     |  120 |
+| 2 Wulf Lightsworn Beast SR          |    8 |
+| 1 Garoth Lightsworn Warrior SR      |   37 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    6 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  419 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 3 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 3 Charge of the Light Brigade ScR   |  299 |
+| 3 Solar Recharge UtR                |  125 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Monster Reincarnation UtR         |   98 |
+| 1 Gold Sarcophagus GUR              |   16 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   50 |
+| 1 Crush Card Virus GUR              |  161 |
+| 2 Threatening Roar C                |  129 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  300 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |  112 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   39 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - mean_prices_sorted.txt
+Main Deck: 6267
+Side Deck: 1419
+Extra Deck: 7170
+Total Price: 14856
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  446 |
+| 3 Lumina Lightsworn Summoner SR     |  324 |
+| 2 Lyla Lightsworn Sorceress UtR     |  100 |
+| 3 Celestia Lightsworn Angel UtR     |   85 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    4 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  400 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 3 Charge of the Light Brigade ScR   |  223 |
+| 3 Solar Recharge UtR                |  101 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Monster Reincarnation UtR         |   64 |
+| 1 Gold Sarcophagus GUR              |   13 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   40 |
+| 1 Crush Card Virus GUR              |  125 |
+| 2 Threatening Roar C                |  119 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  288 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   68 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   35 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - median_prices_sorted.txt
+Main Deck: 6005
+Side Deck: 1392
+Extra Deck: 6938
+Total Price: 14335
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  415 |
+| 3 Lumina Lightsworn Summoner SR     |  338 |
+| 2 Lyla Lightsworn Sorceress UtR     |   97 |
+| 3 Celestia Lightsworn Angel UtR     |   82 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    5 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  391 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 3 Charge of the Light Brigade ScR   |  195 |
+| 3 Solar Recharge UtR                |   98 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Monster Reincarnation UtR         |   56 |
+| 1 Gold Sarcophagus GUR              |   14 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   39 |
+| 1 Crush Card Virus GUR              |  117 |
+| 2 Threatening Roar C                |  115 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  286 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   67 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   34 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - min_prices_sorted.txt
+Main Deck: 5703
+Side Deck: 1300
+Extra Deck: 5987
+Total Price: 12990
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  400 |
+| 3 Lumina Lightsworn Summoner SR     |  297 |
+| 2 Lyla Lightsworn Sorceress UtR     |   94 |
+| 3 Celestia Lightsworn Angel UtR     |   64 |
+| 2 Wulf Lightsworn Beast SR          |    6 |
+| 1 Garoth Lightsworn Warrior SR      |   34 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    3 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  390 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 3 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 3 Charge of the Light Brigade ScR   |  190 |
+| 3 Solar Recharge UtR                |   93 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Monster Reincarnation UtR         |   45 |
+| 1 Gold Sarcophagus GUR              |   12 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   37 |
+| 1 Crush Card Virus GUR              |  108 |
+| 2 Threatening Roar C                |  114 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  284 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   52 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   32 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - max_prices_sorted.txt
+Main Deck: 7607
+Side Deck: 1714
+Extra Deck: 8967
+Total Price: 18288
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  650 |
+| 3 Lumina Lightsworn Summoner SR     |  339 |
+| 2 Lyla Lightsworn Sorceress UtR     |  114 |
+| 3 Celestia Lightsworn Angel UtR     |  120 |
+| 2 Wulf Lightsworn Beast SR          |    8 |
+| 1 Garoth Lightsworn Warrior SR      |   37 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    6 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  419 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 3 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 3 Charge of the Light Brigade ScR   |  299 |
+| 3 Solar Recharge UtR                |  125 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Monster Reincarnation UtR         |   98 |
+| 1 Gold Sarcophagus GUR              |   16 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   50 |
+| 1 Crush Card Virus GUR              |  161 |
+| 2 Threatening Roar C                |  129 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  300 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |  112 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   39 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - mean_prices_sorted.txt
+Main Deck: 6267
+Side Deck: 1419
+Extra Deck: 7170
+Total Price: 14856
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  446 |
+| 3 Lumina Lightsworn Summoner SR     |  324 |
+| 2 Lyla Lightsworn Sorceress UtR     |  100 |
+| 3 Celestia Lightsworn Angel UtR     |   85 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    4 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  400 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 3 Charge of the Light Brigade ScR   |  223 |
+| 3 Solar Recharge UtR                |  101 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Monster Reincarnation UtR         |   64 |
+| 1 Gold Sarcophagus GUR              |   13 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   40 |
+| 1 Crush Card Virus GUR              |  125 |
+| 2 Threatening Roar C                |  119 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  288 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   68 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   35 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - median_prices_sorted.txt
+Main Deck: 6005
+Side Deck: 1392
+Extra Deck: 6938
+Total Price: 14335
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  415 |
+| 3 Lumina Lightsworn Summoner SR     |  338 |
+| 2 Lyla Lightsworn Sorceress UtR     |   97 |
+| 3 Celestia Lightsworn Angel UtR     |   82 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    5 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  391 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 3 Charge of the Light Brigade ScR   |  195 |
+| 3 Solar Recharge UtR                |   98 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Monster Reincarnation UtR         |   56 |
+| 1 Gold Sarcophagus GUR              |   14 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   39 |
+| 1 Crush Card Virus GUR              |  117 |
+| 2 Threatening Roar C                |  115 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  286 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   67 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   34 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - min_prices_sorted.txt
+Main Deck: 5703
+Side Deck: 1300
+Extra Deck: 5987
+Total Price: 12990
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  400 |
+| 3 Lumina Lightsworn Summoner SR     |  297 |
+| 2 Lyla Lightsworn Sorceress UtR     |   94 |
+| 3 Celestia Lightsworn Angel UtR     |   64 |
+| 2 Wulf Lightsworn Beast SR          |    6 |
+| 1 Garoth Lightsworn Warrior SR      |   34 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    3 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  390 |
+| 1 Gorz the Emissary of Darkness ScR |    7 |
+| 3 Necro Gardna UtR                  |   34 |
+| 1 Plaguespreader Zombie UtR         |  399 |
+| 3 Charge of the Light Brigade ScR   |  190 |
+| 3 Solar Recharge UtR                |   93 |
+| 1 Heavy Storm SR                    |   47 |
+| 1 Monster Reborn UR                 |    8 |
+| 1 Monster Reincarnation UtR         |   45 |
+| 1 Gold Sarcophagus GUR              |   12 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   37 |
+| 1 Crush Card Virus GUR              |  108 |
+| 2 Threatening Roar C                |  114 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  339 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   84 |
+| 1 Giant Trunade SR                  |   23 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  284 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   52 |
+| 2 Phoenix Wing Wind Blast UtR       |  226 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   32 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  220 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  185 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1440 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - max_prices_sorted.txt
+Main Deck: 7607
+Side Deck: 1714
+Extra Deck: 8967
+Total Price: 18288
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  650 |
+| 3 Lumina Lightsworn Summoner SR     |  339 |
+| 2 Lyla Lightsworn Sorceress UtR     |  114 |
+| 3 Celestia Lightsworn Angel UtR     |  120 |
+| 2 Wulf Lightsworn Beast SR          |    8 |
+| 1 Garoth Lightsworn Warrior SR      |   37 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    6 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  419 |
+| 1 Gorz the Emissary of Darkness ScR |   11 |
+| 3 Necro Gardna UtR                  |   59 |
+| 1 Plaguespreader Zombie UtR         |  675 |
+| 3 Charge of the Light Brigade ScR   |  299 |
+| 3 Solar Recharge UtR                |  125 |
+| 1 Heavy Storm SR                    |   60 |
+| 1 Monster Reborn UR                 |   24 |
+| 1 Monster Reincarnation UtR         |   98 |
+| 1 Gold Sarcophagus GUR              |   16 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   50 |
+| 1 Crush Card Virus GUR              |  161 |
+| 2 Threatening Roar C                |  129 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  489 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |  145 |
+| 1 Giant Trunade SR                  |   40 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  300 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |  112 |
+| 2 Phoenix Wing Wind Blast UtR       |  274 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   39 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  399 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  205 |
+| 1 Magical Android SR                |   30 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 2299 |
+| 3 Thought Ruler Archfiend UtR       |  200 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - mean_prices_sorted.txt
+Main Deck: 6267
+Side Deck: 1419
+Extra Deck: 7170
+Total Price: 14856
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  446 |
+| 3 Lumina Lightsworn Summoner SR     |  324 |
+| 2 Lyla Lightsworn Sorceress UtR     |  100 |
+| 3 Celestia Lightsworn Angel UtR     |   85 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    4 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  400 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   40 |
+| 1 Plaguespreader Zombie UtR         |  475 |
+| 3 Charge of the Light Brigade ScR   |  223 |
+| 3 Solar Recharge UtR                |  101 |
+| 1 Heavy Storm SR                    |   52 |
+| 1 Monster Reborn UR                 |   13 |
+| 1 Monster Reincarnation UtR         |   64 |
+| 1 Gold Sarcophagus GUR              |   13 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   40 |
+| 1 Crush Card Virus GUR              |  125 |
+| 2 Threatening Roar C                |  119 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   96 |
+| 1 Giant Trunade SR                  |   26 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  288 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   68 |
+| 2 Phoenix Wing Wind Blast UtR       |  240 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   35 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  270 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  191 |
+| 1 Magical Android SR                |   28 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1797 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+
+2008-lightsworn - 2023-10-07 - median_prices_sorted.txt
+Main Deck: 6005
+Side Deck: 1392
+Extra Deck: 6938
+Total Price: 14335
++-------------------------------------+------+
+| Card                                |    $ |
++-------------------------------------+------+
+| Main Deck                           |      |
+| 2 Judgment Dragon UtR               |  415 |
+| 3 Lumina Lightsworn Summoner SR     |  338 |
+| 2 Lyla Lightsworn Sorceress UtR     |   97 |
+| 3 Celestia Lightsworn Angel UtR     |   82 |
+| 2 Wulf Lightsworn Beast SR          |    7 |
+| 1 Garoth Lightsworn Warrior SR      |   36 |
+| 1 Ehren Lightsworn Monk ScR         |  150 |
+| 1 Aurkus Lightsworn Druid SR        |    5 |
+| 1 Ryko Lightsworn Hunter SR         |   35 |
+| 3 Honest GR                         |  391 |
+| 1 Gorz the Emissary of Darkness ScR |    8 |
+| 3 Necro Gardna UtR                  |   37 |
+| 1 Plaguespreader Zombie UtR         |  405 |
+| 3 Charge of the Light Brigade ScR   |  195 |
+| 3 Solar Recharge UtR                |   98 |
+| 1 Heavy Storm SR                    |   51 |
+| 1 Monster Reborn UR                 |   10 |
+| 1 Monster Reincarnation UtR         |   56 |
+| 1 Gold Sarcophagus GUR              |   14 |
+| 1 Brain Control UtR                 |  349 |
+| 2 Beckoning Light SR                |   39 |
+| 1 Crush Card Virus GUR              |  117 |
+| 2 Threatening Roar C                |  115 |
+|                                     |      |
+| Side Deck                           |      |
+| 1 Breaker the Magical Warrior SR    |  389 |
+| 1 Blackwing Gale the Whirlwind R    |    - |
+| 1 Phantom of Chaos SR               |    1 |
+| 1 Mystical Space Typhoon UR         |   88 |
+| 1 Giant Trunade SR                  |   24 |
+| 1 Cold Wave C                       |    1 |
+| 1 Lightning Vortex UtR              |  286 |
+| 1 Dust Tornado SR                   |    - |
+| 1 Torrential Tribute UR             |   67 |
+| 2 Phoenix Wing Wind Blast UtR       |  234 |
+| 2 Bottomless Trap Hole SR           |    - |
+| 2 Royal Decree UR                   |   34 |
+|                                     |      |
+| Extra Deck                          |      |
+| 2 Black Rose Dragon GR              |  265 |
+| 2 Colossal Fighter UtR              |  116 |
+| 2 Goyo Guardian UtR                 |  189 |
+| 1 Magical Android SR                |   29 |
+| 2 Red Dragon Archfiend UtR          |    - |
+| 3 Stardust Dragon GR                | 1724 |
+| 3 Thought Ruler Archfiend UtR       |  199 |
++-------------------------------------+------+

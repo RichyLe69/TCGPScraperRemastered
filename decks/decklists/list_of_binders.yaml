@@ -2,3 +2,5 @@
 
 binder_deck_builder:
   path: 'decks/decklists/binder_deck_builder.yaml'
+binder_deck_core:
+  path: 'decks/decklists/binder_deck_cores.yaml'
