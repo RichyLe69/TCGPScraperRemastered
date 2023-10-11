@@ -1798,3 +1798,183 @@ Total Price: 3676
 | 1 Dark Balter the Terrible SR        |   - |
 | 1 Reaper on the Nightmare SR         |   - |
 +--------------------------------------+-----+
+2007-demiseotk - 2023-10-08 - min_prices_sorted.txt
+Main Deck: 2443
+Side Deck: 0
+Extra Deck: 666
+Total Price: 3109
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  51 |
+| 3 Doom Dozer UtR                     |  42 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   2 |
+| 2 Senju of the Thousand Hands R      |   1 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   1 |
+| 3 Megamorph UR                       |  29 |
+| 2 Metamorphosis SR                   | 766 |
+| 1 Heavy Storm SR                     |  47 |
+| 1 Mystical Space Typhoon UR          |  84 |
+| 1 Giant Trunade SR                   |  23 |
+| 1 Snatch Steal UR                    |  59 |
+| 1 Premature Burial UR                |  36 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |  17 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |  50 |
+| 1 Ring of Destruction ScR            |  39 |
+| 1 Mirror Force UR                    |  88 |
+| 1 Torrential Tribute UR              |  52 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 222 |
+| 3 Cyber End Dragon UtR               |   - |
+| 3 Chimeratech Fortress Dragon UR     |   - |
+| 3 Chimeratech Overdragon UtR         |   - |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Dark Balter the Terrible SR        |   - |
+| 1 Reaper on the Nightmare SR         |   - |
++--------------------------------------+-----+
+2007-demiseotk - 2023-10-08 - max_prices_sorted.txt
+Main Deck: 4834
+Side Deck: 0
+Extra Deck: 897
+Total Price: 5731
++--------------------------------------+------+
+| Card                                 |    $ |
++--------------------------------------+------+
+| Main Deck                            |      |
+| 3 Demise King of Armageddon UtR      |   79 |
+| 3 Doom Dozer UtR                     |   67 |
+| 1 Metal Armored Bug C                |    - |
+| 1 Neo Bug C                          |    - |
+| 3 Insect Knight C                    |    1 |
+| 3 Manju of the Ten Thousand Hands SP |    3 |
+| 2 Senju of the Thousand Hands R      |    1 |
+| 2 Sonic Bird C                       |    - |
+| 3 Advanced Ritual Art R              |    1 |
+| 3 Megamorph UR                       |   99 |
+| 2 Metamorphosis SR                   | 1566 |
+| 1 Heavy Storm SR                     |   60 |
+| 1 Mystical Space Typhoon UR          |  145 |
+| 1 Giant Trunade SR                   |   40 |
+| 1 Snatch Steal UR                    |   98 |
+| 1 Premature Burial UR                |   56 |
+| 1 Scapegoat UR                       |    - |
+| 3 Jar of Greed SR                    |   25 |
+| 1 Gravity Bind R                     |    3 |
+| 1 Magic Cylinder ScR                 |   99 |
+| 1 Ring of Destruction ScR            |  100 |
+| 1 Mirror Force UR                    |  162 |
+| 1 Torrential Tribute UR              |  112 |
+|                                      |      |
+| Side Deck                            |      |
+| 1 None                               |    - |
+|                                      |      |
+| Extra Deck                           |      |
+| 3 Cyber Twin Dragon UtR              |  299 |
+| 3 Cyber End Dragon UtR               |    - |
+| 3 Chimeratech Fortress Dragon UR     |    - |
+| 3 Chimeratech Overdragon UtR         |    - |
+| 1 Gatling Dragon UtR                 |    - |
+| 1 Dark Balter the Terrible SR        |    - |
+| 1 Reaper on the Nightmare SR         |    - |
++--------------------------------------+------+
+2007-demiseotk - 2023-10-08 - mean_prices_sorted.txt
+Main Deck: 3266
+Side Deck: 0
+Extra Deck: 714
+Total Price: 3980
++--------------------------------------+------+
+| Card                                 |    $ |
++--------------------------------------+------+
+| Main Deck                            |      |
+| 3 Demise King of Armageddon UtR      |   64 |
+| 3 Doom Dozer UtR                     |   54 |
+| 1 Metal Armored Bug C                |    - |
+| 1 Neo Bug C                          |    - |
+| 3 Insect Knight C                    |    1 |
+| 3 Manju of the Ten Thousand Hands SP |    2 |
+| 2 Senju of the Thousand Hands R      |    1 |
+| 2 Sonic Bird C                       |    - |
+| 3 Advanced Ritual Art R              |    1 |
+| 3 Megamorph UR                       |   51 |
+| 2 Metamorphosis SR                   | 1049 |
+| 1 Heavy Storm SR                     |   52 |
+| 1 Mystical Space Typhoon UR          |   96 |
+| 1 Giant Trunade SR                   |   26 |
+| 1 Snatch Steal UR                    |   63 |
+| 1 Premature Burial UR                |   43 |
+| 1 Scapegoat UR                       |    - |
+| 3 Jar of Greed SR                    |   19 |
+| 1 Gravity Bind R                     |    2 |
+| 1 Magic Cylinder ScR                 |   68 |
+| 1 Ring of Destruction ScR            |   65 |
+| 1 Mirror Force UR                    |  107 |
+| 1 Torrential Tribute UR              |   68 |
+|                                      |      |
+| Side Deck                            |      |
+| 1 None                               |    - |
+|                                      |      |
+| Extra Deck                           |      |
+| 3 Cyber Twin Dragon UtR              |  238 |
+| 3 Cyber End Dragon UtR               |    - |
+| 3 Chimeratech Fortress Dragon UR     |    - |
+| 3 Chimeratech Overdragon UtR         |    - |
+| 1 Gatling Dragon UtR                 |    - |
+| 1 Dark Balter the Terrible SR        |    - |
+| 1 Reaper on the Nightmare SR         |    - |
++--------------------------------------+------+
+2007-demiseotk - 2023-10-08 - median_prices_sorted.txt
+Main Deck: 3007
+Side Deck: 0
+Extra Deck: 669
+Total Price: 3676
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 Demise King of Armageddon UtR      |  64 |
+| 3 Doom Dozer UtR                     |  53 |
+| 1 Metal Armored Bug C                |   - |
+| 1 Neo Bug C                          |   - |
+| 3 Insect Knight C                    |   1 |
+| 3 Manju of the Ten Thousand Hands SP |   2 |
+| 2 Senju of the Thousand Hands R      |   1 |
+| 2 Sonic Bird C                       |   - |
+| 3 Advanced Ritual Art R              |   1 |
+| 3 Megamorph UR                       |  38 |
+| 2 Metamorphosis SR                   | 959 |
+| 1 Heavy Storm SR                     |  51 |
+| 1 Mystical Space Typhoon UR          |  88 |
+| 1 Giant Trunade SR                   |  24 |
+| 1 Snatch Steal UR                    |  59 |
+| 1 Premature Burial UR                |  40 |
+| 1 Scapegoat UR                       |   - |
+| 3 Jar of Greed SR                    |  19 |
+| 1 Gravity Bind R                     |   2 |
+| 1 Magic Cylinder ScR                 |  70 |
+| 1 Ring of Destruction ScR            |  64 |
+| 1 Mirror Force UR                    |  88 |
+| 1 Torrential Tribute UR              |  67 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 3 Cyber Twin Dragon UtR              | 223 |
+| 3 Cyber End Dragon UtR               |   - |
+| 3 Chimeratech Fortress Dragon UR     |   - |
+| 3 Chimeratech Overdragon UtR         |   - |
+| 1 Gatling Dragon UtR                 |   - |
+| 1 Dark Balter the Terrible SR        |   - |
+| 1 Reaper on the Nightmare SR         |   - |
++--------------------------------------+-----+

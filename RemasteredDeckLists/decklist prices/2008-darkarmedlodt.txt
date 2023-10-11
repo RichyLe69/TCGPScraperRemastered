@@ -2278,3 +2278,231 @@ Total Price: 8783
 | Extra Deck                               |     |
 | 1 None                                   |   - |
 +------------------------------------------+-----+
+2008-darkarmedlodt - 2023-10-08 - min_prices_sorted.txt
+Main Deck: 5739
+Side Deck: 2447
+Extra Deck: 0
+Total Price: 8186
++------------------------------------------+-----+
+| Card                                     |   $ |
++------------------------------------------+-----+
+| Main Deck                                |     |
+| 3 Dark Armed Dragon UtR                  | 333 |
+| 1 Dark Grepher ScR                       | 171 |
+| 1 Dark Magician of Chaos UR              | 139 |
+| 1 Caius the Shadow Monarch UtR           | 499 |
+| 1 Destiny Hero Plasma ScR                |  12 |
+| 2 Destiny Hero Malicious UR              |  38 |
+| 1 Destiny Hero Fear Monger SR            |  55 |
+| 1 Destiny Hero Disk Commander SR         |   1 |
+| 1 Elemental Hero Stratos UR              |   - |
+| 1 Card Trooper UR                        |   6 |
+| 1 Morphing Jar SR                        |   - |
+| 1 Spirit Reaper SR                       | 498 |
+| 1 Cyber Valley SR                        |  15 |
+| 1 Sangan SR                              | 193 |
+| 1 Phantom of Chaos SR                    |   1 |
+| 1 D.D. Crow UtR                          | 200 |
+| 2 Allure of Darkness UtR                 | 233 |
+| 3 Destiny Draw UR                        |   6 |
+| 1 Brain Control UtR                      | 349 |
+| 1 Mystical Space Typhoon UR              |  84 |
+| 1 Heavy Storm SR                         |  47 |
+| 1 Monster Reborn UR                      |   8 |
+| 1 Premature Burial UR                    |  36 |
+| 1 Reinforcement of the Army SR           |  10 |
+| 1 Scapegoat UR                           |   - |
+| 3 Solemn Judgment UR                     | 367 |
+| 1 Crush Card Virus GUR                   | 108 |
+| 1 Mind Crush SR                          |  99 |
+| 1 Torrential Tribute UR                  |  52 |
+| 1 Mirror Force UR                        |  88 |
+| 1 Trap Dustshoot SR                      | 392 |
+| 1 Return from the Different Dimension SR |  16 |
+|                                          |     |
+| Side Deck                                |     |
+| 2 Cyber Dragon UtR                       | 258 |
+| 2 Gravekeeper Spy SR                     | 359 |
+| 1 D.D. Crow UtR                          | 200 |
+| 1 Snipe Hunter SR                        |  55 |
+| 1 Giant Trunade SR                       |  23 |
+| 1 Lightning Vortex UtR                   | 284 |
+| 1 Foolish Burial SR                      | 199 |
+| 2 Phoenix Wing Wind Blast UtR            | 226 |
+| 2 Bottomless Trap Hole SR                |   - |
+| 2 Dimensional Prison SR                  |   - |
+|                                          |     |
+| Extra Deck                               |     |
+| 1 None                                   |   - |
++------------------------------------------+-----+
+2008-darkarmedlodt - 2023-10-08 - max_prices_sorted.txt
+Main Deck: 8137
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 11046
++------------------------------------------+------+
+| Card                                     |    $ |
++------------------------------------------+------+
+| Main Deck                                |      |
+| 3 Dark Armed Dragon UtR                  |  550 |
+| 1 Dark Grepher ScR                       |  171 |
+| 1 Dark Magician of Chaos UR              |  298 |
+| 1 Caius the Shadow Monarch UtR           | 1000 |
+| 1 Destiny Hero Plasma ScR                |   29 |
+| 2 Destiny Hero Malicious UR              |   49 |
+| 1 Destiny Hero Fear Monger SR            |  108 |
+| 1 Destiny Hero Disk Commander SR         |    1 |
+| 1 Elemental Hero Stratos UR              |    - |
+| 1 Card Trooper UR                        |   12 |
+| 1 Morphing Jar SR                        |    - |
+| 1 Spirit Reaper SR                       |  499 |
+| 1 Cyber Valley SR                        |   18 |
+| 1 Sangan SR                              |  240 |
+| 1 Phantom of Chaos SR                    |    1 |
+| 1 D.D. Crow UtR                          |  255 |
+| 2 Allure of Darkness UtR                 |  299 |
+| 3 Destiny Draw UR                        |   12 |
+| 1 Brain Control UtR                      |  349 |
+| 1 Mystical Space Typhoon UR              |  145 |
+| 1 Heavy Storm SR                         |   60 |
+| 1 Monster Reborn UR                      |   24 |
+| 1 Premature Burial UR                    |   56 |
+| 1 Reinforcement of the Army SR           |   24 |
+| 1 Scapegoat UR                           |    - |
+| 3 Solemn Judgment UR                     |  499 |
+| 1 Crush Card Virus GUR                   |  161 |
+| 1 Mind Crush SR                          |  119 |
+| 1 Torrential Tribute UR                  |  112 |
+| 1 Mirror Force UR                        |  162 |
+| 1 Trap Dustshoot SR                      |  392 |
+| 1 Return from the Different Dimension SR |   22 |
+|                                          |      |
+| Side Deck                                |      |
+| 2 Cyber Dragon UtR                       |  315 |
+| 2 Gravekeeper Spy SR                     |  369 |
+| 1 D.D. Crow UtR                          |  255 |
+| 1 Snipe Hunter SR                        |   99 |
+| 1 Giant Trunade SR                       |   40 |
+| 1 Lightning Vortex UtR                   |  300 |
+| 1 Foolish Burial SR                      |  299 |
+| 2 Phoenix Wing Wind Blast UtR            |  274 |
+| 2 Bottomless Trap Hole SR                |    - |
+| 2 Dimensional Prison SR                  |    - |
+|                                          |      |
+| Extra Deck                               |      |
+| 1 None                                   |    - |
++------------------------------------------+------+
+2008-darkarmedlodt - 2023-10-08 - mean_prices_sorted.txt
+Main Deck: 6520
+Side Deck: 2606
+Extra Deck: 0
+Total Price: 9126
++------------------------------------------+-----+
+| Card                                     |   $ |
++------------------------------------------+-----+
+| Main Deck                                |     |
+| 3 Dark Armed Dragon UtR                  | 390 |
+| 1 Dark Grepher ScR                       | 171 |
+| 1 Dark Magician of Chaos UR              | 193 |
+| 1 Caius the Shadow Monarch UtR           | 750 |
+| 1 Destiny Hero Plasma ScR                |  17 |
+| 2 Destiny Hero Malicious UR              |  41 |
+| 1 Destiny Hero Fear Monger SR            |  72 |
+| 1 Destiny Hero Disk Commander SR         |   1 |
+| 1 Elemental Hero Stratos UR              |   - |
+| 1 Card Trooper UR                        |   9 |
+| 1 Morphing Jar SR                        |   - |
+| 1 Spirit Reaper SR                       | 498 |
+| 1 Cyber Valley SR                        |  16 |
+| 1 Sangan SR                              | 210 |
+| 1 Phantom of Chaos SR                    |   1 |
+| 1 D.D. Crow UtR                          | 217 |
+| 2 Allure of Darkness UtR                 | 253 |
+| 3 Destiny Draw UR                        |   8 |
+| 1 Brain Control UtR                      | 349 |
+| 1 Mystical Space Typhoon UR              |  96 |
+| 1 Heavy Storm SR                         |  52 |
+| 1 Monster Reborn UR                      |  13 |
+| 1 Premature Burial UR                    |  43 |
+| 1 Reinforcement of the Army SR           |  16 |
+| 1 Scapegoat UR                           |   - |
+| 3 Solemn Judgment UR                     | 400 |
+| 1 Crush Card Virus GUR                   | 125 |
+| 1 Mind Crush SR                          | 104 |
+| 1 Torrential Tribute UR                  |  68 |
+| 1 Mirror Force UR                        | 107 |
+| 1 Trap Dustshoot SR                      | 392 |
+| 1 Return from the Different Dimension SR |  18 |
+|                                          |     |
+| Side Deck                                |     |
+| 2 Cyber Dragon UtR                       | 274 |
+| 2 Gravekeeper Spy SR                     | 365 |
+| 1 D.D. Crow UtR                          | 217 |
+| 1 Snipe Hunter SR                        |  70 |
+| 1 Giant Trunade SR                       |  26 |
+| 1 Lightning Vortex UtR                   | 288 |
+| 1 Foolish Burial SR                      | 247 |
+| 2 Phoenix Wing Wind Blast UtR            | 240 |
+| 2 Bottomless Trap Hole SR                |   - |
+| 2 Dimensional Prison SR                  |   - |
+|                                          |     |
+| Extra Deck                               |     |
+| 1 None                                   |   - |
++------------------------------------------+-----+
+2008-darkarmedlodt - 2023-10-08 - median_prices_sorted.txt
+Main Deck: 6226
+Side Deck: 2557
+Extra Deck: 0
+Total Price: 8783
++------------------------------------------+-----+
+| Card                                     |   $ |
++------------------------------------------+-----+
+| Main Deck                                |     |
+| 3 Dark Armed Dragon UtR                  | 363 |
+| 1 Dark Grepher ScR                       | 171 |
+| 1 Dark Magician of Chaos UR              | 174 |
+| 1 Caius the Shadow Monarch UtR           | 751 |
+| 1 Destiny Hero Plasma ScR                |  16 |
+| 2 Destiny Hero Malicious UR              |  42 |
+| 1 Destiny Hero Fear Monger SR            |  67 |
+| 1 Destiny Hero Disk Commander SR         |   1 |
+| 1 Elemental Hero Stratos UR              |   - |
+| 1 Card Trooper UR                        |   9 |
+| 1 Morphing Jar SR                        |   - |
+| 1 Spirit Reaper SR                       | 499 |
+| 1 Cyber Valley SR                        |  17 |
+| 1 Sangan SR                              | 199 |
+| 1 Phantom of Chaos SR                    |   1 |
+| 1 D.D. Crow UtR                          | 213 |
+| 2 Allure of Darkness UtR                 | 234 |
+| 3 Destiny Draw UR                        |   9 |
+| 1 Brain Control UtR                      | 349 |
+| 1 Mystical Space Typhoon UR              |  88 |
+| 1 Heavy Storm SR                         |  51 |
+| 1 Monster Reborn UR                      |  10 |
+| 1 Premature Burial UR                    |  40 |
+| 1 Reinforcement of the Army SR           |  14 |
+| 1 Scapegoat UR                           |   - |
+| 3 Solemn Judgment UR                     | 368 |
+| 1 Crush Card Virus GUR                   | 117 |
+| 1 Mind Crush SR                          | 101 |
+| 1 Torrential Tribute UR                  |  67 |
+| 1 Mirror Force UR                        |  88 |
+| 1 Trap Dustshoot SR                      | 392 |
+| 1 Return from the Different Dimension SR |  19 |
+|                                          |     |
+| Side Deck                                |     |
+| 2 Cyber Dragon UtR                       | 259 |
+| 2 Gravekeeper Spy SR                     | 369 |
+| 1 D.D. Crow UtR                          | 213 |
+| 1 Snipe Hunter SR                        |  64 |
+| 1 Giant Trunade SR                       |  24 |
+| 1 Lightning Vortex UtR                   | 286 |
+| 1 Foolish Burial SR                      | 246 |
+| 2 Phoenix Wing Wind Blast UtR            | 234 |
+| 2 Bottomless Trap Hole SR                |   - |
+| 2 Dimensional Prison SR                  |   - |
+|                                          |     |
+| Extra Deck                               |     |
+| 1 None                                   |   - |
++------------------------------------------+-----+
