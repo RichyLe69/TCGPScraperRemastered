@@ -2814,3 +2814,259 @@ Total Price: 12378
 | 1 Thought Ruler Archfiend UtR          |  199 |
 | 1 Tempest Magician ScR                 |   59 |
 +----------------------------------------+------+
+2009-chaos - 2023-10-15 - min_prices_sorted.txt
+Main Deck: 6014
+Side Deck: 1176
+Extra Deck: 4576
+Total Price: 11766
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 1 Caius the Shadow Monarch UtR         |  499 |
+| 1 Card Trooper UR                      |    6 |
+| 2 Chaos Sorcerer UR                    |  134 |
+| 1 Dark Armed Dragon UtR                |  333 |
+| 1 Dark Grepher ScR                     |  165 |
+| 2 Destiny Hero Malicious UR            |   41 |
+| 1 Destiny Hero Fear Monger SR          |   55 |
+| 1 D.D. Crow UtR                        |  214 |
+| 2 Dimensional Alchemist GUR            |    - |
+| 1 Elemental Hero Stratos UR            |    - |
+| 1 Gorz the Emissary of Darkness ScR    |    7 |
+| 1 Krebons SR                           |   62 |
+| 2 Mystic Tomato R                      |    - |
+| 1 Plaguespreader Zombie UtR            |  399 |
+| 1 Ryko Lightsworn Hunter SR            |   34 |
+| 1 Sangan SR                            |  193 |
+| 2 Allure of Darkness UtR               |  233 |
+| 1 Book of Moon SR                      |  949 |
+| 1 Brain Control UtR                    |  345 |
+| 2 Destiny Draw UR                      |    8 |
+| 1 Gold Sarcophagus GUR                 |   12 |
+| 1 Heavy Storm SR                       |   46 |
+| 1 Mind Control SR                      |   12 |
+| 1 Mystical Space Typhoon UR            |   82 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Smashing Ground SR                   |  179 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 1 Call of the Haunted UR               |   62 |
+| 1 Mirror Force UR                      |   86 |
+| 1 Royal Oppression R                   |   14 |
+| 1 Solemn Judgment UR                   |  367 |
+| 1 Torrential Tribute UR                |   52 |
+| 1 Trap Dustshoot SR                    |  999 |
+|                                        |      |
+| Side Deck                              |      |
+| 2 Breaker the Magical Warrior SR       |  339 |
+| 1 D.D. Crow UtR                        |  214 |
+| 1 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Lightning Vortex UtR                 |  284 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ancient Fairy Dragon GR              |  644 |
+| 1 Armory Arm UR                        |    8 |
+| 1 Black Rose Dragon GR                 |  199 |
+| 1 Brionac Dragon of the Ice Barrier DT |  140 |
+| 1 Blackwing Armor Master UtR           |    - |
+| 2 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   15 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  185 |
+| 1 Magical Android SR                   |   22 |
+| 2 Stardust Dragon GR                   | 1438 |
+| 1 Thought Ruler Archfiend UtR          |  199 |
+| 1 Tempest Magician ScR                 |   58 |
++----------------------------------------+------+
+2009-chaos - 2023-10-15 - max_prices_sorted.txt
+Main Deck: 8126
+Side Deck: 1527
+Extra Deck: 6677
+Total Price: 16330
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 1 Caius the Shadow Monarch UtR         | 1000 |
+| 1 Card Trooper UR                      |   12 |
+| 2 Chaos Sorcerer UR                    |  244 |
+| 1 Dark Armed Dragon UtR                |  550 |
+| 1 Dark Grepher ScR                     |  171 |
+| 2 Destiny Hero Malicious UR            |   69 |
+| 1 Destiny Hero Fear Monger SR          |  108 |
+| 1 D.D. Crow UtR                        |  249 |
+| 2 Dimensional Alchemist GUR            |    - |
+| 1 Elemental Hero Stratos UR            |    - |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 1 Krebons SR                           |   99 |
+| 2 Mystic Tomato R                      |    - |
+| 1 Plaguespreader Zombie UtR            |  675 |
+| 1 Ryko Lightsworn Hunter SR            |   34 |
+| 1 Sangan SR                            |  240 |
+| 2 Allure of Darkness UtR               |  299 |
+| 1 Book of Moon SR                      |  994 |
+| 1 Brain Control UtR                    |  349 |
+| 2 Destiny Draw UR                      |   13 |
+| 1 Gold Sarcophagus GUR                 |   16 |
+| 1 Heavy Storm SR                       |   60 |
+| 1 Mind Control SR                      |   26 |
+| 1 Mystical Space Typhoon UR            |  145 |
+| 1 Reinforcement of the Army SR         |   24 |
+| 1 Smashing Ground SR                   |  207 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 1 Call of the Haunted UR               |  139 |
+| 1 Mirror Force UR                      |  139 |
+| 1 Royal Oppression R                   |   15 |
+| 1 Solemn Judgment UR                   |  499 |
+| 1 Torrential Tribute UR                |  112 |
+| 1 Trap Dustshoot SR                    |  999 |
+|                                        |      |
+| Side Deck                              |      |
+| 2 Breaker the Magical Warrior SR       |  489 |
+| 1 D.D. Crow UtR                        |  249 |
+| 1 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Lightning Vortex UtR                 |  300 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ancient Fairy Dragon GR              |  700 |
+| 1 Armory Arm UR                        |   24 |
+| 1 Black Rose Dragon GR                 |  399 |
+| 1 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Blackwing Armor Master UtR           |    - |
+| 2 Colossal Fighter UtR                 |  116 |
+| 1 Dark End Dragon UR                   |   25 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  200 |
+| 1 Magical Android SR                   |   30 |
+| 2 Stardust Dragon GR                   | 2299 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Tempest Magician ScR                 |   69 |
++----------------------------------------+------+
+2009-chaos - 2023-10-15 - mean_prices_sorted.txt
+Main Deck: 6720
+Side Deck: 1288
+Extra Deck: 5277
+Total Price: 13285
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 1 Caius the Shadow Monarch UtR         |  750 |
+| 1 Card Trooper UR                      |    8 |
+| 2 Chaos Sorcerer UR                    |  165 |
+| 1 Dark Armed Dragon UtR                |  390 |
+| 1 Dark Grepher ScR                     |  167 |
+| 2 Destiny Hero Malicious UR            |   46 |
+| 1 Destiny Hero Fear Monger SR          |   72 |
+| 1 D.D. Crow UtR                        |  234 |
+| 2 Dimensional Alchemist GUR            |    - |
+| 1 Elemental Hero Stratos UR            |    - |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 1 Krebons SR                           |   72 |
+| 2 Mystic Tomato R                      |    - |
+| 1 Plaguespreader Zombie UtR            |  470 |
+| 1 Ryko Lightsworn Hunter SR            |   34 |
+| 1 Sangan SR                            |  210 |
+| 2 Allure of Darkness UtR               |  248 |
+| 1 Book of Moon SR                      |  971 |
+| 1 Brain Control UtR                    |  347 |
+| 2 Destiny Draw UR                      |    9 |
+| 1 Gold Sarcophagus GUR                 |   14 |
+| 1 Heavy Storm SR                       |   52 |
+| 1 Mind Control SR                      |   15 |
+| 1 Mystical Space Typhoon UR            |   97 |
+| 1 Reinforcement of the Army SR         |   15 |
+| 1 Smashing Ground SR                   |  192 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 1 Call of the Haunted UR               |   91 |
+| 1 Mirror Force UR                      |   94 |
+| 1 Royal Oppression R                   |   14 |
+| 1 Solemn Judgment UR                   |  400 |
+| 1 Torrential Tribute UR                |   67 |
+| 1 Trap Dustshoot SR                    |  999 |
+|                                        |      |
+| Side Deck                              |      |
+| 2 Breaker the Magical Warrior SR       |  383 |
+| 1 D.D. Crow UtR                        |  234 |
+| 1 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Lightning Vortex UtR                 |  288 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ancient Fairy Dragon GR              |  663 |
+| 1 Armory Arm UR                        |   15 |
+| 1 Black Rose Dragon GR                 |  273 |
+| 1 Brionac Dragon of the Ice Barrier DT |  153 |
+| 1 Blackwing Armor Master UtR           |    - |
+| 2 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   19 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  190 |
+| 1 Magical Android SR                   |   27 |
+| 2 Stardust Dragon GR                   | 1723 |
+| 1 Thought Ruler Archfiend UtR          |  199 |
+| 1 Tempest Magician ScR                 |   62 |
++----------------------------------------+------+
+2009-chaos - 2023-10-15 - median_prices_sorted.txt
+Main Deck: 6505
+Side Deck: 1303
+Extra Deck: 4682
+Total Price: 12490
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 1 Caius the Shadow Monarch UtR         |  751 |
+| 1 Card Trooper UR                      |    8 |
+| 2 Chaos Sorcerer UR                    |  148 |
+| 1 Dark Armed Dragon UtR                |  363 |
+| 1 Dark Grepher ScR                     |  165 |
+| 2 Destiny Hero Malicious UR            |   42 |
+| 1 Destiny Hero Fear Monger SR          |   67 |
+| 1 D.D. Crow UtR                        |  239 |
+| 2 Dimensional Alchemist GUR            |    - |
+| 1 Elemental Hero Stratos UR            |    - |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 1 Krebons SR                           |   65 |
+| 2 Mystic Tomato R                      |    - |
+| 1 Plaguespreader Zombie UtR            |  425 |
+| 1 Ryko Lightsworn Hunter SR            |   34 |
+| 1 Sangan SR                            |  199 |
+| 2 Allure of Darkness UtR               |  234 |
+| 1 Book of Moon SR                      |  971 |
+| 1 Brain Control UtR                    |  347 |
+| 2 Destiny Draw UR                      |    9 |
+| 1 Gold Sarcophagus GUR                 |   15 |
+| 1 Heavy Storm SR                       |   54 |
+| 1 Mind Control SR                      |   15 |
+| 1 Mystical Space Typhoon UR            |   88 |
+| 1 Reinforcement of the Army SR         |   15 |
+| 1 Smashing Ground SR                   |  189 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 1 Call of the Haunted UR               |   86 |
+| 1 Mirror Force UR                      |   87 |
+| 1 Royal Oppression R                   |   15 |
+| 1 Solemn Judgment UR                   |  368 |
+| 1 Torrential Tribute UR                |   65 |
+| 1 Trap Dustshoot SR                    |  999 |
+|                                        |      |
+| Side Deck                              |      |
+| 2 Breaker the Magical Warrior SR       |  389 |
+| 1 D.D. Crow UtR                        |  239 |
+| 1 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Lightning Vortex UtR                 |  286 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ancient Fairy Dragon GR              |  647 |
+| 1 Armory Arm UR                        |   14 |
+| 1 Black Rose Dragon GR                 |  269 |
+| 1 Brionac Dragon of the Ice Barrier DT |  149 |
+| 1 Blackwing Armor Master UtR           |    - |
+| 2 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  189 |
+| 1 Magical Android SR                   |   28 |
+| 2 Stardust Dragon GR                   | 1440 |
+| 1 Thought Ruler Archfiend UtR          |  199 |
+| 1 Tempest Magician ScR                 |   59 |
++----------------------------------------+------+

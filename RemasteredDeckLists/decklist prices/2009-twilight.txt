@@ -2594,3 +2594,239 @@ Total Price: 11992
 | 1 Stardust Dragon GR                   | 1724 |
 | 1 Tempest Magician ScR                 |   59 |
 +----------------------------------------+------+
+2009-twilight - 2023-10-15 - min_prices_sorted.txt
+Main Deck: 6102
+Side Deck: 1597
+Extra Deck: 3221
+Total Price: 10920
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Judgment Dragon UtR                  |  400 |
+| 3 Lumina Lightsworn Summoner SR        |  297 |
+| 2 Lyla Lightsworn Sorceress UtR        |   94 |
+| 2 Celestia Lightsworn Angel UtR        |   64 |
+| 2 Wulf Lightsworn Beast SR             |    7 |
+| 1 Garoth Lightsworn Warrior SR         |   33 |
+| 1 Jain Lightsworn Paladin C            |    - |
+| 1 Aurkus Lightsworn Druid SR           |    3 |
+| 3 Honest GR                            |  338 |
+| 1 Dark Armed Dragon UtR                |  333 |
+| 3 Tragoedia UtR                        |  144 |
+| 2 Chaos Sorcerer UR                    |  134 |
+| 1 Gorz the Emissary of Darkness ScR    |    7 |
+| 3 Necro Gardna UtR                     |   33 |
+| 1 Plaguespreader Zombie UtR            |  399 |
+| 3 Charge of the Light Brigade ScR      |  190 |
+| 3 Solar Recharge UtR                   |   93 |
+| 2 Allure of Darkness UtR               |  233 |
+| 1 Heavy Storm SR                       |   46 |
+| 1 Monster Reincarnation UtR            |   58 |
+| 2 Beckoning Light SR                   |   37 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 Aurkus Lightsworn Druid SR           |    3 |
+| 1 Ehren Lightsworn Monk ScR            |  150 |
+| 2 Breaker the Magical Warrior SR       |  339 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |   82 |
+| 2 Lightning Vortex UtR                 |  284 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   32 |
+| 1 Torrential Tribute UR                |   52 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ally of Justice Catastor DT          |   89 |
+| 1 Ancient Fairy Dragon GR              |  644 |
+| 1 Arcanite Magician SR                 |    7 |
+| 1 Avenging Knight Parshath ScR         |   95 |
+| 1 Black Rose Dragon GR                 |  199 |
+| 2 Brionac Dragon of the Ice Barrier DT |  140 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   15 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  185 |
+| 1 Magical Android SR                   |   22 |
+| 1 Mist Wurm DT                         |   74 |
+| 1 Stardust Dragon GR                   | 1438 |
+| 1 Tempest Magician ScR                 |   58 |
++----------------------------------------+------+
+2009-twilight - 2023-10-15 - max_prices_sorted.txt
+Main Deck: 8721
+Side Deck: 2069
+Extra Deck: 4647
+Total Price: 15437
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Judgment Dragon UtR                  |  650 |
+| 3 Lumina Lightsworn Summoner SR        |  338 |
+| 2 Lyla Lightsworn Sorceress UtR        |  149 |
+| 2 Celestia Lightsworn Angel UtR        |  120 |
+| 2 Wulf Lightsworn Beast SR             |   15 |
+| 1 Garoth Lightsworn Warrior SR         |   37 |
+| 1 Jain Lightsworn Paladin C            |    - |
+| 1 Aurkus Lightsworn Druid SR           |    6 |
+| 3 Honest GR                            |  419 |
+| 1 Dark Armed Dragon UtR                |  550 |
+| 3 Tragoedia UtR                        |  169 |
+| 2 Chaos Sorcerer UR                    |  244 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Necro Gardna UtR                     |   59 |
+| 1 Plaguespreader Zombie UtR            |  675 |
+| 3 Charge of the Light Brigade ScR      |  299 |
+| 3 Solar Recharge UtR                   |  125 |
+| 2 Allure of Darkness UtR               |  299 |
+| 1 Heavy Storm SR                       |   60 |
+| 1 Monster Reincarnation UtR            |   98 |
+| 2 Beckoning Light SR                   |   50 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 Aurkus Lightsworn Druid SR           |    6 |
+| 1 Ehren Lightsworn Monk ScR            |  150 |
+| 2 Breaker the Magical Warrior SR       |  489 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |  145 |
+| 2 Lightning Vortex UtR                 |  300 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   39 |
+| 1 Torrential Tribute UR                |  112 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ally of Justice Catastor DT          |  200 |
+| 1 Ancient Fairy Dragon GR              |  700 |
+| 1 Arcanite Magician SR                 |   10 |
+| 1 Avenging Knight Parshath ScR         |  119 |
+| 1 Black Rose Dragon GR                 |  399 |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Dark End Dragon UR                   |   25 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  200 |
+| 1 Magical Android SR                   |   30 |
+| 1 Mist Wurm DT                         |   80 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 1 Tempest Magician ScR                 |   69 |
++----------------------------------------+------+
+2009-twilight - 2023-10-15 - mean_prices_sorted.txt
+Main Deck: 6843
+Side Deck: 1730
+Extra Deck: 3701
+Total Price: 12274
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Judgment Dragon UtR                  |  446 |
+| 3 Lumina Lightsworn Summoner SR        |  317 |
+| 2 Lyla Lightsworn Sorceress UtR        |  107 |
+| 2 Celestia Lightsworn Angel UtR        |   82 |
+| 2 Wulf Lightsworn Beast SR             |   11 |
+| 1 Garoth Lightsworn Warrior SR         |   35 |
+| 1 Jain Lightsworn Paladin C            |    - |
+| 1 Aurkus Lightsworn Druid SR           |    4 |
+| 3 Honest GR                            |  371 |
+| 1 Dark Armed Dragon UtR                |  390 |
+| 3 Tragoedia UtR                        |  149 |
+| 2 Chaos Sorcerer UR                    |  165 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Necro Gardna UtR                     |   41 |
+| 1 Plaguespreader Zombie UtR            |  470 |
+| 3 Charge of the Light Brigade ScR      |  223 |
+| 3 Solar Recharge UtR                   |  102 |
+| 2 Allure of Darkness UtR               |  248 |
+| 1 Heavy Storm SR                       |   52 |
+| 1 Monster Reincarnation UtR            |   74 |
+| 2 Beckoning Light SR                   |   41 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 Aurkus Lightsworn Druid SR           |    4 |
+| 1 Ehren Lightsworn Monk ScR            |  150 |
+| 2 Breaker the Magical Warrior SR       |  383 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |   97 |
+| 2 Lightning Vortex UtR                 |  288 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   35 |
+| 1 Torrential Tribute UR                |   67 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ally of Justice Catastor DT          |  135 |
+| 1 Ancient Fairy Dragon GR              |  663 |
+| 1 Arcanite Magician SR                 |    8 |
+| 1 Avenging Knight Parshath ScR         |  105 |
+| 1 Black Rose Dragon GR                 |  273 |
+| 2 Brionac Dragon of the Ice Barrier DT |  153 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   19 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  190 |
+| 1 Magical Android SR                   |   27 |
+| 1 Mist Wurm DT                         |   75 |
+| 1 Stardust Dragon GR                   | 1723 |
+| 1 Tempest Magician ScR                 |   62 |
++----------------------------------------+------+
+2009-twilight - 2023-10-15 - median_prices_sorted.txt
+Main Deck: 6463
+Side Deck: 1725
+Extra Deck: 3397
+Total Price: 11585
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Judgment Dragon UtR                  |  415 |
+| 3 Lumina Lightsworn Summoner SR        |  317 |
+| 2 Lyla Lightsworn Sorceress UtR        |  100 |
+| 2 Celestia Lightsworn Angel UtR        |   65 |
+| 2 Wulf Lightsworn Beast SR             |   11 |
+| 1 Garoth Lightsworn Warrior SR         |   35 |
+| 1 Jain Lightsworn Paladin C            |    - |
+| 1 Aurkus Lightsworn Druid SR           |    4 |
+| 3 Honest GR                            |  365 |
+| 1 Dark Armed Dragon UtR                |  363 |
+| 3 Tragoedia UtR                        |  144 |
+| 2 Chaos Sorcerer UR                    |  148 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Necro Gardna UtR                     |   39 |
+| 1 Plaguespreader Zombie UtR            |  425 |
+| 3 Charge of the Light Brigade ScR      |  195 |
+| 3 Solar Recharge UtR                   |  100 |
+| 2 Allure of Darkness UtR               |  234 |
+| 1 Heavy Storm SR                       |   54 |
+| 1 Monster Reincarnation UtR            |   71 |
+| 2 Beckoning Light SR                   |   38 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 Aurkus Lightsworn Druid SR           |    4 |
+| 1 Ehren Lightsworn Monk ScR            |  150 |
+| 2 Breaker the Magical Warrior SR       |  389 |
+| 2 Kycoo the Ghost Destroyer SR         |    - |
+| 1 Shiny Black "C" SP                   |    - |
+| 1 Mystical Space Typhoon UR            |   88 |
+| 2 Lightning Vortex UtR                 |  286 |
+| 2 Bottomless Trap Hole SR              |    - |
+| 2 Royal Decree UR                      |   34 |
+| 1 Torrential Tribute UR                |   65 |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Ally of Justice Catastor DT          |  143 |
+| 1 Ancient Fairy Dragon GR              |  647 |
+| 1 Arcanite Magician SR                 |    9 |
+| 1 Avenging Knight Parshath ScR         |  108 |
+| 1 Black Rose Dragon GR                 |  269 |
+| 2 Brionac Dragon of the Ice Barrier DT |  149 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Goyo Guardian UtR                    |  189 |
+| 1 Magical Android SR                   |   28 |
+| 1 Mist Wurm DT                         |   74 |
+| 1 Stardust Dragon GR                   | 1440 |
+| 1 Tempest Magician ScR                 |   59 |
++----------------------------------------+------+
