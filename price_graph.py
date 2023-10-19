@@ -92,7 +92,7 @@ def get_price_graph(card_name):
 if __name__ == '__main__':
     deckbuilder = DeckBuilder()
     card_code_list = deckbuilder.get_card_code_list()
-    get_price_graph('Necro Gardna')
+    get_price_graph('Effect Veiler')
 
 # Script will generate a graph based on card name and pricing_variable_full
 #       Simply select which time period you want to scrape from.

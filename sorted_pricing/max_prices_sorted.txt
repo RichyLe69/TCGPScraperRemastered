@@ -10330,3 +10330,74 @@ collection_old_school - 2023-10-15
 |          B Skull Dragon BPT 2002           |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_cool_singles - 2023-10-18
++------------------------------------------+-------+
+|                   Card                   | Price |
++------------------------------------------+-------+
+|    Black Rose Dragon Ghost 1st - SEEK    |  2899 |
+| red dragon archfiend Ultimate 1st - SEEK |  549  |
+| Power Tool Dragon Ghost 1st - TCG / SEEK |  454  |
+|                   test                   |   0   |
++------------------------------------------+-------+
+buylist_cool_singles_t2 - 2023-10-18
++---------------------------------------------+-------+
+|                     Card                    | Price |
++---------------------------------------------+-------+
+| Caius Shadow Monarch Ultimate TU EURO Print |  1000 |
+|          Bottomless Trap Hole CP04          |  799  |
+|    Dark Armed Dragon Ultimate EURO Print    |  550  |
+|                Dad secret 1st               |  405  |
+|                JD Secret 1st                |  299  |
+|           Dimensional Prison Super          |   0   |
+|                     test                    |   0   |
++---------------------------------------------+-------+
+buylist_double_up_hoard - 2023-10-18
++-----------------------------------------+-------+
+|                   Card                  | Price |
++-----------------------------------------+-------+
+|             Honest Ghost 1st            |  419  |
+|   Lumina Lightsworn Summoner Super CP   |  338  |
+|    Allure of Darkness Ultimate 1st EN   |  299  |
+|  Charge of the Light Brigade Secret 1st |  299  |
+| Phoenix Wing Wind Blast Ultimate 1st NM |  274  |
+|         Chaos Sorcerer Ultra TU         |  244  |
+|      Emegency Teleport Ultimate 1st     |  190  |
+|            Tragoedia Ultimate           |  169  |
+|     Ehren Lightsworn Monk Secret 1st    |  150  |
+|  Lyla Lightsworn Sorceress Ultimate 1st |  149  |
+|       Solar Recharge Ultimate 1st       |  125  |
+|  Celestia Lightsworn Angel Ultimate 1st |  120  |
+|            Doomkaiser utr 1st           |  119  |
+|           Krebons Super TU EN           |   99  |
+|        Diamond Dude Ultimate 1st        |   84  |
+|            Beckoning Light TU           |   50  |
+|             Destiny Draw 1st            |   13  |
+|          Crush Card Virus GLD1          |   0   |
+|                   test                  |   0   |
++-----------------------------------------+-------+
+buylist_foreign_converts - 2023-10-18
++--------------------------------+-------+
+|              Card              | Price |
++--------------------------------+-------+
+|   Trap Dustshoot Super CP EN   |  999  |
+|       Maxx C Ultimate EN       |  888  |
+| Pot of Avarice Ultimate 1st EN |  299  |
+|  Solemn Warning Ultimate 1st   |  153  |
+|              test              |   0   |
++--------------------------------+-------+
+buylist_edison - 2023-10-18
++----------------------------------+-------+
+|               Card               | Price |
++----------------------------------+-------+
+|       Archlord Kristya 1st       |  693  |
+| Black Wing Armor Master Ulti 1st |  142  |
+|  Nimble Mega Hamster 1st Super   |   20  |
+| Shire Lightsworn Fairy Super 1st |   19  |
+|     Iron Chain Dragon R 1st      |   18  |
+|     Consecrated Light C 1st      |   4   |
+|         Gale CRMS R 1st          |   3   |
+| Herald of Orange Light Rare 1st  |   3   |
+|  Soul of Purity and Light 1st C  |   1   |
+|      Flamvell Uruquizas DT       |   0   |
+|               test               |   0   |
++----------------------------------+-------+

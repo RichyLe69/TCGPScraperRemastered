@@ -10,39 +10,46 @@
 
 # High
 # T1
-# 3 Lumina
-# 1 Honest
-# 3 Charge
-# 3 Solar
-# 2 Allure
+# 1 Caius Ulti English NM
+# 2 Dark Armed Dragon Ulti NM English
+# 1 Honest Ghost 1st English NM
+# 3 Tragoedia Ulti English NM
+# 1 Lyla Ulti 1st Euro NM English
+# 3 Celestia Ulti 1st Euro NM English
+# 2 Diamond dude Ulti 1st NM English
 
-# T2
-# 1 Lyla
-# 3 Celestia
-# 3 Trag
-# 1 Chaos Sorc
+# 3 Lumina Champion Pack Super NM Enlgish
+# 1 Chaos Sorcerer Ultra NM English
+
+# 3 Charge Secret 1st NM English
+# 3 Solar Ulti 1st Euro NM English
+# 2 Allure Ulti 1st Euro NM English
+
+# 2 Beckoning TU Super NM English
+# 1 Phoenix Wing Wind Blast Ulti 1st NM English
+# 1 Crush Card Virus GLD NM English
+# 2 Emergency Teleport Ulti 1st NM English
+
+# 3 Judgment Dragon Secret 1st NM English
+# 3 Dark Armed Dragon Secret 1st NM English
+
         # 1 Plague
-
-
+# 2 Krebons
+# 1 D draw - TCG
 # Medium
 # T1
-# 2 Beckoning - TCG
+
 
           # 1 DD crow
-# 1 PWWB
+
           # 1 Brain
-# 2 Diamond dude
-# 2 Krebons
-# 1 crush
-# 2 e tele
+
+
 
 # T2
 
-# 1 Oppression - TCG
-# 3 D draw - TCG
-# 3 Mali - FB
-# 1 Stratos - TCG
-# Tomato?
+
+
 
 ###
 
@@ -91,28 +98,13 @@ Chaos Sorcerer Ultra TU:
   edition: 'Near Mint'
   qty: 1
 
-Necro Gardna Ultimate 1st:
-  url: 58524
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Plaguespreader Zombie Ultimate 1st:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Wulf Lightsworn Beast 1st:
-  url: 26717
-  edition: 'Near Mint 1st'
-  qty: 3
+#Plaguespreader Zombie Ultimate 1st:
+#  url: 58506
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Ehren Lightsworn Monk Secret 1st:
   url: 26776
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Aurkus Lightsworn Druid LODT 1st:
-  url: 26775
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -126,37 +118,30 @@ Beckoning Light TU:
 #  edition: 'Near Mint 1st'
 #  qty: 1
 
+Diamond Dude Ultimate 1st:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 2
 
+Krebons Super TU EN:
+  url: 33227
+  edition: 'Near Mint Unlimited'
+  qty: 2
 
-#Diamond Dude Ultimate 1st:
-#  url: 58654
-#  edition: 'Near Mint 1st'
-#  qty: 2
-#
-#Krebons Super TU EN:
-#  url: 33227
-#  edition: 'Near Mint Unlimited'
-#  qty: 2
-#
 #D.D. Crow Ultimate 1st:
 #  url: 58555
 #  edition: 'Near Mint 1st'
 #  qty: 1
 #
-#Destiny Draw 1st:
-#  url: 25641
-#  edition: 'Near Mint 1st'
-#  qty: 3
-#
-#Destiny Hero Malicious 1st:
-#  url: 25632
-#  edition: 'Near Mint 1st'
-#  qty: 3
-#
-#Phoenix Wing Wind Blast Ultimate 1st NM:
-#  url: 58783
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Destiny Draw 1st:
+  url: 25641
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Phoenix Wing Wind Blast Ultimate 1st NM:
+  url: 58783
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Emegency Teleport Ultimate 1st:
   url: 58522
@@ -173,7 +158,6 @@ Doomkaiser utr 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# 1 stratos, mystic tomato? 1 royal oppr
 
 # Double secondary Light / Dark Decks?
 # I'll decide when I get there.

@@ -155,31 +155,33 @@ Monsters:
   Pot of Duality: 2
 
   # Ultra
-  Monster Reborn: 1
+  Monster Reborn: 2
   Scapegoat: 2
-  Delinquent Duo: 1
   Mystical Space Typhoon: 3
+
   Snatch Steal: 1
   Enemy Controller: 2
   Premature Burial: 1
   Dimension Fusion: 1
+  Delinquent Duo: 1
   Gold Sarcophagus: 2
+  Blank.......: 1
 
   # Super
   Book of Moon: 2
-  Card Destruction: 1
   Graceful Charity: 1
   Heavy Storm: 1
   Giant Trunade: 1
   Dark Hole: 1
-  Smashing Ground: 2
+  Card Destruction: 1
   Foolish Burial: 2
+
   Mind Control: 2
   Nobleman of Crossout: 2
   Reinforcement of the Army: 2
   Confiscation: 1
-  Blank: 2
-  Blank......: 18
+  Smashing Ground: 2
+  Blank: 18
 
 # Traps
   # Ulti
@@ -207,6 +209,7 @@ Monsters:
   Trap Dustshoot: 3
   Bottomless Trap Hole: 2
   Mind Crush: 1
+
   Threatening Roar: 2
   Royal Oppression: 4
   Dimensional Prison: 2

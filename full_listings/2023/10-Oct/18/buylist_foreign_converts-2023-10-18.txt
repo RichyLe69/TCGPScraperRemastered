@@ -1,0 +1,33 @@
+Sum of Min Listed: $2,586.00
+Sum of Max Listed: $3,526.00
+Sum of Mean Listed: $2,757.00
+Sum of Median Listed: $2,654.50
+
+Maxx C Ultimate EN [2] - Near Mint Unlimited <18>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 508 | 888 | 566  | 529.0  |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st EN [2] - Near Mint 1st Edition <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 246 | 299 | 258  |  249   |
++-----+-----+------+--------+
+
+Trap Dustshoot Super CP EN [1] - Near Mint <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 999 | 999 | 999  |  999   |
++-----+-----+------+--------+
+
+Solemn Warning Ultimate 1st [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  79 | 153 | 110  |  99.5  |
++-----+-----+------+--------+
+

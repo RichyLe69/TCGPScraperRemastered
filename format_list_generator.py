@@ -13,12 +13,12 @@ def get_rarity_from_card_code(card):  # Duplicate Func
 
 
 def price_data_dict(card_name):
-    # pricing_variable_full = [['min_prices_sorted.txt', 'Min']]  # ,
+    pricing_variable_full = [['min_prices_sorted.txt', 'Min']]  # ,
     # ['max_prices_sorted.txt', 'Max'],
     # ['mean_prices_sorted.txt', 'Mean'],
     # ['median_prices_sorted.txt', 'Median']]  # 2023 and onwards
 
-    pricing_variable_full = [['/garb/lowest_prices_sorted.txt', 'lowest']]#,
+    # pricing_variable_full = [['/garb/lowest_prices_sorted.txt', 'lowest']]#,
     #                          ['/garb/last_sold_sorted.txt', 'last sold'],
     #                          ['/garb/market_prices_sorted.txt', 'market prices']]  # 2021 May - 2022 Nov
     #
