@@ -70,7 +70,7 @@ def scrape_website(card_data_yaml, list_name, browser):
                                     url_mod[3])
         browser.get(url)
 
-        try:
+        try:  # If it errors out here, might need to update chrome driver.
             WebDriverWait(browser, timer).until(
                 EC.presence_of_element_located((By.CLASS_NAME, 'product-details__listings')))
             time.sleep(6)
@@ -78,7 +78,6 @@ def scrape_website(card_data_yaml, list_name, browser):
         except:
             output_to_txt_console('Timeout No Results for: {}'.format(card))
             no_table = True
-
         if no_table:
             continue  # increments to the next element in for loop.
 
