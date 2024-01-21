@@ -8,74 +8,48 @@
 
 # Double Twilight 2009 & Oppr TeleDad - that aren't accounted for in other lists
 
-# High
-# T1
-# 1 Caius Ulti English NM
-# 2 Dark Armed Dragon Ulti NM English
-# 1 Honest Ghost 1st English NM
-# 3 Tragoedia Ulti English NM
-# 1 Lyla Ulti 1st Euro NM English
-# 3 Celestia Ulti 1st Euro NM English
-# 2 Diamond dude Ulti 1st NM English
+#Wants:
 
-# 3 Lumina Champion Pack Super NM Enlgish
-# 1 Chaos Sorcerer Ultra NM English
+#Black Rose Dragon Ghost 1st
+#Power Tool Dragon Ghost 1st
 
-# 3 Charge Secret 1st NM English
-# 3 Solar Ulti 1st Euro NM English
-# 2 Allure Ulti 1st Euro NM English
+Black Rose Dragon Ghost 1st - SEEK:
+  url: 28432
+  edition: 'Near Mint 1st'
+  qty: 1
 
-# 2 Beckoning TU Super NM English
-# 1 Phoenix Wing Wind Blast Ulti 1st NM English
-# 1 Crush Card Virus GLD NM English
-# 2 Emergency Teleport Ulti 1st NM English
+Power Tool Dragon Ghost 1st - TCG / SEEK:
+  url: 31944
+  edition: 'Near Mint 1st'
+  qty: 1
 
-# 3 Judgment Dragon Secret 1st NM English
-# 3 Dark Armed Dragon Secret 1st NM English
-
-        # 1 Plague
-# 2 Krebons
-# 1 D draw - TCG
-# Medium
-# T1
-
-
-          # 1 DD crow
-
-          # 1 Brain
-
-
-
-# T2
-
-
-
-
-###
-
-Lumina Lightsworn Summoner Super CP:
-  url: 33097
-  edition: 'Near Mint Unlimited'
-  qty: 3
+#Honest Ghost 1st
+#Caius Ultimate Euro print
+#Tragoedia Ultimate Euro print
+#Dark Armed Dragon Ultimate Euro print
+#Lyla Lightsworn Ultimate 1st Euro print
+#Celestia Lightsworn Ultimate 1st Euro Print
+#Diamond Dude Ultimate 1st Euro Print
+#Maxx C Ultimate
 
 Honest Ghost 1st:
   url: 27458
   edition: 'Near Mint 1st'
   qty: 1
 
-Charge of the Light Brigade Secret 1st:
-  url: 27587
-  edition: 'Near Mint 1st'
+Caius Shadow Monarch Ultimate TU EURO Print:
+  url: 66668
+  edition: 'Near Mint Unlimited'
+  qty: 1
+
+Tragoedia Ultimate:
+  url: 38641
+  edition: 'Near Mint Unlimited'
   qty: 3
 
-Solar Recharge Ultimate 1st:
-  url: 27466
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Allure of Darkness Ultimate 1st EN:
-  url: 27471
-  edition: 'Near Mint 1st'
+Dark Armed Dragon Ultimate EURO Print:
+  url: 66731
+  edition: 'Near Mint Unlimited'
   qty: 2
 
 Lyla Lightsworn Sorceress Ultimate 1st:
@@ -88,9 +62,30 @@ Celestia Lightsworn Angel Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Tragoedia Ultimate:
-  url: 38641
+Diamond Dude Ultimate 1st:
+  url: 58654
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Maxx C Ultimate EN:
+  url: 79457
   edition: 'Near Mint Unlimited'
+  qty: 2
+
+#Judgment Dragon Secret 1st
+#Dark Armed Dragon Secret 1st
+#Chaos Sorcerer TU Ultra
+#Lumina Champion Pack Super
+#Krebons TU Super
+
+Dad secret 1st:
+  url: 26620
+  edition: 'Near Mint 1st'
+  qty: 3
+
+JD Secret 1st:
+  url: 26720
+  edition: 'Near Mint 1st'
   qty: 3
 
 Chaos Sorcerer Ultra TU:
@@ -98,14 +93,63 @@ Chaos Sorcerer Ultra TU:
   edition: 'Near Mint'
   qty: 1
 
-#Plaguespreader Zombie Ultimate 1st:
-#  url: 58506
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Lumina Lightsworn Summoner Super CP:
+  url: 33097
+  edition: 'Near Mint Unlimited'
+  qty: 3
 
-Ehren Lightsworn Monk Secret 1st:
-  url: 26776
+Krebons Super TU EN:
+  url: 33227
+  edition: 'Near Mint Unlimited'
+  qty: 2
+
+#Pot of Avarice Ultimate 1st
+#Emergency Teleport Ultimate 1st
+#Allure of Darkness Ultimate 1st Euro Print
+#Solar Recharge Ultimate 1st
+#Charge of the Light Brigade Secret 1st
+
+Pot of Avarice Ultimate 1st EN:
+  url: 58619
+  edition: 'Near Mint 1st Edition'
+  qty: 2
+
+Emergency Teleport Ultimate 1st:
+  url: 58522
   edition: 'Near Mint 1st'
+  qty: 2
+
+Allure of Darkness Ultimate 1st EN:
+  url: 27471
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Charge of the Light Brigade Secret 1st:
+  url: 27587
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Solar Recharge Ultimate 1st:
+  url: 27466
+  edition: 'Near Mint 1st'
+  qty: 3
+
+
+#Solemn Warning Ultimate 1st
+#Crush Card GLD1
+#Beckoning Light TU Super
+#Trap Dustshoot Super
+#Black Wing Armor Master Ultimate 1st
+# RDA, Iron Chain, Flamevell
+
+Solemn Warning Ultimate 1st:
+  url: 58442
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Crush Card Virus GLD1: # Rarity convert
+  url: 32215
+  edition: 'Near Mint'
   qty: 1
 
 Beckoning Light TU:
@@ -113,50 +157,73 @@ Beckoning Light TU:
   edition: 'Near Mint Unlimited'
   qty: 2
 
+Trap Dustshoot Super CP EN:
+  url: 33037
+  edition: 'Near Mint'
+  qty: 1
+
+red dragon archfiend Ultimate 1st - SEEK:
+  url: 58519
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Black Wing Armor Master Ulti 1st:
+  url: 58499
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Iron Chain Dragon R 1st:
+  url: 28433
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Flamvell Uruquizas DT:
+  url: 80928
+  edition: 'Near Mint'
+  qty: 1
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Plaguespreader Zombie Ultimate 1st:
+#  url: 58506
+#  edition: 'Near Mint 1st'
+#  qty: 1
+
+#Ehren Lightsworn Monk Secret 1st:
+#  url: 26776
+#  edition: 'Near Mint 1st'
+#  qty: 1
+
 #Brain Control Ultimate 1st:
 #  url: 58749
 #  edition: 'Near Mint 1st'
 #  qty: 1
-
-Diamond Dude Ultimate 1st:
-  url: 58654
-  edition: 'Near Mint 1st'
-  qty: 2
-
-Krebons Super TU EN:
-  url: 33227
-  edition: 'Near Mint Unlimited'
-  qty: 2
 
 #D.D. Crow Ultimate 1st:
 #  url: 58555
 #  edition: 'Near Mint 1st'
 #  qty: 1
 #
-Destiny Draw 1st:
-  url: 25641
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Phoenix Wing Wind Blast Ultimate 1st NM:
-  url: 58783
-  edition: 'Near Mint 1st'
-  qty: 1
 
-Emegency Teleport Ultimate 1st:
-  url: 58522
-  edition: 'Near Mint 1st'
-  qty: 2
 
-Crush Card Virus GLD1: # Rarity convert
-  url: 32215
-  edition: 'Near Mint'
-  qty: 1
 
-Doomkaiser utr 1st:
-  url: 58509
-  edition: 'Near Mint 1st'
-  qty: 1
+
+
+
+
 
 
 # Double secondary Light / Dark Decks?

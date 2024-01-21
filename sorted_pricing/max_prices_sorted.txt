@@ -12080,3 +12080,37 @@ collection_old_school - 2024-01-15
 |          B Skull Dragon BPT 2002           |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_double_up_hoard - 2024-01-20
++---------------------------------------------+-------+
+|                     Card                    | Price |
++---------------------------------------------+-------+
+|      Black Rose Dragon Ghost 1st - SEEK     |  2899 |
+| Caius Shadow Monarch Ultimate TU EURO Print |  1000 |
+|              Maxx C Ultimate EN             |  888  |
+|     Lumina Lightsworn Summoner Super CP     |  499  |
+|          Trap Dustshoot Super CP EN         |  499  |
+|   red dragon archfiend Ultimate 1st - SEEK  |  499  |
+|    Dark Armed Dragon Ultimate EURO Print    |  427  |
+|   Power Tool Dragon Ghost 1st - TCG / SEEK  |  400  |
+|                Dad secret 1st               |  399  |
+|               Honest Ghost 1st              |  391  |
+|      Allure of Darkness Ultimate 1st EN     |  299  |
+|                JD Secret 1st                |  299  |
+|    Charge of the Light Brigade Secret 1st   |  298  |
+|        Pot of Avarice Ultimate 1st EN       |  284  |
+|         Solemn Warning Ultimate 1st         |  250  |
+|           Chaos Sorcerer Ultra TU           |  244  |
+|              Tragoedia Ultimate             |  184  |
+|    Lyla Lightsworn Sorceress Ultimate 1st   |  164  |
+|         Solar Recharge Ultimate 1st         |  149  |
+|       Black Wing Armor Master Ulti 1st      |  143  |
+|       Emergency Teleport Ultimate 1st       |  109  |
+|    Celestia Lightsworn Angel Ultimate 1st   |  100  |
+|             Krebons Super TU EN             |   85  |
+|          Diamond Dude Ultimate 1st          |   71  |
+|              Beckoning Light TU             |   50  |
+|           Iron Chain Dragon R 1st           |   18  |
+|            Crush Card Virus GLD1            |   0   |
+|            Flamvell Uruquizas DT            |   0   |
+|                     test                    |   0   |
++---------------------------------------------+-------+

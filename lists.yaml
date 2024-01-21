@@ -14,26 +14,24 @@
 
 ## Split Collections
 
-collection_deck_builder:
-  path: 'decks/split_lists/collection_deck_builder.yaml'
-
-collection_extra_deck:
-  path: 'decks/split_lists/collection_extra_deck.yaml'
-
-collection_deck_core:
-  path: 'decks/split_lists/collection_deck_core.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_deck_builder:
+#  path: 'decks/split_lists/collection_deck_builder.yaml'
+#
+#collection_extra_deck:
+#  path: 'decks/split_lists/collection_extra_deck.yaml'
+#
+#collection_deck_core:
+#  path: 'decks/split_lists/collection_deck_core.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
 # 2.8k - [x] Vintage Accessories - 2.5k+ Gray 94 Dash, 275-300 Ninja girl deck box
 
-# 2k - cool singles - remaining ghosts n extra deck synchro singles
-# 3.7k - cool singles t2 - additional edison, historical max rarity, old school rarity bumps
-# 5.5k+ double_up_hoard - double max LS - probably pass on TeleDad for now
-# 2.7k - foreign converts - Finish up Tengu plant english
+# FINISH THE WHITE BINDER
+# Double up hoard list
 
 # 2.2k - edison - kristyasworn & leftovers - mainly just 3 kristyas, expensive
 
@@ -54,15 +52,14 @@ collection_old_school:
 
 # Will definitely buy
 
+buylist_double_up_hoard:
+ path: 'decks/current_buys/buylist_double_up_hoard.yaml'
 
 #buylist_cool_singles:
 #  path: 'decks/current_buys/buylist_cool_singles.yaml'
 #
 #buylist_cool_singles_t2:
 #  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
-#
-#buylist_double_up_hoard:
-# path: 'decks/current_buys/buylist_double_up_hoard.yaml'
 #
 #buylist_foreign_converts:
 #  path: 'decks/current_buys/buylist_foreign_converts.yaml'
