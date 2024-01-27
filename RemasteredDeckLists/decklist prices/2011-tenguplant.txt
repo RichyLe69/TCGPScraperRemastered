@@ -3358,3 +3358,1683 @@ Total Price: 15609
 | 1 Number 39 Utopia UR                            |    - |
 | 1 Steelswarm Roach ScR                           |    - |
 +--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 7464
+Side Deck: 3355
+Extra Deck: 2801
+Total Price: 13620
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  130 |
+| 2 Caius the Shadow Monarch UtR                   |  419 |
+| 3 Tour Guide From the Underworld UtR             |  180 |
+| 3 Maxx C UtR                                     |  416 |
+| 1 Effect Veiler UtR                              |  280 |
+| 2 Thunder King Rai Oh UtR                        |  167 |
+| 1 Sangan SR                                      |  192 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   62 |
+| 1 Dandylion UtR                                  |  105 |
+| 1 Lonefire Blossom SR                            |  346 |
+| 1 Glow Up Bulb UtR                               |   69 |
+| 3 Reborn Tengu UR                                |   11 |
+| 1 Gorz the Emissary of Darkness ScR              |    8 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   42 |
+| 1 Monster Reborn UR                              |   13 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  948 |
+| 1 Pot of Avarice UtR                             |  208 |
+| 1 Foolish Burial SR                              |  265 |
+| 1 Mind Control SR                                |   21 |
+| 2 Enemy Controller UR                            |   39 |
+| 2 Mystical Space Typhoon UR                      |   74 |
+| 2 Solemn Warning UtR                             |   79 |
+| 1 Solemn Judgment UR                             |  298 |
+| 1 Torrential Tribute UR                          |   53 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  330 |
+| 2 Cyber Dragon UtR                               |  241 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  167 |
+| 1 Caius the Shadow Monarch UtR                   |  419 |
+| 1 Mystical Space Typhoon UR                      |   74 |
+| 1 Smashing Ground SR                             |  144 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   71 |
+| 1 Mirror Force UR                                |   70 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  202 |
+| 1 Stardust Dragon GR                             | 1395 |
+| 1 Black Rose Dragon GR                           |  200 |
+| 1 Ancient Fairy Dragon GR                        |  599 |
+| 1 Scrap Dragon UtR                               |   53 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  131 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   10 |
+| 1 Ally of Justice Catastor DT                    |   93 |
+| 1 Armory Arm UR                                  |   12 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   72 |
+| 1 Number 17 Leviathan Dragon GR                  |   34 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 12338
+Side Deck: 4738
+Extra Deck: 4300
+Total Price: 21376
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  332 |
+| 2 Caius the Shadow Monarch UtR                   | 1000 |
+| 3 Tour Guide From the Underworld UtR             |  299 |
+| 3 Maxx C UtR                                     |  888 |
+| 1 Effect Veiler UtR                              |  520 |
+| 2 Thunder King Rai Oh UtR                        |  200 |
+| 1 Sangan SR                                      |  240 |
+| 1 Spirit Reaper SR                               |  599 |
+| 1 Debris Dragon UtR                              |  110 |
+| 1 Dandylion UtR                                  |  200 |
+| 1 Lonefire Blossom SR                            |  699 |
+| 1 Glow Up Bulb UtR                               |  149 |
+| 3 Reborn Tengu UR                                |   19 |
+| 1 Gorz the Emissary of Darkness ScR              |   14 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   82 |
+| 1 Heavy Storm SR                                 |   60 |
+| 1 Monster Reborn UR                              |   40 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  994 |
+| 1 Pot of Avarice UtR                             |  284 |
+| 1 Foolish Burial SR                              |  302 |
+| 1 Mind Control SR                                |   30 |
+| 2 Enemy Controller UR                            |   65 |
+| 2 Mystical Space Typhoon UR                      |  145 |
+| 2 Solemn Warning UtR                             |  149 |
+| 1 Solemn Judgment UR                             |  374 |
+| 1 Torrential Tribute UR                          |   74 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  489 |
+| 2 Cyber Dragon UtR                               |  388 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  200 |
+| 1 Caius the Shadow Monarch UtR                   | 1000 |
+| 1 Mystical Space Typhoon UR                      |  145 |
+| 1 Smashing Ground SR                             |  249 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |  119 |
+| 1 Mirror Force UR                                |  162 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  249 |
+| 1 Stardust Dragon GR                             | 2423 |
+| 1 Black Rose Dragon GR                           |  279 |
+| 1 Ancient Fairy Dragon GR                        |  700 |
+| 1 Scrap Dragon UtR                               |   75 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  200 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   17 |
+| 1 Ally of Justice Catastor DT                    |  150 |
+| 1 Armory Arm UR                                  |   25 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |  114 |
+| 1 Number 17 Leviathan Dragon GR                  |   68 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 9063
+Side Deck: 3867
+Extra Deck: 3335
+Total Price: 16265
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  230 |
+| 2 Caius the Shadow Monarch UtR                   |  727 |
+| 3 Tour Guide From the Underworld UtR             |  200 |
+| 3 Maxx C UtR                                     |  530 |
+| 1 Effect Veiler UtR                              |  342 |
+| 2 Thunder King Rai Oh UtR                        |  180 |
+| 1 Sangan SR                                      |  210 |
+| 1 Spirit Reaper SR                               |  513 |
+| 1 Debris Dragon UtR                              |   71 |
+| 1 Dandylion UtR                                  |  125 |
+| 1 Lonefire Blossom SR                            |  426 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   56 |
+| 1 Heavy Storm SR                                 |   50 |
+| 1 Monster Reborn UR                              |   29 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  957 |
+| 1 Pot of Avarice UtR                             |  236 |
+| 1 Foolish Burial SR                              |  280 |
+| 1 Mind Control SR                                |   24 |
+| 2 Enemy Controller UR                            |   53 |
+| 2 Mystical Space Typhoon UR                      |   92 |
+| 2 Solemn Warning UtR                             |   93 |
+| 1 Solemn Judgment UR                             |  327 |
+| 1 Torrential Tribute UR                          |   60 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  359 |
+| 2 Cyber Dragon UtR                               |  267 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  180 |
+| 1 Caius the Shadow Monarch UtR                   |  727 |
+| 1 Mystical Space Typhoon UR                      |   92 |
+| 1 Smashing Ground SR                             |  177 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   94 |
+| 1 Mirror Force UR                                |  106 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  213 |
+| 1 Stardust Dragon GR                             | 1745 |
+| 1 Black Rose Dragon GR                           |  248 |
+| 1 Ancient Fairy Dragon GR                        |  645 |
+| 1 Scrap Dragon UtR                               |   67 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  144 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |  109 |
+| 1 Armory Arm UR                                  |   16 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   92 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+
+2011-tenguplant - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 8853
+Side Deck: 3775
+Extra Deck: 2973
+Total Price: 15601
++--------------------------------------------------+------+
+| Card                                             |    $ |
++--------------------------------------------------+------+
+| Main Deck                                        |      |
+| 1 Black Luster Soldier Envoy of the Beginning UR |  205 |
+| 2 Caius the Shadow Monarch UtR                   |  749 |
+| 3 Tour Guide From the Underworld UtR             |  189 |
+| 3 Maxx C UtR                                     |  519 |
+| 1 Effect Veiler UtR                              |  304 |
+| 2 Thunder King Rai Oh UtR                        |  174 |
+| 1 Sangan SR                                      |  199 |
+| 1 Spirit Reaper SR                               |  499 |
+| 1 Debris Dragon UtR                              |   65 |
+| 1 Dandylion UtR                                  |  113 |
+| 1 Lonefire Blossom SR                            |  411 |
+| 1 Glow Up Bulb UtR                               |   96 |
+| 3 Reborn Tengu UR                                |   14 |
+| 1 Gorz the Emissary of Darkness ScR              |   10 |
+| 1 Spore SR                                       |    - |
+| 1 One for One SR                                 |    - |
+| 1 Dark Hole SR                                   |   49 |
+| 1 Heavy Storm SR                                 |   49 |
+| 1 Monster Reborn UR                              |   39 |
+| 1 Scapegoat UR                                   |    - |
+| 1 Book of Moon SR                                |  949 |
+| 1 Pot of Avarice UtR                             |  248 |
+| 1 Foolish Burial SR                              |  284 |
+| 1 Mind Control SR                                |   25 |
+| 2 Enemy Controller UR                            |   55 |
+| 2 Mystical Space Typhoon UR                      |   82 |
+| 2 Solemn Warning UtR                             |   83 |
+| 1 Solemn Judgment UR                             |  299 |
+| 1 Torrential Tribute UR                          |   58 |
+| 1 Trap Dustshoot SR                              |  499 |
+|                                                  |      |
+| Side Deck                                        |      |
+| 1 Breaker the Magical Warrior SR                 |  332 |
+| 2 Cyber Dragon UtR                               |  242 |
+| 2 D.D. Crow UtR                                  |    - |
+| 1 Thunder King Rai Oh UtR                        |  174 |
+| 1 Caius the Shadow Monarch UtR                   |  749 |
+| 1 Mystical Space Typhoon UR                      |   82 |
+| 1 Smashing Ground SR                             |  171 |
+| 2 Bottomless Trap Hole SR                        |  799 |
+| 2 Dimensional Prison SR                          |    - |
+| 1 Mind Crush SR                                  |   97 |
+| 1 Mirror Force UR                                |   88 |
+|                                                  |      |
+| Extra Deck                                       |      |
+| 1 Trishula Dragon of the Ice Barrier DT          |  207 |
+| 1 Stardust Dragon GR                             | 1400 |
+| 1 Black Rose Dragon GR                           |  246 |
+| 1 Ancient Fairy Dragon GR                        |  644 |
+| 1 Scrap Dragon UtR                               |   70 |
+| 1 Brionac Dragon of the Ice Barrier DT           |  140 |
+| 1 Orient Dragon ScR                              |    - |
+| 1 T.G. Hyper Librarian UR                        |   12 |
+| 1 Ally of Justice Catastor DT                    |   99 |
+| 1 Armory Arm UR                                  |   15 |
+| 1 Formula Synchron UR                            |    - |
+| 1 Leviair the Sea Dragon UtR                     |   96 |
+| 1 Number 17 Leviathan Dragon GR                  |   44 |
+| 1 Number 39 Utopia UR                            |    - |
+| 1 Steelswarm Roach ScR                           |    - |
++--------------------------------------------------+------+

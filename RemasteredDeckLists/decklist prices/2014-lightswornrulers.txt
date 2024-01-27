@@ -2446,3 +2446,1227 @@ Total Price: 5477
 | 2 Mecha Phantom Beast Dracossack ScR   |   9 |
 | 1 Number 11 Big Eye ScR                |  27 |
 +----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 5105
+Side Deck: 0
+Extra Deck: 448
+Total Price: 5553
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 399 |
+| 3 Lumina Lightsworn Summoner SR        | 399 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        |  94 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  33 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 306 |
+| 3 Necro Gardna UtR                     |  39 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 268 |
+| 3 Solar Recharge UtR                   |  97 |
+| 1 Allure of Darkness UtR               | 228 |
+| 1 Upstart Goblin SR                    |  50 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Foolish Burial SR                    | 265 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 200 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  53 |
+| 1 Leviair the Sea Dragon UtR           |  72 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  21 |
+| 1 Number 101 Silent Honor Ark UtR      |  24 |
+| 1 Diamond Dire Wolf ScR                |   7 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   3 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Number 11 Big Eye ScR                |  21 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 6817
+Side Deck: 0
+Extra Deck: 669
+Total Price: 7486
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 650 |
+| 3 Lumina Lightsworn Summoner SR        | 499 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 164 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  37 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 391 |
+| 3 Necro Gardna UtR                     |  59 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 298 |
+| 3 Solar Recharge UtR                   | 149 |
+| 1 Allure of Darkness UtR               | 299 |
+| 1 Upstart Goblin SR                    |  77 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Foolish Burial SR                    | 302 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 279 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  75 |
+| 1 Leviair the Sea Dragon UtR           | 114 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  44 |
+| 1 Number 101 Silent Honor Ark UtR      |  38 |
+| 1 Diamond Dire Wolf ScR                |   9 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   8 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Number 11 Big Eye ScR                |  39 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 5609
+Side Deck: 0
+Extra Deck: 555
+Total Price: 6164
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 446 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 135 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 336 |
+| 3 Necro Gardna UtR                     |  46 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   | 103 |
+| 1 Allure of Darkness UtR               | 244 |
+| 1 Upstart Goblin SR                    |  55 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 957 |
+| 1 Foolish Burial SR                    | 280 |
+| 3 Needlebug Nest C                     |   1 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 248 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  67 |
+| 1 Leviair the Sea Dragon UtR           |  92 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  28 |
+| 1 Number 101 Silent Honor Ark UtR      |  27 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   5 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+
+2014-lightswornrulers - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 5565
+Side Deck: 0
+Extra Deck: 558
+Total Price: 6123
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Judgment Dragon UtR                  | 439 |
+| 3 Lumina Lightsworn Summoner SR        | 449 |
+| 2 Raiden Lightsworn Assassin SR        |   - |
+| 2 Lyla Lightsworn Sorceress UtR        | 149 |
+| 1 Wulf Lightsworn Beast SR             |   8 |
+| 1 Garoth Lightsworn Warrior SR         |  35 |
+| 1 Jain Lightsworn Paladin C            |   - |
+| 1 Blaster Dragon Ruler of Infernos ScR |   - |
+| 1 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Eclipse Wyvern SR                    |   - |
+| 1 Honest GR                            | 324 |
+| 3 Necro Gardna UtR                     |  44 |
+| 1 Lightray Diabolos R                  |   - |
+| 3 Kuribandit ScR                       |   1 |
+| 1 Charge of the Light Brigade ScR      | 283 |
+| 3 Solar Recharge UtR                   |  98 |
+| 1 Allure of Darkness UtR               | 229 |
+| 1 Upstart Goblin SR                    |  53 |
+| 3 Soul Charge SR                       |   1 |
+| 1 Book of Moon SR                      | 949 |
+| 1 Foolish Burial SR                    | 284 |
+| 3 Needlebug Nest C                     |   2 |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Arcanite Magician SR                 |  35 |
+| 1 Black Rose Dragon GR                 | 246 |
+| 1 Michael the Arch Lightsworn UR       |   - |
+| 1 Scrap Dragon UtR                     |  70 |
+| 1 Leviair the Sea Dragon UtR           |  96 |
+| 1 Mechquipped Angineer SR              |   - |
+| 1 Ghostrick Alucard UtR                |  26 |
+| 1 Number 101 Silent Honor Ark UtR      |  26 |
+| 1 Diamond Dire Wolf ScR                |   8 |
+| 1 Lavalval Chain DUPR                  |   - |
+| 1 Number 80 Rhapsody in Berserk SR     |   6 |
+| 1 Starliege Paladynamo UR              |   - |
+| 2 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Number 11 Big Eye ScR                |  27 |
++----------------------------------------+-----+

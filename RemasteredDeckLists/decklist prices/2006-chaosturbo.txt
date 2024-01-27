@@ -2494,3 +2494,1251 @@ Total Price: 8279
 | 2 Ryu Senshi SR                                  |   - |
 | 3 Thousand Eyes Restrict UtR                     |  23 |
 +--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 6973
+Side Deck: 0
+Extra Deck: 54
+Total Price: 7027
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 130 |
+| 1 Breaker the Magical Warrior SR                 | 330 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 443 |
+| 2 Night Assailant SR                             | 247 |
+| 1 Sangan SR                                      | 192 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  25 |
+| 1 Tribe Infecting Virus SR                       |  16 |
+| 1 Tsukuyomi UtR                                  |  58 |
+| 1 Book of Moon SR                                | 948 |
+| 1 Card Destruction SR                            |  44 |
+| 1 Delinquent Duo UR                              |  68 |
+| 1 Graceful Charity SR                            |   4 |
+| 1 Heavy Storm SR                                 |  42 |
+| 1 Mystical Space Typhoon UR                      |  74 |
+| 2 Nobleman of Crossout SR                        |  24 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 112 |
+| 1 Mirror Force UR                                |  70 |
+| 3 Phoenix Wing Wind Blast UtR                    | 179 |
+| 1 Ring of Destruction ScR                        |  49 |
+| 1 Torrential Tribute UR                          |  53 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  18 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 8833
+Side Deck: 0
+Extra Deck: 105
+Total Price: 8938
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 332 |
+| 1 Breaker the Magical Warrior SR                 | 489 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 369 |
+| 3 Magician of Faith SR                           | 599 |
+| 2 Night Assailant SR                             | 300 |
+| 1 Sangan SR                                      | 240 |
+| 1 Sinister Serpent PScR                          |   6 |
+| 3 Thunder Dragon SP                              |  29 |
+| 1 Tribe Infecting Virus SR                       |  29 |
+| 1 Tsukuyomi UtR                                  | 100 |
+| 1 Book of Moon SR                                | 994 |
+| 1 Card Destruction SR                            |  51 |
+| 1 Delinquent Duo UR                              | 129 |
+| 1 Graceful Charity SR                            |   9 |
+| 1 Heavy Storm SR                                 |  60 |
+| 1 Mystical Space Typhoon UR                      | 145 |
+| 2 Nobleman of Crossout SR                        |  32 |
+| 1 Pot of Greed UtR                               | 179 |
+| 1 Snatch Steal UR                                | 199 |
+| 1 Mirror Force UR                                | 162 |
+| 3 Phoenix Wing Wind Blast UtR                    | 249 |
+| 1 Ring of Destruction ScR                        | 140 |
+| 1 Torrential Tribute UR                          |  74 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  35 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 7631
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7697
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 230 |
+| 1 Breaker the Magical Warrior SR                 | 359 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 361 |
+| 3 Magician of Faith SR                           | 506 |
+| 2 Night Assailant SR                             | 268 |
+| 1 Sangan SR                                      | 210 |
+| 1 Sinister Serpent PScR                          |   3 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  20 |
+| 1 Tsukuyomi UtR                                  |  69 |
+| 1 Book of Moon SR                                | 957 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  83 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  50 |
+| 1 Mystical Space Typhoon UR                      |  92 |
+| 2 Nobleman of Crossout SR                        |  28 |
+| 1 Pot of Greed UtR                               | 140 |
+| 1 Snatch Steal UR                                | 132 |
+| 1 Mirror Force UR                                | 106 |
+| 3 Phoenix Wing Wind Blast UtR                    | 203 |
+| 1 Ring of Destruction ScR                        |  95 |
+| 1 Torrential Tribute UR                          |  60 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+
+2006-chaosturbo - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 7256
+Side Deck: 0
+Extra Deck: 66
+Total Price: 7322
++--------------------------------------------------+-----+
+| Card                                             |   $ |
++--------------------------------------------------+-----+
+| Main Deck                                        |     |
+| 1 Black Luster Soldier Envoy of the Beginning UR | 205 |
+| 1 Breaker the Magical Warrior SR                 | 332 |
+| 3 Chaos Sorcerer UR                              | 149 |
+| 3 Dekoichi the Battle Enchanted Locomotive UtR   |  49 |
+| 3 Gravekeeper Spy SR                             | 359 |
+| 3 Magician of Faith SR                           | 444 |
+| 2 Night Assailant SR                             | 249 |
+| 1 Sangan SR                                      | 199 |
+| 1 Sinister Serpent PScR                          |   4 |
+| 3 Thunder Dragon SP                              |  26 |
+| 1 Tribe Infecting Virus SR                       |  18 |
+| 1 Tsukuyomi UtR                                  |  64 |
+| 1 Book of Moon SR                                | 949 |
+| 1 Card Destruction SR                            |  47 |
+| 1 Delinquent Duo UR                              |  79 |
+| 1 Graceful Charity SR                            |   5 |
+| 1 Heavy Storm SR                                 |  49 |
+| 1 Mystical Space Typhoon UR                      |  82 |
+| 2 Nobleman of Crossout SR                        |  29 |
+| 1 Pot of Greed UtR                               | 127 |
+| 1 Snatch Steal UR                                | 123 |
+| 1 Mirror Force UR                                |  88 |
+| 3 Phoenix Wing Wind Blast UtR                    | 199 |
+| 1 Ring of Destruction ScR                        |  94 |
+| 1 Torrential Tribute UR                          |  58 |
+| 1 Trap Dustshoot SR                              | 499 |
+|                                                  |     |
+| Side Deck                                        |     |
+| 1 None                                           |   - |
+|                                                  |     |
+| Extra Deck                                       |     |
+| 2 Dark Balter the Terrible SR                    |   - |
+| 1 Dark Blade the Dragon Knight UtR               |   - |
+| 1 Darkfire Dragon R                              |   - |
+| 1 Dragoness the Wicked Knight R                  |   - |
+| 1 Fiend Skull Dragon SR                          |   - |
+| 1 Gatling Dragon UtR                             |   - |
+| 1 Master of Oz UtR                               |   - |
+| 1 Ojama King UtR                                 |   - |
+| 1 Reaper on the Nightmare SR                     |   - |
+| 2 Ryu Senshi SR                                  |   - |
+| 3 Thousand Eyes Restrict UtR                     |  22 |
++--------------------------------------------------+-----+

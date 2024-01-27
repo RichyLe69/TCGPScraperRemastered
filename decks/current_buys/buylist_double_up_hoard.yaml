@@ -88,11 +88,6 @@ JD Secret 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Chaos Sorcerer Ultra TU:
-  url: 66690
-  edition: 'Near Mint'
-  qty: 1
-
 Lumina Lightsworn Summoner Super CP:
   url: 33097
   edition: 'Near Mint Unlimited'
@@ -112,7 +107,7 @@ Krebons Super TU EN:
 Pot of Avarice Ultimate 1st EN:
   url: 58619
   edition: 'Near Mint 1st Edition'
-  qty: 2
+  qty: 1
 
 Emergency Teleport Ultimate 1st:
   url: 58522
@@ -141,11 +136,6 @@ Solar Recharge Ultimate 1st:
 #Trap Dustshoot Super
 #Black Wing Armor Master Ultimate 1st
 # RDA, Iron Chain, Flamevell
-
-Solemn Warning Ultimate 1st:
-  url: 58442
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Crush Card Virus GLD1: # Rarity convert
   url: 32215

@@ -2638,3 +2638,1323 @@ Total Price: 5416
 | Extra Deck                         |     |
 | 1 None                             |   - |
 +------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - min_prices_sorted.txt
+Main Deck: 2322
+Side Deck: 2755
+Extra Deck: 0
+Total Price: 5077
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Dark Magician of Chaos UR        | 130 |
+| 1 Dark Nephthys UtR                |   9 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 103 |
+| 1 Destiny Hero Fear Monger SR      |  55 |
+| 2 Destiny Hero Plasma ScR          |  13 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 228 |
+| 3 Dark World Dealings UtR          | 217 |
+| 1 The Beginning of the End UtR     |  31 |
+| 3 Destiny Draw UR                  |   6 |
+| 3 Upstart Goblin C                 |  50 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  10 |
+| 1 Card Destruction SR              |  44 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  59 |
+| 1 Monster Reborn UR                |  13 |
+| 1 Premature Burial UR              |  33 |
+| 1 Heavy Storm SR                   |  42 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 192 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  14 |
+| 1 Darklord Zerato ScR              |  36 |
+| 1 Dark Grepher ScR                 | 139 |
+| 1 Destiny Hero Dogma UtR           | 103 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 265 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 259 |
+| 1 Mystical Space Typhoon UR        |  74 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  31 |
+| 1 Mirror Force UR                  |  70 |
+| 1 Torrential Tribute UR            |  53 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - max_prices_sorted.txt
+Main Deck: 3421
+Side Deck: 3289
+Extra Deck: 0
+Total Price: 6710
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Dark Magician of Chaos UR        | 174 |
+| 1 Dark Nephthys UtR                |  19 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 124 |
+| 1 Destiny Hero Fear Monger SR      | 108 |
+| 2 Destiny Hero Plasma ScR          |  29 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 299 |
+| 3 Dark World Dealings UtR          | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 3 Destiny Draw UR                  |  12 |
+| 3 Upstart Goblin C                 |  77 |
+| 3 Trade In R                       |   5 |
+| 2 Hand Destruction R               |   2 |
+| 2 Reinforcement of the Army SR     |  22 |
+| 1 Card Destruction SR              |  51 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  84 |
+| 1 Monster Reborn UR                |  40 |
+| 1 Premature Burial UR              |  56 |
+| 1 Heavy Storm SR                   |  60 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 240 |
+| 1 Spirit Reaper SR                 | 599 |
+| 1 Cyber Valley SR                  |  18 |
+| 1 Darklord Zerato ScR              |  40 |
+| 1 Dark Grepher ScR                 | 171 |
+| 1 Destiny Hero Dogma UtR           | 124 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 302 |
+| 1 Giant Trunade SR                 |  40 |
+| 1 Lightning Vortex UtR             | 300 |
+| 1 Mystical Space Typhoon UR        | 145 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  77 |
+| 1 Mirror Force UR                  | 162 |
+| 1 Torrential Tribute UR            |  74 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - mean_prices_sorted.txt
+Main Deck: 2601
+Side Deck: 2909
+Extra Deck: 0
+Total Price: 5510
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Dark Magician of Chaos UR        | 147 |
+| 1 Dark Nephthys UtR                |  14 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 106 |
+| 1 Destiny Hero Fear Monger SR      |  72 |
+| 2 Destiny Hero Plasma ScR          |  17 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 244 |
+| 3 Dark World Dealings UtR          | 243 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   8 |
+| 3 Upstart Goblin C                 |  55 |
+| 3 Trade In R                       |   3 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  71 |
+| 1 Monster Reborn UR                |  29 |
+| 1 Premature Burial UR              |  40 |
+| 1 Heavy Storm SR                   |  50 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 210 |
+| 1 Spirit Reaper SR                 | 513 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 146 |
+| 1 Destiny Hero Dogma UtR           | 106 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 280 |
+| 1 Giant Trunade SR                 |  24 |
+| 1 Lightning Vortex UtR             | 274 |
+| 1 Mystical Space Typhoon UR        |  92 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  | 106 |
+| 1 Torrential Tribute UR            |  60 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
+2008-kaibacontrol - 2024-01-25 - median_prices_sorted.txt
+Main Deck: 2460
+Side Deck: 2847
+Extra Deck: 0
+Total Price: 5307
++------------------------------------+-----+
+| Card                               |   $ |
++------------------------------------+-----+
+| Main Deck                          |     |
+| 3 Broww Huntsman of Dark World UtR |   - |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Dark Magician of Chaos UR        | 132 |
+| 1 Dark Nephthys UtR                |  13 |
+| 1 Destiny Hero Disk Commander SR   |   1 |
+| 2 Destiny Hero Dogma UtR           | 104 |
+| 1 Destiny Hero Fear Monger SR      |  67 |
+| 2 Destiny Hero Plasma ScR          |  16 |
+| 1 Elemental Hero Stratos UR        |   - |
+| 1 Shadow Priestess of Ohm R        |   - |
+| 3 Allure of Darkness UtR           | 229 |
+| 3 Dark World Dealings UtR          | 220 |
+| 1 The Beginning of the End UtR     |  49 |
+| 3 Destiny Draw UR                  |   9 |
+| 3 Upstart Goblin C                 |  53 |
+| 3 Trade In R                       |   4 |
+| 2 Hand Destruction R               |   1 |
+| 2 Reinforcement of the Army SR     |  14 |
+| 1 Card Destruction SR              |  47 |
+| 1 Spell Economics R                |   - |
+| 1 Dimension Fusion UR              |  70 |
+| 1 Monster Reborn UR                |  39 |
+| 1 Premature Burial UR              |  37 |
+| 1 Heavy Storm SR                   |  49 |
+| 1 None                             |   - |
+|                                    |     |
+| Side Deck                          |     |
+| 1 Sangan SR                        | 199 |
+| 1 Spirit Reaper SR                 | 499 |
+| 1 Cyber Valley SR                  |  15 |
+| 1 Darklord Zerato ScR              |  37 |
+| 1 Dark Grepher ScR                 | 141 |
+| 1 Destiny Hero Dogma UtR           | 104 |
+| 1 Jinzo ScR                        | 648 |
+| 1 Foolish Burial SR                | 284 |
+| 1 Giant Trunade SR                 |  23 |
+| 1 Lightning Vortex UtR             | 271 |
+| 1 Mystical Space Typhoon UR        |  82 |
+| 1 Brain Control UtR                | 349 |
+| 1 The Beginning of the End UtR     |  49 |
+| 1 Mirror Force UR                  |  88 |
+| 1 Torrential Tribute UR            |  58 |
+|                                    |     |
+| Extra Deck                         |     |
+| 1 None                             |   - |
++------------------------------------+-----+
