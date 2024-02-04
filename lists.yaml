@@ -14,17 +14,17 @@
 
 ## Split Collections
 
-#collection_deck_builder:
-#  path: 'decks/split_lists/collection_deck_builder.yaml'
-#
-#collection_extra_deck:
-#  path: 'decks/split_lists/collection_extra_deck.yaml'
-#
-#collection_deck_core:
-#  path: 'decks/split_lists/collection_deck_core.yaml'
-#
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
+collection_deck_builder:
+  path: 'decks/split_lists/collection_deck_builder.yaml'
+
+collection_extra_deck:
+  path: 'decks/split_lists/collection_extra_deck.yaml'
+
+collection_deck_core:
+  path: 'decks/split_lists/collection_deck_core.yaml'
+
+collection_old_school:
+  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
@@ -52,8 +52,8 @@
 
 # Will definitely buy
 
-buylist_double_up_hoard:
- path: 'decks/current_buys/buylist_double_up_hoard.yaml'
+#buylist_double_up_hoard:
+# path: 'decks/current_buys/buylist_double_up_hoard.yaml'
 
 #buylist_cool_singles:
 #  path: 'decks/current_buys/buylist_cool_singles.yaml'
