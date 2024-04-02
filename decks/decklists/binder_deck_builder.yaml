@@ -63,10 +63,10 @@ Monsters:
 
   # Ultis
   Judgment Dragon: 6
+  Chaos Emperor Dragon: 3
   Caius the Shadow Monarch: 6
   Tragoedia: 6
   Dark Armed Dragon: 6
-  Chaos Emperor Dragon: 3
   Lyla Lightsworn Sorceress: 6
   Celestia Lightsworn Angel: 6
   Necro Gardna: 6
@@ -78,12 +78,12 @@ Monsters:
   Effect Veiler: 6
   Glow Up Bulb: 2
   D.D. Crow: 1
-  Thunder King Rai Oh: 3
-  Tsukuyomi: 3
-  Debris Dragon: 3
-  Maxx C: 3
-  Dandylion: 3
   Tour Guide From the Underworld: 3
+  Maxx C: 3
+  Thunder King Rai Oh: 3
+  Dandylion: 3
+  Debris Dragon: 3
+  Tsukuyomi: 3
   Cyber Dragon: 3
   Dekoichi the Battle Enchanted Locomotive: 3
   Cyber Phoenix: 3
@@ -94,11 +94,11 @@ Monsters:
   # Secrets
   Darklord Zerato: 1
   Destiny Hero Plasma: 1
-  Judgment Dragon.: 3 ScR
   Dark Armed Dragon.: 3 ScR
+  Judgment Dragon.: 3 ScR
+  Archlord Kristya: 3
   Jinzo: 1
   Dark Grepher: 2
-  Archlord Kristya: 3
   Gorz the Emissary of Darkness: 2
   Ehren Lightsworn Monk: 1
   Thunder King Rai Oh.: 3 ScR
@@ -119,12 +119,12 @@ Monsters:
   # Supers
   Breaker the Magical Warrior: 3
   Night Assailant: 3
-  Magician of Faith: 3
   Gravekeeper Spy: 3
   Spirit Reaper: 3
+  Magician of Faith: 3
   Lumina Lightsworn Summoner: 6
-  Snipe Hunter: 1
   Lonefire Blossom: 2
+  Snipe Hunter: 1
   Sangan: 2
   Krebons: 4
   Garoth Lightsworn Warrior: 2
@@ -164,18 +164,17 @@ Monsters:
   Dimension Fusion: 1
   Delinquent Duo: 1
   Gold Sarcophagus: 2
-  Blank.......: 1
+  Card Destruction: 1
 
   # Super
+  Metamorphosis: 3
   Book of Moon: 2
   Graceful Charity: 1
+  Dark Hole: 1
   Heavy Storm: 1
   Giant Trunade: 1
-  Dark Hole: 1
-  Card Destruction: 1
   Foolish Burial: 2
 
-  Mind Control: 2
   Nobleman of Crossout: 2
   Reinforcement of the Army: 2
   Confiscation: 1
@@ -185,8 +184,9 @@ Monsters:
 # Traps
   # Ulti
   Phoenix Wing Wind Blast: 4
-  Solemn Warning: 4
   Divine Wrath: 1
+  Solemn Warning: 4
+
 
   # Secret
   Ring of Destruction: 1
@@ -211,13 +211,11 @@ Monsters:
 
   Threatening Roar: 2
   Royal Oppression: 4
-  Dimensional Prison: 2
-  Blank.....: 1
+  Jar of Greed: 3
   Return from the Different Dimension: 3
   Royal Decree: 3
-  Blank.: 3
-
-
+  Dimensional Prison: 2
+  Blank.: 1
 
 
 # Synchros
