@@ -13447,3 +13447,162 @@ collection_old_school - 2024-04-01
 |             EHERO Spark secret             |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+max_rarity_binder - 2024-05-02
++-------------------------------------------------------+-------+
+|                          Card                         | Price |
++-------------------------------------------------------+-------+
+|              Black Rose Dragon Ghost 1st              |  1898 |
+|               Stardust Dragon Ghost 1st               |  1599 |
+|                 Book of Moon Super CP                 |  888  |
+|                  Archlord Kristya 1st                 |  639  |
+|             Ancient Fairy Dragon Ghost 1st            |  589  |
+|                   Metamorphosis CP01                  |  568  |
+|          Caius the Shadow Monarch Ultimate TU         |  530  |
+|                 Spirit Reaper Super CP                |  499  |
+|           Red Dragon Archfiend Ultimate 1st           |  449  |
+|                 Magician of Faith cp2                 |  443  |
+|                Trap Dustshoot Super CP                |  439  |
+|                    Maxx C Ultimate                    |  416  |
+|                Judgment Dragon Ultimate               |  385  |
+|                    Honest Ghost 1st                   |  370  |
+|                  Gravekeeper Spy CP03                 |  359  |
+|          Brain Control Ultimate 1st 1 EN 1 DE         |  350  |
+|               Dark Armed Dragon Ultimate              |  321  |
+|         Breaker the Magical Warrior TP7 super         |  318  |
+|               Stardust Dragon Ghost Unl               |  318  |
+|               Lonefire Blossom Super CP               |  314  |
+|                Solemn Judgment MRD 1st                |  299  |
+|         Charge of the Light Brigade Secret 1st        |  279  |
+|            Lightning Vortex Ultimate 1st FR           |  258  |
+|           Plaguespreader Zombie Ultimate 1st          |  248  |
+|         Plaguespreader Zombie Ultimate 1st ITA        |  248  |
+|                 Night Assailant Super                 |  247  |
+|        Phoenix Wing Wind Blast Ultimate 1st NM        |  240  |
+|               Cyber Dragon Ultimate 1st               |  232  |
+|                 D.D. Crow Ultimate 1st                |  229  |
+|               Effect Veiler Ultimate 1st              |  218  |
+|              Black Rose Dragon Ghost Unl              |  215  |
+|                Foolish Burial Super CP                |  209  |
+|         Trishula Dragon of the Ice Barrier DT         |  202  |
+|              Dark Armed Dragon Secret 1st             |  200  |
+|              Solar Recharge Ultimate 1st              |  199  |
+|              Power Tool Dragon Ghost 1st              |  198  |
+| Black Luster Soldier Envoy of the Beginning Ultra 1st |  186  |
+|                   Sangan Super RP01                   |  184  |
+|                   Tragoedia Ultimate                  |  183  |
+|               Judgment Dragon Secret 1st              |  180  |
+|               Goyo Guardian Ultimate 1st              |  179  |
+|              Thunder King Rai Oh Ultimate             |  175  |
+|        Tour Guide From the Underworld Ultimate        |  175  |
+|        Phoenix Wing Wind Blast Ultimate 1st LP        |  171  |
+|                Dark Grepher Secret 1st                |  169  |
+|                Chaos Sorcerer Ultra TU                |  168  |
+|                   Dandylion Ultimate                  |  168  |
+|              Pot of Avarice Ultimate 1st              |  164  |
+|           Allure of Darkness Ultimate 1st EN          |  163  |
+|            Destiny Hero Doom Lord Rare DR04           |  149  |
+|         Lyla Lightsworn Sorceress Ultimate 1st        |  147  |
+|           Ally of Justice Catastor Ultimate           |  139  |
+|             Shooting Star Dragon Ghost 1st            |  134  |
+|          Brionac Dragon of the Ice Barrier DT         |  132  |
+|            Dark Magician of Chaos DMOC 1st            |  131  |
+|                 Threatening Roar CP07                 |  129  |
+|               Pot of Greed Ultimate 1st               |  122  |
+|                Smashing Ground Super CP               |  114  |
+|            Emergency Teleport Ultimate 1st            |  109  |
+|              Colossal Fighter Ultimate TU             |  105  |
+|             Ancient Fairy Dragon Ghost Unl            |  104  |
+|           Chaos Emperor Dragon Ultimate 1st           |  104  |
+|                 Crush Card Virus GLD1                 |  104  |
+|          Thought Ruler Archfiend Ultimate 1st         |   99  |
+|              Tempest Magician Secret 1st              |   97  |
+|               Archlord Kristya Unlimited              |   94  |
+|                 Debris Dragon Ultimate                |   89  |
+|              Solemn Warning Ultimate 1st              |   85  |
+|                  Mirror Force MRD 1st                 |   84  |
+|            Ehren Lightsworn Monk Secret 1st           |   80  |
+|                   Maxx C Secret 1st                   |   80  |
+|            Revived King Ha Des Ultimate 1st           |   80  |
+|                  Heavy Storm MRD 1st                  |   79  |
+|                 Mind Crush CP08 Super                 |   79  |
+|                  Snatch Steal MRL 1st                 |   77  |
+|           Ancient Sacred Wyvern Ultimate 1st          |   76  |
+|            Blackwing Armor Master Ulti 1st            |   75  |
+|                 Pot of Duality Scr 1st                |   75  |
+|           Mystical Space Typhoon MST MRL 1st          |   70  |
+|          Avenging Knight Parshath Secret 1st          |   69  |
+|                Call of the Haunted 1st                |   69  |
+|                  Battle Fader UTR 1st                 |   68  |
+|                 Delinquent Duo MRL 1st                |   68  |
+|               Scrap Dragon Ultimate 1st               |   68  |
+|               Glow Up Bulb Ultimate 2 EN              |   67  |
+|              Future Fusion UTR Unlimited              |   65  |
+|           Monster Reincarnation Ultimate 1st          |   64  |
+|                    Krebons Super TU                   |   62  |
+|                Dimension Fusion IOC 1st               |   59  |
+|                   Tsukuyomi Ultimate                  |   59  |
+|         Celestia Lightsworn Angel Ultimate 1st        |   58  |
+|              Destiny Hero Dasher UTR 1st              |   58  |
+|               Necro Gardna Ultimate 1st               |   58  |
+|               Torrential Tribute LON 1st              |   57  |
+|                    Snipe Hunter cp3                   |   52  |
+|                   Dark Hole LOB 1st                   |   51  |
+|           Demise King of Armageddon UTR 1st           |   50  |
+|                      Ruin UTR 1st                     |   50  |
+|                Card Destruction SDY 1st               |   49  |
+|               Destiny Hero Malicious 1st              |   49  |
+|               Thunder King Rai-oh Secret              |   49  |
+|                 Drill Warrior UTR 1st                 |   44  |
+|                   Beckoning Light TU                  |   43  |
+|                 Cyber Jar Ultimate 1st                |   43  |
+|                 Tour Guide Secret 1st                 |   43  |
+|         Destiny Hero Diamond Dude Ultimate 1st        |   42  |
+|            Machine Duplication Ultimate 1st           |   42  |
+|  Dekoichi the Battle Enchanted Locomotive UTR 1st NM  |   39  |
+|               Ryko Lightsworn Hunter 1st              |   39  |
+|             Ring of Destruction Secret 1st            |   35  |
+|            Armageddon Knight PTDN 1st Super           |   33  |
+|               Darklord Zerato Secret 1st              |   33  |
+|                 Doomcaliber Knight TU                 |   33  |
+|              Garoth Lightsworn Warrior TU             |   33  |
+|                   Arcanite Magician                   |   31  |
+|                  Divine Wrath UTR 1st                 |   31  |
+|  Dekoichi the Battle Enchanted Locomotive UTR 1st LP  |   29  |
+|                Enemy Controller AST 1st               |   29  |
+|                       Mist Wurm                       |   28  |
+|             Premature Burial Ultra 1st NM             |   27  |
+|              Red Nova Dragon Ultimate 1st             |   27  |
+|                   Doom Dozer UTR 1st                  |   25  |
+|                  Magical Android 1st                  |   25  |
+|              Light End Dragon Secret 1st              |   24  |
+|                Orient Dragon Secret 1st               |   24  |
+|             Seven Tools of the Bandit MRD             |   24  |
+|               Cyber Phoenix Ultimate 1st              |   19  |
+|                Nobleman of Crossout 1st               |   19  |
+|                 Royal Decree DB2 Super                |   18  |
+|                     Nitro Warrior                     |   17  |
+|               Gold Sarcophagus GLD2 2009              |   16  |
+|             Giant Trunade - MRL Super 1st             |   15  |
+|                Rescue Rabbit Secret 1st               |   15  |
+|             Solemn Judgment MRD Unlimited             |   13  |
+|               Destiny Hero Plasma Secret              |   12  |
+|                   Reborn Tengu Ultra                  |   12  |
+|     Return from the Different Dimension DPKB Super    |   12  |
+|             Royal Oppression Rare LOD 1st             |   12  |
+|                  Armory Arm Ultra 1st                 |   11  |
+|                  Confiscation MRL 1st                 |   11  |
+|                    Dark End Dragon                    |   11  |
+|           Gorz the Emissary of Darkness RP02          |   10  |
+|           Reinforcement of the Army LOD 1st           |   10  |
+|                  T.G. Hyper Librarian                 |   8   |
+|                     Turbo Warrior                     |   7   |
+|                Graceful Charity SDP 1st               |   4   |
+|                   Starlight Road Scr                  |   4   |
+|             Dark Strike Fighter Super 1st             |   2   |
+|     Formula Synchron ULTRA Advent Calendar GERMAN     |   2   |
+|             Ally of Justice Catastor DTP1             |   0   |
+|                  Jinzo Secret PSV 1st                 |   0   |
+|          Lumina Lightsworn Summoner Super CP          |   0   |
+|                Scapegoat Ultra RP01 ita               |   0   |
+|                          test                         |   0   |
++-------------------------------------------------------+-------+

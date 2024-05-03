@@ -24,13 +24,13 @@
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 
 
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Updated Collection Complete 2024
 
-#max_rarity_binder:
-#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+max_rarity_binder:
+  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
 ## Current Buylists
 
