@@ -1,0 +1,134 @@
+Missing Data for:    Tidal Scr - TCG
+Missing Data for:    Genex Undive - TCG/seek
+Missing Data for:    Genex Controller - TCG/seek
+Sum of Min Listed: $1,645.00
+Sum of Max Listed: $2,463.00
+Sum of Mean Listed: $1,870.00
+Sum of Median Listed: $1,794.50
+
+Atlantean Dragoons UTR - TCG/seek [3] - Near Mint <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 162 | 250 | 183  |  164   |
++-----+-----+------+--------+
+
+Atlantean Heavy Infrantry Super - TCG [3] - Near Mint <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  10 |  7   |   8    |
++-----+-----+------+--------+
+
+Atlantean Marksman UTR - TCG/seek [3] - Near Mint <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  55 |  70 |  60  |   58   |
++-----+-----+------+--------+
+
+Deep Sea Diva Super - TCG/seek [3] - Near Mint <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 131 | 151 | 135  |  132   |
++-----+-----+------+--------+
+
+Mermail Abyssgunde Super - TCG [2] - Near Mint <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  8  |  4   |  5.0   |
++-----+-----+------+--------+
+
+Mermail Abyssleed Secret 1st - TCG [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  7  |  6   |   7    |
++-----+-----+------+--------+
+
+Mermail Abysslinde Ultimate 1st - TCG/seek [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  30 |  74 |  50  |   49   |
++-----+-----+------+--------+
+
+Mermail Abyssmegalo Secret 1st - TCG/seek [3] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  61 | 100 |  66  |   61   |
++-----+-----+------+--------+
+
+Mermail Abysspike Super - TCG [3] - Near Mint <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  7  |  17 |  10  |  10.5  |
++-----+-----+------+--------+
+
+Mermail Abyssteus Ultimate 1st - TCG/seek [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  49 |  69 |  57  |   59   |
++-----+-----+------+--------+
+
+Tidal Scr - TCG [1] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Moulinglacia 1st - TCG [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  17 |  30 |  23  |  24.0  |
++-----+-----+------+--------+
+
+Genex Undive - TCG/seek [3] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Genex Controller - TCG/seek [2] - Near Mint <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Salvage - blue rare - TCG [1] - Near Mint <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  3  |  3   |  3.0   |
++-----+-----+------+--------+
+
+soul charge Ultra - TCG [3] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Mermail Abyss-sphere Ultimate 1st - TCG [3] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  22 |  29 |  23  |  23.0  |
++-----+-----+------+--------+
+
+Breakthrough Ultimate 1st - TCG [2] - Near Mint 1st <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  21 |  47 |  27  |   27   |
++-----+-----+------+--------+
+

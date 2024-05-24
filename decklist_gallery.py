@@ -10,8 +10,8 @@ import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = False
-generate_decklist_prices = True
+generate_decklist_gallery = True
+generate_decklist_prices = False
 generate_binder_gallery = False
 
 
@@ -42,6 +42,19 @@ def get_full_deck_list_image_paths(deck_of_decoded_cards):
                     image_paths = [os.path.join(dirpath, current_card)]
                     full_deck_list_image_paths.append(image_paths)
                     break
+
+        if not card_image_found:
+            print('Trying .png. Image Not Found: {}'.format(current_card))  # Card must be in card_code_list.yaml
+            current_card = current_card.replace(".jpg", ".png")
+            card_image_found = False
+            for dirpath, dirnames, list_of_images in os.walk(path_to_card_images):  # check in every folder card
+                for file in list_of_images:
+                    if current_card == file:
+                        card_image_found = True
+                        image_paths = [os.path.join(dirpath, current_card)]
+                        full_deck_list_image_paths.append(image_paths)
+                        break
+
         if not card_image_found:
             print('Image Not Found: {}'.format(current_card))  # Card must be in card_code_list.yaml
 

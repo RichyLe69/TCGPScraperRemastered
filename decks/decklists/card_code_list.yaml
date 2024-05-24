@@ -448,7 +448,7 @@ Tempest Dragon Ruler of Storms:
   - TempestDragonRulerofStorms-CT10-EN-ScR-LE
 Upstart Goblin:
   - UpstartGoblin-TU08-EN-SR-UE
-  - UpstartGoblin-MRL-NA-C-1E
+#  - UpstartGoblin-MRL-NA-C-1E
 
 Diamond Dire Wolf:
   - DiamondDireWolf-CBLZ-EN-ScR-1E
@@ -490,7 +490,7 @@ Toon Cannon Soldier:
   - ToonCannonSoldier-DB2-EN-C-UE
 Toon Table of Contents:
   - ToonTableofContents-TP6-EN-SR-UE
-  - ToonTableofContents-DB2-EN-C-UE
+#  - ToonTableofContents-DB2-EN-C-UE
 
 Broww Huntsman of Dark World:
   - BrowwHuntsmanofDarkWorld-EEN-EN-UtR-1E
@@ -558,6 +558,132 @@ Seven Tools of the Bandit:
   - SevenToolsoftheBandit-MRD-NA-UR-1E
 Divine Wrath:
   - DivineWrath-RDS-EN-UtR-1E
+
+High Priestess of Prophecy:
+  - HighPriestessofProphecy-REDU-EN-ScR-1E
+Spellbook Magician of Prophecy:
+  - SpellbookMagicianofProphecy-REDU-EN-UtR-1E
+Justice of Prophecy:
+  - JusticeofProphecy-ABYR-EN-R-1E
+Jowgen the Spiritualist:
+  - JowgentheSpiritualist-LON-NA-R-1E
+Toon Gemini Elf:
+  - ToonGeminiElf-DL6-EN-SR-UE
+
+Spellbook of Judgment:
+  - SpellbookofJudgment-LTGY-EN-ScR-1E
+Spellbook of Secrets:
+  - SpellbookofSecrets-REDU-EN-UtR-1E
+Spellbook of the Master:
+  - SpellbookoftheMaster-CBLZ-EN-ScR-1E
+Spellbook of Fate:
+  - SpellbookofFate-ABYR-EN-UtR-1E
+Spellbook of Power:
+  - SpellbookofPower-AP02-EN-UtR-UE
+Spellbook of Eternity:
+  - SpellbookofEternity-AP04-EN-SR-UE
+Spellbook of Life:
+  - SpellbookofLife-REDU-EN-SR-1E
+Spellbook of Wisdom:
+  - SpellbookofWisdom-AP04-EN-SR-UE
+Spellbook Star Hall:
+  - SpellbookStarHall-AP03-EN-SR-UE
+The Grand Spellbook Tower:
+  - TheGrandSpellbookTower-ABYR-EN-ScR-1E
+Wonder Wand:
+  - WonderWand-GENF-EN-UtR-1E
+
+Atlantean Dragoons:
+  - AtlanteanDragoons-AP02-EN-UtR-UE
+Atlantean Heavy Infantry:
+  - AtlanteanHeavyInfantry-AP02-EN-SR-UE
+Atlantean Marksman:
+  - AtlanteanMarksman-AP03-EN-UtR-UE
+Deep Sea Diva:
+  - DeepSeaDiva-TU04-EN-SR-UE
+Mermail Abyssgunde:
+  - MermailAbyssgunde-AP03-EN-SR-UE
+Mermail Abyssleed:
+  - MermailAbyssleed-CBLZ-EN-ScR-1E
+Mermail Abysslinde:
+  - MermailAbysslinde-ABYR-EN-UtR-1E
+Mermail Abyssmegalo:
+  - MermailAbyssmegalo-ABYR-EN-ScR-1E
+Mermail Abysspike:
+  - MermailAbysspike-AP05-EN-SR-UE
+Mermail Abyssteus:
+  - MermailAbyssteus-CBLZ-EN-UtR-1E
+Abysssphere:
+  - Abysssphere-ABYR-EN-UtR-1E
+Breakthrough Skill:
+  - BreakthroughSkill-CBLZ-EN-UtR-1E
+
+Abyss Dewller:
+  - AbyssDweller-OP13-EN-UtR-UE
+Bahamut Shark:
+  - BahamutShark-ABYR-EN-ScR-1E
+Dewloren Tiger King of the Ice Barrier:
+  - DewlorenTigerKingoftheIceBarrier-DT02-EN-DUPR-DT
+Gungnir Dragon of the Ice Barrier:
+  - GungnirDragonoftheIceBarrier-DT03-EN-DUPR-DT
+Mermail Abyssgaios:
+  - MermailAbyssgaios-ABYR-EN-UtR-1E
+Mermail Abysstrite:
+  - MermailAbysstrite-CBLZ-EN-SR-1E
+Gagaga Cowboy:
+  - GagagaCowboy-AP05-EN-UtR-UE
+
+
+
+Tearlaments Reinoheart:
+  - TearlamentsReinoheart-OP21-EN-UtR-UE
+Tearlaments Merrli:
+  - TearlamentsMerrli-OP21-EN-SR-UE
+Tearlaments Havnis:
+  - TearlamentsHavnis-OP21-EN-SR-UE
+Tearlaments Schieren:
+  - TearlamentsScheiren-POTE-EN-SR-1E
+Kelbek the Ancient Vanguard:
+  - KelbektheAncientVanguard-MAMA-EN-UR-1E
+Keldo the Sacred Protector:
+  - KeldotheSacredProtector-MAMA-EN-UR-1E
+Mudora the Sword Oracle:
+  - MudoratheSwordOracle-MAMA-EN-UR-1E
+Agido the Ancient Sentinel:
+  - AgidotheAncientSentinel-MAMA-EN-UR-1E
+Diviner of the Herald:
+  - DivineroftheHerald-LIOV-EN-ScR-1E
+
+Bystial Magnamhut:
+  - BystialMagnamhut-MP23-EN-PScR-1E
+Bystial Druiswurm:
+  - BystialDruiswurm-MP23-EN-PScR-1E
+Bystial Saronir:
+  - BystialSaronir-MP23-EN-PScR-1E
+
+Instant Fusion:
+  - InstantFusion-OP04-EN-UtR-UE
+Terraforming:
+  - Terraforming-OP05-EN-UtR-UE
+Primeval Planet Perlerino:
+  - PrimevalPlanetPerlereino-POTE-EN-ScR-1E
+
+Tearlaments Scream:
+  - TearlamentsScream-DABL-EN-C-1E
+Tearlaments Sulliek:
+  - TearlamentsSulliek-POTE-EN-C-1E
+Tearlaments Cryme:
+  - TearlamentsCryme-POTE-EN-C-1E
+
+Tearlaments Kaleido-Heart:
+  - TearlamentsKaleidoHeart-POTE-EN-ScR-1E
+Tearlaments Kitkallos:
+  - TearlamentsKitkallos-POTE-EN-UR-1E
+Tearlaments Rulkallos:
+  - TearlamentsRulkallos-DABL-EN-ScR-1E
+
+
+
 
 Blank:
   - Blank

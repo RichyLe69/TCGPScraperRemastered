@@ -13690,3 +13690,79 @@ collection_old_school - 2024-05-02
 |             Dark Magician DDS              |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+buylist_mermail - 2024-05-20
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|     Atlantean Dragoons UTR - TCG/seek      |  183  |
+|       Deep Sea Diva Super - TCG/seek       |  135  |
+| Mermail Abyssmegalo Secret 1st - TCG/seek  |   66  |
+|     Atlantean Marksman UTR - TCG/seek      |   60  |
+| Mermail Abyssteus Ultimate 1st - TCG/seek  |   57  |
+| Mermail Abysslinde Ultimate 1st - TCG/seek |   50  |
+|      Breakthrough Ultimate 1st - TCG       |   27  |
+|  Mermail Abyss-sphere Ultimate 1st - TCG   |   23  |
+|           Moulinglacia 1st - TCG           |   23  |
+|       Mermail Abysspike Super - TCG        |   10  |
+|   Atlantean Heavy Infrantry Super - TCG    |   7   |
+|     Mermail Abyssleed Secret 1st - TCG     |   6   |
+|       Mermail Abyssgunde Super - TCG       |   4   |
+|         Salvage - blue rare - TCG          |   3   |
+|          soul charge Ultra - TCG           |   1   |
+|        Genex Controller - TCG/seek         |   0   |
+|          Genex Undive - TCG/seek           |   0   |
+|              Tidal Scr - TCG               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+buylist_2014_extradeck - 2024-05-20
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|      gagaga cowboy Utr - TCG/Seek     |   54  |
+|        Abyss Dweller UTR - TCG        |   49  |
+|        Bahamut Shark Scr - TCG        |   43  |
+| Mermail Abyssgaios UTR 1st - TCG/seek |   41  |
+|       Dewloren Secret 1st - TCG       |   4   |
+|        Gungnir Secret 1st - TCG       |   3   |
+|        Mermail Abysstrite - TCG       |   2   |
+|     exciton knight Ultra 1st - TCG    |   2   |
+|                  test                 |   0   |
++---------------------------------------+-------+
+hat_format_binder - 2024-05-23
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|        Atlantean Dragoons Ulti        |  183  |
+|           Deep Sea Diva TU04          |  135  |
+|       Toon Table of Contents TP       |  120  |
+|           Upstart Goblin TU           |   68  |
+|        Mermail Abyssmegalo 1st        |   65  |
+|        Atlantean Marksman Ulti        |   62  |
+|       Mermail Abyssteus Ulti 1st      |   58  |
+|           Gagaga Cowboy Utr           |   53  |
+|      Mermail Abysslinde Ulti 1st      |   50  |
+|           Abyss Dweller UTR           |   46  |
+|  Spellbook Magician of Prophecy Ulti  |   46  |
+|           Bahamut Shark Scr           |   45  |
+| Mermail Abyssgaios UTR 1st - TCG/seek |   42  |
+|        Spellbook of Power Ulti        |   41  |
+|       Spellbook of Secrets Ulti       |   41  |
+|       High Priestess of Prophecy      |   40  |
+|           Spellbook of Fate           |   29  |
+|            Wonder Wand Ulti           |   26  |
+|              Abysssphere              |   24  |
+|       The Grand Spellbook Tower       |   17  |
+|        Spellbook of the Master        |   13  |
+|           Mermail Abysspike           |   10  |
+|           Spellbook of Life           |   10  |
+|     Atlantean Heavy Infantry Super    |   7   |
+|           Mermail Abyssleed           |   6   |
+|         Spellbook of Judgment         |   6   |
+|          Spellbook of Wisdom          |   5   |
+|           Dewloren Secret DT          |   4   |
+|           Mermail Abyssgunde          |   4   |
+|         Spellbook of Eternity         |   3   |
+|        Mermail Abysstrite - TCG       |   2   |
+|           Gungnir Secret DT           |   0   |
+|                  test                 |   0   |
++---------------------------------------+-------+

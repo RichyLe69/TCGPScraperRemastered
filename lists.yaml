@@ -1,14 +1,11 @@
-# Notes PRIORITY
-# Edison Playable, Vintage, Photogenic, investment worthy, Personal, Goat staple
-
 #########################
-#YGO
-#[wip] start trading off foreign converts for wants/buylists
-#[x] Vintage Accessories - [x] gray spellground, [x] ninja girl deckbox, [x] 2010 wcq sleeves
-#[alt] secrets for bpt page - 2 summoned skull bpt
-#[alt] 3 ocg ultis - 2 bewd, 1 red eyes, xyz dragon cannon, exchange
-#[alt] 2 MRD foils - 7 tools, garnecia elefantis, catapult turtle, twin headed thunder
 
+# Current Goals
+# Max Rarity Historical Decks
+# Trim Excess Nostalgia (Don't need 3x BPT's, Unlim MFC DMG's
+  # Singleton Unlim copies for Nostalgia is sufficient
+  # Playset for Max rarity Historical Formats
+# Trim excess accessories, etc cards
 
 #########################
 
@@ -32,6 +29,9 @@
 max_rarity_binder:
   path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
+#hat_format_binder:
+#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+
 ## Current Buylists
 
 # 2.8k - [x] Vintage Accessories - 2.5k+ Gray 94 Dash, 275-300 Ninja girl deck box
@@ -40,23 +40,30 @@ max_rarity_binder:
 # Double up hoard list
 
 # 2.2k - edison - kristyasworn & leftovers - mainly just 3 kristyas, expensive
-
     # Extended wait for market to level out.
-    # 0.2k  - lightsworn rulers - Max Rarity Historical*
-    # 3.5k - 2007-2008 max rarities
-        # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
-        # 21*2 Holos from PTDN & LODT (GR, UTR, SCR)
-              # -------- Probably cut off
-                  # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core
-                  # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
-                  # 350 - 2014 Mermail Extra
-                      # 2.3k - frognarch - 10 utr 3 scr
+    # [x] 0.3k  - lightsworn rulers - Max Rarity Historical*
+    # [x] 1k Spellbooks
+    # 1k - Mermail - maybe skip, not very useful. zombies are cooler. 19 Ultis, 8 Scr, 5 Dt - deck 2013-14 (no diva)
+    # 350 - 2014 Mermail Extra
+        # 3.5k - 2007-2008 max rarities
+           # -------- Probably cut off
+              # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
+              # 21*2 Holos from PTDN & LODT (GR, UTR, SCR)
+                    # 1k - Zombies 6 Scr, 3 Ulti, 3 Super (CP) - core, boring
+                    # 2.3k - frognarch - 10 utr 3 scr - meh, boring
 
 # 232  - Walmart Vintage - bought
 
 ###################################
 
 # Will definitely buy
+
+#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
+#  path: 'decks/current_buys/tier2/buylist_mermail.yaml'  # Cool but past my time window, does not synergize
+
+#buylist_2014_extradeck: ## 2014 format extra deck for mermails
+#  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'  # Pass
+
 
 #buylist_double_up_hoard:
 # path: 'decks/current_buys/buylist_double_up_hoard.yaml'
@@ -94,12 +101,7 @@ max_rarity_binder:
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 #  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Never really used zombies, don't think I care
 #
-#buylist_mermail: ## mermail notes: cool max rarity, 2013-2014 vs lsruler format.
-#  path: 'decks/current_buys/tier2/buylist_mermail.yaml'  # Cool but past my time window, does not synergize
-#
-#buylist_2014_extradeck: ## 2014 format extra deck for mermails
-#  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'  # Pass
-#
+
 
 ################################
 
