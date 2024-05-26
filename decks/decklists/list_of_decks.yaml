@@ -80,5 +80,8 @@
 #2014-lightswornrulers:
 #  path: 'decks/decklists/2014-lightswornrulers.yaml'
 
-2022-tearlaments:
-  path: 'decks/decklists/2022-tearlaments.yaml'
+#2022-tearlaments:
+#  path: 'decks/decklists/2022-tearlaments.yaml'
+
+2023-tearlaments:
+  path: 'decks/decklists/2023-tearlaments2.yaml'
