@@ -16,7 +16,7 @@ Scheiren: - Best one
 
 Reinoheart:
 1) Normal/Spec Summon: Dump 1 Tearlaments Monster
-2) If Milled: SS Reinoheart (but banish when leaves) -> Pitch 1 Tearlaments.
+2) If Sent to GY: SS Reinoheart (but banish when leaves) -> Pitch 1 Tearlaments.
 
 Kashtira:
 1) During Main: Can SS from hand -> banish 1 Tear / Kash Monster from hand to GY 
@@ -47,7 +47,7 @@ Metanoise:
 Kitkallos:
 1) If SS'ed: Search OR Dump 1 Tear card.
 2) Target 1 Monster you control -> SS 1 Tear monster from Hand / GY -> Send targeted monster to GY
-   - basically Swap 1 Tear monster in Hand / GY for 1 monster you control
+   - basically Swap 1 Tear monster in Hand / GY for 1 monster you control. Target Kit to mill 5.
 3) If sent to GY: Mill 5
 
 Rulkallos:
@@ -66,7 +66,7 @@ Requires: Reino Heart + 2 Aqua
 ISHIZU PACKAGE
 
 Keldo:
-Discard 1 other Earth Fairy: SS from hand.
+Discard 1 other Earth Fairy: SS from hand -> Add "Exchange of Spirit" card (Kelbek / Mudora) 
 Quick Effect: Banish from Field/GY: Target up to 3 cards in any GY: Shuffle them into deck. (Once per turn)
 
 Mudora:
@@ -77,7 +77,7 @@ Quick Effect: Banish from Field/GY: Target up to 3 cards in any GY: Shuffle them
 
 Kelbek:
 If a card is sent from hand/deck to Opp's GY: SS this card -> Bounce 1 Opponent's SS'ed monster.
-If milled / discarded: each mill 5. (Once per turn)
+1) If milled / discarded: each mill 5. (Once per turn)
 
 Agido:
 If a card is sent from hand/deck to Opp's GY: SS this card -> SS Lv4 Earth Fairy from GY.

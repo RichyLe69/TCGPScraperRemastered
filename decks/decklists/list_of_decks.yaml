@@ -77,11 +77,14 @@
 #2013-mermails:
 #  path: 'decks/decklists/2013-mermails.yaml'
 #
+#2013-dragonrulers:
+#  path: 'decks/decklists/2013-dragonrulers.yaml'
+#
 #2014-lightswornrulers:
 #  path: 'decks/decklists/2014-lightswornrulers.yaml'
 
 #2022-tearlaments:
 #  path: 'decks/decklists/2022-tearlaments.yaml'
-
-2023-tearlaments:
-  path: 'decks/decklists/2023-tearlaments2.yaml'
+#
+#2023-tearlaments:
+#  path: 'decks/decklists/2023-tearlaments2.yaml'

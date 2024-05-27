@@ -47,19 +47,34 @@
 
 
 [//]: # ( - [2010 WeleDad]&#40;#&#41;)
-
+#### 2011 September
 
  - [2011 Tengu Plant](#2011-Tengu-Plant)
 
 [//]: # ( - [2011 Salvo Chaos Dad]&#40;#&#41;)
 
 [//]: # ( - [2011 Agents]&#40;#&#41;)
+
+#### 2012 April
+
  - [2012 Dino Rabbit](#2012-Dino-Rabbit)
 
 [//]: # ( - [2012 Wind Up]&#40;#&#41;)
 [//]: # ( - [2012 Inzektors]&#40;#&#41;)
+
+#### 2013 March
+
+ - [2013 Mermails](#2013-mermails)
+ - [2013 Spellbooks](#2013-spellbooks)
+ - [2013 Dragon Rulers](#2013-dragon-rulers)
+
+#### 2014 July
+
  - [2014 Lightsworn Rulers](#2014-Lightsworn-Rulers)
 
+#### 2023 Feb
+
+ - [2023 Ishizu Tearlaments](#2023-ishizu-tearlaments)
 
 
 
@@ -68,6 +83,11 @@
 [//]: # ()
 [//]: # (![Imgur Image]&#40;imagehere.jpg&#41;)
 
+---------------------------------------------------------
+
+
+
+---------------------------------------------------------
 
 #### 2006 Chaos Turbo
 
@@ -150,6 +170,22 @@
 
 ![Imgur Image](https://i.imgur.com/CnB1Sov.jpg)
 
+#### 2013 Mermails
+
+![Imgur Image](https://i.imgur.com/kfge5nv.jpeg)
+
+#### 2013 Spellbooks
+
+![Imgur Image](https://i.imgur.com/ZRYf6DA.jpeg)
+
+#### 2013 Dragon Rulers
+
+![Imgur Image](https://i.imgur.com/iY1sAyz.jpeg)
+
 #### 2014 Lightsworn Rulers
 
 ![Imgur Image](https://i.imgur.com/rwEnLj1.jpg)
+
+#### 2023 Ishizu Tearlaments
+
+![Imgur Image](https://i.imgur.com/RawRw4U.jpeg)
