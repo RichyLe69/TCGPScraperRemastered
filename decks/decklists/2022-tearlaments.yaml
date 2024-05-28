@@ -1,44 +1,52 @@
-# https://ygoprodeck.com/deck/bystial-ishizu-tearlaments-309384
-Header: Tearlaments Ishizu - Hani - YCS Pasadena 2022 1st
+# https://ygoprodeck.com/tournament/ycs-lyon-155
+# https://ygoprodeck.com/deck/ishizu-tearlaments-318783
+Header: Tearlaments Ishizu - RL - Solo based on CL
 Monsters:
   Tearlaments Reinoheart: 2
-  Tearlaments Merrli: 2
+  Tearlaments Merrli: 3
   Tearlaments Havnis: 3
   Tearlaments Schieren: 3
+  Tearlaments Kashtira: 3
+
   Kelbek the Ancient Vanguard: 3
   Keldo the Sacred Protector: 3
   Mudora the Sword Oracle: 3
-  Agido the Ancient Sentinel: 1
-  Diviner of the Herald: 2
-  Herald of Orange Light: 3
+  Agido the Ancient Sentinel: 2
+#  Herald of Orange Light: 1
+
   Bystial Magnamhut: 3
-  Bystial Druiswurm: 2
-  Bystial Saronir: 1
+  Bystial Druiswurm: 1
+  Bystial Baldrake: 1
+
 Spells:
-  Instant Fusion: 1
-  Terraforming: 1
   Primeval Planet Perlerino: 3
+  Terraforming: 1
+  Instant Fusion: 1
+  Tearlaments Scream: 2
+  Triple Tactics Talent: 1 # for solitaire deck out
 Traps:
-  Tearlaments Scream: 1
   Tearlaments Sulliek: 2
-  Tearlaments Cryme: 1
-
 Side:
-  None: 1
+  King of the Swamp: 3
+  Polyermization: 1
+  Diviner of the Herald: 2
+  Super Polymerization: 3
+  Tearlaments Cryme: 1
+  Tearlaments Metanoise: 1
+  Bystial Saronir: 1
+  Cyber Stein: 1
 Extra:
-  Tearlaments Kaleido-Heart: 1
+  Tearlaments Kitkallos: 2
   Tearlaments Rulkallos: 1
-  Tearlaments Kitkallos: 1
-
-  Dharc the Dark Charmer, Gloomy: 1
+  Tearlaments Kaleido-Heart: 1
   Garura, Wings of Resonant Life: 1
-  Abyss Dweller: 1
-  Mekk-Knight Crusadia Avramax: 1
-  Spright Elf: 1
-  Beatrice, Lady of the Eternal: 1
   Mudragon of the Swamp: 1
-  I:P Masquerena: 1
   Predaplant Dragostapelia: 1
-  Spright Sprind: 1
-  Baronne de Fleur: 1
+  Time Thief Redoer: 1
   Number 41 Bagooska the Terribly Tired Tapir: 1
+  Abyss Dweller: 1
+  Beatrice, Lady of the Eternal: 1
+  Divine Arsenal AA-Zeus - Sky Thunder: 1
+  Spright Elf: 1
+  Spright Sprind: 1
+  Dharc the Dark Charmer, Gloomy: 1
