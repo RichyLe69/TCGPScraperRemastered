@@ -82,7 +82,10 @@
 #
 #2014-lightswornrulers:
 #  path: 'decks/decklists/2014-lightswornrulers.yaml'
-
+#
+#2015-nekroz:
+#  path: 'decks/decklists/2015-nekroz.yaml'
+#
 #2022-tearlaments:
 #  path: 'decks/decklists/2022-tearlaments.yaml'
 #
