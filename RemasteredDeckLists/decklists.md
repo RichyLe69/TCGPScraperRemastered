@@ -24,6 +24,7 @@
 
 #### LODT
 
+ - [2008 Kin Tele Zombies OCG](#2008-kintelezombiesOCG)
  - [2008 Lightsworn LODT](#2008-Lightsworn-LODT)
  - [2008 Dark Armed LODT](#2008-Dark-Armed-LODT)
 
@@ -121,6 +122,9 @@
 
 ![Imgur Image](https://i.imgur.com/EyKO7K9.jpg)
 
+#### 2008 Kin Tele Zombies OCG
+
+![Imgur Image](https://i.imgur.com/HLJn1Wn.jpeg)
 
 #### 2008 Lightsworn LODT
 

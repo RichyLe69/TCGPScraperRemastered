@@ -47,8 +47,8 @@ if __name__ == '__main__':
     decklist_checker = Decklist_Checker()
     list_of_binders = decklist_checker.get_list_of_binders()
 
-    list_of_decks = ['2009-twilight', '2009-twilight']
-    # list_of_decks = ['2009-teledad', '2009-teledad']
+    # list_of_decks = ['2009-twilight', '2009-twilight']
+    list_of_decks = ['2009-teledad', '2009-teledad']
     # list_of_decks = ['2009-twilight', '2009-teledad']
     # list_of_decks = ['2011-tenguplant', '2011-tenguplant']
     # list_of_decks = ['2012-dinorabbit', '2012-dinorabbit']

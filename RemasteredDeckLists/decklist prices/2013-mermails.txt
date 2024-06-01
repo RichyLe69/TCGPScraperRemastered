@@ -1,0 +1,392 @@
+2013-mermails - 2024-06-01 - min_prices_sorted.txt
+Main Deck: 580
+Side Deck: 0
+Extra Deck: 427
+Total Price: 1007
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  51 |
+| 1 Enemy Controller UR                         |  30 |
+| 1 Heavy Storm SR                              |  53 |
+| 1 Mind Control SR                             |  16 |
+| 1 Monster Reborn UR                           |  11 |
+| 3 Mystical Space Typhoon UR                   |  74 |
+| 1 Pot of Avarice UtR                          | 197 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 |  94 |
+| 1 Armory Arm UR                               |  13 |
+| 1 T.G. Hyper Librarian UR                     |   8 |
+| 1 Black Rose Dragon GR                        | 241 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  10 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  21 |
+| 1 Number 17 Leviathan Dragon GR               |  40 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - max_prices_sorted.txt
+Main Deck: 1054
+Side Deck: 0
+Extra Deck: 583
+Total Price: 1637
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                | 127 |
+| 1 Enemy Controller UR                         |  65 |
+| 1 Heavy Storm SR                              |  98 |
+| 1 Mind Control SR                             |  30 |
+| 1 Monster Reborn UR                           |  15 |
+| 3 Mystical Space Typhoon UR                   | 145 |
+| 1 Pot of Avarice UtR                          | 284 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 150 |
+| 1 Armory Arm UR                               |  25 |
+| 1 T.G. Hyper Librarian UR                     |  17 |
+| 1 Black Rose Dragon GR                        | 244 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  22 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  39 |
+| 1 Number 17 Leviathan Dragon GR               |  86 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - mean_prices_sorted.txt
+Main Deck: 762
+Side Deck: 0
+Extra Deck: 483
+Total Price: 1245
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  89 |
+| 1 Enemy Controller UR                         |  48 |
+| 1 Heavy Storm SR                              |  77 |
+| 1 Mind Control SR                             |  21 |
+| 1 Monster Reborn UR                           |  13 |
+| 3 Mystical Space Typhoon UR                   |  95 |
+| 1 Pot of Avarice UtR                          | 229 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 110 |
+| 1 Armory Arm UR                               |  18 |
+| 1 T.G. Hyper Librarian UR                     |  11 |
+| 1 Black Rose Dragon GR                        | 242 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  14 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  27 |
+| 1 Number 17 Leviathan Dragon GR               |  61 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - median_prices_sorted.txt
+Main Deck: 739
+Side Deck: 0
+Extra Deck: 466
+Total Price: 1205
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  89 |
+| 1 Enemy Controller UR                         |  48 |
+| 1 Heavy Storm SR                              |  79 |
+| 1 Mind Control SR                             |  21 |
+| 1 Monster Reborn UR                           |  14 |
+| 3 Mystical Space Typhoon UR                   |  87 |
+| 1 Pot of Avarice UtR                          | 227 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 101 |
+| 1 Armory Arm UR                               |  17 |
+| 1 T.G. Hyper Librarian UR                     |  11 |
+| 1 Black Rose Dragon GR                        | 242 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  12 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  27 |
+| 1 Number 17 Leviathan Dragon GR               |  56 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - min_prices_sorted.txt
+Main Deck: 580
+Side Deck: 0
+Extra Deck: 427
+Total Price: 1007
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  51 |
+| 1 Enemy Controller UR                         |  30 |
+| 1 Heavy Storm SR                              |  53 |
+| 1 Mind Control SR                             |  16 |
+| 1 Monster Reborn UR                           |  11 |
+| 3 Mystical Space Typhoon UR                   |  74 |
+| 1 Pot of Avarice UtR                          | 197 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 |  94 |
+| 1 Armory Arm UR                               |  13 |
+| 1 T.G. Hyper Librarian UR                     |   8 |
+| 1 Black Rose Dragon GR                        | 241 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  10 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  21 |
+| 1 Number 17 Leviathan Dragon GR               |  40 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - max_prices_sorted.txt
+Main Deck: 1054
+Side Deck: 0
+Extra Deck: 583
+Total Price: 1637
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                | 127 |
+| 1 Enemy Controller UR                         |  65 |
+| 1 Heavy Storm SR                              |  98 |
+| 1 Mind Control SR                             |  30 |
+| 1 Monster Reborn UR                           |  15 |
+| 3 Mystical Space Typhoon UR                   | 145 |
+| 1 Pot of Avarice UtR                          | 284 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 150 |
+| 1 Armory Arm UR                               |  25 |
+| 1 T.G. Hyper Librarian UR                     |  17 |
+| 1 Black Rose Dragon GR                        | 244 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  22 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  39 |
+| 1 Number 17 Leviathan Dragon GR               |  86 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - mean_prices_sorted.txt
+Main Deck: 762
+Side Deck: 0
+Extra Deck: 483
+Total Price: 1245
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  89 |
+| 1 Enemy Controller UR                         |  48 |
+| 1 Heavy Storm SR                              |  77 |
+| 1 Mind Control SR                             |  21 |
+| 1 Monster Reborn UR                           |  13 |
+| 3 Mystical Space Typhoon UR                   |  95 |
+| 1 Pot of Avarice UtR                          | 229 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 110 |
+| 1 Armory Arm UR                               |  18 |
+| 1 T.G. Hyper Librarian UR                     |  11 |
+| 1 Black Rose Dragon GR                        | 242 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  14 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  27 |
+| 1 Number 17 Leviathan Dragon GR               |  61 |
++-----------------------------------------------+-----+
+2013-mermails - 2024-06-01 - median_prices_sorted.txt
+Main Deck: 739
+Side Deck: 0
+Extra Deck: 466
+Total Price: 1205
++-----------------------------------------------+-----+
+| Card                                          |   $ |
++-----------------------------------------------+-----+
+| Main Deck                                     |     |
+| 3 Atlantean Dragoons UtR                      |   - |
+| 2 Atlantean Heavy Infantry SR                 |   - |
+| 3 Atlantean Marksman UtR                      |   - |
+| 3 Deep Sea Diva SR                            |   - |
+| 2 Mermail Abyssgunde SR                       |   - |
+| 1 Mermail Abyssleed ScR                       |   - |
+| 3 Mermail Abysslinde UtR                      |   - |
+| 3 Mermail Abyssmegalo ScR                     |   - |
+| 3 Mermail Abysspike SR                        |   - |
+| 3 Mermail Abyssteus UtR                       |   - |
+| 1 Dark Hole SR                                |  89 |
+| 1 Enemy Controller UR                         |  48 |
+| 1 Heavy Storm SR                              |  79 |
+| 1 Mind Control SR                             |  21 |
+| 1 Monster Reborn UR                           |  14 |
+| 3 Mystical Space Typhoon UR                   |  87 |
+| 1 Pot of Avarice UtR                          | 227 |
+| 3 Abysssphere UtR                             |   - |
+| 2 Breakthrough Skill UtR                      |   - |
+|                                               |     |
+| Side Deck                                     |     |
+| 1 None                                        |   - |
+|                                               |     |
+| Extra Deck                                    |     |
+| 1 Darkfire Dragon R                           |   - |
+| 1 Ally of Justice Catastor DT                 | 101 |
+| 1 Armory Arm UR                               |  17 |
+| 1 T.G. Hyper Librarian UR                     |  11 |
+| 1 Black Rose Dragon GR                        | 242 |
+| 1 Dewloren Tiger King of the Ice Barrier DUPR |   - |
+| 1 Gungnir Dragon of the Ice Barrier DUPR      |   - |
+| 1 Wind Up Zenmaines ScR                       |  12 |
+| 1 Abyss Dewller ERR                           |   - |
+| 1 Bahamut Shark ScR                           |   - |
+| 1 Gagaga Cowboy UtR                           |   - |
+| 1 Mermail Abyssgaios UtR                      |   - |
+| 1 Mermail Abysstrite SR                       |   - |
+| 1 Number 11 Big Eye ScR                       |  27 |
+| 1 Number 17 Leviathan Dragon GR               |  56 |
++-----------------------------------------------+-----+
