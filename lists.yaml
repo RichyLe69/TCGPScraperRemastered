@@ -6,6 +6,7 @@
   # Singleton Unlim copies for Nostalgia is sufficient
   # Playset for Max rarity Historical Formats
 # Trim excess accessories, etc cards
+# Prioritize Solitaire Decks with themes that I like, Tier 0
 
 #########################
 
@@ -21,20 +22,19 @@
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 
 
-#collection_old_school:
-#  path: 'decks/split_lists/collection_old_school.yaml'
-
 ## Updated Collection Complete 2024
 
-#max_rarity_binder:
-#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+max_rarity_binder:
+  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
-hat_format_binder:
-  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+#hat_format_binder:
+#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
 
 #buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
 #  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Actually Kinda Sick
-#
+
+#collection_old_school:
+#  path: 'decks/split_lists/collection_old_school.yaml'
 
 ## Current Buylists
 
@@ -57,8 +57,6 @@ hat_format_binder:
               # 21*2 Holos from PTDN & LODT (GR, UTR, SCR)
                     # 2.3k - frognarch - 10 utr 3 scr - meh, boring - only like solitaire decks
 
-# 232  - Walmart Vintage - bought
-
 ###################################
 
 # Will definitely buy
@@ -69,53 +67,49 @@ hat_format_binder:
 #buylist_2014_extradeck: ## 2014 format extra deck for mermails
 #  path: 'decks/current_buys/tier2/buylist_2014_extradeck.yaml'  # Pass
 
-
 #buylist_double_up_hoard:
 # path: 'decks/current_buys/buylist_double_up_hoard.yaml'
 
-#buylist_cool_singles:
-#  path: 'decks/current_buys/buylist_cool_singles.yaml'
-#
-#buylist_cool_singles_t2:
-#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
-#
-#buylist_foreign_converts:
-#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
-
-# Maybe
-
-#buylist_edison:
-#  path: 'decks/current_buys/buylist_edison.yaml'
-#
-
-# Meh
-
-
-
 #buylist_lightswornrulers:
 #  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
-#
+
+###################################
+
+# Meh Maybe
+
 #buylist_2007_08_max_deck:
 #  path: 'decks/current_buys/buylist_2007_08_max_deck.yaml'
 
 ###################################
 
+# Potential buys, most likely pass though - RL 3/10/2023
+
+#buylist_cool_singles:
+#  path: 'decks/current_buys/buylist_cool_singles.yaml'
+
+#buylist_cool_singles_t2:
+#  path: 'decks/current_buys/buylist_cool_singles_t2.yaml'
+
+#buylist_foreign_converts:
+#  path: 'decks/current_buys/buylist_foreign_converts.yaml'
+
+#buylist_edison:
+#  path: 'decks/current_buys/buylist_edison.yaml'
+
 #buylist_high_end_vintage:
 #  path: 'decks/current_buys/buylist_high_end_vintage.yaml'
 
-# Potential buys, most likely pass though - RL 3/10/2023
-
 ################################
 
-# skip - RL 3/10/2023
+# hard PASS - RL 6/1/2024
 #
-#buylist_frog_monarch: ## frog monarch edison - 2013 - pretty cool stuff.
+#buylist_frog_monarch: boring deck, no solitaire potential. over priced. basic turns - RL 6/1/24
 #  path: 'decks/current_buys/tier2/buylist_frog_monarch.yaml'
 #
-#buylist_goat:
+#buylist_goat: - goat is dying. over priced Super rares only. no extra deck. synchros, xyz, modern is more fun / solitaire potential
 #  path: 'decks/current_buys/tier2/buylist_goat.yaml'
 #
-#buylist_extras:  # Extra cards & Finish playsets
+#buylist_extras:  # Extra cards & Finish playsets # Unnecessary, just "fancy" cards. No solitaire Potential
 #  path: 'decks/current_buys/buylist_extras.yaml'
 
 ###################################
@@ -180,5 +174,3 @@ hat_format_binder:
 #test:
 #  path: 'decks/split_lists/test.yaml'
 # Modern Ultis
-
-# OUT DATED 6/1/24
