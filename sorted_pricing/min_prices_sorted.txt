@@ -13926,3 +13926,41 @@ max_rarity_binder - 2024-06-01
 |           Red Dragon Archfiend Ultimate 1st           |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2024-06-01
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|        Atlantean Dragoons Ulti        |  154  |
+|       Toon Table of Contents TP       |  109  |
+|           Deep Sea Diva TU04          |   84  |
+|        Mermail Abyssmegalo 1st        |   57  |
+|        Atlantean Marksman Ulti        |   55  |
+|           Upstart Goblin TU           |   54  |
+|           Gagaga Cowboy Utr           |   49  |
+|      Mermail Abysslinde Ulti 1st      |   49  |
+|       Mermail Abyssteus Ulti 1st      |   49  |
+|           Bahamut Shark Scr           |   39  |
+| Mermail Abyssgaios UTR 1st - TCG/seek |   38  |
+|        Spellbook of Power Ulti        |   34  |
+|       High Priestess of Prophecy      |   28  |
+|           Abyss Dweller UTR           |   26  |
+|  Spellbook Magician of Prophecy Ulti  |   25  |
+|       Spellbook of Secrets Ulti       |   22  |
+|           Spellbook of Fate           |   21  |
+|              Abysssphere              |   20  |
+|            Wonder Wand Ulti           |   20  |
+|           Dewloren Secret DT          |   18  |
+|        Spellbook of the Master        |   12  |
+|       The Grand Spellbook Tower       |   12  |
+|           Gungnir Secret DT           |   7   |
+|           Mermail Abysspike           |   7   |
+|           Spellbook of Life           |   7   |
+|     Atlantean Heavy Infantry Super    |   6   |
+|           Mermail Abyssgunde          |   4   |
+|           Mermail Abyssleed           |   4   |
+|         Spellbook of Judgment         |   4   |
+|          Spellbook of Wisdom          |   4   |
+|         Spellbook of Eternity         |   3   |
+|        Mermail Abysstrite - TCG       |   2   |
+|                  test                 |   0   |
++---------------------------------------+-------+

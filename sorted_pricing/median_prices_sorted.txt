@@ -13925,3 +13925,41 @@ max_rarity_binder - 2024-06-01
 |           Red Dragon Archfiend Ultimate 1st           |   0    |
 |                          test                         |   0    |
 +-------------------------------------------------------+--------+
+hat_format_binder - 2024-06-01
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|        Atlantean Dragoons Ulti        |  164  |
+|           Deep Sea Diva TU04          | 131.5 |
+|       Toon Table of Contents TP       | 117.5 |
+|           Upstart Goblin TU           |   67  |
+|        Mermail Abyssmegalo 1st        |  60.5 |
+|       Mermail Abyssteus Ulti 1st      |  59.0 |
+|        Atlantean Marksman Ulti        |   58  |
+|           Gagaga Cowboy Utr           |   51  |
+|           Bahamut Shark Scr           |   49  |
+|      Mermail Abysslinde Ulti 1st      |  49.0 |
+| Mermail Abyssgaios UTR 1st - TCG/seek |   48  |
+|  Spellbook Magician of Prophecy Ulti  |   43  |
+|        Spellbook of Power Ulti        |   40  |
+|           Abyss Dweller UTR           |   39  |
+|       Spellbook of Secrets Ulti       |  37.5 |
+|       High Priestess of Prophecy      |  31.0 |
+|           Spellbook of Fate           |   29  |
+|              Abysssphere              |   23  |
+|            Wonder Wand Ulti           |   22  |
+|           Dewloren Secret DT          |   18  |
+|       The Grand Spellbook Tower       |  17.5 |
+|        Spellbook of the Master        |   13  |
+|           Mermail Abysspike           |   9   |
+|           Spellbook of Life           |  8.5  |
+|     Atlantean Heavy Infantry Super    |   8   |
+|           Gungnir Secret DT           |   7   |
+|           Mermail Abyssleed           |   7   |
+|         Spellbook of Judgment         |   6   |
+|          Spellbook of Wisdom          |   6   |
+|           Mermail Abyssgunde          |   5   |
+|         Spellbook of Eternity         |   4   |
+|        Mermail Abysstrite - TCG       |   2   |
+|                  test                 |   0   |
++---------------------------------------+-------+

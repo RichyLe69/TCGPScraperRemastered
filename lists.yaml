@@ -26,11 +26,15 @@
 
 ## Updated Collection Complete 2024
 
-max_rarity_binder:
-  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+#max_rarity_binder:
+#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
-#hat_format_binder:
-#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+hat_format_binder:
+  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Actually Kinda Sick
+#
 
 ## Current Buylists
 
@@ -86,9 +90,7 @@ max_rarity_binder:
 
 # Meh
 
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Actually Kinda Sick
-#
+
 
 #buylist_lightswornrulers:
 #  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
