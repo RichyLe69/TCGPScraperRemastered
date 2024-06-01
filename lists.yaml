@@ -45,12 +45,10 @@ max_rarity_binder:
 # [x] ishizu tearlaments 2x
 
 # FINISH THE WHITE BINDER
-# Double up hoard list
-
-# 2.2k - edison - kristyasworn & leftovers - mainly just 3 kristyas, expensive
-    # Extended wait for market to level out.
+# Extended wait for market to level out.
         # 3.5k - 2007-2008 max rarities
            # -------- Probably cut off
+              # 2.2k - edison - kristyasworn & leftovers - mainly just 3 kristyas, expensive
               # 10k - high end vintage - Needs updating. Need to determine how far I want to go.
               # 21*2 Holos from PTDN & LODT (GR, UTR, SCR)
                     # 2.3k - frognarch - 10 utr 3 scr - meh, boring - only like solitaire decks
@@ -88,6 +86,10 @@ max_rarity_binder:
 
 # Meh
 
+#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
+#  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Actually Kinda Sick
+#
+
 #buylist_lightswornrulers:
 #  path: 'decks/current_buys/buylist_lightswornrulers.yaml'
 #
@@ -100,11 +102,6 @@ max_rarity_binder:
 #  path: 'decks/current_buys/buylist_high_end_vintage.yaml'
 
 # Potential buys, most likely pass though - RL 3/10/2023
-
-#buylist_zombies: ## zombie notes: some ultis/secrets, 2009-2010. synergizes with retro light/darks
-#  path: 'decks/current_buys/tier2/buylist_zombies.yaml' # Never really used zombies, don't think I care
-#
-
 
 ################################
 
@@ -181,3 +178,5 @@ max_rarity_binder:
 #test:
 #  path: 'decks/split_lists/test.yaml'
 # Modern Ultis
+
+# OUT DATED 6/1/24
