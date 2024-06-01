@@ -13963,3 +13963,14 @@ hat_format_binder - 2024-06-01
 |        Mermail Abysstrite - TCG       |   3   |
 |                  test                 |   0   |
 +---------------------------------------+-------+
+buylist_zombies - 2024-06-01
++-------------------------------------------------+-------+
+|                       Card                      | Price |
++-------------------------------------------------+-------+
+|      Zombie Master UTR Taev 1st - TCG/seek      |  150  |
+|       Goblin Zombie Secret PTDN - TCG/seek      |  119  |
+| burial from a diff dimension - dp03 ultra - TCG |   30  |
+|          Mezuki Secret pp02 - TCG/seek          |   27  |
+|    card of safe return ultra Unlimited - TCG    |   6   |
+|                       test                      |   0   |
++-------------------------------------------------+-------+
