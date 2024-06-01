@@ -39,6 +39,12 @@
 #2008-teledad:  # Post TDGS
 #  path: 'decks/decklists/2008-teledad.yaml'
 #
+
+2008-kintelezombiesOCG:
+  path: 'decks/decklists/2008-kintelezombiesOCG.yaml'
+
+# 2008 Zombie Lightsworn - https://yugiohtopdecks.com/card/Card+of+Safe+Return
+
 #2009-teledad:
 #  path: 'decks/decklists/2009-teledad.yaml'
 #
@@ -86,8 +92,8 @@
 #2015-nekroz:
 #  path: 'decks/decklists/2015-nekroz.yaml'
 #
-2022-tearlaments:
-  path: 'decks/decklists/2022-tearlaments.yaml'
+#2022-tearlaments:
+#  path: 'decks/decklists/2022-tearlaments.yaml'
 #
 #2023-tearlaments:
 #  path: 'decks/decklists/2023-tearlaments2.yaml'
