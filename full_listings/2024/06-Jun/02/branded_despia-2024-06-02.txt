@@ -1,0 +1,122 @@
+Missing Data for:    Despian Tragedy
+Missing Data for:    Ad Libitum of Despia
+Missing Data for:    Tri Brigade Mercourier
+Missing Data for:    Springans Kitt
+Missing Data for:    Fusion Deployment
+Sum of Min Listed: $536.00
+Sum of Max Listed: $989.00
+Sum of Mean Listed: $673.00
+Sum of Median Listed: $632.00
+
+Aluber the Jester of Despia UTR [3] - Near Mint <45>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  8  |  24 |  14  |   14   |
++-----+-----+------+--------+
+
+Fallen of Albaz UTR [3] - Near Mint <21>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  15 |  30 |  20  |   19   |
++-----+-----+------+--------+
+
+Guiding Quem the Virtuous [2] - Near Mint 1st <48>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  40 |  89 |  56  |  51.0  |
++-----+-----+------+--------+
+
+Blazing Cartesia the Virtuous [2] - Near Mint 1st <50>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  4  |  2   |  3.0   |
++-----+-----+------+--------+
+
+Albion the Shrouded Dragon [3] - Near Mint 1st <36>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  5  |  3   |  3.0   |
++-----+-----+------+--------+
+
+Bystial Saronir [1] - Near Mint 1st <42>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  6  |  4   |  4.0   |
++-----+-----+------+--------+
+
+The Bystial Lubellion [1] - Near Mint 1st <36>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  18 |  47 |  26  |  24.5  |
++-----+-----+------+--------+
+
+Despian Tragedy [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Ad Libitum of Despia [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Gimmick Puppet Nightmare [1] - Near Mint 1st <43>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |   2    |
++-----+-----+------+--------+
+
+Tri Brigade Mercourier [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Springans Kitt [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Branded Fusion [3] - Near Mint <26>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  42 |  70 |  52  |  49.0  |
++-----+-----+------+--------+
+
+Fusion Deployment [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Branded Opening [3] - Near Mint 1st <50>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  6  |  4   |  4.5   |
++-----+-----+------+--------+
+
+Triple Tactics Thrust [3] - Near Mint <21>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  73 | 114 |  82  |   75   |
++-----+-----+------+--------+
+

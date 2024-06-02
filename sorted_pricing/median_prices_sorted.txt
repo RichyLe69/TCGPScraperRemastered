@@ -14059,3 +14059,25 @@ collection_old_school - 2024-06-01
 |             EHERO Spark secret             |   0    |
 |                    test                    |   0    |
 +--------------------------------------------+--------+
+branded_despia - 2024-06-02
++---------------------------------+-------+
+|               Card              | Price |
++---------------------------------+-------+
+|      Triple Tactics Thrust      |   75  |
+|    Guiding Quem the Virtuous    |  51.0 |
+|          Branded Fusion         |  49.0 |
+|      The Bystial Lubellion      |  24.5 |
+|       Fallen of Albaz UTR       |   19  |
+| Aluber the Jester of Despia UTR |   14  |
+|         Branded Opening         |  4.5  |
+|         Bystial Saronir         |  4.0  |
+|    Albion the Shrouded Dragon   |  3.0  |
+|  Blazing Cartesia the Virtuous  |  3.0  |
+|     Gimmick Puppet Nightmare    |   2   |
+|       Ad Libitum of Despia      |   0   |
+|         Despian Tragedy         |   0   |
+|        Fusion Deployment        |   0   |
+|          Springans Kitt         |   0   |
+|      Tri Brigade Mercourier     |   0   |
+|               test              |   0   |
++---------------------------------+-------+

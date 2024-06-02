@@ -92,8 +92,11 @@
 #2015-nekroz:
 #  path: 'decks/decklists/2015-nekroz.yaml'
 #
-2022-tearlaments:
-  path: 'decks/decklists/2022-tearlaments.yaml'
+#2022-tearlaments:
+#  path: 'decks/decklists/2022-tearlaments.yaml'
 #
 #2023-tearlaments:
 #  path: 'decks/decklists/2023-tearlaments2.yaml'
+
+2024-brandeddespia:
+  path: 'decks/decklists/2024-branded.yaml'
