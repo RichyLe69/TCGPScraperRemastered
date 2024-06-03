@@ -1,5 +1,5 @@
 ### Split Collections
-#
+
 #2006-chaosturbo:
 #  path: 'decks/decklists/2006-chaosturbo.yaml'
 #
@@ -12,97 +12,100 @@
 #2007-destinyhero:
 #  path: 'decks/decklists/2007-destiny.yaml'
 #
-## # PTDN
+## PTDN Feb
 #
-#2008-cybervalleyftk:
-#   path: 'decks/decklists/2008-cybervalleyftk.yaml'
-#
-#2008-kaibacontrol:
-#  path: 'decks/decklists/2008-kaibacontrol.yaml'
-#
-#2008-returndad:
+#2008-03-returndad:
 #  path: 'decks/decklists/2008-returndad.yaml'
 #
-## # LODT May - Sept
+## LODT May - Sept
 #
-#2008-darkarmedlodt:
-#  path: 'decks/decklists/2008-darkarmed.yaml'
-#
-#2008-lightswornlodt:
+#2008-05-lightswornlodt:
 #  path: 'decks/decklists/2008-lightswornLODT.yaml'
 #
-## # TDGS
+## TDGS - Sept
 #
-#2008-lightsworn:  # Post TDGS
-#  path: 'decks/decklists/2008-lightsworn.yaml'
-#
-#2008-teledad:  # Post TDGS
-#  path: 'decks/decklists/2008-teledad.yaml'
-#
-#
-#2008-kintelezombiesOCG:
+#2008-05-kintelezombiesOCG:
 #  path: 'decks/decklists/2008-kintelezombiesOCG.yaml'
 #
-## 2008 Zombie Lightsworn - https://yugiohtopdecks.com/card/Card+of+Safe+Return
-#
-#2009-teledad:
+#2009-02-teledad:
 #  path: 'decks/decklists/2009-teledad.yaml'
 #
-#2009-lightsworn:
+#2009-04-lightsworn:
 #  path: 'decks/decklists/2009-lightsworn.yaml'
 #
-#2009-salvodad:
-#  path: 'decks/decklists/2009-salvodad.yaml'
-#
-#2009-chaos:
-#  path: 'decks/decklists/2009-chaos.yaml'
-#
-#2009-twilight:
+#2009-11-twilight:
 #  path: 'decks/decklists/2009-twilight.yaml'
 #
-#2010-kristyasworn:  # Pre-Edison
-#  path: 'decks/decklists/2010-kristyasworn.yaml'
-#
-#2010-kristyasworn2:
-#  path: 'decks/decklists/2010-kristyasworn2.yaml'
-#
-#2010-kristyaswornedison:
-#  path: 'decks/decklists/2010-kristyaswornedison.yaml'
-#
-#      # # 2010 Edison WeleDad modern
-#
-#2011-tenguplant:
+#2011-09-tenguplant:
 #  path: 'decks/decklists/2011-tenguplant.yaml'
 #
-#2012-dinorabbit:
+#2012-05-dinorabbit:
 #  path: 'decks/decklists/2012-dinorabbit.yaml'
 #
-#2013-spellbooks:
-#  path: 'decks/decklists/2013-spellbooks.yaml'
-#
-#2013-mermails:
+#2013-05-mermails:
 #  path: 'decks/decklists/2013-mermails.yaml'
 #
-#2013-dragonrulers:
+#2013-06-spellbooks:
+#  path: 'decks/decklists/2013-spellbooks.yaml'
+#
+#2013-07-dragonrulers:
 #  path: 'decks/decklists/2013-dragonrulers.yaml'
 #
-#2014-lightswornrulers:
+#2014-07-lightswornrulers:
 #  path: 'decks/decklists/2014-lightswornrulers.yaml'
 #
-#2015-nekroz:
+#2015-03-nekroz:
 #  path: 'decks/decklists/2015-nekroz.yaml'
 #
-#2022-tearlaments:
-#  path: 'decks/decklists/2022-tearlaments.yaml'
-#
-#2023-tearlaments:
+#2023-02-tearlaments:
 #  path: 'decks/decklists/2023-tearlaments2.yaml'
 
-2024-brandeddespia:
-  path: 'decks/decklists/2024-branded.yaml'
+2024-06-brandeddespia:
+  path: 'decks/decklists/2024-06-branded.yaml'
+
+####################################################
+# TIER 2 Decks
+
+#2008-cybervalleyftk:
+#   path: 'decks/decklists/T2_decks/2008-cybervalleyftk.yaml'
+#
+#2008-kaibacontrol:
+#  path: 'decks/decklists/T2_decks/2008-kaibacontrol.yaml'
+#
+#2008-darkarmedlodt:
+#  path: 'decks/decklists/T2_decks/2008-darkarmed.yaml'
+#
+#2008-lightsworn:  # Post TDGS
+#  path: 'decks/decklists/T2_decks/2008-lightsworn.yaml'
+#
+#2008-teledad:  # Post TDGS
+#  path: 'decks/decklists/T2_decks/2008-teledad.yaml'
+#
+#2009-salvodad:
+#  path: 'decks/decklists/T2_decks/2009-salvodad.yaml'
+#
+#2009-chaos:
+#  path: 'decks/decklists/T2_decks/2009-chaos.yaml'
+#
+#2010-kristyasworn:  # Pre-Edison
+#  path: 'decks/decklists/T2_decks/2010-kristyasworn.yaml'
+#
+#2010-kristyasworn2:
+#  path: 'decks/decklists/T2_decks/2010-kristyasworn2.yaml'
+#
+#2010-kristyaswornedison:
+#  path: 'decks/decklists/T2_decks/2010-kristyaswornedison.yaml'
+#
+#2022-tearlaments:
+#  path: 'decks/decklists/T2_decks/2022-tearlaments.yaml'
+
+
+####################################################
+# BUYLISTS
 
 #2030-buylists:
 #  path: 'decks/decklists/2030-buylists.yaml'
-#
+
 #2030-buylists2:
 #  path: 'decks/decklists/2030-buylists2.yaml'
+
