@@ -534,3 +534,7 @@ if __name__ == '__main__':
 
 # To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\decklist_gallery.py
 #       Updates new text data based on already scraped .txt database. Recommended running after price scraping (weekly)
+
+# To get Seperate Rarity printings, put the rarity code in the deck_list.yaml
+# Example: Judgment Dragon: 3 ScR
+# if you want to display 3 Secret Jd's
