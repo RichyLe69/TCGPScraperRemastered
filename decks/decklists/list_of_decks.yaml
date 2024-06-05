@@ -12,27 +12,34 @@
 #2007-destinyhero:
 #  path: 'decks/decklists/2007-destiny.yaml'
 #
-## PTDN Feb
+## PTDN Feb - ReturnDad Format
 #
 #2008-03-returndad:
 #  path: 'decks/decklists/2008-returndad.yaml'
 #
-## LODT May - Sept
+## LODT May - Sept - Dad Deck Format
 #
 #2008-05-lightswornlodt:
 #  path: 'decks/decklists/2008-lightswornLODT.yaml'
 #
-## TDGS - Sept
+## TDGS - Sept - TeleDad Format
 #
-#2008-05-kintelezombiesOCG:
-#  path: 'decks/decklists/2008-kintelezombiesOCG.yaml'
+#2008-09-zombieteledad: # OCG
+#  path: 'decks/decklists/T2_decks/2008-zombieteledad.yaml'
+#
+#2009-01-zombiesworn:
+#  path: 'decks/decklists/2009-zombiesworn.yaml'
 #
 #2009-02-teledad:
 #  path: 'decks/decklists/2009-teledad.yaml'
-#
+
+# March 2009 - Destroyed TeleDad, Lightsworn Format
+
 #2009-04-lightsworn:
 #  path: 'decks/decklists/2009-lightsworn.yaml'
-#
+
+# Sep 2009 - Trag release
+
 #2009-11-twilight:
 #  path: 'decks/decklists/2009-twilight.yaml'
 #
@@ -59,7 +66,7 @@
 #
 #2023-02-tearlaments:
 #  path: 'decks/decklists/2023-tearlaments2.yaml'
-
+#
 2024-06-brandeddespia:
   path: 'decks/decklists/2024-06-branded.yaml'
 
@@ -74,6 +81,9 @@
 #
 #2008-darkarmedlodt:
 #  path: 'decks/decklists/T2_decks/2008-darkarmed.yaml'
+#
+#2008-05-kintelezombiesOCG:
+#  path: 'decks/decklists/2008-kintelezombiesOCG.yaml'
 #
 #2008-lightsworn:  # Post TDGS
 #  path: 'decks/decklists/T2_decks/2008-lightsworn.yaml'
