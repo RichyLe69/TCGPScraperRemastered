@@ -32,7 +32,9 @@
 
  - [2008 Lightsworn](#2008-Lightsworn)
  - [2008 TeleDad](#2008-TeleDad)
+ - [2008 Zombie Dad OCG](#2008-zombie-teledad-ocg)
  - [2009 Oppression TeleDad](#2009-Oppression-TeleDad)
+ - [2009 Zombiesworn](#2009-zombiesworn)
 
 #### Mar 2009 Banlist
 
@@ -81,6 +83,9 @@
 
  - [2023 Ishizu Tearlaments](#2023-ishizu-tearlaments)
 
+#### 2024 June
+
+- [2004 Branded Despia](#2024-branded-despia)
 
 
 [//]: # (#### 2xxx Name)
@@ -150,6 +155,14 @@
 
 ![Imgur Image](https://i.imgur.com/F7n9GDH.jpg)
 
+#### 2008 Zombie TeleDad OCG
+
+![Imgur Image](https://i.imgur.com/gVDw60a.jpeg)
+
+#### 2009 Zombiesworn
+
+![Imgur Image](https://i.imgur.com/qJIqS0L.jpeg)
+
 #### 2009 Salvo Dad
 
 ![Imgur Image](https://i.imgur.com/2z29XUl.jpg)
@@ -180,7 +193,7 @@
 
 #### 2013 Mermails
 
-![Imgur Image](https://i.imgur.com/kfge5nv.jpeg)
+![Imgur Image](https://i.imgur.com/IHuURzr.jpeg)
 
 #### 2013 Spellbooks
 
@@ -201,3 +214,7 @@
 #### 2023 Ishizu Tearlaments
 
 ![Imgur Image](https://i.imgur.com/RawRw4U.jpeg)
+
+#### 2024 Branded Despia
+
+![Imgur Image](https://i.imgur.com/DYzXS73.jpeg)

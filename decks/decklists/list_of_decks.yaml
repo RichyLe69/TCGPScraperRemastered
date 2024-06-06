@@ -49,8 +49,8 @@
 #2012-05-dinorabbit:
 #  path: 'decks/decklists/2012-dinorabbit.yaml'
 #
-#2013-05-mermails:
-#  path: 'decks/decklists/2013-mermails.yaml'
+2013-05-mermails:
+  path: 'decks/decklists/2013-mermails.yaml'
 #
 #2013-06-spellbooks:
 #  path: 'decks/decklists/2013-spellbooks.yaml'
@@ -67,8 +67,8 @@
 #2023-02-tearlaments:
 #  path: 'decks/decklists/2023-tearlaments2.yaml'
 #
-2024-06-brandeddespia:
-  path: 'decks/decklists/2024-06-branded.yaml'
+#2024-06-brandeddespia:
+#  path: 'decks/decklists/2024-06-branded.yaml'
 
 ####################################################
 # TIER 2 Decks
