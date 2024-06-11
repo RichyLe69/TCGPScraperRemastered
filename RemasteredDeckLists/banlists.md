@@ -1,7 +1,7 @@
 ## Ban Lists
 
 # May 2008
-![Example Image](/banlists/2008-05.png)
+![Example Image](RemasteredDeckLists/banlists/2008-05.png)
 
 # September 2008
 ![Example Image](/banlists/2008-09.png)
