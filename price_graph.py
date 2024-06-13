@@ -92,7 +92,7 @@ def get_price_graph(card_name):
 if __name__ == '__main__':
     deckbuilder = DeckBuilder()
     card_code_list = deckbuilder.get_card_code_list()
-    get_price_graph('Charge of the Light Brigade')
+    get_price_graph('Demise King of Armageddon')
 
 # Script will generate a graph based on card name and pricing_variable_full
 #       Simply select which time period you want to scrape from, via get_pricing_time_period()

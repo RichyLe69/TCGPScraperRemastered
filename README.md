@@ -7,6 +7,7 @@
 **Table of Contents**
 
 1. [Decklists](RemasteredDeckLists/decklists.md)
+2. [Ban lists](RemasteredDeckLists/banlists.md)
 
 Update 2023: SellerPortalDatabase no longer works due to some captcha thing, so This will be the new version of YGO Card Scraper.
 

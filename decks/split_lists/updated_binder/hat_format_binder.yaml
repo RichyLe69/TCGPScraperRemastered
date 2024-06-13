@@ -50,12 +50,12 @@ Mermail Abyssleed:
   edition: 'Near Mint 1st'
   qty: 1
 
-Abysssphere:
+Abysssphere Ulti:
   url: 67274
   edition: 'Near Mint 1st'
   qty: 3
 
-# Water Mermails
+# Water Mermails Extra Deck
 
 Dewloren Secret DT:
  url: '81035'
@@ -77,17 +77,17 @@ Bahamut Shark Scr:
  edition: 'Near Mint 1st'
  qty: 1
 
-Gagaga Cowboy Utr: # - 91657
+Gagaga Cowboy Utr:
  url: 91657
  edition: 'Near Mint'
  qty: 1
 
-# exciton knight Ultra 1st - TCG: # - 136857
-#  url: 136857
-#  edition: 'Near Mint 1st'
-#  qty: 1
+Number 11 Big Eye UTR:
+  url: 95439
+  edition: 'Near Mint'
+  qty: 1
 
-Mermail Abyssgaios UTR 1st - TCG/seek:
+Mermail Abyssgaios UTR 1st:
  url: 67244
  edition: 'Near Mint 1st'
  qty: 1
@@ -100,8 +100,33 @@ Mermail Abysstrite - TCG:
 
 # Spellbooks
 
+High Priestess of Prophecy:
+  url: 60170
+  edition: 'Near Mint 1st'
+  qty: 3
+
 Spellbook Magician of Prophecy Ulti:
   url: 60250
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Spellbook of Judgment:
+  url: 68203
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Spellbook of Secrets Ulti:
+  url: 60258
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Spellbook of the Master:
+  url: 67657
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Spellbook of Fate Ulti:
+  url: 67260
   edition: 'Near Mint 1st'
   qty: 3
 
@@ -110,25 +135,10 @@ Spellbook of Power Ulti:
   edition: 'Near Mint'
   qty: 3
 
-Spellbook of Secrets Ulti:
-  url: 60258
-  edition: 'Near Mint 1st'
-  qty: 3
-
-Spellbook of Fate:
-  url: 67260
-  edition: 'Near Mint 1st'
-  qty: 3
-
 The Grand Spellbook Tower:
   url: 67261
   edition: 'Near Mint 1st'
-  qty: 3
-
-Spellbook of the Master:
-  url: 67657
-  edition: 'Near Mint 1st'
-  qty: 3
+  qty: 2
 
 Spellbook of Life:
   url: 60209
@@ -145,14 +155,14 @@ Spellbook of Eternity:
   edition: 'Near Mint'
   qty: 1
 
-Spellbook of Judgment:
-  url: 68203
-  edition: 'Near Mint 1st'
-  qty: 3
+Spellbook Star Hall:
+  url: 78047
+  edition: 'Near Mint'
+  qty: 2
 
-High Priestess of Prophecy:
-  url: 60170
-  edition: 'Near Mint 1st'
+Upstart Goblin TU:
+  url: 66777
+  edition: 'Near Mint'
   qty: 3
 
 Toon Table of Contents TP:
@@ -160,12 +170,170 @@ Toon Table of Contents TP:
   edition: 'Near Mint'
   qty: 3
 
-Upstart Goblin TU:
-  url: 66777
+Wonder Wand Ulti:
+  url: 58399
+  edition: 'Near Mint 1st'
+  qty: 3
+
+# Dragon Rulers 2013
+
+Blaster - Secret:
+  url: 70971
+  edition: 'Near Mint'
+  qty: 4
+
+Tempest - Secret:
+  url: 77325
+  edition: 'Near Mint'
+  qty: 4
+
+Tidal - Secret:
+  url: 70975
   edition: 'Near Mint'
   qty: 3
 
-Wonder Wand Ulti:
-  url: 58399
+Redox - Secret:
+  url: 77326
+  edition: 'Near Mint'
+  qty: 3
+
+Mecha Phantom Beast Dracossack LGYT Secret:
+  url: 68164
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Number 11 Big Eye Secret 1st:
+  url: 59088
+  edition: 'Near Mint 1st'
+  qty: 3
+
+# Lightsworn Rulers
+
+Raiden Lightsworn Assassin Super:
+  url: 90993
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Eclipse Wyvern Super:
+  url: 57903
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Lightray Diabolos Rare:
+  url: 59033
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Kuribandit Scr 1st:
+  url: 82554
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Soul Charge Super:
+  url: 82566
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Needlebug Nest C 1st:
+  url: 27577
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Michael The Arch Lightsworn:
+  url: 91026
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Mechquipped Angineer:
+  url: 70018
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Ghostrick Alucard UTR:
+  url: 72458
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Number 101 Silent Honor Ark UTR:
+  url: 79069
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Diamond Dire Wolf:
+  url: 67646
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Lavalval Chain DT:
+  url: 81566
+  edition: 'Near Mint'
+  qty: 1
+
+Number 80 Rhapsody in Berserk:
+  url: 95447
+  edition: 'Near Mint'
+  qty: 1
+
+Starliege Paladynamo:
+  url: 67771
+  edition: 'Near Mint 1st'
+  qty: 1
+
+# Nekroz
+
+Nekroz of Brionac:
+  url: 96083
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Nekroz of Trishula:
+  url: 96084
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Nekroz of Valkyrus:
+  url: 96086
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Nekroz of Unicore:
+  url: 96085
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Nekroz of Clausolas:
+  url: 96082
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Daigusto Emeral DT:
+  url: 81567
+  edition: 'Near Mint'
+  qty: 1
+
+# Zombies
+
+Goblin Zombie Secret PTDN 1st:
+  url: 26693
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Mezuki Secret pp02:
+  url: 27457
+  edition: 'Near Mint'
+  qty: 3
+
+Zombie Master UTR 1st:
+  url: 58533
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Card of Safe Return:
+  url: 21816
+  edition: 'Near Mint 1st'
+  qty: 3
+
+Burial from a Different Dimension:
+  url: 25617
   edition: 'Near Mint 1st'
   qty: 3
