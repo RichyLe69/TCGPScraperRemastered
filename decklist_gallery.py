@@ -10,9 +10,9 @@ import datetime
 # Configs
 use_max_rarity_pricing = True
 display_rarity_in_decklist = True
-generate_decklist_gallery = True  # Generate the Pic Images
-generate_decklist_prices = False    # Generate .txt of deck prices
-generate_binder_gallery = False    # Generate Binder Gallery
+generate_decklist_gallery = False  # Generate the Pic Images
+generate_decklist_prices = True    # Generate .txt of deck prices
+generate_binder_gallery = True    # Generate Binder Gallery
 
 
 # Generating Decklist Gallery #
