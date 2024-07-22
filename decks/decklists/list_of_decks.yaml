@@ -1,53 +1,53 @@
 ### Split Collections
 
-2006-chaosturbo:
-  path: 'decks/decklists/2006-chaosturbo.yaml'
-
-2007-demiseotk:
-  path: 'decks/decklists/2007-demiseotk.yaml'
-
-2007-machinesotk:
-  path: 'decks/decklists/2007-machinesotk.yaml'
-
-2007-destinyhero:
-  path: 'decks/decklists/2007-destiny.yaml'
-
-# PTDN Feb - ReturnDad Format
-
-2008-03-returndad:
-  path: 'decks/decklists/2008-returndad.yaml'
-
-# LODT May - Sept - Dad Deck Format
-
-2008-05-lightswornlodt:
-  path: 'decks/decklists/2008-lightswornLODT.yaml'
-
-# TDGS - Sept - TeleDad Format
-
-2008-09-zombieteledad: # OCG
-  path: 'decks/decklists/2008-zombieteledad.yaml'
-
-2009-01-zombiesworn:
-  path: 'decks/decklists/2009-zombiesworn.yaml'
-
-2009-02-teledad:
-  path: 'decks/decklists/2009-teledad.yaml'
-
-# March 2009 - Destroyed TeleDad, Lightsworn Format
-
-2009-04-lightsworn:
-  path: 'decks/decklists/2009-lightsworn.yaml'
-
-# Sep 2009 - Trag release
-
-2009-11-twilight:
-  path: 'decks/decklists/2009-twilight.yaml'
-
-2011-09-tenguplant:
-  path: 'decks/decklists/2011-tenguplant.yaml'
-
-2012-05-dinorabbit:
-  path: 'decks/decklists/2012-dinorabbit.yaml'
+#2006-chaosturbo:
+#  path: 'decks/decklists/2006-chaosturbo.yaml'
+#
+#2007-demiseotk:
+#  path: 'decks/decklists/2007-demiseotk.yaml'
+#
+#2007-machinesotk:
+#  path: 'decks/decklists/2007-machinesotk.yaml'
+#
+#2007-destinyhero:
+#  path: 'decks/decklists/2007-destiny.yaml'
+#
+## PTDN Feb - ReturnDad Format
+#
+#2008-03-returndad:
+#  path: 'decks/decklists/2008-returndad.yaml'
+#
+## LODT May - Sept - Dad Deck Format
+#
+#2008-05-lightswornlodt:
+#  path: 'decks/decklists/2008-lightswornLODT.yaml'
+#
+## TDGS - Sept - TeleDad Format
+#
+#2008-09-zombieteledad: # OCG
+#  path: 'decks/decklists/2008-zombieteledad.yaml'
+#
+#2009-01-zombiesworn:
+#  path: 'decks/decklists/2009-zombiesworn.yaml'
+#
+#2009-02-teledad:
+#  path: 'decks/decklists/2009-teledad.yaml'
+#
+## March 2009 - Destroyed TeleDad, Lightsworn Format
+#
+#2009-04-lightsworn:
+#  path: 'decks/decklists/2009-lightsworn.yaml'
+#
+## Sep 2009 - Trag release
+#
+#2009-11-twilight:
+#  path: 'decks/decklists/2009-twilight.yaml'
+#
+#2011-09-tenguplant:
+#  path: 'decks/decklists/2011-tenguplant.yaml'
+#
+#2012-05-dinorabbit:
+#  path: 'decks/decklists/2012-dinorabbit.yaml'
 
 #2013-05-mermails:
 #  path: 'decks/decklists/2013-mermails.yaml'
