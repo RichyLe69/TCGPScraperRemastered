@@ -15279,3 +15279,94 @@ collection_old_school - 2024-09-01
 |             EHERO Spark secret             |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+sales - 2024-09-01
++--------------------------------------------------------------+-------+
+|                             Card                             | Price |
++--------------------------------------------------------------+-------+
+|                   Tempest Ultimate 1st GER                   |  1299 |
+|          Shining Phoenix Enforcer Ultimate 1st ITA           |  605  |
+|               Rampart Blaster Ultimate 1st GER               |  521  |
+|        Scapegoat Ultra RP01 Italian Ultra Original LP        |  487  |
+|              Phoenix Enforcer Ultimate 1st ITA               |  457  |
+|                   Maxx C Ultimate Spanish                    |  452  |
+|               Trap Dustshoot Super CP Italian                |  392  |
+|                 Flare Neos Ultimate 1st ger                  |  389  |
+|       Allure of Darkness Ultimate 1st German / Italian       |  368  |
+|         Shining Phoenix Enforcer Ultimate 1st ITA LP         |  366  |
+|                  Glow neos Ultimate 1st ita                  |  344  |
+|                 Grand Neos Ultimate 1st ger                  |  299  |
+|              Winged kuribo ultimate 1st german               |  298  |
+|                   Gate Guardian Secret 1st                   |  288  |
+|            Emergency Teleport Ultimate 1st German            |  265  |
+|                  Night Assailant Super 1 IT                  |  245  |
+|                Dark Magician Girl Secret UNL                 |  244  |
+|    Black Luster Soldier Envoy of the Beginning Ultra 1st     |  226  |
+|            Pot of Avarice Ultimate 1st German LP             |  225  |
+|              Pot of Avarice Ultimate 1st German              |  200  |
+|                 Gate Guardian Secret 1st LP                  |  190  |
+|     Allure of Darkness Ultimate 1st German / Italian LP      |  185  |
+|             Pot of Greed Ultimate 1st - Spanish              |  174  |
+|                      Dandylion Ultimate                      |  171  |
+|                Flame Wingman Ultimate 1st UDE                |  169  |
+|                bladeedge ultimate 1st italian                |  167  |
+|                Thunder Giant Ultimate 1st ITA                |  158  |
+|   Black Luster Soldier Envoy of the Beginning Ultra 1st LP   |  141  |
+|                    Dark Magician BPT 2002                    |  139  |
+|                     Battle Fader UTR 1st                     |  120  |
+|                     EHERO clayman secret                     |  117  |
+|              Chaos Emperor Dragon Ultimate 1st               |  112  |
+|                      Darkbright UTR UNL                      |  106  |
+|              bladeedge ultimate 1st italian LP               |  100  |
+|            neos dark panther ultimate 1st german             |   95  |
+|                      EHERO Avian secret                      |   92  |
+|                      EHERO Burst secret                      |   88  |
+|                  Dark Magician BPT 2002 LP                   |   87  |
+|                    Debris Dragon Ultimate                    |   86  |
+|                Red Eyes Black Dragon BPT 2002                |   84  |
+|               Blue Eyes White Dragon BPT 2002                |   80  |
+| Winged kurbio lvl 10 ultimate 1st german Crease bottom right |   79  |
+|                  neos air bird ultimate 1st                  |   72  |
+|             EHERO bubbleman ultimate 1st german              |   69  |
+|                      Tsukuyomi Ultimate                      |   69  |
+|          Emergency Teleport Ultimate 1st German LP           |   66  |
+|           neos dark panther ultimate 1st german LP           |   66  |
+|                   Battle Fader UTR 1st LP                    |   64  |
+|              Flame Wingman Ultimate 1st UDE LP               |   64  |
+|                  Aqua Neos Ultimate 1st UDE                  |   61  |
+|                Wild Wingman Ultimate 1st GER                 |   60  |
+|                    Cyber Jar Ultimate 1st                    |   59  |
+|                       Dark Paladin DMG                       |   58  |
+|                    EHERO Avian secret LP                     |   55  |
+|               Serpent Night Dragon Secret 1st                |   49  |
+|                neos air bird ultimate 1st LP                 |   46  |
+|              Red Eyes Black Dragon BPT 2002 LP               |   45  |
+|                  B Skull Dragon BPT 2002 LP                  |   41  |
+|               neos dolphin ultimate 1st german               |   39  |
+|                 transcend wings utr 1st ger                  |   38  |
+|                  neo space ultimate 1st ger                  |   34  |
+|            neos flare scarab ultimate 1st german             |   32  |
+|                  Cyber Phoenix Ultimate 1st                  |   31  |
+|              Blue Eyes White Dragon BPT 2002 LP              |   27  |
+|                Cyber Phoenix Ultimate 1st LP                 |   26  |
+|                     Divine Wrath UTR 1st                     |   25  |
+|                Aqua Neos Ultimate 1st UDE LP                 |   22  |
+|              Blue Eyes White Dragon BPT 2002 MP              |   21  |
+|                      EHERO Neos secret                       |   18  |
+|                     Neos Knight UTR 1st                      |   18  |
+|                   Book of Moon TU07 Ultra                    |   16  |
+|                     Seven Tools MRD 1st                      |   14  |
+|                   hero flash ultimate 1st                    |   14  |
+|                  Dark Neos Ultimate UNL ger                  |   11  |
+|                transcend wings utr 1st ger LP                |   9   |
+|              Thousand Eyes Restrict Secret MC1               |   7   |
+|                   mirror gate Ultimate 1st                   |   7   |
+|                    Wildedge Ultimate GER                     |   3   |
+|          Neo Spacian Grand Mole Ultimate 1st german          |   2   |
+|                  Air Neos Ultimate 1st ger                   |   0   |
+|                   B Skull Dragon BPT 2002                    |   0   |
+|               Dark Magician Girl Secret UNL LP               |   0   |
+|                      EHERO Spark secret                      |   0   |
+|         Scapegoat Ultra RP01 Italian Ultra Original          |   0   |
+|            Shining Flame Wingman Ultimate Unl GER            |   0   |
+|                             test                             |   0   |
++--------------------------------------------------------------+-------+

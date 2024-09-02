@@ -1,0 +1,606 @@
+Missing Data for:    Shining Flame Wingman Ultimate Unl GER
+Missing Data for:    Air Neos Ultimate 1st ger
+Missing Data for:    EHERO Spark secret
+Missing Data for:    B Skull Dragon BPT 2002
+Missing Data for:    Scapegoat Ultra RP01 Italian Ultra Original
+Missing Data for:    Dark Magician Girl Secret UNL LP
+Sum of Min Listed: $10,103.00
+Sum of Max Listed: $15,237.00
+Sum of Mean Listed: $12,068.00
+Sum of Median Listed: $11,488.00
+
+Flame Wingman Ultimate 1st UDE [1] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 154 | 199 | 169  | 164.5  |
++-----+-----+------+--------+
+
+Flame Wingman Ultimate 1st UDE LP [1] - Lightly Played 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  49 |  89 |  64  |  60.5  |
++-----+-----+------+--------+
+
+Wild Wingman Ultimate 1st GER [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  55 |  84 |  60  |   56   |
++-----+-----+------+--------+
+
+Thunder Giant Ultimate 1st ITA [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 129 | 221 | 158  | 145.5  |
++-----+-----+------+--------+
+
+Rampart Blaster Ultimate 1st GER [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 493 | 579 | 521  |  493   |
++-----+-----+------+--------+
+
+Tempest Ultimate 1st GER [1] - Near Mint 1st <3>
++------+------+------+--------+
+| Min  | Max  | Mean | Median |
++------+------+------+--------+
+| 1049 | 1800 | 1299 |  1050  |
++------+------+------+--------+
+
+Shining Flame Wingman Ultimate Unl GER [1] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Phoenix Enforcer Ultimate 1st ITA [1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 457 | 457 | 457  | 457.0  |
++-----+-----+------+--------+
+
+Shining Phoenix Enforcer Ultimate 1st ITA [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 549 | 667 | 605  |  599   |
++-----+-----+------+--------+
+
+Shining Phoenix Enforcer Ultimate 1st ITA LP [1] - Lightly Played 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 297 | 449 | 366  | 359.5  |
++-----+-----+------+--------+
+
+Wildedge Ultimate GER [1] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  3  |  3  |  3   |   3    |
++-----+-----+------+--------+
+
+Dark Neos Ultimate UNL ger [1] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  11 |  11  |   11   |
++-----+-----+------+--------+
+
+Darkbright UTR UNL [1] - Near Mint Unlimited <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  62 | 145 | 106  | 107.5  |
++-----+-----+------+--------+
+
+Flare Neos Ultimate 1st ger [1] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 299 | 479 | 389  | 389.0  |
++-----+-----+------+--------+
+
+Aqua Neos Ultimate 1st UDE [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  58 |  68 |  61  |   59   |
++-----+-----+------+--------+
+
+Aqua Neos Ultimate 1st UDE LP [1] - Lightly Played 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  18 |  29 |  22  |  19.5  |
++-----+-----+------+--------+
+
+Glow neos Ultimate 1st ita [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 334 | 369 | 344  |  339   |
++-----+-----+------+--------+
+
+Air Neos Ultimate 1st ger [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Grand Neos Ultimate 1st ger [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 299 | 299 | 299  |  299   |
++-----+-----+------+--------+
+
+Neos Knight UTR 1st [1] - Near Mint 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  28 |  18  |  16.5  |
++-----+-----+------+--------+
+
+EHERO Avian secret [1] - Near Mint Limited <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  80 | 110 |  92  |   87   |
++-----+-----+------+--------+
+
+EHERO Avian secret LP [1] - Lightly Played Limited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  38 |  82 |  55  |  57.0  |
++-----+-----+------+--------+
+
+EHERO clayman secret [1] - Near Mint Limited <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 108 | 135 | 117  | 113.5  |
++-----+-----+------+--------+
+
+EHERO Burst secret [1] - Near Mint Limited <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  69 | 135 |  88  |   85   |
++-----+-----+------+--------+
+
+EHERO Spark secret [1] - Near Mint Limited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+EHERO Neos secret [1] - Near Mint Limited <17>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  29 |  18  |   18   |
++-----+-----+------+--------+
+
+Winged kuribo ultimate 1st german [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 238 | 395 | 298  |  277   |
++-----+-----+------+--------+
+
+Winged kurbio lvl 10 ultimate 1st german Crease bottom right [1] - Moderately Played 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  68 | 100 |  79  |  74.0  |
++-----+-----+------+--------+
+
+EHERO bubbleman ultimate 1st german [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  68 |  77 |  69  |   69   |
++-----+-----+------+--------+
+
+neos dolphin ultimate 1st german [1] - Moderately Played 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  33 |  42 |  39  |  40.0  |
++-----+-----+------+--------+
+
+neos flare scarab ultimate 1st german [1] - Lightly Played 1st <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  22 |  46 |  32  |  29.0  |
++-----+-----+------+--------+
+
+neos dark panther ultimate 1st german [1] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  70 | 146 |  95  |  84.5  |
++-----+-----+------+--------+
+
+neos dark panther ultimate 1st german LP [1] - Lightly Played 1st <24>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  33 |  97 |  66  |  65.0  |
++-----+-----+------+--------+
+
+neos air bird ultimate 1st [1] - Near Mint 1st <17>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  46 | 119 |  72  |   77   |
++-----+-----+------+--------+
+
+neos air bird ultimate 1st LP [1] - Lightly Played 1st <16>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  29 |  75 |  46  |  42.0  |
++-----+-----+------+--------+
+
+Neo Spacian Grand Mole Ultimate 1st german [1] - Near Mint 1st <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  2  |  2   |   2    |
++-----+-----+------+--------+
+
+bladeedge ultimate 1st italian [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 120 | 220 | 167  |  169   |
++-----+-----+------+--------+
+
+bladeedge ultimate 1st italian LP [1] - Lightly Played 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  73 | 148 | 100  |  95.5  |
++-----+-----+------+--------+
+
+hero flash ultimate 1st [1] - Moderately Played 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  9  |  22 |  14  |   14   |
++-----+-----+------+--------+
+
+transcend wings utr 1st ger [1] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  23 |  56 |  38  |  36.5  |
++-----+-----+------+--------+
+
+transcend wings utr 1st ger LP [1] - Lightly Played 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  9  |  12 |  9   |  9.0   |
++-----+-----+------+--------+
+
+neo space ultimate 1st ger [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  33 |  37 |  34  |   34   |
++-----+-----+------+--------+
+
+mirror gate Ultimate 1st [1] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  10 |  7   |  7.0   |
++-----+-----+------+--------+
+
+Serpent Night Dragon Secret 1st [1] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  45 |  61 |  49  |  46.0  |
++-----+-----+------+--------+
+
+Red Eyes Black Dragon BPT 2002 [1] - Near Mint Limited <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  66 | 120 |  84  |   78   |
++-----+-----+------+--------+
+
+Red Eyes Black Dragon BPT 2002 LP [1] - Lightly Played Limited <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  28 |  69 |  45  |  43.5  |
++-----+-----+------+--------+
+
+Blue Eyes White Dragon BPT 2002 [1] - Near Mint Limited <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  52 |  99 |  80  |   90   |
++-----+-----+------+--------+
+
+Blue Eyes White Dragon BPT 2002 LP [1] - Lightly Played Limited <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  15 |  47 |  27  |   28   |
++-----+-----+------+--------+
+
+Blue Eyes White Dragon BPT 2002 MP [1] - Moderately Played Limited <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  31 |  21  |   23   |
++-----+-----+------+--------+
+
+Dark Magician BPT 2002 [1] - Near Mint Limited <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 109 | 169 | 139  | 139.0  |
++-----+-----+------+--------+
+
+Dark Magician BPT 2002 LP [1] - Lightly Played Limited <19>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  52 | 130 |  87  |   89   |
++-----+-----+------+--------+
+
+B Skull Dragon BPT 2002 [1] - Near Mint Limited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+B Skull Dragon BPT 2002 LP [1] - Lightly Played Limited <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  28 |  62 |  41  |  38.0  |
++-----+-----+------+--------+
+
+Thousand Eyes Restrict Secret MC1 [1] - Near Mint Limited <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  12 |  7   |  7.5   |
++-----+-----+------+--------+
+
+Dark Paladin DMG [1] - Near Mint Limited <12>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  48 |  95 |  58  |  56.5  |
++-----+-----+------+--------+
+
+Pot of Greed Ultimate 1st - Spanish [1] - Near Mint 1st Edition <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 121 | 249 | 174  | 159.5  |
++-----+-----+------+--------+
+
+Scapegoat Ultra RP01 Italian Ultra Original [1] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Scapegoat Ultra RP01 Italian Ultra Original LP [1] - Lightly Played Unlimited <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 375 | 599 | 487  | 487.0  |
++-----+-----+------+--------+
+
+Allure of Darkness Ultimate 1st German / Italian [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 288 | 488 | 368  |  300   |
++-----+-----+------+--------+
+
+Allure of Darkness Ultimate 1st German / Italian LP [1] - Lightly Played 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 133 | 300 | 185  |  165   |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st German [1] - Near Mint 1st Edition <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 173 | 249 | 200  |  179   |
++-----+-----+------+--------+
+
+Pot of Avarice Ultimate 1st German LP [1] - Lightly Played 1st Edition <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 215 | 236 | 225  | 225.5  |
++-----+-----+------+--------+
+
+Emergency Teleport Ultimate 1st German [1] - Near Mint 1st <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 249 | 299 | 265  |  249   |
++-----+-----+------+--------+
+
+Emergency Teleport Ultimate 1st German LP [1] - Lightly Played 1st <18>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  55 |  98 |  66  |  59.5  |
++-----+-----+------+--------+
+
+Trap Dustshoot Super CP Italian [1] - Lightly Played <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 390 | 394 | 392  | 392.0  |
++-----+-----+------+--------+
+
+Night Assailant Super 1 IT [1] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 243 | 250 | 245  | 245.5  |
++-----+-----+------+--------+
+
+Maxx C Ultimate Spanish [1] - Near Mint Unlimited <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 384 | 649 | 452  |  416   |
++-----+-----+------+--------+
+
+Black Luster Soldier Envoy of the Beginning Ultra 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 171 | 332 | 226  |  209   |
++-----+-----+------+--------+
+
+Black Luster Soldier Envoy of the Beginning Ultra 1st LP [1] - Lightly Played 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  84 | 197 | 141  |  159   |
++-----+-----+------+--------+
+
+Tsukuyomi Ultimate [1] - Near Mint <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  58 | 100 |  69  |   64   |
++-----+-----+------+--------+
+
+Debris Dragon Ultimate [1] - Near Mint Unlimited <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  77 | 100 |  86  |  83.0  |
++-----+-----+------+--------+
+
+Dandylion Ultimate [1] - Near Mint Unlimited <15>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 148 | 225 | 171  |  165   |
++-----+-----+------+--------+
+
+Seven Tools MRD 1st [1] - Moderately Played 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  15 |  14  |   14   |
++-----+-----+------+--------+
+
+Divine Wrath UTR 1st [1] - Lightly Played 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  20 |  39 |  25  |  23.0  |
++-----+-----+------+--------+
+
+Cyber Jar Ultimate 1st [1] - Near Mint 1st <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  41 |  85 |  59  |  57.0  |
++-----+-----+------+--------+
+
+Chaos Emperor Dragon Ultimate 1st [1] - Near Mint 1st <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 102 | 149 | 112  |  104   |
++-----+-----+------+--------+
+
+Cyber Phoenix Ultimate 1st [1] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  19 |  54 |  31  |  31.5  |
++-----+-----+------+--------+
+
+Cyber Phoenix Ultimate 1st LP [1] - Lightly Played 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  21 |  40 |  26  |  24.0  |
++-----+-----+------+--------+
+
+Battle Fader UTR 1st [1] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  69 | 199 | 120  |  124   |
++-----+-----+------+--------+
+
+Battle Fader UTR 1st LP [1] - Lightly Played 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  58 |  80 |  64  |   59   |
++-----+-----+------+--------+
+
+Gate Guardian Secret 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 195 | 349 | 288  |  299   |
++-----+-----+------+--------+
+
+Gate Guardian Secret 1st LP [1] - Lightly Played 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 183 | 209 | 190  | 184.0  |
++-----+-----+------+--------+
+
+Dark Magician Girl Secret UNL [1] - Near Mint Unlimited <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 225 | 262 | 244  |  244   |
++-----+-----+------+--------+
+
+Dark Magician Girl Secret UNL LP [1] - Lightly Played Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Book of Moon TU07 Ultra [1] - Near Mint <14>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  12 |  25 |  16  |  14.5  |
++-----+-----+------+--------+
+
