@@ -15123,3 +15123,74 @@ max_rarity_binder - 2024-09-01
 |                Trap Dustshoot Super CP                |   0    |
 |                          test                         |   0    |
 +-------------------------------------------------------+--------+
+hat_format_binder - 2024-09-01
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           |  225  |
+|         Mermail Abyssgaios UTR 1st         | 198.5 |
+|         Mermail Abyssteus Ulti 1st         | 129.0 |
+|             Deep Sea Diva TU04             |  119  |
+|         Toon Table of Contents TP          | 115.0 |
+|           Zombie Master UTR 1st            | 100.5 |
+|       Goblin Zombie Secret PTDN 1st        |   99  |
+|          Atlantean Marksman Ulti           |  86.5 |
+|      Number 101 Silent Honor Ark UTR       |   79  |
+|             Abyss Dweller UTR              |   68  |
+|             Gagaga Cowboy Utr              |   59  |
+|           Number 11 Big Eye UTR            |   59  |
+|             Upstart Goblin TU              |   57  |
+|             Gungnir Secret DT              |   50  |
+|        Mermail Abysslinde Ulti 1st         |  44.5 |
+|          Mermail Abyssmegalo 1st           |  43.0 |
+|    Spellbook Magician of Prophecy Ulti     |   42  |
+|             Nekroz of Brionac              |  39.0 |
+|         Spellbook of Secrets Ulti          |  39.0 |
+|             Bahamut Shark Scr              |   38  |
+|             Daigusto Emeral DT             |   38  |
+|             Lavalval Chain DT              |   38  |
+|             Dewloren Secret DT             |   37  |
+| Mecha Phantom Beast Dracossack LGYT Secret |  35.0 |
+|          Spellbook of Power Ulti           |   34  |
+|         High Priestess of Prophecy         |   31  |
+|           Ghostrick Alucard UTR            |   29  |
+|     Burial from a Different Dimension      |   28  |
+|             Diamond Dire Wolf              |  27.5 |
+|             Mermail Abysspike              |  26.5 |
+|              Abysssphere Ulti              |   24  |
+|           Spellbook of Fate Ulti           |   23  |
+|            Card of Safe Return             |   19  |
+|             Mermail Abyssleed              |   19  |
+|             Mezuki Secret pp02             |   17  |
+|        Number 11 Big Eye Secret 1st        |  17.0 |
+|       Atlantean Heavy Infantry Super       |  15.0 |
+|              Wonder Wand Ulti              |   14  |
+|          Spellbook of the Master           |  13.0 |
+|         The Grand Spellbook Tower          |  13.0 |
+|             Nekroz of Valkyrus             |  12.0 |
+|          Mermail Abysstrite - TCG          |   11  |
+|             Nekroz of Trishula             |   11  |
+|             Mermail Abyssgunde             |   9   |
+|             Spellbook of Life              |   9   |
+|       Number 80 Rhapsody in Berserk        |   8   |
+|            Spellbook of Wisdom             |   7   |
+|               Redox - Secret               |   6   |
+|             Kuribandit Scr 1st             |  5.0  |
+|           Spellbook of Judgment            |   5   |
+|           Spellbook of Eternity            |  4.0  |
+|             Soul Charge Super              |   3   |
+|        Michael The Arch Lightsworn         |  1.0  |
+|             Nekroz of Unicore              |  1.0  |
+|            Spellbook Star Hall             |  1.0  |
+|              Blaster - Secret              |   0   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Mechquipped Angineer            |   0   |
+|            Needlebug Nest C 1st            |   0   |
+|            Nekroz of Clausolas             |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|            Starliege Paladynamo            |   0   |
+|              Tempest - Secret              |   0   |
+|               Tidal - Secret               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
