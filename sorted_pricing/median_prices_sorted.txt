@@ -15194,3 +15194,88 @@ hat_format_binder - 2024-09-01
 |               Tidal - Secret               |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+collection_old_school - 2024-09-01
++--------------------------------------------+--------+
+|                    Card                    | Price  |
++--------------------------------------------+--------+
+|       Dark Magician Girl Secret 1st        | 1201.5 |
+|             Dark Magician DDS              |  778   |
+|  Winged kurbio lvl 10 ultimate 1st german  |  498   |
+|          Gate Guardian Secret 1st          |  299   |
+|           Dark Paladin 1st Ultra           | 290.5  |
+|     Winged kuribo ultimate 1st german      |  277   |
+|      Chaos Emperor Dragon Secret 1st       | 244.0  |
+|       Dark Magician Girl Secret UNL        |  244   |
+|       bladeedge ultimate 1st italian       |  169   |
+|           Dark Magician BPT 2002           | 139.0  |
+|            EHERO clayman secret            | 113.5  |
+|         Blue-Eyes White Dragon LOB         | 112.0  |
+|        Red Eyes Black Metal Dragon         | 103.0  |
+|      neos dolphin ultimate 1st german      |   98   |
+|      Blue Eyes White Dragon BPT 2002       |   90   |
+|         Slifer The Sky Dragon YMA          |   89   |
+|         Blue Eyes Toon Dragon MRL          |  87.5  |
+|             EHERO Avian secret             |   87   |
+|             EHERO Burst secret             |   85   |
+|   neos dark panther ultimate 1st german    |  84.5  |
+|             Harpies Pet Dragon             |  78.0  |
+|       Red Eyes Black Dragon BPT 2002       |   78   |
+|         neos air bird ultimate 1st         |   77   |
+|           Buster Blade Ultra 1st           |   76   |
+|    EHERO bubbleman ultimate 1st german     |   69   |
+|             Obelisk JUMP PrScr             |   65   |
+|             Yata-Garasu Secret             |  59.5  |
+|         Blue-Eyes White Dragon DDS         |   53   |
+|              Jinzo Secret PSV              |   49   |
+|      Serpent Night Dragon Secret 1st       |  46.0  |
+|   neos flare scarab ultimate 1st german    |  45.0  |
+|          The Winged Dragon of Ra           |  44.5  |
+|              Exodia Right Leg              |  38.0  |
+|                Exodia Head                 |   34   |
+|             Dark Magician LOB              |  33.5  |
+|           Lava Golem Secret 1st            |  31.0  |
+|             Gemini Elf Secret              |  30.0  |
+|               Don Zaloog 1st               |   28   |
+|       Ring of Destruction Secret UNL       |   28   |
+|             Time Wizard Ultra              |   27   |
+| Black Luster Soldier EOTB Ultra Unlimited  |  26.0  |
+|                Red Eyes LOB                |  26.0  |
+|           B. Skull Dragon Ultra            |  24.5  |
+|              Exodia Left Leg               |  21.5  |
+|              Exodia Right Arm              |  20.5  |
+|              Mirror Force MRD              |  20.5  |
+|    Chaos Emperor Dragon EOTE Secret unl    |   20   |
+|        Injection Fairy Lily Secret         |   20   |
+|            Summoned Skull Ultra            |   20   |
+|            Reflect Bounder 1st             |  19.0  |
+|       Blue Eyes Ultimate JMP Secret        |   18   |
+|             EHERO Neos secret              |   18   |
+|             Queen's Knight UTR             |  17.5  |
+|              Exodia Left Arm               |   17   |
+|           Buster Blade Ultra unl           |  16.5  |
+|          Gate Guardian Secret UNL          |   16   |
+|             Jack's Knight UTR              |  16.0  |
+|           Dark Magician of Chaos           |  14.5  |
+|             King's Knight UTR              |  14.0  |
+|           Marauding Captain 1st            |  14.0  |
+|        Monster Reborn Unlimited LOB        |   13   |
+|              Gaia LOB Vanilla              |  12.0  |
+|         Premature Burial Ultra UNL         |   12   |
+|           Magic Cylinder Secret            |   10   |
+|          Tri Horned Dragon Secret          |   9    |
+|     Thousand Eyes Restrict Secret MC1      |  7.5   |
+|            Vampire Lord Secret             |  7.5   |
+|           Lava Golem Secret UNL            |  7.0   |
+|          Barrel Dragon MRD Ultra           |   6    |
+|              Change of Heart               |  6.0   |
+|        Serpent Night Dragon Secret         |   6    |
+|         Summoned Skull BPT Reverse         |   6    |
+|           Gaia Dragon Champ LOB            |  5.0   |
+|       Forceful Sentry MRL Unlimited        |  4.0   |
+|         Thousand Dragon MRD secret         |  4.0   |
+|         Imperial Order PSV Secret          |   2    |
+| Neo Spacian Grand Mole Ultimate 1st german |   2    |
+|          B Skull Dragon BPT 2002           |   0    |
+|             EHERO Spark secret             |   0    |
+|                    test                    |   0    |
++--------------------------------------------+--------+
