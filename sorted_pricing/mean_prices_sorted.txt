@@ -15529,3 +15529,74 @@ max_rarity_binder - 2024-10-02
 |               Necro Gardna Ultimate 1st               |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2024-10-02
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           |  228  |
+|           Number 11 Big Eye UTR            |  188  |
+|             Deep Sea Diva TU04             |  115  |
+|         Toon Table of Contents TP          |  114  |
+|         Mermail Abyssteus Ulti 1st         |  113  |
+|       Goblin Zombie Secret PTDN 1st        |  104  |
+|           Zombie Master UTR 1st            |  102  |
+|         Mermail Abyssgaios UTR 1st         |   91  |
+|          Atlantean Marksman Ulti           |   85  |
+|             Gagaga Cowboy Utr              |   84  |
+|         Spellbook of Secrets Ulti          |   83  |
+|             Upstart Goblin TU              |   80  |
+|             Daigusto Emeral DT             |   79  |
+|             Mermail Abyssleed              |   78  |
+|    Spellbook Magician of Prophecy Ulti     |   74  |
+|      Number 101 Silent Honor Ark UTR       |   73  |
+|             Abyss Dweller UTR              |   70  |
+|         High Priestess of Prophecy         |   64  |
+|          Spellbook of Power Ulti           |   60  |
+|        Mermail Abysslinde Ulti 1st         |   53  |
+|           Ghostrick Alucard UTR            |   47  |
+|          Spellbook of the Master           |   45  |
+| Mecha Phantom Beast Dracossack LGYT Secret |   43  |
+|             Diamond Dire Wolf              |   42  |
+|          Mermail Abyssmegalo 1st           |   42  |
+|             Nekroz of Brionac              |   40  |
+|             Bahamut Shark Scr              |   31  |
+|           Spellbook of Fate Ulti           |   28  |
+|              Abysssphere Ulti              |   27  |
+|             Mermail Abysspike              |   24  |
+|            Card of Safe Return             |   21  |
+|             Lavalval Chain DT              |   18  |
+|        Number 11 Big Eye Secret 1st        |   17  |
+|             Spellbook of Life              |   17  |
+|             Mezuki Secret pp02             |   16  |
+|             Gungnir Secret DT              |   15  |
+|       Atlantean Heavy Infantry Super       |   14  |
+|              Wonder Wand Ulti              |   14  |
+|             Nekroz of Trishula             |   13  |
+|             Nekroz of Valkyrus             |   11  |
+|            Spellbook of Wisdom             |   11  |
+|         The Grand Spellbook Tower          |   11  |
+|             Dewloren Secret DT             |   8   |
+|             Kuribandit Scr 1st             |   8   |
+|          Mermail Abysstrite - TCG          |   8   |
+|       Number 80 Rhapsody in Berserk        |   8   |
+|               Redox - Secret               |   7   |
+|             Soul Charge Super              |   7   |
+|             Mermail Abyssgunde             |   6   |
+|           Spellbook of Judgment            |   4   |
+|           Spellbook of Eternity            |   3   |
+|            Starliege Paladynamo            |   3   |
+|     Burial from a Different Dimension      |   2   |
+|            Mechquipped Angineer            |   1   |
+|        Michael The Arch Lightsworn         |   1   |
+|             Nekroz of Unicore              |   1   |
+|            Spellbook Star Hall             |   1   |
+|              Blaster - Secret              |   0   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Needlebug Nest C 1st            |   0   |
+|            Nekroz of Clausolas             |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|              Tempest - Secret              |   0   |
+|               Tidal - Secret               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+

@@ -62,11 +62,11 @@
 
 ## Updated Collection Complete 2024
 
-max_rarity_binder:
-  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+#max_rarity_binder:
+#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
-#hat_format_binder:
-#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+hat_format_binder:
+  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
 
 #collection_old_school:
 #  path: 'decks/split_lists/collection_old_school.yaml'
