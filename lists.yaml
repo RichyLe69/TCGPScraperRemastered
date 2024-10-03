@@ -57,13 +57,13 @@
 #collection_deck_core:
 #  path: 'decks/split_lists/collection_deck_core.yaml'
 
-sales:
-  path: 'decks/current_buys/tier2/sales.yaml'
+#sales:
+#  path: 'decks/current_buys/tier2/sales.yaml'
 
 ## Updated Collection Complete 2024
 
-#max_rarity_binder:
-#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+max_rarity_binder:
+  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
 #hat_format_binder:
 #  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
