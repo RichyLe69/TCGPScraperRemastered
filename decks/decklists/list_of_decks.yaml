@@ -30,8 +30,8 @@
 #2009-01-zombiesworn:
 #  path: 'decks/decklists/2009-zombiesworn.yaml'
 #
-#2009-02-teledad:
-#  path: 'decks/decklists/2009-teledad.yaml'
+2009-02-teledad:
+  path: 'decks/decklists/2009-teledad.yaml'
 #
 ## March 2009 - Destroyed TeleDad, Lightsworn Format
 #

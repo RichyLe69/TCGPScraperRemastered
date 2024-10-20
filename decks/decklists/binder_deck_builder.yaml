@@ -16,7 +16,7 @@ Header: deck_builder
 
 Monsters:
   # Ghosts
-  Stardust Dragon: 3
+  Stardust Dragon: 6
   Stardust Dragon.: 3
   Black Rose Dragon: 3
   Black Rose Dragon.: 3
@@ -24,12 +24,14 @@ Monsters:
   Ancient Fairy Dragon.: 1
   Power Tool Dragon: 1
   Honest: 6
+  Blank......: 3
 
   # Ultis
   Judgment Dragon: 6
   Caius the Shadow Monarch: 6
-  Tragoedia: 6
   Dark Armed Dragon: 6
+
+  Tragoedia: 6
   Lyla Lightsworn Sorceress: 6
   Celestia Lightsworn Angel: 6
   Necro Gardna: 6
@@ -37,26 +39,25 @@ Monsters:
   Zombie Master: 3
   Plaguespreader Zombie: 3
   Destiny Hero Diamond Dude: 3
-  Effect Veiler: 6
   Destiny Hero Diamond Dude.: 1
   Destiny Hero Dasher: 1
   D.D. Crow: 1
 
+  Effect Veiler: 6
   Tour Guide From the Underworld: 3
   Maxx C: 3
   Thunder King Rai Oh: 3
   Dandylion: 2
   Debris Dragon: 2
   Tsukuyomi: 1
-#  Chaos Emperor Dragon: 1 # Old School Binder
   Battle Fader: 2 # Actually 2
   Glow Up Bulb: 2
 
   Cyber Dragon: 3
 #  Dekoichi the Battle Enchanted Locomotive: 3
 #  Cyber Phoenix: 3
-  Blank.....: 3
-  Blank......: 3
+#  Blank.....: 3
+
   Doom Dozer: 3
   Demise King of Armageddon: 3
   Ruin Queen of Oblivion: 1
@@ -110,8 +111,8 @@ Monsters:
 
 # Spells
   # Ulti
-  Pot of Greed: 2
   Pot of Avarice: 3
+  Pot of Greed: 2
   Monster Reincarnation: 2
   Brain Control: 2
   Machine Duplication: 2
@@ -152,7 +153,9 @@ Monsters:
   Reinforcement of the Army: 2
   Confiscation: 1
   Smashing Ground: 2
-  Blank: 18
+  Card of Safe Return: 3
+  Scapegoat: 3
+  Blank: 12
 
 # Traps
   # Ulti
