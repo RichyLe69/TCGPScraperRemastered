@@ -1,6 +1,6 @@
 ## Decklists
 
- - Retro Binder (75%): https://photos.app.goo.gl/nAKZb1Whrc8KkHrF6
+ - Retro Binder (97%): https://imgur.com/a/lVnHIIH
  - Old Binder Archive Oct 2013: https://imgur.com/a/Ocjl8
 
 ## Contents
