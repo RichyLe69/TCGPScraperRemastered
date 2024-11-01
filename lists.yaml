@@ -11,6 +11,7 @@
 #- Exit Goat
 #	- Goat format is Dead, Decks are only Chaos Turbo variants.
 #	- cards are just Super Rare. I'll never own TP2 Jar / Serpent.
+#   - Super rares suck for "aesthetic" or "photography"
 #	- Extra Deck hardly used. TER is never used anymore. Metamorphosis went from 1500 to 300 Lmfao.
 #	- Cards are ridiculously expensive. Only a handful of staples are useable in future formats. Most max rarity goat is ONLY useable in Goat.
 #	- Random dudes dedicating their entire lives to the format. I Can't compete.
@@ -25,6 +26,7 @@
 #	- Staples are nice and shiny, and can be used across multiple formats.
 #	- Max rarity is more gorgeous than a handful of super / ultra rares.
 #	- More interesting gameplay interactions due to lack of broken 1-of spells
+#   - Prioritize: Ghost, Ultis, Secrets
 #
 #- Finish Retro Format Decks
 #	- I Just love making Max Rarity decks...
@@ -35,14 +37,30 @@
 #
 #- Minimize Unnecessary Cards
 #	- A lot of Unnecessary Cards like Cyber Jar, CED, Tsuk, Meta?
+#   - Sell ALL foreign. Foreign is fucking awful
 #
 #- Maximize Hoarder Cards
 #	- These cards are the ones people love and want. People continue to hoard them which drives the prices up. - I.E random FB dudes
+#   - Maximize Timmy Cards, they will buy them and keep them. Meaning supply low
 #
 #- Min/Max Accessories
 #	- Sell Off random extra accessories, keep the good ones for myself.
 
+#########################
 
+## Updated Collection Complete 2024
+
+max_rarity_binder:
+  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+
+#hat_format_binder:
+#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
+#
+#collection_old_school:
+#  path: 'decks/split_lists/updated_binder/collection_old_school.yaml'
+#
+#edison_tengu_cores:
+#  path: 'decks/split_lists/updated_binder/edison_tengu_cores.yaml'
 
 #########################
 
@@ -59,17 +77,6 @@
 
 #sales:
 #  path: 'decks/current_buys/tier2/sales.yaml'
-
-## Updated Collection Complete 2024
-
-#max_rarity_binder:
-#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
-
-#hat_format_binder:
-#  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
-
-collection_old_school:
-  path: 'decks/split_lists/collection_old_school.yaml'
 
 #branded_despia:
 #  path: 'decks/current_buys/tier2/buylist_branded.yaml'  # cool modern. lets see how much.

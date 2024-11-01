@@ -1,28 +1,29 @@
+# Updated 10.31.2024
 
 Stardust Dragon Ghost 1st:
   url: 57793
   edition: 'Lightly Played 1st'
-  qty: 1
-
-Black Rose Dragon Ghost 1st:
-  url: 28432
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Ancient Fairy Dragon Ghost 1st:
-  url: 33223
-  edition: 'Near Mint 1st'
-  qty: 1
+  qty: 3
 
 Stardust Dragon Ghost Unl:
   url: 57793
   edition: 'Near Mint Unlimited'
   qty: 3
 
+Black Rose Dragon Ghost 1st:
+  url: 28432
+  edition: 'Near Mint 1st'
+  qty: 3
+
 Black Rose Dragon Ghost Unl:
   url: 28432
   edition: 'Near Mint Unlimited'
   qty: 3
+
+Ancient Fairy Dragon Ghost 1st:
+  url: 33223
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Ancient Fairy Dragon Ghost Unl:
   url: 33223
@@ -31,11 +32,6 @@ Ancient Fairy Dragon Ghost Unl:
 
 Power Tool Dragon Ghost 1st:
   url: 31944
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Shooting Star Dragon Ghost 1st:
-  url: 38634
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -49,23 +45,23 @@ Judgment Dragon Ultimate:
   edition: 'Near Mint Unlimited'
   qty: 6
 
-Chaos Emperor Dragon Ultimate 1st:
-  url: 35063
-  edition: 'Near Mint 1st'
-  qty: 3
+#Chaos Emperor Dragon Ultimate 1st:
+#  url: 35063
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
 Caius the Shadow Monarch Ultimate TU:
   url: 66668
   edition: 'Near Mint Unlimited'
   qty: 6
 
-Tragoedia Ultimate:
-  url: 38641
-  edition: 'Near Mint Unlimited'
-  qty: 6
-
 Dark Armed Dragon Ultimate:
   url: 66731
+  edition: 'Near Mint Unlimited'
+  qty: 8
+
+Tragoedia Ultimate:
+  url: 38641
   edition: 'Near Mint Unlimited'
   qty: 6
 
@@ -84,50 +80,35 @@ Necro Gardna Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 6
 
+Zombie Master Ultimate 1st:
+  url: 58533
+  edition: 'Near Mint 1st'
+  qty: 3
+
 Plaguespreader Zombie Ultimate 1st:
   url: 58506
   edition: 'Near Mint 1st'
-  qty: 1
-
-Plaguespreader Zombie Ultimate 1st ITA:
-  url: 58506
-  edition: 'Near Mint 1st'
-  qty: 0.5
-
-Cyber Jar Ultimate 1st:
-  url: 35057
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Destiny Hero Dasher UTR 1st:
-  url: 119013
-  edition: 'Near Mint 1st'
-  qty: 1
+  qty: 2.5
 
 Destiny Hero Diamond Dude Ultimate 1st:
   url: 58654
   edition: 'Near Mint 1st'
   qty: 4
 
-Battle Fader UTR 1st:
-  url: 58454
+Destiny Hero Dasher UTR 1st:
+  url: 119013
   edition: 'Near Mint 1st'
-  qty: 2
-
-Effect Veiler Ultimate 1st:
-  url: 58434
-  edition: 'Near Mint 1st Edition'
-  qty: 6
-
-Glow Up Bulb Ultimate 2 EN:
-  url: 58425
-  edition: 'Near Mint 1st'
-  qty: 2
+  qty: 1
 
 D.D. Crow Ultimate 1st:
   url: 58555
   edition: 'Near Mint 1st'
   qty: 1
+
+Effect Veiler Ultimate 1st:
+  url: 58434
+  edition: 'Near Mint 1st Edition'
+  qty: 6
 
 Tour Guide From the Underworld Ultimate:
   url: 95358
@@ -147,37 +128,47 @@ Thunder King Rai Oh Ultimate:
 Dandylion Ultimate:
   url: 79456
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 Debris Dragon Ultimate:
   url: 77988
   edition: 'Near Mint Unlimited'
-  qty: 3
+  qty: 2
 
 Tsukuyomi Ultimate:
   url: 77987
   edition: 'Near Mint'
-  qty: 3
+  qty: 1
+
+Battle Fader UTR 1st:
+  url: 58454
+  edition: 'Near Mint 1st'
+  qty: 2
+
+Glow Up Bulb Ultimate 2 EN:
+  url: 58425
+  edition: 'Near Mint 1st'
+  qty: 2
 
 Cyber Dragon Ultimate 1st:
   url: 58717
   edition: 'Moderately Played 1st'
   qty: 3
 
-Dekoichi the Battle Enchanted Locomotive UTR 1st NM:
-  url: 58797
-  edition: 'Near Mint 1st'
-  qty: 1
+#Dekoichi the Battle Enchanted Locomotive UTR 1st NM:
+#  url: 58797
+#  edition: 'Near Mint 1st'
+#  qty: 1
 
-Dekoichi the Battle Enchanted Locomotive UTR 1st LP:
-  url: 58797
-  edition: 'Lightly Played 1st'
-  qty: 2
+#Dekoichi the Battle Enchanted Locomotive UTR 1st LP:
+#  url: 58797
+#  edition: 'Lightly Played 1st'
+#  qty: 2
 
-Cyber Phoenix Ultimate 1st:
-  url: 58657
-  edition: 'Near Mint 1st'
-  qty: 3
+#Cyber Phoenix Ultimate 1st:
+#  url: 58657
+#  edition: 'Near Mint 1st'
+#  qty: 3
 
 Doom Dozer UTR 1st:
   url: 58688
@@ -234,19 +225,14 @@ Dark Grepher Secret 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-Gorz the Emissary of Darkness RP02:
-  url: 78171
-  edition:  'Near Mint Limited'
-  qty: 2
+Goblin Zombie Secret 1st:
+  url: 26693
+  edition:  'Near Mint 1st'
+  qty: 3
 
-Ehren Lightsworn Monk Secret 1st:
-  url: 26776
-  edition: 'Near Mint 1st'
-  qty: 1
-
-Thunder King Rai-oh Secret:
-  url: 28493
-  edition: 'Near Mint Limited'
+Mezuki Secret:
+  url: 27457
+  edition:  'Near Mint Unlimited'
   qty: 3
 
 Rescue Rabbit Secret 1st:
@@ -264,20 +250,36 @@ Maxx C Secret 1st:
   edition: 'Near Mint 1st'
   qty: 3
 
-Dark Magician of Chaos DMOC 1st:
-  url: 23152
+Thunder King Rai-oh Secret:
+  url: 28493
+  edition: 'Near Mint Limited'
+  qty: 3
+
+Gorz the Emissary of Darkness RP02:
+  url: 78171
+  edition:  'Near Mint Limited'
+  qty: 2
+
+Ehren Lightsworn Monk Secret 1st:
+  url: 26776
   edition: 'Near Mint 1st'
   qty: 1
-
-Black Luster Soldier Envoy of the Beginning Ultra 1st:
-  url: 23112
-  edition: 'Near Mint 1st'
-  qty: 3
 
 Chaos Sorcerer Ultra TU:
   url: 66690
   edition: 'Near Mint'
   qty: 4
+
+Black Luster Soldier Envoy of the Beginning Ultra 1st:
+  url: 23112
+  edition: 'Near Mint 1st'
+  qty: 2
+
+
+Dark Magician of Chaos DMOC 1st:
+  url: 23152
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Doomcaliber Knight TU:
   url: 33225
@@ -289,10 +291,10 @@ Destiny Hero Malicious 1st:
   edition: 'Near Mint 1st'
   qty: 6
 
-Reborn Tengu Ultra:
-  url: 81003
-  edition: 'Near Mint Limited'
-  qty: 3
+#Reborn Tengu Ultra:
+#  url: 81003
+#  edition: 'Near Mint Limited'
+#  qty: 3
 
 Breaker the Magical Warrior TP7 super:
   url: 24912
@@ -366,20 +368,15 @@ Destiny Hero Doom Lord Rare DR04:
 
 # Magic
 
-Pot of Greed Ultimate 1st:
-  url: 35076
-  edition: 'Near Mint 1st Edition'
-  qty: 3
-
 Pot of Avarice Ultimate 1st:
   url: 58619
   edition: 'Near Mint 1st Edition'
   qty: 3
 
-Lightning Vortex Ultimate 1st FR:
-  url: 58777
-  edition: 'Near Mint 1st'
-  qty: 0.5
+Pot of Greed Ultimate 1st:
+  url: 35076
+  edition: 'Near Mint 1st Edition'
+  qty: 2
 
 Monster Reincarnation Ultimate 1st:
   url: 58805
@@ -396,15 +393,25 @@ Machine Duplication Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 2
 
-Future Fusion UTR Unlimited:
-  url: 58648
-  edition: 'Near Mint'
-  qty: 1
+Lightning Vortex Ultimate 1st FR:
+  url: 58777
+  edition: 'Near Mint 1st'
+  qty: 0.5
 
 Emergency Teleport Ultimate 1st:
   url: 58522
   edition: 'Near Mint 1st'
   qty: 3
+
+Future Fusion UTR Unlimited:
+  url: 58648
+  edition: 'Near Mint'
+  qty: 1
+
+Pot of Duality Scr 1st:
+  url: 35815
+  edition: 'Near Mint 1st'
+  qty: 2
 
 Allure of Darkness Ultimate 1st EN:
   url: 27471
@@ -421,35 +428,25 @@ Charge of the Light Brigade Secret 1st:
   edition: 'Near Mint 1st'
   qty: 6
 
-Pot of Duality Scr 1st:
-  url: 35815
-  edition: 'Near Mint 1st'
-  qty: 2
-
 #Monster Reborn LOB 1st AE:
 #  url: 22233
 #  edition: 'Near Mint 1st'
 #  qty: 0.05
-
-Scapegoat Ultra RP01 ita:
-  url: 78160
-  edition: 'Near Mint Unlimited'
-  qty: 1.25
-
-Mystical Space Typhoon MST MRL 1st:
-  url: 22255
-  edition: 'Near Mint 1st'
-  qty: 3
 
 Snatch Steal MRL 1st:
   url: 22416
   edition: 'Near Mint 1st'
   qty: 1
 
-Enemy Controller AST 1st:
-  url: 23276
+Mystical Space Typhoon MST MRL 1st:
+  url: 22255
   edition: 'Near Mint 1st'
-  qty: 2
+  qty: 3
+
+Delinquent Duo MRL 1st:
+  url: 21897
+  edition: 'Near Mint 1st'
+  qty: 1
 
 Premature Burial Ultra 1st NM:
   url: 22312
@@ -461,10 +458,15 @@ Dimension Fusion IOC 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Delinquent Duo MRL 1st:
-  url: 21897
+Enemy Controller AST 1st:
+  url: 23276
   edition: 'Near Mint 1st'
-  qty: 1
+  qty: 2
+
+Burial from a Different Dimension:
+  url: 25617
+  edition: 'Near Mint 1st'
+  qty: 3
 
 Gold Sarcophagus GLD2 2009:
   url: 32113
@@ -531,6 +533,12 @@ Smashing Ground Super CP:
   edition: 'Near Mint Unlimited'
   qty: 2
 
+Card of Safe Return 1st:
+  url: 21816
+  edition: 'Near Mint 1st'
+  qty: 2
+
+
 # Traps
 
 Phoenix Wing Wind Blast Ultimate 1st NM:
@@ -542,11 +550,6 @@ Phoenix Wing Wind Blast Ultimate 1st LP:
   url: 58783
   edition: 'Lightly Played 1st'
   qty: 2
-
-Divine Wrath UTR 1st:
-  url: 58807
-  edition: 'Near Mint 1st'
-  qty: 1
 
 Solemn Warning Ultimate 1st:
   url: 58442
@@ -563,15 +566,10 @@ Starlight Road Scr:
   edition: 'Near Mint Limited'
   qty: 2
 
-Seven Tools of the Bandit MRD:
-  url: 22392
-  edition: 'Lightly Played 1st'
+Call of the Haunted 1st:
+  url: 21813
+  edition: 'Near Mint 1st'
   qty: 1
-
-Mirror Force MRD 1st:
-  url: 22226
-  edition: 'Moderately Played 1st'
-  qty: 2
 
 Solemn Judgment MRD 1st:
   url: 22418
@@ -583,20 +581,22 @@ Solemn Judgment MRD Unlimited:
   edition: 'Near Mint Unlimited'
   qty: 3
 
+Mirror Force MRD 1st:
+  url: 22226
+  edition: 'Moderately Played 1st'
+  qty: 2
+
 Torrential Tribute LON 1st:
   url: 22532
   edition: 'Near Mint 1st Edition'
   qty: 2
 
-Call of the Haunted 1st:
-  url: 21813
-  edition: 'Near Mint 1st'
-  qty: 1
-
 Crush Card Virus GLD1:
   url: 32215
   edition: 'Near Mint Limited'
   qty: 2
+
+# Bottomless
 
 Beckoning Light TU:
   url: 66694
@@ -608,17 +608,15 @@ Trap Dustshoot Super CP:
   edition: 'Near Mint'
   qty: 3
 
-# Bottomless
+Threatening Roar CP07:
+  url: 33075
+  edition: 'Near Mint'
+  qty: 2
 
 Mind Crush CP08 Super:
   url: 33095
   edition: 'Near Mint'
   qty: 1
-
-Threatening Roar CP07:
-  url: 33075
-  edition: 'Near Mint'
-  qty: 2
 
 Royal Oppression Rare LOD 1st:
   url: 22370
@@ -641,6 +639,11 @@ Red Dragon Archfiend Ultimate 1st:
   url: 58519
   edition: 'Near Mint 1st'
   qty: 2
+
+Red Dragon Archfiend Ultimate 1st LP:
+  url: 58519
+  edition: 'Lightly Played 1st'
+  qty: 1
 
 Goyo Guardian Ultimate 1st:
   url: 58520
@@ -712,10 +715,12 @@ Formula Synchron ULTRA Advent Calendar GERMAN:
   edition: 'Near Mint Limited'
   qty: 2
 
-Orient Dragon Secret 1st:
-  url: 48104
+Shooting Star Dragon Ghost 1st:
+  url: 38634
   edition: 'Near Mint 1st'
   qty: 1
+
+
 
 Blackwing Armor Master Ulti 1st:
   url: 58499
@@ -727,8 +732,13 @@ Revived King Ha Des Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Red Nova Dragon Ultimate 1st:
-  url: 58429
+Doomkaiser Dragon Ultimate 1st:
+  url: 58509
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Power Tool Dragon Ulti 1st:
+  url: 58490
   edition: 'Near Mint 1st'
   qty: 1
 
@@ -737,22 +747,25 @@ Ancient Sacred Wyvern Ultimate 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-Nitro Warrior:
-  url: 58517
-  edition: 'Near Mint Unlimited'
+Black Winged Dragon Ulti 1st:
+  url: 58446
+  edition: 'Lightly Played 1st'
   qty: 1
 
-Turbo Warrior:
-  url: 58507
-  edition: 'Near Mint Unlimited'
+Red Nova Dragon Ultimate 1st:
+  url: 58429
+  edition: 'Near Mint 1st'
   qty: 1
 
-Mist Wurm:
+Mist Wurm DT:
   url: 80927
   edition: 'Near Mint Limited'
   qty: 1
 
-# Flamvell
+Flamvell Uruquizas DT:
+  url: 80928
+  edition: 'Near Mint Limited'
+  qty: 1
 
 Avenging Knight Parshath Secret 1st:
   url: 27498
@@ -769,6 +782,11 @@ Light End Dragon Secret 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+Orient Dragon Secret 1st:
+  url: 48104
+  edition: 'Near Mint 1st'
+  qty: 1
+
 Dark End Dragon:
   url: 38505
   edition: 'Near Mint Limited'
@@ -779,9 +797,15 @@ Dark Strike Fighter Super 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
-# Gaia
+Psychic Lifetrancer Rare 1st:
+  url: 28434
+  edition: 'Near Mint 1st'
+  qty: 1
 
-# Psychic Lifetrancer
+Iron Chain Dragon 1st:
+  url: 28433
+  edition: 'Near Mint 1st'
+  qty: 1
 
 
 

@@ -18,11 +18,13 @@ Monsters:
   # Ghosts
   Stardust Dragon: 6
   Stardust Dragon.: 3
+
   Black Rose Dragon: 3
   Black Rose Dragon.: 3
   Ancient Fairy Dragon: 1
   Ancient Fairy Dragon.: 1
   Power Tool Dragon: 1
+
   Honest: 6
   Blank......: 3
 
@@ -34,9 +36,10 @@ Monsters:
   Tragoedia: 6
   Lyla Lightsworn Sorceress: 6
   Celestia Lightsworn Angel: 6
-  Necro Gardna: 6
 
+  Necro Gardna: 6
   Zombie Master: 3
+
   Plaguespreader Zombie: 3
   Destiny Hero Diamond Dude: 3
   Destiny Hero Diamond Dude.: 1
@@ -45,15 +48,17 @@ Monsters:
 
   Effect Veiler: 6
   Tour Guide From the Underworld: 3
+
   Maxx C: 3
   Thunder King Rai Oh: 3
   Dandylion: 2
   Debris Dragon: 2
-  Tsukuyomi: 1
-  Battle Fader: 2 # Actually 2
-  Glow Up Bulb: 2
 
+  Tsukuyomi: 1
+  Battle Fader: 2
+  Glow Up Bulb: 2
   Cyber Dragon: 3
+
 #  Dekoichi the Battle Enchanted Locomotive: 3
 #  Cyber Phoenix: 3
 #  Blank.....: 3
@@ -87,8 +92,8 @@ Monsters:
   Black Luster Soldier Envoy of the Beginning: 2
   Dark Magician of Chaos: 1
   Doomcaliber Knight: 2
-  Destiny Hero Malicious: 6
 
+  Destiny Hero Malicious: 6
   # Supers
   Breaker the Magical Warrior: 3
 
@@ -97,10 +102,12 @@ Monsters:
   Spirit Reaper: 3
   Magician of Faith: 3
   Lumina Lightsworn Summoner: 6
+
   Lonefire Blossom: 2
   Snipe Hunter: 1
   Sangan: 2
   Krebons: 4
+
   Garoth Lightsworn Warrior: 2
   Ryko Lightsworn Hunter: 3
   Armageddon Knight: 2
@@ -115,6 +122,7 @@ Monsters:
   Pot of Greed: 2
   Monster Reincarnation: 2
   Brain Control: 2
+
   Machine Duplication: 2
   Lightning Vortex: 1
   Emergency Teleport: 3
@@ -148,11 +156,13 @@ Monsters:
   Dark Hole: 1
   Heavy Storm: 1
   Giant Trunade: 1
+
   Foolish Burial: 2
   Nobleman of Crossout: 2
   Reinforcement of the Army: 2
   Confiscation: 1
   Smashing Ground: 2
+
   Card of Safe Return: 3
   Scapegoat: 3
   Blank: 12
@@ -163,7 +173,6 @@ Monsters:
   Solemn Warning: 3
   Phoenix Wing Wind Blast.: 1
   Solemn Warning.: 1
-
 
   # Secret
   Ring of Destruction: 1
@@ -214,22 +223,22 @@ Monsters:
   Formula Synchron: 2
   Shooting Star Dragon: 1
 
-  Power Tool Dragon.: 1 UtR
   Blackwing Armor Master: 1
   Revived King Ha Des: 1
   Doomkaiser Dragon: 1
-  Red Nova Dragon: 1
+  Power Tool Dragon.: 1 UtR
   Ancient Sacred Wyvern: 1
-  Nitro Warrior: 1
+  Black-Winged Dragon: 1
+  Red Nova Dragon: 1
   Mist Wurm: 1
   Flamvell Uruquizas: 1
 
   Avenging Knight Parshath: 1
   Tempest Magician: 1
   Light End Dragon: 1
-  Dark End Dragon: 1
   Orient Dragon: 1
-  Dark Strike Fighter: 1
+  Dark End Dragon: 1
   Gaia Knight, The Force of Earth: 1
+  Dark Strike Fighter: 1
   Psychic Lifetrancer: 1
   Iron Chain Dragon: 1
