@@ -178,3 +178,363 @@ Total Price: 4188
 | 2 Number 11 Big Eye ScR                |  27 |
 | 1 Scrap Dragon UtR                     |  71 |
 +----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - min_prices_sorted.txt
+Main Deck: 3215
+Side Deck: 0
+Extra Deck: 496
+Total Price: 3711
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 278 |
+| 3 Maxx C UtR                           | 416 |
+| 1 Book of Moon SR                      | 899 |
+| 1 Card Destruction SR                  |  43 |
+| 1 Heavy Storm SR                       |  53 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  13 |
+| 1 Black Rose Dragon GR                 | 241 |
+| 1 Colossal Fighter UtR                 | 113 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  21 |
+| 1 Scrap Dragon UtR                     |  69 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - max_prices_sorted.txt
+Main Deck: 5453
+Side Deck: 0
+Extra Deck: 609
+Total Price: 6062
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 500 |
+| 3 Maxx C UtR                           | 888 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Card Destruction SR                  |  59 |
+| 1 Heavy Storm SR                       |  98 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  25 |
+| 1 Black Rose Dragon GR                 | 244 |
+| 1 Colossal Fighter UtR                 | 120 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  39 |
+| 1 Scrap Dragon UtR                     | 100 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - mean_prices_sorted.txt
+Main Deck: 3830
+Side Deck: 0
+Extra Deck: 531
+Total Price: 4361
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 329 |
+| 3 Maxx C UtR                           | 546 |
+| 1 Book of Moon SR                      | 939 |
+| 1 Card Destruction SR                  |  51 |
+| 1 Heavy Storm SR                       |  77 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  18 |
+| 1 Black Rose Dragon GR                 | 242 |
+| 1 Colossal Fighter UtR                 | 115 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  27 |
+| 1 Scrap Dragon UtR                     |  75 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - median_prices_sorted.txt
+Main Deck: 3661
+Side Deck: 0
+Extra Deck: 527
+Total Price: 4188
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 296 |
+| 3 Maxx C UtR                           | 519 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Card Destruction SR                  |  51 |
+| 1 Heavy Storm SR                       |  79 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  17 |
+| 1 Black Rose Dragon GR                 | 242 |
+| 1 Colossal Fighter UtR                 | 116 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  27 |
+| 1 Scrap Dragon UtR                     |  71 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - min_prices_sorted.txt
+Main Deck: 3215
+Side Deck: 0
+Extra Deck: 496
+Total Price: 3711
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 278 |
+| 3 Maxx C UtR                           | 416 |
+| 1 Book of Moon SR                      | 899 |
+| 1 Card Destruction SR                  |  43 |
+| 1 Heavy Storm SR                       |  53 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  13 |
+| 1 Black Rose Dragon GR                 | 241 |
+| 1 Colossal Fighter UtR                 | 113 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   6 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  21 |
+| 1 Scrap Dragon UtR                     |  69 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - max_prices_sorted.txt
+Main Deck: 5453
+Side Deck: 0
+Extra Deck: 609
+Total Price: 6062
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 500 |
+| 3 Maxx C UtR                           | 888 |
+| 1 Book of Moon SR                      | 994 |
+| 1 Card Destruction SR                  |  59 |
+| 1 Heavy Storm SR                       |  98 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  25 |
+| 1 Black Rose Dragon GR                 | 244 |
+| 1 Colossal Fighter UtR                 | 120 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |  14 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  39 |
+| 1 Scrap Dragon UtR                     | 100 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - mean_prices_sorted.txt
+Main Deck: 3830
+Side Deck: 0
+Extra Deck: 531
+Total Price: 4361
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 329 |
+| 3 Maxx C UtR                           | 546 |
+| 1 Book of Moon SR                      | 939 |
+| 1 Card Destruction SR                  |  51 |
+| 1 Heavy Storm SR                       |  77 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  18 |
+| 1 Black Rose Dragon GR                 | 242 |
+| 1 Colossal Fighter UtR                 | 115 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  27 |
+| 1 Scrap Dragon UtR                     |  75 |
++----------------------------------------+-----+
+2013-07-dragonrulers - 2024-11-03 - median_prices_sorted.txt
+Main Deck: 3661
+Side Deck: 0
+Extra Deck: 527
+Total Price: 4188
++----------------------------------------+-----+
+| Card                                   |   $ |
++----------------------------------------+-----+
+| Main Deck                              |     |
+| 3 Blaster Dragon Ruler of Infernos ScR |   - |
+| 3 Redox Dragon Ruler of Boulders ScR   |   - |
+| 3 Tempest Dragon Ruler of Storms ScR   |   - |
+| 3 Tidal Dragon Ruler of Waterfalls ScR |   - |
+| 2 Burner Dragon Ruler of Sparks C      |   - |
+| 2 Reactan Dragon Ruler of Pebbles C    |   - |
+| 2 Lightning Dragon Ruler of Drafts C   |   - |
+| 2 Stream Dragon Ruler of Droplets C    |   - |
+| 1 Flamvell Guard DNPR                  |   - |
+| 3 Effect Veiler UtR                    | 296 |
+| 3 Maxx C UtR                           | 519 |
+| 1 Book of Moon SR                      | 948 |
+| 1 Card Destruction SR                  |  51 |
+| 1 Heavy Storm SR                       |  79 |
+| 2 Gold Sarcophagus GUR                 |  69 |
+| 3 Sacred Sword of Seven Stars SR       |   - |
+| 3 Super Rejuvenation C                 |   - |
+| 2 Vanitys Emptiness ScR                |   - |
+|                                        |     |
+| Side Deck                              |     |
+| 1 None                                 |   - |
+|                                        |     |
+| Extra Deck                             |     |
+| 1 Ancient Sacred Wyvern UtR            |   - |
+| 1 Armory Arm UR                        |  17 |
+| 1 Black Rose Dragon GR                 | 242 |
+| 1 Colossal Fighter UtR                 | 116 |
+| 1 Crimson Blader R                     |   - |
+| 1 Gaia Dragon, the Thunder Charger SR  |   - |
+| 1 Karakuri Shogun mdl 00 Burei UtR     |   - |
+| 1 Gem Knight Pearl ScR                 |   - |
+| 3 Mecha Phantom Beast Dracossack ScR   |   9 |
+| 1 Mermail Abyssgaios UtR               |   - |
+| 2 Number 11 Big Eye ScR                |  27 |
+| 1 Scrap Dragon UtR                     |  71 |
++----------------------------------------+-----+

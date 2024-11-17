@@ -178,3 +178,363 @@ Total Price: 11416
 | 1 Magical Android SR                   |   27 |
 | 1 Tempest Magician ScR                 |   74 |
 +----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - min_prices_sorted.txt
+Main Deck: 5215
+Side Deck: 0
+Extra Deck: 5068
+Total Price: 10283
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  149 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   45 |
+| 3 Plaguespreader Zombie UtR            |  289 |
+| 3 Charge of the Light Brigade ScR      |  280 |
+| 3 Solar Recharge UtR                   |   98 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Monster Reborn UR                    |    8 |
+| 1 Card Destruction SR                  |   43 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Mirror Force UR                      |   74 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Avenging Knight Parshath ScR         |   74 |
+| 3 Stardust Dragon GR                   | 1189 |
+| 3 Goyo Guardian UtR                    |  179 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   26 |
+| 1 Tempest Magician ScR                 |   60 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - max_prices_sorted.txt
+Main Deck: 6617
+Side Deck: 0
+Extra Deck: 8648
+Total Price: 15265
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  164 |
+| 3 Wulf Lightsworn Beast SR             |    7 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   59 |
+| 3 Plaguespreader Zombie UtR            |  499 |
+| 3 Charge of the Light Brigade ScR      |  295 |
+| 3 Solar Recharge UtR                   |  149 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Monster Reborn UR                    |   24 |
+| 1 Card Destruction SR                  |   59 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Mirror Force UR                      |  199 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Avenging Knight Parshath ScR         |  110 |
+| 3 Stardust Dragon GR                   | 2299 |
+| 3 Goyo Guardian UtR                    |  194 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   32 |
+| 1 Tempest Magician ScR                 |   88 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - mean_prices_sorted.txt
+Main Deck: 5674
+Side Deck: 0
+Extra Deck: 6320
+Total Price: 11994
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  156 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   53 |
+| 3 Plaguespreader Zombie UtR            |  337 |
+| 3 Charge of the Light Brigade ScR      |  289 |
+| 3 Solar Recharge UtR                   |  108 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Monster Reborn UR                    |   12 |
+| 1 Card Destruction SR                  |   51 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Mirror Force UR                      |  125 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Avenging Knight Parshath ScR         |   82 |
+| 3 Stardust Dragon GR                   | 1578 |
+| 3 Goyo Guardian UtR                    |  182 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   28 |
+| 1 Tempest Magician ScR                 |   74 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - median_prices_sorted.txt
+Main Deck: 5651
+Side Deck: 0
+Extra Deck: 5762
+Total Price: 11413
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  156 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   55 |
+| 3 Plaguespreader Zombie UtR            |  324 |
+| 3 Charge of the Light Brigade ScR      |  290 |
+| 3 Solar Recharge UtR                   |   99 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Monster Reborn UR                    |   11 |
+| 1 Card Destruction SR                  |   51 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Mirror Force UR                      |  139 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Avenging Knight Parshath ScR         |   78 |
+| 3 Stardust Dragon GR                   | 1397 |
+| 3 Goyo Guardian UtR                    |  179 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   27 |
+| 1 Tempest Magician ScR                 |   74 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - min_prices_sorted.txt
+Main Deck: 5215
+Side Deck: 0
+Extra Deck: 5068
+Total Price: 10283
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  149 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   45 |
+| 3 Plaguespreader Zombie UtR            |  289 |
+| 3 Charge of the Light Brigade ScR      |  280 |
+| 3 Solar Recharge UtR                   |   98 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Monster Reborn UR                    |    8 |
+| 1 Card Destruction SR                  |   43 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Mirror Force UR                      |   74 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Avenging Knight Parshath ScR         |   74 |
+| 3 Stardust Dragon GR                   | 1189 |
+| 3 Goyo Guardian UtR                    |  179 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   26 |
+| 1 Tempest Magician ScR                 |   60 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - max_prices_sorted.txt
+Main Deck: 6617
+Side Deck: 0
+Extra Deck: 8648
+Total Price: 15265
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  164 |
+| 3 Wulf Lightsworn Beast SR             |    7 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   59 |
+| 3 Plaguespreader Zombie UtR            |  499 |
+| 3 Charge of the Light Brigade ScR      |  295 |
+| 3 Solar Recharge UtR                   |  149 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Monster Reborn UR                    |   24 |
+| 1 Card Destruction SR                  |   59 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Mirror Force UR                      |  199 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Avenging Knight Parshath ScR         |  110 |
+| 3 Stardust Dragon GR                   | 2299 |
+| 3 Goyo Guardian UtR                    |  194 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   32 |
+| 1 Tempest Magician ScR                 |   88 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - mean_prices_sorted.txt
+Main Deck: 5674
+Side Deck: 0
+Extra Deck: 6320
+Total Price: 11994
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  156 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   53 |
+| 3 Plaguespreader Zombie UtR            |  337 |
+| 3 Charge of the Light Brigade ScR      |  289 |
+| 3 Solar Recharge UtR                   |  108 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Monster Reborn UR                    |   12 |
+| 1 Card Destruction SR                  |   51 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Mirror Force UR                      |  125 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Avenging Knight Parshath ScR         |   82 |
+| 3 Stardust Dragon GR                   | 1578 |
+| 3 Goyo Guardian UtR                    |  182 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   28 |
+| 1 Tempest Magician ScR                 |   74 |
++----------------------------------------+------+
+2009-01-zombiesworn - 2024-11-03 - median_prices_sorted.txt
+Main Deck: 5651
+Side Deck: 0
+Extra Deck: 5762
+Total Price: 11413
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 3 Lumina Lightsworn Summoner SR        |  499 |
+| 2 Lyla Lightsworn Sorceress UtR        |  156 |
+| 3 Wulf Lightsworn Beast SR             |    6 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Zombie Master UtR                    |    - |
+| 3 Mezuki ScR                           |    - |
+| 3 Necro Gardna UtR                     |   55 |
+| 3 Plaguespreader Zombie UtR            |  324 |
+| 3 Charge of the Light Brigade ScR      |  290 |
+| 3 Solar Recharge UtR                   |   99 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Monster Reborn UR                    |   11 |
+| 1 Card Destruction SR                  |   51 |
+| 1 Brain Control UtR                    |  500 |
+| 3 Burial from a Different Dimension UR |    - |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Mirror Force UR                      |  139 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 2 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Avenging Knight Parshath ScR         |   78 |
+| 3 Stardust Dragon GR                   | 1397 |
+| 3 Goyo Guardian UtR                    |  179 |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Magical Android SR                   |   27 |
+| 1 Tempest Magician ScR                 |   74 |
++----------------------------------------+------+
