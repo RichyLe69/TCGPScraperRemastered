@@ -16360,3 +16360,80 @@ max_rarity_binder - 2024-12-01
 |           Monster Reincarnation Ultimate 1st          |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2024-12-01
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           | 184.0 |
+|         Mermail Abyssgaios UTR 1st         | 134.5 |
+|           Number 11 Big Eye UTR            | 131.5 |
+|             Gagaga Cowboy Utr              |   90  |
+|       Spellbook of Secrets Ulti 1st        |   79  |
+|         Mermail Abyssteus Ulti 1st         |  70.5 |
+|       High Priestess of Prophecy 1st       |  69.0 |
+|          Atlantean Marksman Ulti           |   66  |
+|  Spellbook Magician of Prophecy Ulti 1st   |  64.0 |
+|             Upstart Goblin TU              |  62.0 |
+|             Lavalval Chain DT              |   55  |
+|          Spellbook of Power Ulti           |   54  |
+|    Leviair the Sea Dragon Ultimate 1st     |   52  |
+|    Number 17 Leviathan Dragon Ghost 1st    |   52  |
+|             Mermail Abysspike              |   49  |
+|             Abyss Dweller UTR              |   45  |
+|      Number 101 Silent Honor Ark UTR       |   43  |
+|          Spellbook of the Master           |   40  |
+|          Mermail Abyssmegalo 1st           |  39.0 |
+|        Mermail Abysslinde Ulti 1st         |  31.5 |
+|           Ghostrick Alucard UTR            |  31.0 |
+|             Dewloren Secret DT             |   29  |
+|             Nekroz of Brionac              |   29  |
+|             Bahamut Shark Scr              |  26.0 |
+|           Evolzar Laggia UTR 1st           |  24.5 |
+|             Diamond Dire Wolf              |   24  |
+|            Steelswarm Roach 1st            |   24  |
+|         The Grand Spellbook Tower          |  23.5 |
+|          Wind Up Zenmaity UTR 1st          |  23.5 |
+| Mecha Phantom Beast Dracossack LGYT Secret |  23.0 |
+|              Abysssphere Ulti              |   21  |
+|         Spellbook of Fate Ulti 1st         |   21  |
+|       Atlantean Heavy Infantry Super       |  19.0 |
+|             Mermail Abyssleed              |   18  |
+|             Spellbook of Life              |  17.5 |
+|        Number 11 Big Eye Secret 1st        |  16.5 |
+|             Nekroz of Trishula             |  15.5 |
+|             Gungnir Secret DT              |   14  |
+|          Wind Up Zenmaity UTR Unl          |  13.5 |
+|             Nekroz of Valkyrus             |   13  |
+|              Wonder Wand Ulti              |  13.0 |
+|      Orient Dragon Secret 1st Foreign      |   12  |
+|         Wind Up Zenmaines Scr 1st          |  12.0 |
+|         Evolzar Dolkka Secret 1st          |  9.0  |
+|            Spellbook of Wisdom             |  9.0  |
+|             Kuribandit Scr 1st             |  8.0  |
+|          Mermail Abysstrite - TCG          |  7.5  |
+|       Number 80 Rhapsody in Berserk        |  7.0  |
+|             Mermail Abyssgunde             |   6   |
+|             Daigusto Emeral DT             |   5   |
+|               Zenmaister UTR               |  4.5  |
+|                 Acid Golem                 |  4.0  |
+|         Number C39 Utopia Ray UTR          |   4   |
+|             Soul Charge Super              |  4.0  |
+|           Spellbook of Eternity            |   4   |
+|         Spellbook of Judgment 1st          |  4.0  |
+|             Nekroz of Unicore              |  3.0  |
+|            Spellbook Star Hall             |  2.0  |
+|              Blaster - Secret              |   1   |
+|        Michael The Arch Lightsworn         |   1   |
+|            Nekroz of Clausolas             |   1   |
+|               Redox - Secret               |   1   |
+|            Starliege Paladynamo            |  1.0  |
+|              Tempest - Secret              |   1   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Mechquipped Angineer            |   0   |
+|            Needlebug Nest C 1st            |   0   |
+|              Number 39 Utopia              |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|               Tidal - Secret               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
