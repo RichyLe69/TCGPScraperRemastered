@@ -16508,3 +16508,53 @@ collection_old_school - 2024-12-01
 |              Mirror Force MRD             |   0   |
 |                    test                   |   0   |
 +-------------------------------------------+-------+
+edison_tengu_cores - 2024-12-01
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|   Cyber Dark Dragon Ultimate 1st GER  |  590  |
+|   Cyber Twin Dragon Ultimate 1st GER  |  259  |
+| Cyber End Dragon Ultimate UNL ITA GER |  138  |
+|           Tytannial UTR Unl           |   50  |
+|           Monster Reborn LOB          |   40  |
+|         Thunder Dragon MRD 1st        |   28  |
+|      Torrential Tribute Unlimited     |   26  |
+|       Tribe Infecting Virus 1st       |   25  |
+|      Cyber Valley PTDN Super 1st      |   24  |
+|         Mind Control WC Super         |   24  |
+|       Wulf Lightsworn Beast 1st       |   20  |
+|          Zektkaliber UTR 1st          |   19  |
+|        Dark Mimic Lv3 Ultimate        |   17  |
+|           Card Trooper Ultra          |   15  |
+|        Enemy Controller AST unl       |   13  |
+|      Reborn Tengu Ultra 3 IT 3 EN     |   12  |
+|   Cyber Dark Dragon Ultimate UNL GER  |   11  |
+|            Dandylion Secret           |   11  |
+|              One For One              |   11  |
+|            Sinister Serpent           |   11  |
+|         Black Salvo Super 1st         |   10  |
+|          Giga Mantis UTR 1st          |   10  |
+|            Destiny Draw 1st           |   9   |
+|         Wind up Rabbit Scr Unl        |   9   |
+|  Chimeratech Overdragon Ultimate GER  |   8   |
+|      Chimeratech Fortress Dragon      |   7   |
+|    Shire Lightsworn Fairy Super 1st   |   7   |
+|    Aurkus Lightsworn Druid LODT 1st   |   6   |
+|            Megamorph Ultra            |   5   |
+|         Phantom of Chaos Super        |   5   |
+|           Gravity Bind R 1st          |   3   |
+| Manju of the Ten Thousand Hands C 1st |   3   |
+|     Reinforcement of the Army LOD     |   3   |
+|   Destiny Hero Disk Commander Super   |   1   |
+|            Hornet Super 1st           |   1   |
+|          Insect Knight C 1st          |   1   |
+|  Senju of the Thousand Hands Rare 1st |   1   |
+|        Advanced Ritual Art Rare       |   0   |
+|           Cold Wave - C 1st           |   0   |
+|             Dark Mimic Lv1            |   0   |
+|        Metal Armored Bug C 1st        |   0   |
+|            Mirror Force MRD           |   0   |
+|             Neo Bug C 1st             |   0   |
+|            Sonic Bird C 1st           |   0   |
+|                  test                 |   0   |
++---------------------------------------+-------+
