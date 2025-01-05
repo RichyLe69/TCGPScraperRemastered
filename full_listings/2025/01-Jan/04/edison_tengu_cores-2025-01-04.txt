@@ -1,0 +1,321 @@
+Missing Data for:    Dark Mimic Lv1
+Missing Data for:    Sonic Bird C 1st
+Missing Data for:    Neo Bug C 1st
+Missing Data for:    Metal Armored Bug C 1st
+Missing Data for:    Shire Lightsworn Fairy Super 1st
+Missing Data for:    Hornet Super 1st
+Missing Data for:    Advanced Ritual Art Rare
+Missing Data for:    Cold Wave - C 1st
+Sum of Min Listed: $1,266.50
+Sum of Max Listed: $1,949.75
+Sum of Mean Listed: $1,559.75
+Sum of Median Listed: $1,601.00
+
+Thunder Dragon MRD 1st [3] - Near Mint 1st <2>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  23 |  23 |  23  |  23.0  |
++-----+-----+------+--------+
+
+Tribe Infecting Virus 1st [1] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  22 |  25 |  24  |  25.0  |
++-----+-----+------+--------+
+
+Sinister Serpent [2] - Near Mint Limited <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  15 |  13  |   14   |
++-----+-----+------+--------+
+
+Dark Mimic Lv3 Ultimate [2] - Near Mint Unlimited <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  15 |  12  |   11   |
++-----+-----+------+--------+
+
+Dark Mimic Lv1 [2] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Manju of the Ten Thousand Hands C 1st [3] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |  2.0   |
++-----+-----+------+--------+
+
+Senju of the Thousand Hands Rare 1st [3] - Near Mint 1st <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Sonic Bird C 1st [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Insect Knight C 1st [3] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+Neo Bug C 1st [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Metal Armored Bug C 1st [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Black Salvo Super 1st [2] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  10 |  7   |  7.0   |
++-----+-----+------+--------+
+
+Card Trooper Ultra [3] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  16 |  13  |   13   |
++-----+-----+------+--------+
+
+Cyber Valley PTDN Super 1st [3] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  18 |  29 |  21  |  19.0  |
++-----+-----+------+--------+
+
+Phantom of Chaos Super [1] - Near Mint Limited <11>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
+Destiny Hero Disk Commander Super [1] - Near Mint Limited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |  1.0   |
++-----+-----+------+--------+
+
+Shire Lightsworn Fairy Super 1st [1] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Aurkus Lightsworn Druid LODT 1st [1] - Near Mint 1st <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  8  |  5   |  4.5   |
++-----+-----+------+--------+
+
+Wulf Lightsworn Beast 1st [6] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  16 |  18 |  16  |  16.5  |
++-----+-----+------+--------+
+
+Tytannial UTR Unl [1] - Near Mint Unlimited <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  41 |  50 |  45  |   44   |
++-----+-----+------+--------+
+
+Dandylion Secret [3] - Near Mint 1st <22>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  11 |  7   |  7.0   |
++-----+-----+------+--------+
+
+Reborn Tengu Ultra 3 IT 3 EN [5] - Near Mint Limited <23>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  9  |  5   |   6    |
++-----+-----+------+--------+
+
+Wind up Rabbit Scr Unl [3] - Near Mint Unlimited <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  4  |  12 |  7   |   7    |
++-----+-----+------+--------+
+
+Hornet Super 1st [3] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Zektkaliber UTR 1st [3] - Near Mint 1st <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  11 |  14 |  12  |  12.0  |
++-----+-----+------+--------+
+
+Giga Mantis UTR 1st [1] - Near Mint 1st <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  10 |  7   |   7    |
++-----+-----+------+--------+
+
+Monster Reborn LOB [2] - Near Mint unlimited <9>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  9  |  24 |  14  |   13   |
++-----+-----+------+--------+
+
+Enemy Controller AST unl [2] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  13 |  8   |  7.0   |
++-----+-----+------+--------+
+
+Reinforcement of the Army LOD [2] - Near Mint unlimited <6>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  2  |  2   |  2.0   |
++-----+-----+------+--------+
+
+Mind Control WC Super [2] - Near Mint Limited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  12 |  24 |  17  |  17.5  |
++-----+-----+------+--------+
+
+Megamorph Ultra [3] - Lightly Played Unlimited <8>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  4  |  2   |  3.0   |
++-----+-----+------+--------+
+
+Advanced Ritual Art Rare [3] - Near Mint Unlimited <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+Destiny Draw 1st [6] - Near Mint 1st <13>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  9  |  7   |   8    |
++-----+-----+------+--------+
+
+Cold Wave - C 1st [2] - Near Mint 1st <0>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  0  |  0  |  0   |   0    |
++-----+-----+------+--------+
+
+One For One [2] - Near Mint Limited <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  5  |  11 |  8   |   9    |
++-----+-----+------+--------+
+
+Mirror Force MRD [1] - Near mint unlimited <3>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 100 | 250 | 199  |  249   |
++-----+-----+------+--------+
+
+Torrential Tribute Unlimited [2] - Near Mint Unlimited <10>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  14 |  22 |  16  |  15.5  |
++-----+-----+------+--------+
+
+Gravity Bind R 1st [1] - Near Mint 1st <7>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  2  |  3  |  2   |   2    |
++-----+-----+------+--------+
+
+Cyber End Dragon Ultimate UNL ITA GER [0.75] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  6  |  6  |  6   |   6    |
++-----+-----+------+--------+
+
+Cyber Twin Dragon Ultimate 1st GER [0.75] - Near Mint 1st <5>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 153 | 299 | 221  |  220   |
++-----+-----+------+--------+
+
+Cyber Dark Dragon Ultimate 1st GER [0.75] - Near Mint 1st <4>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+| 449 | 590 | 496  | 474.0  |
++-----+-----+------+--------+
+
+Cyber Dark Dragon Ultimate UNL GER [0.75] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  66 |  66 |  66  |   66   |
++-----+-----+------+--------+
+
+Chimeratech Overdragon Ultimate GER [3] - Near Mint Unlimited <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  19 |  19 |  19  |   19   |
++-----+-----+------+--------+
+
+Chimeratech Fortress Dragon [3] - Near Mint <1>
++-----+-----+------+--------+
+| Min | Max | Mean | Median |
++-----+-----+------+--------+
+|  1  |  1  |  1   |   1    |
++-----+-----+------+--------+
+
