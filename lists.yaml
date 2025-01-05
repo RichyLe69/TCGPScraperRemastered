@@ -55,10 +55,10 @@ max_rarity_binder:
 
 #hat_format_binder:
 #  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
-#
+
 #collection_old_school:
 #  path: 'decks/split_lists/updated_binder/collection_old_school.yaml'
-#
+
 #edison_tengu_cores:
 #  path: 'decks/split_lists/updated_binder/edison_tengu_cores.yaml'
 
