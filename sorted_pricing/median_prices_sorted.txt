@@ -17222,3 +17222,53 @@ collection_old_school - 2025-02-07
 |             Dark Magician DDS             |   0    |
 |                    test                   |   0    |
 +-------------------------------------------+--------+
+edison_tengu_cores - 2025-02-07
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+| Cyber End Dragon Ultimate UNL ITA GER |  492  |
+|   Cyber Dark Dragon Ultimate 1st GER  | 459.0 |
+|   Cyber Twin Dragon Ultimate 1st GER  | 224.5 |
+|   Cyber Dark Dragon Ultimate UNL GER  |  103  |
+|           Tytannial UTR Unl           |  49.5 |
+|            Mirror Force MRD           |   38  |
+|      Cyber Valley PTDN Super 1st      |  28.0 |
+|  Chimeratech Overdragon Ultimate GER  |   24  |
+|           Monster Reborn LOB          |   24  |
+|       Tribe Infecting Virus 1st       |   22  |
+|         Thunder Dragon MRD 1st        |  21.5 |
+|       Wulf Lightsworn Beast 1st       |   16  |
+|      Torrential Tribute Unlimited     |   15  |
+|         Mind Control WC Super         |   14  |
+|           Card Trooper Ultra          |  11.0 |
+|              One For One              |  11.0 |
+|          Zektkaliber UTR 1st          |   11  |
+|            Sinister Serpent           |  9.0  |
+|        Dark Mimic Lv3 Ultimate        |  8.5  |
+|        Enemy Controller AST unl       |  8.5  |
+|         Black Salvo Super 1st         |  7.0  |
+|            Dandylion Secret           |  7.0  |
+|          Giga Mantis UTR 1st          |   7   |
+|            Destiny Draw 1st           |   6   |
+|         Wind up Rabbit Scr Unl        |  6.0  |
+|    Aurkus Lightsworn Druid LODT 1st   |   5   |
+|      Reborn Tengu Ultra 3 IT 3 EN     |  4.0  |
+|            Megamorph Ultra            |  3.0  |
+|      Chimeratech Fortress Dragon      |   2   |
+|           Gravity Bind R 1st          |   2   |
+| Manju of the Ten Thousand Hands C 1st |   2   |
+|     Reinforcement of the Army LOD     |   2   |
+|   Destiny Hero Disk Commander Super   |  1.0  |
+|          Insect Knight C 1st          |  1.0  |
+|         Phantom of Chaos Super        |  1.0  |
+|  Senju of the Thousand Hands Rare 1st |   1   |
+|        Advanced Ritual Art Rare       |   0   |
+|           Cold Wave - C 1st           |   0   |
+|             Dark Mimic Lv1            |   0   |
+|            Hornet Super 1st           |   0   |
+|        Metal Armored Bug C 1st        |   0   |
+|             Neo Bug C 1st             |   0   |
+|    Shire Lightsworn Fairy Super 1st   |   0   |
+|            Sonic Bird C 1st           |   0   |
+|                  test                 |   0   |
++---------------------------------------+-------+
