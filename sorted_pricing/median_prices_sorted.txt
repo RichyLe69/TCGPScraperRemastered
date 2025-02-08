@@ -17151,3 +17151,74 @@ hat_format_binder - 2025-02-07
 |               Tidal - Secret               |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+collection_old_school - 2025-02-07
++-------------------------------------------+--------+
+|                    Card                   | Price  |
++-------------------------------------------+--------+
+|       Dark Magician Girl Secret 1st       | 1249.0 |
+|           Dark Paladin 1st Ultra          |  319   |
+|     Chaos Emperor Dragon Ultimate 1st     |  289   |
+|       Dark Magician Girl Secret UNL       |  239   |
+|      Chaos Emperor Dragon Secret 1st      |  229   |
+|          B Skull Dragon BPT 2002          | 142.0  |
+|        Red Eyes Black Metal Dragon        |  137   |
+|       Dark Magician BPT 2002 Reverse      | 100.0  |
+|         Blue Eyes Toon Dragon MRL         |   99   |
+|  Blue Eyes White Dragon BPT 2002 Reverse  |  94.5  |
+|           Buster Blade Ultra 1st          |  89.5  |
+|         Blue-Eyes White Dragon LOB        |   89   |
+|         Summoned Skull BPT Reverse        |  87.5  |
+|             Harpies Pet Dragon            |   85   |
+|         Slifer The Sky Dragon YMA         |  84.0  |
+|   Red Eyes Black Dragon BPT 2002 Reverse  |  76.5  |
+|             Obelisk JUMP PrScr            |  65.0  |
+|         Blue-Eyes White Dragon DDS        |   61   |
+|              Dark Paladin DMG             |  59.0  |
+|          The Winged Dragon of Ra          |  44.5  |
+|           Dark Magician of Chaos          |  43.0  |
+|             Yata-Garasu Secret            |   39   |
+|              Mirror Force MRD             |   38   |
+|              Jinzo Secret PSV             |  37.5  |
+|              Exodia Right Arm             |  34.5  |
+|              Exodia Left Arm              |   34   |
+|                Exodia Head                |  33.0  |
+|             Dark Magician LOB             |   31   |
+| Black Luster Soldier EOTB Ultra Unlimited |  29.0  |
+|       Ring of Destruction Secret UNL      |  25.0  |
+|           B. Skull Dragon Ultra           |  24.0  |
+|              Exodia Right Leg             |  24.0  |
+|        Monster Reborn Unlimited LOB       |   24   |
+|                Red Eyes LOB               |   24   |
+|              Exodia Left Leg              |   22   |
+|            Summoned Skull Ultra           |   22   |
+|             Gemini Elf Secret             |  20.0  |
+|        Injection Fairy Lily Secret        |  20.0  |
+|               Don Zaloog 1st              |   19   |
+|             Queen's Knight UTR            |   19   |
+|             Time Wizard Ultra             |  19.0  |
+|        Thousand Eyes Restrict RP02        |   18   |
+|    Chaos Emperor Dragon EOTE Secret unl   |  17.5  |
+|       Blue Eyes Ultimate JMP Secret       |   17   |
+|              Gaia LOB Vanilla             |  17.0  |
+|            Reflect Bounder 1st            |   17   |
+|             Jack's Knight UTR             |   16   |
+|          Gate Guardian Secret UNL         |   15   |
+|             King's Knight UTR             |  15.0  |
+|                MST MRL Unl                |   14   |
+|           Lava Golem Secret UNL           |  13.5  |
+|           Marauding Captain 1st           |  12.5  |
+|          Tri Horned Dragon Secret         |   12   |
+|       Forceful Sentry MRL Unlimited       |   9    |
+|            Vampire Lord Secret            |  7.5   |
+|          Barrel Dragon MRD Ultra          |   7    |
+|           Magic Cylinder Secret           |   7    |
+|         Premature Burial Ultra UNL        |  7.0   |
+|             Buster Blader BPT             |   6    |
+|           Gaia Dragon Champ LOB           |   6    |
+|        Serpent Night Dragon Secret        |  6.0   |
+|              Change of Heart              |   5    |
+|         Thousand Dragon MRD secret        |  4.0   |
+|         Imperial Order PSV Secret         |   2    |
+|             Dark Magician DDS             |   0    |
+|                    test                   |   0    |
++-------------------------------------------+--------+
