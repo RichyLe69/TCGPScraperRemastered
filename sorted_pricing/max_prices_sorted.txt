@@ -17431,3 +17431,151 @@ max_rarity_binder - 2025-02-15
 |              Psychic Lifetrancer Rare 1st             |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2025-02-15
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           |  225  |
+|           Number 11 Big Eye UTR            |  163  |
+|             Gagaga Cowboy Utr              |  150  |
+|             Gungnir Secret DT              |  144  |
+|         Mermail Abyssteus Ulti 1st         |   98  |
+|       Spellbook of Secrets Ulti 1st        |   98  |
+|         Mermail Abyssgaios UTR 1st         |   94  |
+|          Atlantean Marksman Ulti           |   84  |
+|       High Priestess of Prophecy 1st       |   80  |
+|           Evolzar Laggia UTR 1st           |   79  |
+|    Leviair the Sea Dragon Ultimate 1st     |   74  |
+|  Spellbook Magician of Prophecy Ulti 1st   |   69  |
+|          Spellbook of Power Ulti           |   69  |
+|             Upstart Goblin TU              |   61  |
+|             Lavalval Chain DT              |   60  |
+|      Number 101 Silent Honor Ark UTR       |   59  |
+|    Number 17 Leviathan Dragon Ghost 1st    |   56  |
+|             Abyss Dweller UTR              |   52  |
+|          Mermail Abyssmegalo 1st           |   51  |
+|             Dewloren Secret DT             |   49  |
+|          Wind Up Zenmaity UTR 1st          |   49  |
+|        Mermail Abysslinde Ulti 1st         |   40  |
+|             Nekroz of Brionac              |   37  |
+|        Number 11 Big Eye Secret 1st        |   37  |
+|         The Grand Spellbook Tower          |   34  |
+|             Mermail Abysspike              |   33  |
+|         Spellbook of Fate Ulti 1st         |   33  |
+|            Steelswarm Roach 1st            |   33  |
+|           Ghostrick Alucard UTR            |   31  |
+|             Bahamut Shark Scr              |   30  |
+|          Spellbook of the Master           |   30  |
+|             Diamond Dire Wolf              |   25  |
+| Mecha Phantom Beast Dracossack LGYT Secret |   25  |
+|              Abysssphere Ulti              |   24  |
+|       Atlantean Heavy Infantry Super       |   24  |
+|             Spellbook of Life              |   24  |
+|         Evolzar Dolkka Secret 1st          |   22  |
+|              Wonder Wand Ulti              |   21  |
+|             Mermail Abyssleed              |   19  |
+|             Nekroz of Valkyrus             |   19  |
+|      Orient Dragon Secret 1st Foreign      |   19  |
+|         Wind Up Zenmaines Scr 1st          |   19  |
+|          Wind Up Zenmaity UTR Unl          |   18  |
+|             Nekroz of Trishula             |   13  |
+|            Spellbook of Wisdom             |   13  |
+|          Mermail Abysstrite - TCG          |   11  |
+|             Kuribandit Scr 1st             |   10  |
+|       Number 80 Rhapsody in Berserk        |   10  |
+|             Mermail Abyssgunde             |   9   |
+|             Daigusto Emeral DT             |   7   |
+|         Number C39 Utopia Ray UTR          |   7   |
+|           Spellbook of Eternity            |   6   |
+|         Spellbook of Judgment 1st          |   6   |
+|               Zenmaister UTR               |   6   |
+|                 Acid Golem                 |   5   |
+|             Soul Charge Super              |   4   |
+|            Needlebug Nest C 1st            |   3   |
+|        Michael The Arch Lightsworn         |   1   |
+|            Nekroz of Clausolas             |   1   |
+|             Nekroz of Unicore              |   1   |
+|               Redox - Secret               |   1   |
+|            Spellbook Star Hall             |   1   |
+|            Starliege Paladynamo            |   1   |
+|              Blaster - Secret              |   0   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Mechquipped Angineer            |   0   |
+|              Number 39 Utopia              |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|              Tempest - Secret              |   0   |
+|               Tidal - Secret               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
+collection_old_school - 2025-02-15
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|       Dark Magician Girl Secret 1st       |  1873 |
+|      Chaos Emperor Dragon Secret 1st      |  400  |
+|           Dark Paladin 1st Ultra          |  350  |
+|     Chaos Emperor Dragon Ultimate 1st     |  345  |
+|       Dark Magician Girl Secret UNL       |  269  |
+|       Dark Magician BPT 2002 Reverse      |  262  |
+|        Red Eyes Black Metal Dragon        |  179  |
+|         Blue-Eyes White Dragon LOB        |  130  |
+|         Slifer The Sky Dragon YMA         |  115  |
+|         Blue Eyes Toon Dragon MRL         |  109  |
+|             Harpies Pet Dragon            |  106  |
+|         Summoned Skull BPT Reverse        |  104  |
+|           Buster Blade Ultra 1st          |  100  |
+|  Blue Eyes White Dragon BPT 2002 Reverse  |   99  |
+|              Dark Paladin DMG             |   99  |
+|   Red Eyes Black Dragon BPT 2002 Reverse  |   93  |
+|             Obelisk JUMP PrScr            |   87  |
+|          B Skull Dragon BPT 2002          |   64  |
+|         Blue-Eyes White Dragon DDS        |   61  |
+|             Yata-Garasu Secret            |   59  |
+|          The Winged Dragon of Ra          |   55  |
+|              Jinzo Secret PSV             |   54  |
+|           Dark Magician of Chaos          |   53  |
+|              Mirror Force MRD             |   50  |
+|             Dark Magician LOB             |   45  |
+|                Exodia Head                |   43  |
+|                Red Eyes LOB               |   43  |
+| Black Luster Soldier EOTB Ultra Unlimited |   40  |
+|        Monster Reborn Unlimited LOB       |   40  |
+|              Exodia Right Arm             |   39  |
+|              Exodia Right Leg             |   39  |
+|       Ring of Destruction Secret UNL      |   37  |
+|              Exodia Left Arm              |   36  |
+|            Summoned Skull Ultra           |   36  |
+|             Time Wizard Ultra             |   34  |
+|              Exodia Left Leg              |   33  |
+|             Gemini Elf Secret             |   33  |
+|             King's Knight UTR             |   32  |
+|             Queen's Knight UTR            |   31  |
+|    Chaos Emperor Dragon EOTE Secret unl   |   30  |
+|               Don Zaloog 1st              |   29  |
+|              Gaia LOB Vanilla             |   28  |
+|           B. Skull Dragon Ultra           |   27  |
+|        Injection Fairy Lily Secret        |   27  |
+|            Reflect Bounder 1st            |   27  |
+|       Blue Eyes Ultimate JMP Secret       |   24  |
+|        Thousand Eyes Restrict RP02        |   24  |
+|          Gate Guardian Secret UNL         |   21  |
+|             Jack's Knight UTR             |   21  |
+|          Tri Horned Dragon Secret         |   20  |
+|           Marauding Captain 1st           |   19  |
+|           Lava Golem Secret UNL           |   15  |
+|                MST MRL Unl                |   15  |
+|           Magic Cylinder Secret           |   12  |
+|         Thousand Dragon MRD secret        |   12  |
+|          Barrel Dragon MRD Ultra          |   11  |
+|         Premature Burial Ultra UNL        |   11  |
+|       Forceful Sentry MRL Unlimited       |   9   |
+|        Serpent Night Dragon Secret        |   8   |
+|            Vampire Lord Secret            |   8   |
+|              Change of Heart              |   7   |
+|           Gaia Dragon Champ LOB           |   7   |
+|             Buster Blader BPT             |   5   |
+|         Imperial Order PSV Secret         |   3   |
+|             Dark Magician DDS             |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
