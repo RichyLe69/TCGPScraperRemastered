@@ -17788,3 +17788,80 @@ max_rarity_binder - 2025-03-04
 |            Revived King Ha Des Ultimate 1st           |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2025-03-04
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           |  149  |
+|             Gungnir Secret DT              |  145  |
+|           Number 11 Big Eye UTR            |  105  |
+|             Gagaga Cowboy Utr              |   77  |
+|       Spellbook of Secrets Ulti 1st        |   71  |
+|         Mermail Abyssgaios UTR 1st         |   67  |
+|  Spellbook Magician of Prophecy Ulti 1st   |   66  |
+|             Lavalval Chain DT              |   63  |
+|         Mermail Abyssteus Ulti 1st         |   63  |
+|             Upstart Goblin TU              |   59  |
+|       High Priestess of Prophecy 1st       |   57  |
+|          Atlantean Marksman Ulti           |   54  |
+|    Number 17 Leviathan Dragon Ghost 1st    |   53  |
+|    Leviair the Sea Dragon Ultimate 1st     |   52  |
+|           Evolzar Laggia UTR 1st           |   49  |
+|          Spellbook of Power Ulti           |   46  |
+|      Number 101 Silent Honor Ark UTR       |   36  |
+|          Mermail Abyssmegalo 1st           |   30  |
+|          Wind Up Zenmaity UTR 1st          |   30  |
+|             Abyss Dweller UTR              |   29  |
+|             Nekroz of Brionac              |   29  |
+|        Mermail Abysslinde Ulti 1st         |   27  |
+|         The Grand Spellbook Tower          |   27  |
+|           Ghostrick Alucard UTR            |   23  |
+|            Steelswarm Roach 1st            |   22  |
+|        Number 11 Big Eye Secret 1st        |   21  |
+|             Diamond Dire Wolf              |   20  |
+|             Mermail Abysspike              |   20  |
+|         Spellbook of Fate Ulti 1st         |   20  |
+|          Spellbook of the Master           |   20  |
+|             Bahamut Shark Scr              |   19  |
+| Mecha Phantom Beast Dracossack LGYT Secret |   19  |
+|       Atlantean Heavy Infantry Super       |   17  |
+|              Abysssphere Ulti              |   15  |
+|             Spellbook of Life              |   14  |
+|         Wind Up Zenmaines Scr 1st          |   14  |
+|              Wonder Wand Ulti              |   14  |
+|          Wind Up Zenmaity UTR Unl          |   13  |
+|      Orient Dragon Secret 1st Foreign      |   12  |
+|         Evolzar Dolkka Secret 1st          |   11  |
+|             Nekroz of Valkyrus             |   10  |
+|            Spellbook of Wisdom             |   9   |
+|             Daigusto Emeral DT             |   8   |
+|             Mermail Abyssleed              |   8   |
+|               Zenmaister UTR               |   7   |
+|             Kuribandit Scr 1st             |   6   |
+|       Number 80 Rhapsody in Berserk        |   6   |
+|             Mermail Abyssgunde             |   5   |
+|          Mermail Abysstrite - TCG          |   5   |
+|             Nekroz of Trishula             |   5   |
+|         Number C39 Utopia Ray UTR          |   4   |
+|                 Acid Golem                 |   3   |
+|            Needlebug Nest C 1st            |   3   |
+|             Soul Charge Super              |   3   |
+|           Spellbook of Eternity            |   3   |
+|         Spellbook of Judgment 1st          |   3   |
+|        Michael The Arch Lightsworn         |   1   |
+|            Nekroz of Clausolas             |   1   |
+|             Nekroz of Unicore              |   1   |
+|               Redox - Secret               |   1   |
+|            Spellbook Star Hall             |   1   |
+|            Starliege Paladynamo            |   1   |
+|               Tidal - Secret               |   1   |
+|              Blaster - Secret              |   0   |
+|             Dewloren Secret DT             |   0   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Mechquipped Angineer            |   0   |
+|              Number 39 Utopia              |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|              Tempest - Secret              |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
