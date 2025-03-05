@@ -17865,3 +17865,74 @@ hat_format_binder - 2025-03-04
 |              Tempest - Secret              |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+collection_old_school - 2025-03-04
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|       Dark Magician Girl Secret 1st       | 999.0 |
+|           Dark Paladin 1st Ultra          |  319  |
+|      Chaos Emperor Dragon Secret 1st      |  230  |
+|       Dark Magician Girl Secret UNL       | 215.0 |
+|       Dark Magician BPT 2002 Reverse      | 171.5 |
+|        Red Eyes Black Metal Dragon        | 128.5 |
+|         Blue-Eyes White Dragon DDS        |  123  |
+|     Chaos Emperor Dragon Ultimate 1st     |  109  |
+|           Buster Blade Ultra 1st          |  100  |
+|         Blue Eyes Toon Dragon MRL         |  95.0 |
+|         Summoned Skull BPT Reverse        |  85.5 |
+|         Slifer The Sky Dragon YMA         |   84  |
+|         Blue-Eyes White Dragon LOB        |   82  |
+|   Red Eyes Black Dragon BPT 2002 Reverse  |  72.0 |
+|             Obelisk JUMP PrScr            |   64  |
+|             Harpies Pet Dragon            |   61  |
+|              Dark Paladin DMG             |  59.0 |
+|          B Skull Dragon BPT 2002          |   57  |
+|  Blue Eyes White Dragon BPT 2002 Reverse  |  56.0 |
+|          The Winged Dragon of Ra          |  45.5 |
+|           Dark Magician of Chaos          |  42.0 |
+|             Yata-Garasu Secret            |   39  |
+|              Jinzo Secret PSV             |  38.0 |
+|             Dark Magician LOB             |   34  |
+|                Exodia Head                |  33.0 |
+|              Exodia Right Arm             |  30.0 |
+|              Exodia Left Arm              |   29  |
+|              Mirror Force MRD             |   29  |
+|             Buster Blader BPT             |  28.0 |
+| Black Luster Soldier EOTB Ultra Unlimited |   25  |
+|           B. Skull Dragon Ultra           |  24.0 |
+|              Exodia Right Leg             |  24.0 |
+|       Ring of Destruction Secret UNL      |   24  |
+|                Red Eyes LOB               |   23  |
+|            Summoned Skull Ultra           |  22.5 |
+|              Exodia Left Leg              |  21.5 |
+|             Gemini Elf Secret             |  20.0 |
+|        Injection Fairy Lily Secret        |   20  |
+|               Don Zaloog 1st              |   19  |
+|        Monster Reborn Unlimited LOB       |   19  |
+|             Time Wizard Ultra             |  19.0 |
+|       Blue Eyes Ultimate JMP Secret       |   18  |
+|    Chaos Emperor Dragon EOTE Secret unl   |  18.0 |
+|        Thousand Eyes Restrict RP02        |  18.0 |
+|             Queen's Knight UTR            |  17.5 |
+|              Gaia LOB Vanilla             |   17  |
+|          Gate Guardian Secret UNL         |   17  |
+|            Reflect Bounder 1st            |   17  |
+|             Jack's Knight UTR             |  16.0 |
+|             King's Knight UTR             |  15.5 |
+|                MST MRL Unl                |  15.0 |
+|           Gaia Dragon Champ LOB           |  13.5 |
+|           Marauding Captain 1st           |   12  |
+|          Tri Horned Dragon Secret         |  12.0 |
+|           Lava Golem Secret UNL           |  9.0  |
+|         Thousand Dragon MRD secret        |  8.0  |
+|          Barrel Dragon MRD Ultra          |   7   |
+|           Magic Cylinder Secret           |   7   |
+|         Premature Burial Ultra UNL        |   7   |
+|            Vampire Lord Secret            |  7.0  |
+|       Forceful Sentry MRL Unlimited       |   6   |
+|        Serpent Night Dragon Secret        |  6.0  |
+|              Change of Heart              |  5.0  |
+|         Imperial Order PSV Secret         |   2   |
+|             Dark Magician DDS             |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
