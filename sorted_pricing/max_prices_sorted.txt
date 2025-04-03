@@ -18145,3 +18145,80 @@ max_rarity_binder - 2025-04-03
 |               Stardust Dragon Ghost 1st               |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+hat_format_binder - 2025-04-03
++--------------------------------------------+-------+
+|                    Card                    | Price |
++--------------------------------------------+-------+
+|          Atlantean Dragoons Ulti           |  225  |
+|           Number 11 Big Eye UTR            |  160  |
+|             Gungnir Secret DT              |  122  |
+|             Upstart Goblin TU              |  108  |
+|         Mermail Abyssteus Ulti 1st         |   98  |
+|       Spellbook of Secrets Ulti 1st        |   98  |
+|       High Priestess of Prophecy 1st       |   92  |
+|             Gagaga Cowboy Utr              |   90  |
+|          Atlantean Marksman Ulti           |   84  |
+|           Evolzar Laggia UTR 1st           |   79  |
+|    Leviair the Sea Dragon Ultimate 1st     |   74  |
+|         Mermail Abyssgaios UTR 1st         |   74  |
+|  Spellbook Magician of Prophecy Ulti 1st   |   69  |
+|          Spellbook of Power Ulti           |   69  |
+|    Number 17 Leviathan Dragon Ghost 1st    |   56  |
+|      Number 101 Silent Honor Ark UTR       |   51  |
+|             Abyss Dweller UTR              |   50  |
+|          Mermail Abyssmegalo 1st           |   49  |
+|          Wind Up Zenmaity UTR 1st          |   49  |
+|         Evolzar Dolkka Secret 1st          |   41  |
+|        Mermail Abysslinde Ulti 1st         |   40  |
+| Mecha Phantom Beast Dracossack LGYT Secret |   39  |
+|             Nekroz of Brionac              |   39  |
+|           Ghostrick Alucard UTR            |   38  |
+|         The Grand Spellbook Tower          |   38  |
+|         Spellbook of Fate Ulti 1st         |   36  |
+|            Steelswarm Roach 1st            |   33  |
+|             Mermail Abysspike              |   32  |
+|             Bahamut Shark Scr              |   30  |
+|        Number 11 Big Eye Secret 1st        |   30  |
+|       Atlantean Heavy Infantry Super       |   26  |
+|              Abysssphere Ulti              |   24  |
+|             Diamond Dire Wolf              |   24  |
+|          Spellbook of the Master           |   23  |
+|         Wind Up Zenmaines Scr 1st          |   23  |
+|          Wind Up Zenmaity UTR Unl          |   23  |
+|              Wonder Wand Ulti              |   21  |
+|             Spellbook of Life              |   20  |
+|      Orient Dragon Secret 1st Foreign      |   17  |
+|             Nekroz of Valkyrus             |   15  |
+|             Mermail Abyssleed              |   13  |
+|            Spellbook of Wisdom             |   13  |
+|             Lavalval Chain DT              |   11  |
+|             Nekroz of Trishula             |   10  |
+|       Number 80 Rhapsody in Berserk        |   10  |
+|               Zenmaister UTR               |   9   |
+|             Kuribandit Scr 1st             |   8   |
+|          Mermail Abysstrite - TCG          |   8   |
+|         Number C39 Utopia Ray UTR          |   7   |
+|             Mermail Abyssgunde             |   6   |
+|             Soul Charge Super              |   6   |
+|                 Acid Golem                 |   5   |
+|           Spellbook of Eternity            |   5   |
+|         Spellbook of Judgment 1st          |   5   |
+|             Daigusto Emeral DT             |   3   |
+|            Needlebug Nest C 1st            |   3   |
+|            Spellbook Star Hall             |   2   |
+|             Dewloren Secret DT             |   1   |
+|        Michael The Arch Lightsworn         |   1   |
+|            Nekroz of Clausolas             |   1   |
+|             Nekroz of Unicore              |   1   |
+|            Starliege Paladynamo            |   1   |
+|              Blaster - Secret              |   0   |
+|            Eclipse Wyvern Super            |   0   |
+|           Lightray Diabolos Rare           |   0   |
+|            Mechquipped Angineer            |   0   |
+|              Number 39 Utopia              |   0   |
+|      Raiden Lightsworn Assassin Super      |   0   |
+|               Redox - Secret               |   0   |
+|              Tempest - Secret              |   0   |
+|               Tidal - Secret               |   0   |
+|                    test                    |   0   |
++--------------------------------------------+-------+
