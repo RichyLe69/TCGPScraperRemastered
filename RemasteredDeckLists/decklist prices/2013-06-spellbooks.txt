@@ -418,3 +418,143 @@ Total Price: 1104
 | Extra Deck                           |     |
 | 1 None                               |   - |
 +--------------------------------------+-----+
+2013-06-spellbooks - 2025-04-04 - min_prices_sorted.txt
+Main Deck: 895
+Side Deck: 0
+Extra Deck: 0
+Total Price: 895
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 High Priestess of Prophecy ScR     |   - |
+| 3 Spellbook Magician of Prophecy UtR |   - |
+| 2 Justice of Prophecy R              |   - |
+| 1 Jowgen the Spiritualist R          |   - |
+| 1 Toon Gemini Elf SR                 |   - |
+| 3 Spellbook of Judgment ScR          |   - |
+| 3 Spellbook of Secrets UtR           |   - |
+| 2 Spellbook of the Master ScR        |   - |
+| 3 Spellbook of Fate UtR              |   - |
+| 2 Spellbook of Power UtR             |   - |
+| 1 Spellbook of Eternity SR           |   - |
+| 1 Spellbook of Life SR               |   - |
+| 2 Spellbook of Wisdom SR             |   - |
+| 1 Spellbook Star Hall SR             |   - |
+| 2 The Grand Spellbook Tower ScR      |   - |
+| 3 Toon Table of Contents SR          | 129 |
+| 3 Upstart Goblin SR                  |  50 |
+| 2 Wonder Wand UtR                    |   - |
+| 2 Phoenix Wing Wind Blast UtR        | 179 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 1 None                               |   - |
++--------------------------------------+-----+
+2013-06-spellbooks - 2025-04-04 - max_prices_sorted.txt
+Main Deck: 1481
+Side Deck: 0
+Extra Deck: 0
+Total Price: 1481
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 High Priestess of Prophecy ScR     |   - |
+| 3 Spellbook Magician of Prophecy UtR |   - |
+| 2 Justice of Prophecy R              |   - |
+| 1 Jowgen the Spiritualist R          |   - |
+| 1 Toon Gemini Elf SR                 |   - |
+| 3 Spellbook of Judgment ScR          |   - |
+| 3 Spellbook of Secrets UtR           |   - |
+| 2 Spellbook of the Master ScR        |   - |
+| 3 Spellbook of Fate UtR              |   - |
+| 2 Spellbook of Power UtR             |   - |
+| 1 Spellbook of Eternity SR           |   - |
+| 1 Spellbook of Life SR               |   - |
+| 2 Spellbook of Wisdom SR             |   - |
+| 1 Spellbook Star Hall SR             |   - |
+| 2 The Grand Spellbook Tower ScR      |   - |
+| 3 Toon Table of Contents SR          | 234 |
+| 3 Upstart Goblin SR                  |  77 |
+| 2 Wonder Wand UtR                    |   - |
+| 2 Phoenix Wing Wind Blast UtR        | 274 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 1 None                               |   - |
++--------------------------------------+-----+
+2013-06-spellbooks - 2025-04-04 - mean_prices_sorted.txt
+Main Deck: 1101
+Side Deck: 0
+Extra Deck: 0
+Total Price: 1101
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 High Priestess of Prophecy ScR     |   - |
+| 3 Spellbook Magician of Prophecy UtR |   - |
+| 2 Justice of Prophecy R              |   - |
+| 1 Jowgen the Spiritualist R          |   - |
+| 1 Toon Gemini Elf SR                 |   - |
+| 3 Spellbook of Judgment ScR          |   - |
+| 3 Spellbook of Secrets UtR           |   - |
+| 2 Spellbook of the Master ScR        |   - |
+| 3 Spellbook of Fate UtR              |   - |
+| 2 Spellbook of Power UtR             |   - |
+| 1 Spellbook of Eternity SR           |   - |
+| 1 Spellbook of Life SR               |   - |
+| 2 Spellbook of Wisdom SR             |   - |
+| 1 Spellbook Star Hall SR             |   - |
+| 2 The Grand Spellbook Tower ScR      |   - |
+| 3 Toon Table of Contents SR          | 156 |
+| 3 Upstart Goblin SR                  |  55 |
+| 2 Wonder Wand UtR                    |   - |
+| 2 Phoenix Wing Wind Blast UtR        | 234 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 1 None                               |   - |
++--------------------------------------+-----+
+2013-06-spellbooks - 2025-04-04 - median_prices_sorted.txt
+Main Deck: 1104
+Side Deck: 0
+Extra Deck: 0
+Total Price: 1104
++--------------------------------------+-----+
+| Card                                 |   $ |
++--------------------------------------+-----+
+| Main Deck                            |     |
+| 3 High Priestess of Prophecy ScR     |   - |
+| 3 Spellbook Magician of Prophecy UtR |   - |
+| 2 Justice of Prophecy R              |   - |
+| 1 Jowgen the Spiritualist R          |   - |
+| 1 Toon Gemini Elf SR                 |   - |
+| 3 Spellbook of Judgment ScR          |   - |
+| 3 Spellbook of Secrets UtR           |   - |
+| 2 Spellbook of the Master ScR        |   - |
+| 3 Spellbook of Fate UtR              |   - |
+| 2 Spellbook of Power UtR             |   - |
+| 1 Spellbook of Eternity SR           |   - |
+| 1 Spellbook of Life SR               |   - |
+| 2 Spellbook of Wisdom SR             |   - |
+| 1 Spellbook Star Hall SR             |   - |
+| 2 The Grand Spellbook Tower ScR      |   - |
+| 3 Toon Table of Contents SR          | 149 |
+| 3 Upstart Goblin SR                  |  53 |
+| 2 Wonder Wand UtR                    |   - |
+| 2 Phoenix Wing Wind Blast UtR        | 249 |
+|                                      |     |
+| Side Deck                            |     |
+| 1 None                               |   - |
+|                                      |     |
+| Extra Deck                           |     |
+| 1 None                               |   - |
++--------------------------------------+-----+
