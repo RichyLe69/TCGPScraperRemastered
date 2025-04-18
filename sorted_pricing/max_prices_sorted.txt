@@ -18661,3 +18661,117 @@ max_rarity_binder - 2025-04-12
 |               Stardust Dragon Ghost 1st               |   0   |
 |                          test                         |   0   |
 +-------------------------------------------------------+-------+
+collection_old_school_2025_sale - 2025-04-18
++-------------------------------------------+-------+
+|                    Card                   | Price |
++-------------------------------------------+-------+
+|     Chaos Emperor Dragon Ultimate 1st     |  350  |
+|       Dark Magician Girl Secret UNL       |  269  |
+|        Red Eyes Black Metal Dragon        |  184  |
+|         Slifer The Sky Dragon YMA         |  150  |
+|          B Skull Dragon BPT 2002          |  145  |
+|       Dark Magician BPT 2002 Reverse      |  138  |
+|         Blue-Eyes White Dragon LOB        |  130  |
+|             Harpies Pet Dragon            |  129  |
+|  Blue Eyes White Dragon BPT 2002 Reverse  |  100  |
+|              Dark Paladin DMG             |  100  |
+|         Blue Eyes Toon Dragon MRL         |   99  |
+|   Red Eyes Black Dragon BPT 2002 Reverse  |   93  |
+|             Obelisk JUMP PrScr            |   90  |
+|                Exchange scr               |   85  |
+|             Yata-Garasu Secret            |   59  |
+|          The Winged Dragon of Ra          |   55  |
+|              Jinzo Secret PSV             |   54  |
+|             Dark Magician LOB             |   49  |
+|               Don Zaloog 1st              |   49  |
+|          Gate Guardian Secret UNL         |   49  |
+|         Summoned Skull BPT Reverse        |   49  |
+|                Exodia Head                |   43  |
+|             Doomcaliber Knight            |   42  |
+| Black Luster Soldier EOTB Ultra Unlimited |   40  |
+|              Mirror Force MRD             |   40  |
+|              Exodia Right Arm             |   39  |
+|              Exodia Right Leg             |   39  |
+|           Breaker MFC ultra unl           |   37  |
+|           Dark Magician of Chaos          |   37  |
+|       Ring of Destruction Secret UNL      |   37  |
+|              Exodia Left Arm              |   36  |
+|                Red Eyes LOB               |   35  |
+|            Summoned Skull Ultra           |   34  |
+|              Exodia Left Leg              |   33  |
+|             Gemini Elf Secret             |   33  |
+|             King's Knight UTR             |   32  |
+|    Chaos Emperor Dragon EOTE Secret unl   |   30  |
+|             Time Wizard Ultra             |   30  |
+|             Queen's Knight UTR            |   28  |
+|           B. Skull Dragon Ultra           |   27  |
+|            Reflect Bounder 1st            |   27  |
+|             Buster Blader BPT             |   26  |
+|       Blue Eyes Ultimate JMP Secret       |   24  |
+|        Injection Fairy Lily Secret        |   24  |
+|        Monster Reborn Unlimited LOB       |   24  |
+|       Solemn Judgment MRD Unlimited       |   24  |
+|        Thousand Eyes Restrict RP02        |   24  |
+|            Toon Summoned Skull            |   23  |
+|             Jack's Knight UTR             |   21  |
+|           Gaia Dragon Champ LOB           |   20  |
+|          Tri Horned Dragon Secret         |   20  |
+|       Mystical Knight of Jackal 1st       |   18  |
+|              Gaia LOB Vanilla             |   17  |
+|            guardian sphinx 1st            |   16  |
+|         Call of the Haunted Ultra         |   15  |
+|       Invader of Darkness Secret unl      |   15  |
+|                MST MRL Unl                |   15  |
+|           Marauding Captain 1st           |   15  |
+|              Sinister Serpent             |   15  |
+|           Lava Golem Secret UNL           |   14  |
+|           XYZ Dragon Cannon BPT           |   14  |
+|       Forceful Sentry MRL Unlimited       |   13  |
+|           Change of Heart Ultra           |   12  |
+|           Magic Cylinder Secret           |   12  |
+|          Barrel Dragon MRD Ultra          |   11  |
+|                Heavy Storm                |   11  |
+|         Premature Burial Ultra UNL        |   11  |
+|     Gorz the Emissary of Darkness DLG1    |   10  |
+|            Polymerization dpyg            |   10  |
+|                  Raigeki                  |   9   |
+|        Serpent Night Dragon Secret        |   9   |
+|        Spellbinding circle MRL Unl        |   9   |
+|         Thousand Dragon MRD secret        |   9   |
+|                Toon Mermaid               |   9   |
+|            Vampire Lord Secret            |   9   |
+|            Vorse Raider Secret            |   9   |
+|            Dark End Dragon JUMP           |   8   |
+|              Celtic Guardian              |   7   |
+|             Axe of Despair MRL            |   6   |
+|           Crush Card Virus tu01           |   6   |
+|                  Kazejin                  |   6   |
+|           Magic Jammer MRD Ultra          |   6   |
+|               Megamorph MRL               |   6   |
+|                Mystical Elf               |   6   |
+|               Polymerization              |   6   |
+|         Swords of Revealing Light         |   6   |
+|             Cyber Harpie Lady             |   5   |
+|                 Dark Hole                 |   5   |
+|                   Sanga                   |   5   |
+|         Legendary Fisherman Ultra         |   4   |
+|            Harpie Lady Sisters            |   2   |
+|         Imperial Order PSV Secret         |   2   |
+|                  Kuriboh                  |   2   |
+|                    Ladd                   |   2   |
+|                   Suijin                  |   2   |
+|           Amazoness Chain Master          |   1   |
+|      Diffusion Wave-Motion Secret UNL     |   1   |
+|         Judgment of Anubis Secret         |   1   |
+|         Ring of Destruction ultra         |   1   |
+|        The End of Anubis Secret unl       |   1   |
+|               Trap Hole Lob               |   1   |
+|          dragon master knight UE          |   1   |
+|            Archfiend of Gilfer            |   0   |
+|                La Jinn rp01               |   0   |
+|         Mazera DeVille Secret unl         |   0   |
+|      Valkyrion the Magna Warrior SDD      |   0   |
+|            Victory Dragon Jump            |   0   |
+|             blue eyes shining             |   0   |
+|                    test                   |   0   |
++-------------------------------------------+-------+
