@@ -807,7 +807,37 @@ Iron Chain Dragon 1st:
   edition: 'Near Mint 1st'
   qty: 1
 
+# Random High End
 
+Dark Magician Girl Secret 1st:
+  url: 21877
+  edition: 'Near Mint 1st Edition'
+  qty: 1
+
+Chaos Emperor Dragon Secret 1st:
+  url: 23087
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Dark Paladin 1st Ultra:
+  url: 21879
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Buster Blade Ultra 1st:
+  url: 21810
+  edition: 'Near Mint 1st'
+  qty: 1
+
+Blue-Eyes White Dragon DDS:
+  url: 22940
+  edition: 'Lightly Played Limited' # a bit of edge wear on back, tiny bit on front, not noticeable unless at certain angles
+  qty: 1
+
+Dark Magician DDS:
+  url: 22941
+  edition: 'Moderately Played Limited' # mines actually played
+  qty: 1
 
 
 
