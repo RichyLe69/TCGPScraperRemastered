@@ -50,20 +50,14 @@
 
 ## Updated Collection Complete 2024
 
-#max_rarity_binder:
-#  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
+max_rarity_binder:
+  path: 'decks/split_lists/updated_binder/max_rarity_binder.yaml'
 
 #hat_format_binder:
 #  path: 'decks/split_lists/updated_binder/hat_format_binder.yaml'
 
-#collection_old_school:
-#  path: 'decks/split_lists/updated_binder/collection_old_school.yaml'
-
 #edison_tengu_cores:
 #  path: 'decks/split_lists/updated_binder/edison_tengu_cores.yaml'
-
-collection_old_school_2025_sale:
-  path: 'decks/split_lists/updated_binder/collection_old_school_APRIL_SALE_2025.yaml'
 
 #########################
 
@@ -101,7 +95,7 @@ collection_old_school_2025_sale:
     # HOARD = "hottest" cards
     #	- both Edison & Tengu Max Rarity & Prioritize Ultis / Ghosts
     #	- T0 Stardust/BRD Ghost, Caius, JD, Dad
-    #	- T1 Honest, Allure, Maxx C, TGU, Kristya, AFD Ghost
+    #	- T1 Kristya, Honest, Allure, Maxx C, TGU, AFD Ghost
 
         # 3.5k - 2007-2008 max rarities
            # -------- Probably cut off
@@ -164,6 +158,16 @@ collection_old_school_2025_sale:
 #
 #buylist_extras:  # Extra cards & Finish playsets # Unnecessary, just "fancy" cards. No solitaire Potential
 #  path: 'decks/current_buys/buylist_extras.yaml'
+
+
+#########################
+
+#collection_old_school: # SOLD MAY 2025
+#  path: 'decks/split_lists/updated_binder/collection_old_school.yaml'
+
+#collection_old_school_2025_sale: # SOLD MAY 2025
+#  path: 'decks/split_lists/updated_binder/collection_old_school_APRIL_SALE_2025.yaml'
+
 
 ###################################
 
