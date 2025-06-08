@@ -1,14 +1,15 @@
 from utils import get_card_lists, scrape_website, sort_market_prices, append_console_to_txt, sum_total_prices, print_sums, sum_total_quantity, calculate_average_per_list
 from CardList import CardList
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 import time
 
 
 class Scraper:
 
     def __init__(self):
-        self.browser = webdriver.Chrome(
-            executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
+        service = Service(executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
+        self.browser = webdriver.Chrome(service=service)
         self.card_lists = get_card_lists('lists.yaml')
         self.current_list = ''
         self.current_list_data = ''
