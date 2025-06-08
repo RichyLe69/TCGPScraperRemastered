@@ -19182,3 +19182,168 @@ hat_format_binder - 2025-06-01
 |               Tidal - Secret               |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+max_rarity_binder - 2025-06-08
++-------------------------------------------------------+-------+
+|                          Card                         | Price |
++-------------------------------------------------------+-------+
+|              Black Rose Dragon Ghost 1st              |  1995 |
+|               Stardust Dragon Ghost 1st               |  1299 |
+|             Dark Magician Girl Secret 1st             |  1156 |
+|                 Book of Moon Super CP                 |  749  |
+|           Plaguespreader Zombie Ultimate 1st          |  675  |
+|          Caius the Shadow Monarch Ultimate TU         |  608  |
+|               Dark Armed Dragon Ultimate              |  599  |
+|             Ancient Fairy Dragon Ghost 1st            | 556.5 |
+|                   Metamorphosis CP01                  | 521.5 |
+|               Cyber Dragon Ultimate 1st               |  504  |
+|                  Archlord Kristya 1st                 | 499.0 |
+|          Lumina Lightsworn Summoner Super CP          | 477.0 |
+|                Trap Dustshoot Super CP                |  401  |
+|                Judgment Dragon Ultimate               |  385  |
+|                  Jinzo Secret PSV 1st                 | 375.0 |
+|                    Honest Ghost 1st                   | 369.0 |
+|                 Spirit Reaper Super CP                |  358  |
+|                 Dark Paladin 1st Ultra                | 351.0 |
+|               Stardust Dragon Ghost Unl               |  340  |
+|                  Gravekeeper Spy CP03                 | 324.0 |
+|          Brain Control Ultimate 1st 1 EN 1 DE         |  320  |
+|                    Maxx C Ultimate                    |  316  |
+|           Red Dragon Archfiend Ultimate 1st           |  308  |
+|            Lightning Vortex Ultimate 1st FR           |  300  |
+|              Power Tool Dragon Ghost 1st              | 299.5 |
+|                Chaos Sorcerer Ultra TU                |  299  |
+|              Dark Armed Dragon Secret 1st             |  289  |
+|                 Magician of Faith cp2                 | 288.0 |
+|                Solemn Judgment MRD 1st                |  286  |
+|            Chaos Emperor Dragon Secret 1st            | 279.0 |
+|               Power Tool Dragon Ulti 1st              | 274.5 |
+|              Black Rose Dragon Ghost Unl              |  264  |
+|               Goyo Guardian Ultimate 1st              | 249.0 |
+|               Lonefire Blossom Super CP               |  241  |
+|               Effect Veiler Ultimate 1st              | 239.0 |
+|                 Night Assailant Super                 | 239.0 |
+|                 D.D. Crow Ultimate 1st                |  219  |
+|          Red Dragon Archfiend Ultimate 1st LP         | 218.0 |
+|              Colossal Fighter Ultimate TU             |  217  |
+|         Breaker the Magical Warrior TP7 super         |  210  |
+| Black Luster Soldier Envoy of the Beginning Ultra 1st |  201  |
+|         Lyla Lightsworn Sorceress Ultimate 1st        |  199  |
+|          Thought Ruler Archfiend Ultimate 1st         | 199.0 |
+|           Mystical Space Typhoon MST MRL 1st          | 197.0 |
+|          Brionac Dragon of the Ice Barrier DT         | 196.5 |
+|        Phoenix Wing Wind Blast Ultimate 1st NM        | 195.5 |
+|              Solemn Warning Ultimate 1st              | 194.5 |
+|               Pot of Greed Ultimate 1st               | 188.0 |
+|         Trishula Dragon of the Ice Barrier DT         | 187.5 |
+|         Celestia Lightsworn Angel Ultimate 1st        |  184  |
+|                Foolish Burial Super CP                | 184.0 |
+|              Pot of Avarice Ultimate 1st              |  176  |
+|                 Threatening Roar CP07                 |  174  |
+|               Judgment Dragon Secret 1st              |  169  |
+|           Allure of Darkness Ultimate 1st EN          |  164  |
+|                   Dandylion Ultimate                  | 164.0 |
+|                  Mirror Force MRD 1st                 |  162  |
+|              Solar Recharge Ultimate 1st              | 159.5 |
+|        Phoenix Wing Wind Blast Ultimate 1st LP        |  155  |
+|                   Tragoedia Ultimate                  | 154.0 |
+|         Charge of the Light Brigade Secret 1st        | 150.5 |
+|            Dark Magician of Chaos DMOC 1st            |  149  |
+|        Tour Guide From the Underworld Ultimate        | 146.5 |
+|                Dark Grepher Secret 1st                |  143  |
+|     Formula Synchron ULTRA Advent Calendar GERMAN     |  134  |
+|                 Buster Blade Ultra 1st                | 130.0 |
+|           Ally of Justice Catastor Ultimate           | 128.0 |
+|            Emergency Teleport Ultimate 1st            |  122  |
+|            Revived King Ha Des Ultimate 1st           | 119.5 |
+|             Ally of Justice Catastor DTP1             |  119  |
+|                Smashing Ground Super CP               | 119.0 |
+|              Thunder King Rai Oh Ultimate             | 116.0 |
+|                 Mind Crush CP08 Super                 |  107  |
+|            Blackwing Armor Master Ulti 1st            | 104.0 |
+|                   Tsukuyomi Ultimate                  |  99.5 |
+|             Ancient Fairy Dragon Ghost Unl            |   99  |
+|                 Crush Card Virus GLD1                 |   99  |
+|             Shooting Star Dragon Ghost 1st            |   99  |
+|              Tempest Magician Secret 1st              |   93  |
+|                  Battle Fader UTR 1st                 |   92  |
+|               Necro Gardna Ultimate 1st               |  91.0 |
+|               Zombie Master Ultimate 1st              |  85.5 |
+|                  Heavy Storm MRD 1st                  |  84.5 |
+|                   Maxx C Secret 1st                   |   84  |
+|                   Sangan Super RP01                   |  84.0 |
+|                Call of the Haunted 1st                |   82  |
+|                 Delinquent Duo MRL 1st                |   82  |
+|               Archlord Kristya Unlimited              |  81.0 |
+|              Future Fusion UTR Unlimited              |  81.0 |
+|                Goblin Zombie Secret 1st               |  79.5 |
+|           Ancient Sacred Wyvern Ultimate 1st          |  75.0 |
+|            Ehren Lightsworn Monk Secret 1st           |  73.0 |
+|           Demise King of Armageddon UTR 1st           |  71.5 |
+|                 Debris Dragon Ultimate                |  71.0 |
+|                   Beckoning Light TU                  |   69  |
+|                   Dark Magician DDS                   |   63  |
+|          Avenging Knight Parshath Secret 1st          |  62.0 |
+|               Glow Up Bulb Ultimate 2 EN              |   60  |
+|             Ring of Destruction Secret 1st            |   59  |
+|                      Ruin UTR 1st                     |   58  |
+|                    Krebons Super TU                   |   54  |
+|                 Drill Warrior UTR 1st                 |  53.5 |
+|                  Snatch Steal MRL 1st                 |   53  |
+|           Burial from a Different Dimension           |   49  |
+|                    Snipe Hunter cp3                   |   49  |
+|               Scrap Dragon Ultimate 1st               |   46  |
+|                 Tour Guide Secret 1st                 |  46.0 |
+|                      Mist Wurm DT                     |   45  |
+|              Red Nova Dragon Ultimate 1st             |   45  |
+|                  Magical Android 1st                  |   44  |
+|                 Pot of Duality Scr 1st                |  43.5 |
+|              Black Winged Dragon Ulti 1st             |  43.0 |
+|         Destiny Hero Diamond Dude Ultimate 1st        |   42  |
+|                Card Destruction SDY 1st               |   40  |
+|            Destiny Hero Doom Lord Rare DR04           |   40  |
+|                Dimension Fusion IOC 1st               |  38.5 |
+|                 Doomcaliber Knight TU                 |   36  |
+|            Machine Duplication Ultimate 1st           |   36  |
+|               Darklord Zerato Secret 1st              |   35  |
+|              Garoth Lightsworn Warrior TU             |   35  |
+|              Destiny Hero Dasher UTR 1st              |  34.5 |
+|              Light End Dragon Secret 1st              |   29  |
+|               Thunder King Rai-oh Secret              |   28  |
+|                Rescue Rabbit Secret 1st               |  26.5 |
+|             Premature Burial Ultra 1st NM             |  25.0 |
+|                 Royal Decree DB2 Super                |   25  |
+|               Destiny Hero Malicious 1st              |  24.0 |
+|               Gold Sarcophagus GLD2 2009              |   24  |
+|             Solemn Judgment MRD Unlimited             |  23.5 |
+|                Enemy Controller AST 1st               |   23  |
+|             Giant Trunade - MRL Super 1st             |   21  |
+|               Ryko Lightsworn Hunter 1st              |  20.0 |
+|                Card of Safe Return 1st                |   19  |
+|                   Doom Dozer UTR 1st                  |  19.0 |
+|                   Arcanite Magician                   |  18.0 |
+|                  Armory Arm Ultra 1st                 |  18.0 |
+|               Destiny Hero Plasma Secret              |  16.5 |
+|     Return from the Different Dimension DPKB Super    |  16.0 |
+|                 Flamvell Uruquizas DT                 |  15.5 |
+|            Armageddon Knight PTDN 1st Super           |  14.0 |
+|                    Dark End Dragon                    |   13  |
+|           Gorz the Emissary of Darkness RP02          |   13  |
+|                     Mezuki Secret                     |  12.5 |
+|           Reinforcement of the Army LOD 1st           |   12  |
+|                 Iron Chain Dragon 1st                 |  11.0 |
+|                Orient Dragon Secret 1st               |   11  |
+|                  Confiscation MRL 1st                 |  10.0 |
+|             Royal Oppression Rare LOD 1st             |  10.0 |
+|             Doomkaiser Dragon Ultimate 1st            |   9   |
+|             Dark Strike Fighter Super 1st             |   8   |
+|              Psychic Lifetrancer Rare 1st             |  6.5  |
+|                Graceful Charity SDP 1st               |   5   |
+|                   Starlight Road Scr                  |  4.0  |
+|                  T.G. Hyper Librarian                 |  4.0  |
+|                Nobleman of Crossout 1st               |   1   |
+|               Blue-Eyes White Dragon DDS              |   0   |
+|                   Dark Hole LOB 1st                   |   0   |
+|           Monster Reincarnation Ultimate 1st          |   0   |
+|               Torrential Tribute LON 1st              |   0   |
+|                          test                         |   0   |
++-------------------------------------------------------+-------+
