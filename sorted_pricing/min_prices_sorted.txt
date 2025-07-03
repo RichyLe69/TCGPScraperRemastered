@@ -19745,3 +19745,53 @@ hat_format_binder - 2025-07-02
 |               Tidal - Secret               |   0   |
 |                    test                    |   0   |
 +--------------------------------------------+-------+
+edison_tengu_cores - 2025-07-02
++---------------------------------------+-------+
+|                  Card                 | Price |
++---------------------------------------+-------+
+|      Chimeratech Fortress Dragon      |  579  |
+| Cyber End Dragon Ultimate UNL ITA GER |  509  |
+|   Cyber Dark Dragon Ultimate 1st GER  |  449  |
+|   Cyber Twin Dragon Ultimate 1st GER  |  171  |
+|           Tytannial UTR Unl           |   62  |
+|         Thunder Dragon MRD 1st        |   30  |
+|    Shire Lightsworn Fairy Super 1st   |   25  |
+|            Mirror Force MRD           |   23  |
+|        Enemy Controller AST unl       |   22  |
+|       Tribe Infecting Virus 1st       |   18  |
+|      Cyber Valley PTDN Super 1st      |   17  |
+|          Giga Mantis UTR 1st          |   15  |
+|         Mind Control WC Super         |   13  |
+|      Torrential Tribute Unlimited     |   13  |
+|          Zektkaliber UTR 1st          |   13  |
+|           Monster Reborn LOB          |   12  |
+|        Dark Mimic Lv3 Ultimate        |   10  |
+|           Card Trooper Ultra          |   9   |
+|     Reinforcement of the Army LOD     |   9   |
+|       Wulf Lightsworn Beast 1st       |   9   |
+|            Sinister Serpent           |   8   |
+|         Wind up Rabbit Scr Unl        |   8   |
+|         Black Salvo Super 1st         |   6   |
+|            Dandylion Secret           |   6   |
+|              One For One              |   6   |
+|            Destiny Draw 1st           |   5   |
+|    Aurkus Lightsworn Druid LODT 1st   |   3   |
+| Manju of the Ten Thousand Hands C 1st |   3   |
+|            Megamorph Ultra            |   3   |
+|           Gravity Bind R 1st          |   2   |
+|         Phantom of Chaos Super        |   2   |
+|      Reborn Tengu Ultra 3 IT 3 EN     |   2   |
+|   Destiny Hero Disk Commander Super   |   1   |
+|  Senju of the Thousand Hands Rare 1st |   1   |
+|        Advanced Ritual Art Rare       |   0   |
+|  Chimeratech Overdragon Ultimate GER  |   0   |
+|           Cold Wave - C 1st           |   0   |
+|   Cyber Dark Dragon Ultimate UNL GER  |   0   |
+|             Dark Mimic Lv1            |   0   |
+|            Hornet Super 1st           |   0   |
+|          Insect Knight C 1st          |   0   |
+|        Metal Armored Bug C 1st        |   0   |
+|             Neo Bug C 1st             |   0   |
+|            Sonic Bird C 1st           |   0   |
+|                  test                 |   0   |
++---------------------------------------+-------+
