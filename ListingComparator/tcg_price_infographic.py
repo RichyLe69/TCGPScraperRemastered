@@ -9,11 +9,13 @@ an infographic showing card images with their price changes.
 import os
 import csv
 import glob
+import yaml
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 from dataclasses import dataclass
 from difflib import SequenceMatcher
 import re
+from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 import pandas as pd
@@ -62,7 +64,37 @@ class CardPriceInfographic:
         self.base_path = Path(base_path)
         self.csv_folder = self.base_path / "card_price_comparisons"
         self.image_folder = Path("TCGPScraperRemastered/decks/decklists/raw_imgs")
+        self.output_folder = self.base_path / "infographics"
         self.cards_data: List[CardData] = []
+        self.card_image_mappings: Dict[str, str] = {}
+
+        # Create output folder if it doesn't exist
+        self.output_folder.mkdir(exist_ok=True)
+
+        # Load hard-coded image mappings if YAML file exists
+        self.load_image_mappings()
+
+    def load_image_mappings(self) -> None:
+        """Load hard-coded card-to-image mappings from YAML file"""
+        yaml_path = self.base_path / "card_image_mappings.yaml"
+
+        if yaml_path.exists():
+            try:
+                with open(yaml_path, 'r', encoding='utf-8') as file:
+                    self.card_image_mappings = yaml.load(file, Loader=yaml.SafeLoader) or {}
+                print(f"Loaded {len(self.card_image_mappings)} hard-coded image mappings")
+            except Exception as e:
+                print(f"Error loading image mappings: {e}")
+        else:
+            # Create a sample YAML file
+            sample_mappings = {
+                "Stardust Dragon Ghost 1st": "StardustDragon-TDGS-EN-GR-1E.jpg",
+                "Black Rose Dragon Ghost 1st": "BlackRoseDragon-CSOC-EN-GR-1E.jpg",
+                # Add more mappings as needed
+            }
+            with open(yaml_path, 'w', encoding='utf-8') as file:
+                yaml.dump(sample_mappings, file, default_flow_style=False)
+            print(f"Created sample card_image_mappings.yaml at {yaml_path}")
 
     def load_csv_data(self, csv_filename: str) -> None:
         """Load card data from CSV file"""
@@ -125,6 +157,15 @@ class CardPriceInfographic:
 
     def find_best_image_match(self, card_name: str) -> Optional[str]:
         """Find the best matching image file for a given card name"""
+        # First check if we have a hard-coded mapping
+        if card_name in self.card_image_mappings:
+            mapped_filename = self.card_image_mappings[card_name]
+            # Search for this exact filename in all subdirectories
+            for image_path in self.image_folder.glob(f"**/{mapped_filename}"):
+                print(f"Using hard-coded mapping for '{card_name}' -> '{mapped_filename}'")
+                return str(image_path)
+            print(f"Warning: Hard-coded image '{mapped_filename}' not found for '{card_name}'")
+
         if not self.image_folder.exists():
             print(f"Image folder not found: {self.image_folder}")
             return None
@@ -181,6 +222,15 @@ class CardPriceInfographic:
         else:
             return "→", "#808080"  # Gray
 
+    def get_arrow_text(self, value: float) -> str:
+        """Get text representation of arrow for fonts that don't support Unicode"""
+        if value > 0:
+            return "UP"
+        elif value < 0:
+            return "DOWN"
+        else:
+            return "SAME"
+
     def create_card_info_image(self, card: CardData, dates: Tuple[str, str]) -> Image.Image:
         """Create an image for a single card with its price information"""
         # Create a white background for the card info
@@ -189,13 +239,26 @@ class CardPriceInfographic:
         card_image = Image.new('RGB', (info_width, info_height), 'white')
         draw = ImageDraw.Draw(card_image)
 
-        # Try to load a default font, fall back to PIL default if not available
+        # Font setup with better error handling
+        font = None
+        mono_font = None
+        use_unicode_arrows = True
+
         try:
+            # Try to load TrueType fonts
             font = ImageFont.truetype("arial.ttf", FONT_SIZE)
-            small_font = ImageFont.truetype("arial.ttf", FONT_SIZE - 3)
+            try:
+                mono_font = ImageFont.truetype("consolas.ttf", FONT_SIZE)
+            except:
+                try:
+                    mono_font = ImageFont.truetype("courier.ttf", FONT_SIZE)
+                except:
+                    mono_font = font
         except:
+            # Fall back to default font
             font = ImageFont.load_default()
-            small_font = font
+            mono_font = font
+            use_unicode_arrows = False  # Default font doesn't support Unicode arrows
 
         # Load and paste card image if available
         if card.image_path and os.path.exists(card.image_path):
@@ -208,17 +271,29 @@ class CardPriceInfographic:
                 # Draw placeholder
                 draw.rectangle([(0, 0), (CARD_IMAGE_WIDTH, CARD_IMAGE_HEIGHT)],
                                fill='lightgray', outline='black')
-                draw.text((10, CARD_IMAGE_HEIGHT // 2), card.card_name, fill='black', font=font)
+                # Wrap text for long card names
+                words = card.card_name.split()
+                y_text = CARD_IMAGE_HEIGHT // 2 - 20
+                for i in range(0, len(words), 3):
+                    line = ' '.join(words[i:i + 3])
+                    draw.text((10, y_text), line, fill='black', font=font)
+                    y_text += 25
         else:
             # Draw placeholder
             draw.rectangle([(0, 0), (CARD_IMAGE_WIDTH, CARD_IMAGE_HEIGHT)],
                            fill='lightgray', outline='black')
-            draw.text((10, CARD_IMAGE_HEIGHT // 2), card.card_name, fill='black', font=font)
+            # Wrap text for long card names
+            words = card.card_name.split()
+            y_text = CARD_IMAGE_HEIGHT // 2 - 20
+            for i in range(0, len(words), 3):
+                line = ' '.join(words[i:i + 3])
+                draw.text((10, y_text), line, fill='black', font=font)
+                y_text += 25
 
         # Starting position for price data
         y_offset = CARD_IMAGE_HEIGHT + 10
-        # Adjusted column positions for better spacing
-        x_positions = [10, 70, 130, 190, 260]  # Increased spacing between columns
+        # Further adjusted column positions for 4-digit numbers
+        x_positions = [5, 65, 125, 195, 260]  # Adjusted last column for text arrows
 
         # Price data rows
         price_data = [
@@ -231,34 +306,51 @@ class CardPriceInfographic:
         for i, (label, date1_val, date2_val, diff, percent) in enumerate(price_data):
             y_pos = y_offset + i * 40  # Increased vertical spacing
 
-            # Date 1 value
-            draw.text((x_positions[0], y_pos), f"${date1_val:.0f}", fill='black', font=font)
+            # Date 1 value with comma formatting
+            date1_text = f"${date1_val:,.0f}"
+            draw.text((x_positions[0], y_pos), date1_text, fill='black', font=mono_font)
 
-            # Date 2 value
-            draw.text((x_positions[1], y_pos), f"${date2_val:.0f}", fill='black', font=font)
+            # Date 2 value with comma formatting
+            date2_text = f"${date2_val:,.0f}"
+            draw.text((x_positions[1], y_pos), date2_text, fill='black', font=mono_font)
 
             # Get color based on change
             arrow, color = self.get_arrow_and_color(percent)
 
             # Difference with color and plus sign for positive values
-            diff_text = f"+${diff:.0f}" if diff > 0 else f"${diff:.0f}"
-            draw.text((x_positions[2], y_pos), diff_text, fill=color, font=font)
+            diff_text = f"+${diff:,.0f}" if diff > 0 else f"${diff:,.0f}"
+            draw.text((x_positions[2], y_pos), diff_text, fill=color, font=mono_font)
 
             # Percentage with color and plus sign for positive values
             percent_text = f"+{percent:.1f}%" if percent > 0 else f"{percent:.1f}%"
-            draw.text((x_positions[3], y_pos), percent_text, fill=color, font=font)
+            draw.text((x_positions[3], y_pos), percent_text, fill=color, font=mono_font)
 
-            # Arrow
-            draw.text((x_positions[4], y_pos), arrow, fill=color, font=font)
+            # Arrow or text indicator
+            if use_unicode_arrows:
+                try:
+                    draw.text((x_positions[4], y_pos), arrow, fill=color, font=font)
+                except:
+                    # Fallback to text if Unicode fails
+                    arrow_text = self.get_arrow_text(percent)
+                    draw.text((x_positions[4], y_pos), arrow_text, fill=color, font=font)
+            else:
+                # Use text indicators for default font
+                arrow_text = self.get_arrow_text(percent)
+                draw.text((x_positions[4], y_pos), arrow_text, fill=color, font=font)
 
         return card_image
 
-    def create_infographic(self, output_filename: str = "card_price_infographic.jpg",
+    def create_infographic(self, output_filename: str = None,
                            cards_per_row: int = CARDS_PER_ROW) -> None:
         """Create the full infographic with all cards"""
         if not self.cards_data:
             print("No card data loaded!")
             return
+
+        # Generate filename with timestamp if not provided
+        if output_filename is None:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_filename = f"card_price_infographic_{timestamp}.jpg"
 
         # Get dates from first card (assuming all cards have same dates)
         dates = (self.cards_data[0].date1, self.cards_data[0].date2)
@@ -301,10 +393,11 @@ class CardPriceInfographic:
             # Paste onto main infographic
             infographic.paste(card_img, (x_pos, y_pos))
 
-        # Save the infographic
-        output_path = self.base_path / output_filename
+        # Save the infographic to the dedicated folder
+        output_path = self.output_folder / output_filename
         infographic.save(output_path, 'JPEG', quality=95)
         print(f"Infographic saved to: {output_path}")
+        print(f"Full path: {output_path.absolute()}")
 
 
 def main():
@@ -341,7 +434,7 @@ def main():
 
     # Create the infographic
     generator.create_infographic(
-        output_filename="card_price_infographic.jpg",
+        output_filename=None,  # Will auto-generate timestamp filename
         cards_per_row=CARDS_PER_ROW  # Can be modified here
     )
 
