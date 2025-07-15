@@ -23,12 +23,12 @@ import numpy as np
 
 # Configuration constants
 CARDS_PER_ROW = 10  # Number of cards per row in the infographic
-CARD_IMAGE_WIDTH = 300  # Width of each card image in pixels (increased by 50%)
-CARD_IMAGE_HEIGHT = 420  # Height of each card image in pixels (increased by 50%)
-PADDING = 30  # Padding between cards (increased by 50%)
+CARD_IMAGE_WIDTH = 300  # Width of each card image in pixels
+CARD_IMAGE_HEIGHT = 420  # Height of each card image in pixels
+PADDING = 30  # Padding between cards
 BACKGROUND_COLOR = "white"  # Background color of the infographic
-FONT_SIZE = 21  # Font size for text (increased by 50%)
-HEADER_FONT_SIZE = 27  # Font size for headers (increased by 50%)
+FONT_SIZE = 18  # Font size for text
+HEADER_FONT_SIZE = 27  # Font size for headers
 
 
 @dataclass
@@ -293,7 +293,8 @@ class CardPriceInfographic:
         # Starting position for price data
         y_offset = CARD_IMAGE_HEIGHT + 10
         # Further adjusted column positions for 4-digit numbers
-        x_positions = [5, 65, 125, 195, 260]  # Adjusted last column for text arrows
+        x_positions = [5, 80, 150, 220,
+                       280]  # Wider spacing # x_positions = [5, 65, 125, 195, 260]  # Adjusted last column for text arrows
 
         # Price data rows
         price_data = [
@@ -349,7 +350,7 @@ class CardPriceInfographic:
 
         # Generate filename with timestamp if not provided
         if output_filename is None:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            timestamp = datetime.now().strftime("%Y-%m-%d")
             output_filename = f"card_price_infographic_{timestamp}.jpg"
 
         # Get dates from first card (assuming all cards have same dates)
