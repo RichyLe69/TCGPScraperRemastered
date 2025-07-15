@@ -144,3 +144,5 @@ chromedriver.exe
 .idea/modules.xml
 .idea/inspectionProfiles/profiles_settings.xml
 RemasteredDeckLists/lodt dad.xlsx
+/ListingComparator/infographics
+/ListingComparator/card_price_comparisons
