@@ -21,12 +21,12 @@ import numpy as np
 
 # Configuration constants
 CARDS_PER_ROW = 10  # Number of cards per row in the infographic
-CARD_IMAGE_WIDTH = 200  # Width of each card image in pixels
-CARD_IMAGE_HEIGHT = 280  # Height of each card image in pixels
-PADDING = 20  # Padding between cards
+CARD_IMAGE_WIDTH = 300  # Width of each card image in pixels (increased by 50%)
+CARD_IMAGE_HEIGHT = 420  # Height of each card image in pixels (increased by 50%)
+PADDING = 30  # Padding between cards (increased by 50%)
 BACKGROUND_COLOR = "white"  # Background color of the infographic
-FONT_SIZE = 14  # Font size for text
-HEADER_FONT_SIZE = 18  # Font size for headers
+FONT_SIZE = 21  # Font size for text (increased by 50%)
+HEADER_FONT_SIZE = 27  # Font size for headers (increased by 50%)
 
 
 @dataclass
@@ -185,14 +185,14 @@ class CardPriceInfographic:
         """Create an image for a single card with its price information"""
         # Create a white background for the card info
         info_width = CARD_IMAGE_WIDTH
-        info_height = CARD_IMAGE_HEIGHT + 120  # Extra space for price data
+        info_height = CARD_IMAGE_HEIGHT + 180  # Extra space for price data (increased)
         card_image = Image.new('RGB', (info_width, info_height), 'white')
         draw = ImageDraw.Draw(card_image)
 
         # Try to load a default font, fall back to PIL default if not available
         try:
             font = ImageFont.truetype("arial.ttf", FONT_SIZE)
-            small_font = ImageFont.truetype("arial.ttf", FONT_SIZE - 2)
+            small_font = ImageFont.truetype("arial.ttf", FONT_SIZE - 3)
         except:
             font = ImageFont.load_default()
             small_font = font
@@ -216,8 +216,9 @@ class CardPriceInfographic:
             draw.text((10, CARD_IMAGE_HEIGHT // 2), card.card_name, fill='black', font=font)
 
         # Starting position for price data
-        y_offset = CARD_IMAGE_HEIGHT + 5
-        x_positions = [5, 45, 85, 125, 165]  # Column positions
+        y_offset = CARD_IMAGE_HEIGHT + 10
+        # Adjusted column positions for better spacing
+        x_positions = [10, 70, 130, 190, 260]  # Increased spacing between columns
 
         # Price data rows
         price_data = [
@@ -228,7 +229,7 @@ class CardPriceInfographic:
         ]
 
         for i, (label, date1_val, date2_val, diff, percent) in enumerate(price_data):
-            y_pos = y_offset + i * 25
+            y_pos = y_offset + i * 40  # Increased vertical spacing
 
             # Date 1 value
             draw.text((x_positions[0], y_pos), f"${date1_val:.0f}", fill='black', font=font)
@@ -236,12 +237,18 @@ class CardPriceInfographic:
             # Date 2 value
             draw.text((x_positions[1], y_pos), f"${date2_val:.0f}", fill='black', font=font)
 
-            # Difference
-            draw.text((x_positions[2], y_pos), f"${diff:.0f}", fill='black', font=font)
-
-            # Percentage
+            # Get color based on change
             arrow, color = self.get_arrow_and_color(percent)
-            draw.text((x_positions[3], y_pos), f"{percent:.1f}%", fill='black', font=font)
+
+            # Difference with color and plus sign for positive values
+            diff_text = f"+${diff:.0f}" if diff > 0 else f"${diff:.0f}"
+            draw.text((x_positions[2], y_pos), diff_text, fill=color, font=font)
+
+            # Percentage with color and plus sign for positive values
+            percent_text = f"+{percent:.1f}%" if percent > 0 else f"{percent:.1f}%"
+            draw.text((x_positions[3], y_pos), percent_text, fill=color, font=font)
+
+            # Arrow
             draw.text((x_positions[4], y_pos), arrow, fill=color, font=font)
 
         return card_image
@@ -262,10 +269,10 @@ class CardPriceInfographic:
 
         # Calculate image dimensions
         card_total_width = CARD_IMAGE_WIDTH + PADDING
-        card_total_height = CARD_IMAGE_HEIGHT + 120 + PADDING
+        card_total_height = CARD_IMAGE_HEIGHT + 180 + PADDING  # Updated to match new height
 
         img_width = cards_per_row * card_total_width + PADDING
-        img_height = num_rows * card_total_height + PADDING + 50  # Extra space for header
+        img_height = num_rows * card_total_height + PADDING + 75  # Extra space for header
 
         # Create the main image
         infographic = Image.new('RGB', (img_width, img_height), BACKGROUND_COLOR)
