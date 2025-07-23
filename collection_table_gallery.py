@@ -278,8 +278,8 @@ def generate_custom_list_table(card_list, output_name, header_text=None, custom_
 if __name__ == '__main__':
 
     # Example 2: Generate with custom parameters
-    generate_collection_table('decks/decklists/2009-teledad.yaml',
-                              output_name='custom_teledad',
-                              custom_rows=4,
-                              custom_cols=20,
+    generate_collection_table('decks/decklists/collection-max-rarity.yaml',
+                              output_name='collection-max-rarity',
+                              custom_rows=15,
+                              custom_cols=30,
                               custom_overlap=0.65)
