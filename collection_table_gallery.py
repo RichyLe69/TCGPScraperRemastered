@@ -14,10 +14,20 @@ output_directory = 'TableGallery/'
 
 def get_decoded_card_filename(card_name, card_code_list):
     """Get the decoded filename from card_code_list"""
+    # First try exact match
     for decode in card_code_list:
         if card_name == decode:
             # Return the first entry (max rarity) filename
             return card_code_list[decode][0]
+
+    # If no exact match and card has dots, try matching without dots
+    if '.' in card_name:
+        base_name = card_name.rstrip('.')
+        for decode in card_code_list:
+            if base_name == decode:
+                # Return the first entry (max rarity) filename
+                return card_code_list[decode][0]
+
     print(f'Card missing from card_code_list.yaml: {card_name}')
     return None
 
@@ -69,6 +79,8 @@ def expand_card_list_with_quantities(card_dict, card_code_list):
             # Handle different rarity
             rarity_code = '-' + rarity + '-'
             decoded_card = None
+
+            # First check for exact match
             for decode in card_code_list:
                 if card_name == decode:
                     for variant in card_code_list[decode]:
@@ -76,6 +88,18 @@ def expand_card_list_with_quantities(card_dict, card_code_list):
                             decoded_card = variant
                             break
                     break
+
+            # If no exact match and card has dots, try base name
+            if not decoded_card and '.' in card_name:
+                base_name = card_name.rstrip('.')
+                for decode in card_code_list:
+                    if base_name == decode:
+                        for variant in card_code_list[decode]:
+                            if rarity_code in variant:
+                                decoded_card = variant
+                                break
+                        break
+
             if decoded_card:
                 for _ in range(qty):
                     expanded_list.append((card_name, decoded_card))
@@ -276,7 +300,6 @@ def generate_custom_list_table(card_list, output_name, header_text=None, custom_
 
 
 if __name__ == '__main__':
-
     # Example 2: Generate with custom parameters
     generate_collection_table('decks/decklists/collection-max-rarity.yaml',
                               output_name='collection-max-rarity',

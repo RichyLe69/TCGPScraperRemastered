@@ -1,4 +1,4 @@
-Header: Table Collection Max Rarity
+Header: Max Rarity Collection Full
 
 Monsters:
   # Ghosts
@@ -12,7 +12,6 @@ Monsters:
   Power Tool Dragon: 1
 
   Honest: 6
-  Blank......: 3
 
   # Ultis
   Judgment Dragon: 6
@@ -98,8 +97,7 @@ Monsters:
   Ryko Lightsworn Hunter: 3
   Armageddon Knight: 2
   Destiny Hero Doom Lord: 1
-  Blank...: 1
-  Blank....: 18
+  Blank....: 7
 
 
 # Spells
@@ -186,7 +184,7 @@ Monsters:
   Return from the Different Dimension: 3
   Royal Decree: 3
 
-  Blank.: 3
+  Blank.: 9
 
 
 # Synchros
