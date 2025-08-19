@@ -434,8 +434,8 @@ def main():
     parser = CardPriceParser()
 
     # Example usage
-    date1 = "2025-01-04"
-    date2 = "2025-07-02"
+    date1 = "2025-02-07"
+    date2 = "2025-07-14"
 
     try:
         results = parser.compare_dates(date1, date2)

@@ -798,3 +798,1403 @@ Total Price: 7929
 | 2 Brionac Dragon of the Ice Barrier DT |  133 |
 | 1 Ally of Justice Catastor DT          |  101 |
 +----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-05 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-05 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-05 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-05 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - min_prices_sorted.txt
+Main Deck: 4220
+Side Deck: 0
+Extra Deck: 2852
+Total Price: 7072
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  332 |
+| 1 Gorz the Emissary of Darkness ScR    |    9 |
+| 3 Destiny Hero Malicious UR            |   25 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   25 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   54 |
+| 2 Plaguespreader Zombie UtR            |  289 |
+| 1 D.D. Crow UtR                        |  379 |
+| 2 Allure of Darkness UtR               |  224 |
+| 1 Heavy Storm SR                       |   53 |
+| 1 Reinforcement of the Army SR         |   10 |
+| 1 Giant Trunade SR                     |   22 |
+| 2 Foolish Burial SR                    |  200 |
+| 1 Monster Reborn UR                    |   10 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |   99 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  104 |
+| 1 Royal Oppression R                   |   13 |
+| 3 Solemn Judgment UR                   |  249 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  113 |
+| 1 Thought Ruler Archfiend UtR          |   79 |
+| 1 Dark End Dragon UR                   |   11 |
+| 1 Stardust Dragon GR                   | 1189 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  241 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  132 |
+| 1 Ally of Justice Catastor DT          |   94 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - max_prices_sorted.txt
+Main Deck: 6358
+Side Deck: 0
+Extra Deck: 4326
+Total Price: 10684
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  550 |
+| 1 Gorz the Emissary of Darkness ScR    |   14 |
+| 3 Destiny Hero Malicious UR            |   45 |
+| 2 Dark Grepher ScR                     |  171 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   50 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   85 |
+| 2 Plaguespreader Zombie UtR            |  499 |
+| 1 D.D. Crow UtR                        |  549 |
+| 2 Allure of Darkness UtR               |  288 |
+| 1 Heavy Storm SR                       |   98 |
+| 1 Reinforcement of the Army SR         |   20 |
+| 1 Giant Trunade SR                     |   40 |
+| 2 Foolish Burial SR                    |  304 |
+| 1 Monster Reborn UR                    |   24 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  123 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  128 |
+| 1 Royal Oppression R                   |   15 |
+| 3 Solemn Judgment UR                   |  374 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  120 |
+| 1 Thought Ruler Archfiend UtR          |  200 |
+| 1 Dark End Dragon UR                   |   18 |
+| 1 Stardust Dragon GR                   | 2299 |
+| 2 Dark Strike Fighter SR               |    4 |
+| 1 Black Rose Dragon GR                 |  244 |
+| 2 Goyo Guardian UtR                    |  194 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  200 |
+| 1 Ally of Justice Catastor DT          |  150 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - mean_prices_sorted.txt
+Main Deck: 4961
+Side Deck: 0
+Extra Deck: 3340
+Total Price: 8301
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  390 |
+| 1 Gorz the Emissary of Darkness ScR    |   11 |
+| 3 Destiny Hero Malicious UR            |   32 |
+| 2 Dark Grepher ScR                     |  147 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   42 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   60 |
+| 2 Plaguespreader Zombie UtR            |  337 |
+| 1 D.D. Crow UtR                        |  436 |
+| 2 Allure of Darkness UtR               |  241 |
+| 1 Heavy Storm SR                       |   77 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   24 |
+| 2 Foolish Burial SR                    |  252 |
+| 1 Monster Reborn UR                    |   17 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  106 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  316 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  115 |
+| 1 Thought Ruler Archfiend UtR          |  127 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1578 |
+| 2 Dark Strike Fighter SR               |    2 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  182 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  144 |
+| 1 Ally of Justice Catastor DT          |  110 |
++----------------------------------------+------+
+2008-09-zombieteledad - 2025-08-06 - median_prices_sorted.txt
+Main Deck: 4786
+Side Deck: 0
+Extra Deck: 3122
+Total Price: 7908
++----------------------------------------+------+
+| Card                                   |    $ |
++----------------------------------------+------+
+| Main Deck                              |      |
+| 2 Dark Armed Dragon UtR                |  362 |
+| 1 Gorz the Emissary of Darkness ScR    |   10 |
+| 3 Destiny Hero Malicious UR            |   34 |
+| 2 Dark Grepher ScR                     |  139 |
+| 3 Mezuki ScR                           |    - |
+| 1 Armageddon Knight SR                 |   48 |
+| 2 Goblin Zombie ScR                    |    - |
+| 1 Psychic Commander R                  |    - |
+| 2 Krebons SR                           |   57 |
+| 2 Plaguespreader Zombie UtR            |  324 |
+| 1 D.D. Crow UtR                        |  380 |
+| 2 Allure of Darkness UtR               |  229 |
+| 1 Heavy Storm SR                       |   79 |
+| 1 Reinforcement of the Army SR         |   14 |
+| 1 Giant Trunade SR                     |   23 |
+| 2 Foolish Burial SR                    |  259 |
+| 1 Monster Reborn UR                    |   18 |
+| 2 Burial from a Different Dimension UR |    - |
+| 3 Emergency Teleport UtR               |  102 |
+| 2 Card of Safe Return UR               |    - |
+| 1 Crush Card Virus GUR                 |  110 |
+| 1 Royal Oppression R                   |   14 |
+| 3 Solemn Judgment UR                   |  314 |
+|                                        |      |
+| Side Deck                              |      |
+| 1 None                                 |    - |
+|                                        |      |
+| Extra Deck                             |      |
+| 1 Red Dragon Archfiend UtR             |  499 |
+| 1 Colossal Fighter UtR                 |  116 |
+| 1 Thought Ruler Archfiend UtR          |  124 |
+| 1 Dark End Dragon UR                   |   13 |
+| 1 Stardust Dragon GR                   | 1397 |
+| 2 Dark Strike Fighter SR               |    3 |
+| 1 Black Rose Dragon GR                 |  242 |
+| 2 Goyo Guardian UtR                    |  179 |
+| 1 Revived King Ha Des UtR              |    - |
+| 1 Doomkaiser Dragon UtR                |    - |
+| 2 Brionac Dragon of the Ice Barrier DT |  133 |
+| 1 Ally of Justice Catastor DT          |  101 |
++----------------------------------------+------+

@@ -1,11 +1,4 @@
 Header: deck_builder
-# Still Missing 61 cards = got 340/405 roughly
-
-#1 Dad
-#2 Maxx C Ulti ENG
-#1 Plague
-# 2 Ghost BRD + SD 1st
-
 
 # Sorting Method:
 # Ghost > Ulti > Secret > DT > Ultra > Super > Other
@@ -16,8 +9,7 @@ Header: deck_builder
 
 Monsters:
   # Ghosts
-  Stardust Dragon: 6
-  Stardust Dragon.: 3
+  Stardust Dragon: 9
 
   Black Rose Dragon: 3
   Black Rose Dragon.: 3
@@ -26,7 +18,7 @@ Monsters:
   Power Tool Dragon: 1
 
   Honest: 6
-  Blank......: 3
+  Blank...: 3
 
   # Ultis
   Judgment Dragon: 6
@@ -58,10 +50,6 @@ Monsters:
   Battle Fader: 2
   Glow Up Bulb: 2
   Cyber Dragon: 3
-
-#  Dekoichi the Battle Enchanted Locomotive: 3
-#  Cyber Phoenix: 3
-#  Blank.....: 3
 
   Doom Dozer: 3
   Demise King of Armageddon: 3
@@ -97,10 +85,7 @@ Monsters:
   # Supers
   Breaker the Magical Warrior: 3
 
-  Night Assailant: 3
-  Gravekeeper Spy: 3
   Spirit Reaper: 3
-  Magician of Faith: 3
   Lumina Lightsworn Summoner: 6
 
   Lonefire Blossom: 2
@@ -112,8 +97,7 @@ Monsters:
   Ryko Lightsworn Hunter: 3
   Armageddon Knight: 2
   Destiny Hero Doom Lord: 1
-  Blank...: 1
-  Blank....: 18
+  Blank....: 10
 
 
 # Spells
@@ -150,7 +134,7 @@ Monsters:
   Card Destruction: 1
 
   # Super
-  Metamorphosis: 3
+  Blank.....: 3
   Book of Moon: 2
   Graceful Charity: 1
   Dark Hole: 1
@@ -209,14 +193,14 @@ Monsters:
   Goyo Guardian: 3
   Thought Ruler Archfiend: 3
   Colossal Fighter: 3
-  Trishula Dragon of the Ice Barrier: 3
-  Brionac Dragon of the Ice Barrier: 3
+  Trishula Dragon of the Ice Barrier: 2
+  Brionac Dragon of the Ice Barrier: 2
 
-  Scrap Dragon: 3
+  Scrap Dragon: 2
   Ally of Justice Catastor: 1
-  Ally of Justice Catastor.: 2 UtR
-  Armory Arm: 3
-  Drill Warrior: 2
+  Ally of Justice Catastor.: 1 UtR
+  Armory Arm: 2
+#  Drill Warrior: 2
   Magical Android: 1
   T.G. Hyper Librarian: 2
   Arcanite Magician: 1
