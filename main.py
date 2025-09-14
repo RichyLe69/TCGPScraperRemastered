@@ -85,7 +85,7 @@ if __name__ == '__main__':
     scraper.get_average_of_list()
 
 # Step 1:
-# To Run PS C:\Users\Richard Le\PycharmProjects\SellerPortalDatabase> python .\main.py
+# To Run PS C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered> python .\main.py
 
 # Step 2:
 # NOTE - Run decklist_gallery.py afterwards for updating deck list pricings!
