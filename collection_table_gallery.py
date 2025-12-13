@@ -123,10 +123,14 @@ def get_card_image_paths_with_override(card_list, card_code_list):
     for item in card_list:
         if isinstance(item, tuple):
             card_name, specific_decode = item
+            if "Blank" in card_name:
+                continue
             decoded_filename = specific_decode if specific_decode else get_decoded_card_filename(card_name,
                                                                                                  card_code_list)
         else:
             card_name = item
+            if "Blank" in card_name:
+                continue
             decoded_filename = get_decoded_card_filename(card_name, card_code_list)
 
         if not decoded_filename:
