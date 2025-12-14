@@ -2374,3 +2374,435 @@ Total Price: 0
 | 1 Spright Sprind ScR                             | - |
 | 1 Dharc the Dark Charmer, Gloomy UR              | - |
 +--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - min_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - max_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - mean_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - median_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - min_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - max_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - mean_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+
+2022-tearlaments - 2025-12-14 - median_prices_sorted.txt
+Main Deck: 0
+Side Deck: 0
+Extra Deck: 0
+Total Price: 0
++--------------------------------------------------+---+
+| Card                                             | $ |
++--------------------------------------------------+---+
+| Main Deck                                        |   |
+| 2 Tearlaments Reinoheart UtR                     | - |
+| 3 Tearlaments Merrli SR                          | - |
+| 3 Tearlaments Havnis SR                          | - |
+| 3 Tearlaments Schieren SR                        | - |
+| 3 Tearlaments Kashtira UR                        | - |
+| 3 Kelbek the Ancient Vanguard UR                 | - |
+| 3 Keldo the Sacred Protector UR                  | - |
+| 3 Mudora the Sword Oracle UR                     | - |
+| 2 Agido the Ancient Sentinel UR                  | - |
+| 3 Bystial Magnamhut PScR                         | - |
+| 1 Bystial Druiswurm PScR                         | - |
+| 1 Bystial Baldrake UR                            | - |
+| 3 Primeval Planet Perlerino ScR                  | - |
+| 1 Terraforming UtR                               | - |
+| 1 Instant Fusion UtR                             | - |
+| 2 Tearlaments Scream C                           | - |
+| 1 Triple Tactics Talent ScR                      | - |
+| 2 Tearlaments Sulliek C                          | - |
+|                                                  |   |
+| Side Deck                                        |   |
+| 3 King of the Swamp ERR                          | - |
+| 1 Polyermization ERR                             | - |
+| 2 Diviner of the Herald ScR                      | - |
+| 3 Super Polymerization ERR                       | - |
+| 1 Tearlaments Cryme C                            | - |
+| 1 Tearlaments Metanoise C                        | - |
+| 1 Bystial Saronir PScR                           | - |
+| 1 Cyber Stein ERR                                | - |
+|                                                  |   |
+| Extra Deck                                       |   |
+| 2 Tearlaments Kitkallos UR                       | - |
+| 1 Tearlaments Rulkallos ScR                      | - |
+| 1 Tearlaments Kaleido-Heart ScR                  | - |
+| 1 Garura, Wings of Resonant Life UR              | - |
+| 1 Mudragon of the Swamp ScR                      | - |
+| 1 Predaplant Dragostapelia ScR                   | - |
+| 1 Time Thief Redoer ScR                          | - |
+| 1 Number 41 Bagooska the Terribly Tired Tapir UR | - |
+| 1 Abyss Dweller UtR                              | - |
+| 1 Beatrice, Lady of the Eternal UR               | - |
+| 1 Divine Arsenal AA-Zeus - Sky Thunder ScR       | - |
+| 1 Spright Elf UR                                 | - |
+| 1 Spright Sprind ScR                             | - |
+| 1 Dharc the Dark Charmer, Gloomy UR              | - |
++--------------------------------------------------+---+

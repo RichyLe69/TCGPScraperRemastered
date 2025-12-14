@@ -9,16 +9,14 @@ Header: deck_builder
 
 Monsters:
   # Ghosts
-  Stardust Dragon: 9
+  Blank...: 9
 
+  Stardust Dragon: 6
   Black Rose Dragon: 3
-  Black Rose Dragon.: 3
   Ancient Fairy Dragon: 1
   Ancient Fairy Dragon.: 1
   Power Tool Dragon: 1
-
   Honest: 6
-  Blank...: 3
 
   # Ultis
   Judgment Dragon: 6
@@ -33,8 +31,7 @@ Monsters:
   Zombie Master: 3
 
   Plaguespreader Zombie: 3
-  Destiny Hero Diamond Dude: 3
-  Destiny Hero Diamond Dude.: 1
+  Destiny Hero Diamond Dude: 4
   Destiny Hero Dasher: 1
   D.D. Crow: 1
 
@@ -47,8 +44,8 @@ Monsters:
   Debris Dragon: 2
 
   Tsukuyomi: 1
-  Battle Fader: 2
   Glow Up Bulb: 2
+  Battle Fader: 2
   Cyber Dragon: 3
 
   Doom Dozer: 3
@@ -125,31 +122,29 @@ Monsters:
   Mystical Space Typhoon: 3
   Delinquent Duo: 1
   Premature Burial: 1
-  Blank..: 1
-
   Dimension Fusion: 1
-  Enemy Controller: 2
-  Burial from a Different Dimension: 3
-  Gold Sarcophagus: 2
-  Card Destruction: 1
 
+  Card of Safe Return: 3
+  Burial from a Different Dimension: 3
+  Scapegoat: 3
+
+  Gold Sarcophagus: 2
+  Enemy Controller: 2
   # Super
-  Blank.....: 3
   Book of Moon: 2
-  Graceful Charity: 1
   Dark Hole: 1
   Heavy Storm: 1
   Giant Trunade: 1
 
-  Foolish Burial: 2
-  Nobleman of Crossout: 2
-  Reinforcement of the Army: 2
+  Graceful Charity: 1
+  Card Destruction: 1
   Confiscation: 1
+  Reinforcement of the Army: 2
+  Foolish Burial: 2
   Smashing Ground: 2
 
-  Card of Safe Return: 3
-  Scapegoat: 3
-  Blank: 12
+  Nobleman of Crossout: 2
+  Blank: 16
 
 # Traps
   # Ulti
@@ -181,6 +176,7 @@ Monsters:
   Dimensional Prison: 2
   Royal Oppression: 4
   Jar of Greed: 3
+
   Return from the Different Dimension: 3
   Royal Decree: 3
 
@@ -195,17 +191,18 @@ Monsters:
   Colossal Fighter: 3
   Trishula Dragon of the Ice Barrier: 2
   Brionac Dragon of the Ice Barrier: 2
-
-  Scrap Dragon: 2
   Ally of Justice Catastor: 1
   Ally of Justice Catastor.: 1 UtR
+
+  Scrap Dragon: 2
   Armory Arm: 2
-#  Drill Warrior: 2
-  Magical Android: 1
   T.G. Hyper Librarian: 2
-  Arcanite Magician: 1
   Formula Synchron: 2
+  Magical Android: 1
+
+  Arcanite Magician: 1
   Shooting Star Dragon: 1
+  Blank..: 7
 
   Blackwing Armor Master: 1
   Revived King Ha Des: 1
@@ -226,3 +223,4 @@ Monsters:
   Dark Strike Fighter: 1
   Psychic Lifetrancer: 1
   Iron Chain Dragon: 1
+

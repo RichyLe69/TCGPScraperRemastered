@@ -307,6 +307,6 @@ if __name__ == '__main__':
     # Example 2: Generate with custom parameters
     generate_collection_table('decks/decklists/collection-max-rarity.yaml',
                               output_name='collection-max-rarity',
-                              custom_rows=15,
+                              custom_rows=13,
                               custom_cols=30,
                               custom_overlap=0.65)
