@@ -2398,3 +2398,203 @@ Total Price: 2701
 | 1 Tellarknight Ptolemaeus UtR                      |   - |
 | 1 Traptrix Rafflesia UtR                           |   - |
 +----------------------------------------------------+-----+
+2016-01-pepe - 2025-12-19 - min_prices_sorted.txt
+Main Deck: 2391
+Side Deck: 0
+Extra Deck: 7
+Total Price: 2398
++----------------------------------------------------+-----+
+| Card                                               |   $ |
++----------------------------------------------------+-----+
+| Main Deck                                          |     |
+| 2 Effect Veiler UtR                                | 278 |
+| 3 Luster Pendulum the Dracoslayer SR               |   - |
+| 1 Master Pendulum the Dracoslayer SR               |   - |
+| 2 Maxx C UtR                                       | 416 |
+| 3 Performage Damage Juggler UR                     |   - |
+| 1 Performage Hat Tricker R                         |   - |
+| 1 Performage Mirror Conductor C                    |   - |
+| 2 Performage Plushfire C                           |   - |
+| 1 Performage Trick Clown UR                        |   - |
+| 1 Performapal Guitartle SR                         |   - |
+| 2 Performapal Lizardraw SR                         |   - |
+| 3 Performapal Monkeyboard SR                       |   - |
+| 3 Performapal Pendulum Sorcerer ScR                |   - |
+| 3 Performapal Skullcrobat Joker SR                 |   - |
+| 2 Vector Pendulum the Dracoverlord SR              |   - |
+| 3 Draco Face-Off C                                 |   - |
+| 3 Wavering Eyes SR                                 |   - |
+| 1 Raigeki SR                                       |   4 |
+| 1 Foolish Burial SR                                | 200 |
+| 1 Treacherous Trap Hole ScR                        |   - |
+| 1 Bottomless Trap Hole SR                          | 799 |
+|                                                    |     |
+| Side Deck                                          |     |
+| 1 None                                             |   - |
+|                                                    |     |
+| Extra Deck                                         |     |
+| 1 Abyss Dweller UtR                                |   - |
+| 1 Castel the Skyblaster Musketeer UtR              |   - |
+| 1 Cyber Dragon Infinity ScR                        |   - |
+| 1 Cyber Dragon Nova UR                             |   - |
+| 1 Daigusto Emeral DUPR                             |   - |
+| 1 Diamond Dire Wolf ScR                            |   7 |
+| 1 Dinoster Power the Mighty Dracoslayer SR         |   - |
+| 2 Ignister Prominence the Blasting Dracoslayer UtR |   - |
+| 1 King of the Feral Imps C                         |   - |
+| 1 Majester Paladin, the Ascending Dracoslayer UtR  |   - |
+| 1 Number F0 Utopic Future PScR                     |   - |
+| 1 Performage Trapeze Magician R                    |   - |
+| 1 Tellarknight Ptolemaeus UtR                      |   - |
+| 1 Traptrix Rafflesia UtR                           |   - |
++----------------------------------------------------+-----+
+2016-01-pepe - 2025-12-19 - max_prices_sorted.txt
+Main Deck: 3888
+Side Deck: 0
+Extra Deck: 9
+Total Price: 3897
++----------------------------------------------------+-----+
+| Card                                               |   $ |
++----------------------------------------------------+-----+
+| Main Deck                                          |     |
+| 2 Effect Veiler UtR                                | 500 |
+| 3 Luster Pendulum the Dracoslayer SR               |   - |
+| 1 Master Pendulum the Dracoslayer SR               |   - |
+| 2 Maxx C UtR                                       | 888 |
+| 3 Performage Damage Juggler UR                     |   - |
+| 1 Performage Hat Tricker R                         |   - |
+| 1 Performage Mirror Conductor C                    |   - |
+| 2 Performage Plushfire C                           |   - |
+| 1 Performage Trick Clown UR                        |   - |
+| 1 Performapal Guitartle SR                         |   - |
+| 2 Performapal Lizardraw SR                         |   - |
+| 3 Performapal Monkeyboard SR                       |   - |
+| 3 Performapal Pendulum Sorcerer ScR                |   - |
+| 3 Performapal Skullcrobat Joker SR                 |   - |
+| 2 Vector Pendulum the Dracoverlord SR              |   - |
+| 3 Draco Face-Off C                                 |   - |
+| 3 Wavering Eyes SR                                 |   - |
+| 1 Raigeki SR                                       |   9 |
+| 1 Foolish Burial SR                                | 304 |
+| 1 Treacherous Trap Hole ScR                        |   - |
+| 1 Bottomless Trap Hole SR                          | 799 |
+|                                                    |     |
+| Side Deck                                          |     |
+| 1 None                                             |   - |
+|                                                    |     |
+| Extra Deck                                         |     |
+| 1 Abyss Dweller UtR                                |   - |
+| 1 Castel the Skyblaster Musketeer UtR              |   - |
+| 1 Cyber Dragon Infinity ScR                        |   - |
+| 1 Cyber Dragon Nova UR                             |   - |
+| 1 Daigusto Emeral DUPR                             |   - |
+| 1 Diamond Dire Wolf ScR                            |   9 |
+| 1 Dinoster Power the Mighty Dracoslayer SR         |   - |
+| 2 Ignister Prominence the Blasting Dracoslayer UtR |   - |
+| 1 King of the Feral Imps C                         |   - |
+| 1 Majester Paladin, the Ascending Dracoslayer UtR  |   - |
+| 1 Number F0 Utopic Future PScR                     |   - |
+| 1 Performage Trapeze Magician R                    |   - |
+| 1 Tellarknight Ptolemaeus UtR                      |   - |
+| 1 Traptrix Rafflesia UtR                           |   - |
++----------------------------------------------------+-----+
+2016-01-pepe - 2025-12-19 - mean_prices_sorted.txt
+Main Deck: 2806
+Side Deck: 0
+Extra Deck: 8
+Total Price: 2814
++----------------------------------------------------+-----+
+| Card                                               |   $ |
++----------------------------------------------------+-----+
+| Main Deck                                          |     |
+| 2 Effect Veiler UtR                                | 329 |
+| 3 Luster Pendulum the Dracoslayer SR               |   - |
+| 1 Master Pendulum the Dracoslayer SR               |   - |
+| 2 Maxx C UtR                                       | 546 |
+| 3 Performage Damage Juggler UR                     |   - |
+| 1 Performage Hat Tricker R                         |   - |
+| 1 Performage Mirror Conductor C                    |   - |
+| 2 Performage Plushfire C                           |   - |
+| 1 Performage Trick Clown UR                        |   - |
+| 1 Performapal Guitartle SR                         |   - |
+| 2 Performapal Lizardraw SR                         |   - |
+| 3 Performapal Monkeyboard SR                       |   - |
+| 3 Performapal Pendulum Sorcerer ScR                |   - |
+| 3 Performapal Skullcrobat Joker SR                 |   - |
+| 2 Vector Pendulum the Dracoverlord SR              |   - |
+| 3 Draco Face-Off C                                 |   - |
+| 3 Wavering Eyes SR                                 |   - |
+| 1 Raigeki SR                                       |   5 |
+| 1 Foolish Burial SR                                | 252 |
+| 1 Treacherous Trap Hole ScR                        |   - |
+| 1 Bottomless Trap Hole SR                          | 799 |
+|                                                    |     |
+| Side Deck                                          |     |
+| 1 None                                             |   - |
+|                                                    |     |
+| Extra Deck                                         |     |
+| 1 Abyss Dweller UtR                                |   - |
+| 1 Castel the Skyblaster Musketeer UtR              |   - |
+| 1 Cyber Dragon Infinity ScR                        |   - |
+| 1 Cyber Dragon Nova UR                             |   - |
+| 1 Daigusto Emeral DUPR                             |   - |
+| 1 Diamond Dire Wolf ScR                            |   8 |
+| 1 Dinoster Power the Mighty Dracoslayer SR         |   - |
+| 2 Ignister Prominence the Blasting Dracoslayer UtR |   - |
+| 1 King of the Feral Imps C                         |   - |
+| 1 Majester Paladin, the Ascending Dracoslayer UtR  |   - |
+| 1 Number F0 Utopic Future PScR                     |   - |
+| 1 Performage Trapeze Magician R                    |   - |
+| 1 Tellarknight Ptolemaeus UtR                      |   - |
+| 1 Traptrix Rafflesia UtR                           |   - |
++----------------------------------------------------+-----+
+2016-01-pepe - 2025-12-19 - median_prices_sorted.txt
+Main Deck: 2693
+Side Deck: 0
+Extra Deck: 8
+Total Price: 2701
++----------------------------------------------------+-----+
+| Card                                               |   $ |
++----------------------------------------------------+-----+
+| Main Deck                                          |     |
+| 2 Effect Veiler UtR                                | 296 |
+| 3 Luster Pendulum the Dracoslayer SR               |   - |
+| 1 Master Pendulum the Dracoslayer SR               |   - |
+| 2 Maxx C UtR                                       | 519 |
+| 3 Performage Damage Juggler UR                     |   - |
+| 1 Performage Hat Tricker R                         |   - |
+| 1 Performage Mirror Conductor C                    |   - |
+| 2 Performage Plushfire C                           |   - |
+| 1 Performage Trick Clown UR                        |   - |
+| 1 Performapal Guitartle SR                         |   - |
+| 2 Performapal Lizardraw SR                         |   - |
+| 3 Performapal Monkeyboard SR                       |   - |
+| 3 Performapal Pendulum Sorcerer ScR                |   - |
+| 3 Performapal Skullcrobat Joker SR                 |   - |
+| 2 Vector Pendulum the Dracoverlord SR              |   - |
+| 3 Draco Face-Off C                                 |   - |
+| 3 Wavering Eyes SR                                 |   - |
+| 1 Raigeki SR                                       |   5 |
+| 1 Foolish Burial SR                                | 259 |
+| 1 Treacherous Trap Hole ScR                        |   - |
+| 1 Bottomless Trap Hole SR                          | 799 |
+|                                                    |     |
+| Side Deck                                          |     |
+| 1 None                                             |   - |
+|                                                    |     |
+| Extra Deck                                         |     |
+| 1 Abyss Dweller UtR                                |   - |
+| 1 Castel the Skyblaster Musketeer UtR              |   - |
+| 1 Cyber Dragon Infinity ScR                        |   - |
+| 1 Cyber Dragon Nova UR                             |   - |
+| 1 Daigusto Emeral DUPR                             |   - |
+| 1 Diamond Dire Wolf ScR                            |   8 |
+| 1 Dinoster Power the Mighty Dracoslayer SR         |   - |
+| 2 Ignister Prominence the Blasting Dracoslayer UtR |   - |
+| 1 King of the Feral Imps C                         |   - |
+| 1 Majester Paladin, the Ascending Dracoslayer UtR  |   - |
+| 1 Number F0 Utopic Future PScR                     |   - |
+| 1 Performage Trapeze Magician R                    |   - |
+| 1 Tellarknight Ptolemaeus UtR                      |   - |
+| 1 Traptrix Rafflesia UtR                           |   - |
++----------------------------------------------------+-----+
