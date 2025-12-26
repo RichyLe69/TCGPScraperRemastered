@@ -162,8 +162,56 @@ def get_card_image_paths_with_override(card_list, card_code_list):
     return card_image_paths
 
 
-def create_table_gallery(card_list, card_code_list, rows=None, cols=None, overlap=None):
-    """Create gallery image with overlapping cards"""
+# def create_table_gallery(card_list, card_code_list, rows=None, cols=None, overlap=None):
+#     """Create gallery image with overlapping cards"""
+#     # Use provided values or defaults
+#     rows = rows or number_of_rows
+#     cols = cols or cards_per_row
+#     overlap = overlap or overlay_percentage
+#
+#     # Calculate canvas dimensions
+#     visible_width = int(card_width * overlap)
+#     canvas_width = visible_width * (cols - 1) + card_width
+#     canvas_height = rows * card_height
+#
+#     # Create blank canvas
+#     final_image = np.zeros((canvas_height, canvas_width, 3), dtype=np.uint8)
+#
+#     # Get image paths
+#     image_paths = get_card_image_paths_with_override(card_list, card_code_list)
+#
+#     # Place cards on canvas
+#     for i in range(min(len(image_paths), rows * cols)):
+#         try:
+#             img = cv2.imread(image_paths[i])
+#             if img is None:
+#                 continue
+#             img = cv2.resize(img, (card_width, card_height))
+#
+#             # Calculate position
+#             row = i // cols
+#             col = i % cols
+#
+#             y_start = row * card_height
+#             y_end = y_start + card_height
+#             x_start = col * visible_width
+#             x_end = x_start + card_width
+#
+#             # Place card on canvas
+#             final_image[y_start:y_end, x_start:x_end, :] = img
+#
+#         except Exception as e:
+#             print(f"Error processing card {i}: {e}")
+#
+#     return final_image
+
+def create_table_gallery(card_list, card_code_list, rows=None, cols=None, overlap=None, overlap_direction='left'):
+    """Create gallery image with overlapping cards
+
+    Args:
+        overlap_direction: 'right' = right cards overlap left (default, draw left-to-right)
+                          'left' = left cards overlap right (draw right-to-left)
+    """
     # Use provided values or defaults
     rows = rows or number_of_rows
     cols = cols or cards_per_row
@@ -180,15 +228,24 @@ def create_table_gallery(card_list, card_code_list, rows=None, cols=None, overla
     # Get image paths
     image_paths = get_card_image_paths_with_override(card_list, card_code_list)
 
+    # Determine draw order based on overlap direction
+    card_count = min(len(image_paths), rows * cols)
+    if overlap_direction == 'left':
+        # Draw right-to-left so left cards end up on top
+        indices = range(card_count - 1, -1, -1)
+    else:
+        # Draw left-to-right (default behavior)
+        indices = range(card_count)
+
     # Place cards on canvas
-    for i in range(min(len(image_paths), rows * cols)):
+    for i in indices:
         try:
             img = cv2.imread(image_paths[i])
             if img is None:
                 continue
             img = cv2.resize(img, (card_width, card_height))
 
-            # Calculate position
+            # Calculate position (position is always the same, only draw order changes)
             row = i // cols
             col = i % cols
 
@@ -204,7 +261,6 @@ def create_table_gallery(card_list, card_code_list, rows=None, cols=None, overla
             print(f"Error processing card {i}: {e}")
 
     return final_image
-
 
 def add_header_to_image(image, header_text):
     """Add header text to top of image"""
@@ -307,6 +363,17 @@ if __name__ == '__main__':
     # Example 2: Generate with custom parameters
     generate_collection_table('decks/decklists/collection-max-rarity.yaml',
                               output_name='collection-max-rarity',
-                              custom_rows=13,
-                              custom_cols=30,
-                              custom_overlap=0.65)
+                              custom_rows=26,
+                              custom_cols=15,
+                              custom_overlap=0.90)
+
+"""
+todo - split lists: mini 15 column images for quick ref, seperate from full all-in-one gallery
+monsters: ghost ultis 
+monsters: secret ultras supers
+spells
+traps
+synchros
+
+for last row , if not fill out the full row, center-ize the that row?
+"""
