@@ -8,8 +8,9 @@ import time
 class Scraper:
 
     def __init__(self):
-        service = Service(executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
-        self.browser = webdriver.Chrome(service=service)
+        # service = Service(executable_path=r'C:\Users\Richard Le\PycharmProjects\TCGPScraperRemastered\chromedriver.exe')
+        # self.browser = webdriver.Chrome(service=service)
+        self.browser = webdriver.Chrome()
         self.card_lists = get_card_lists('lists.yaml')
         self.current_list = ''
         self.current_list_data = ''
